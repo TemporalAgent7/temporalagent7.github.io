@@ -1,0 +1,6022 @@
+{
+  "mission_team_size_min": {
+    "value": "1",
+    "id": "mission_team_size_min"
+  },
+  "mission_team_size_max": {
+    "value": "4",
+    "id": "mission_team_size_max"
+  },
+  "dilithium refill period seconds": {
+    "value": "420",
+    "id": "dilithium refill period seconds"
+  },
+  "dilithium refill increment": {
+    "value": "1",
+    "id": "dilithium refill increment"
+  },
+  "level cap increase per rank": {
+    "value": "20",
+    "id": "level cap increase per rank"
+  },
+  "battle risk level": {
+    "value": "70,90,120,150,200",
+    "id": "battle risk level"
+  },
+  "mission_revival_latinum_cost": {
+    "value": "1,5,10,25,50,100,200,500",
+    "id": "mission_revival_latinum_cost"
+  },
+  "mission_revival_group_latinum_cost": {
+    "value": "1,5,10,15,20,30,40,50",
+    "id": "mission_revival_group_latinum_cost"
+  },
+  "mission_daily_limit_count": {
+    "value": "999999999",
+    "id": "mission_daily_limit_count"
+  },
+  "accessory unequip price": {
+    "value": "0",
+    "id": "accessory unequip price"
+  },
+  "accessory stat count Common": {
+    "value": "2",
+    "id": "accessory stat count Common"
+  },
+  "accessory stat count Rare": {
+    "value": "2",
+    "id": "accessory stat count Rare"
+  },
+  "accessory stat count VeryRare": {
+    "value": "3",
+    "id": "accessory stat count VeryRare"
+  },
+  "accessory stat count Epic": {
+    "value": "4",
+    "id": "accessory stat count Epic"
+  },
+  "accessory stat count Legendary": {
+    "value": "4",
+    "id": "accessory stat count Legendary"
+  },
+  "daily_goal_reset_offset_h": {
+    "value": "0",
+    "id": "daily_goal_reset_offset_h"
+  },
+  "directives_mission_start": {
+    "value": "episode 1 mission 3",
+    "id": "directives_mission_start"
+  },
+  "directives_mission_end": {
+    "value": "episode 3 mission 6",
+    "id": "directives_mission_end"
+  },
+  "directives_amount_till_next_mission": {
+    "value": "0",
+    "id": "directives_amount_till_next_mission"
+  },
+  "PlayerRenameCostLatinum": {
+    "value": "100",
+    "id": "PlayerRenameCostLatinum"
+  },
+  "power graph common exponent": {
+    "value": "1.35",
+    "id": "power graph common exponent"
+  },
+  "power graph common scale": {
+    "value": "384",
+    "id": "power graph common scale"
+  },
+  "power graph common offset": {
+    "value": "15",
+    "id": "power graph common offset"
+  },
+  "power graph rare exponent": {
+    "value": "1.3",
+    "id": "power graph rare exponent"
+  },
+  "power graph rare scale": {
+    "value": "504",
+    "id": "power graph rare scale"
+  },
+  "power graph rare offset": {
+    "value": "22",
+    "id": "power graph rare offset"
+  },
+  "power graph very rare exponent": {
+    "value": "1.15",
+    "id": "power graph very rare exponent"
+  },
+  "power graph very rare scale": {
+    "value": "720",
+    "id": "power graph very rare scale"
+  },
+  "power graph very rare offset": {
+    "value": "34",
+    "id": "power graph very rare offset"
+  },
+  "power graph epic exponent": {
+    "value": "1.1",
+    "id": "power graph epic exponent"
+  },
+  "power graph epic scale": {
+    "value": "960",
+    "id": "power graph epic scale"
+  },
+  "power graph epic offset": {
+    "value": "46",
+    "id": "power graph epic offset"
+  },
+  "power graph legendary exponent": {
+    "value": "1.05",
+    "id": "power graph legendary exponent"
+  },
+  "power graph legendary scale": {
+    "value": "1200",
+    "id": "power graph legendary scale"
+  },
+  "power graph legendary offset": {
+    "value": "59",
+    "id": "power graph legendary offset"
+  },
+  "power distribution awaken fraction": {
+    "value": "0",
+    "id": "power distribution awaken fraction"
+  },
+  "power distribution level fraction": {
+    "value": "0.64",
+    "id": "power distribution level fraction"
+  },
+  "power distribution rank fraction": {
+    "value": "0.16",
+    "id": "power distribution rank fraction"
+  },
+  "power distribution pet fraction": {
+    "value": "0.4",
+    "id": "power distribution pet fraction"
+  },
+  "power distribution skill level fraction": {
+    "value": "0",
+    "id": "power distribution skill level fraction"
+  },
+  "display power skill upgrades": {
+    "value": "0.2",
+    "id": "display power skill upgrades"
+  },
+  "hp weight": {
+    "value": "4.25",
+    "id": "hp weight"
+  },
+  "damage weight": {
+    "value": "1",
+    "id": "damage weight"
+  },
+  "heal weight": {
+    "value": "0.8",
+    "id": "heal weight"
+  },
+  "double chance weight": {
+    "value": "0.01",
+    "id": "double chance weight"
+  },
+  "crit damage weight": {
+    "value": "0.01",
+    "id": "crit damage weight"
+  },
+  "reflect fraction weight": {
+    "value": "0.005",
+    "id": "reflect fraction weight"
+  },
+  "race defense weight": {
+    "value": "1",
+    "id": "race defense weight"
+  },
+  "race bonus weight": {
+    "value": "1",
+    "id": "race bonus weight"
+  },
+  "affinity defense weight": {
+    "value": "1",
+    "id": "affinity defense weight"
+  },
+  "affinity bonus weight": {
+    "value": "1",
+    "id": "affinity bonus weight"
+  },
+  "level weight": {
+    "value": "0.01",
+    "id": "level weight"
+  },
+  "shield weight": {
+    "value": "1.2",
+    "id": "shield weight"
+  },
+  "evasion weight": {
+    "value": "0.005",
+    "id": "evasion weight"
+  },
+  "defense min": {
+    "value": "-0.5",
+    "id": "defense min"
+  },
+  "defense max": {
+    "value": "0.8",
+    "id": "defense max"
+  },
+  "aoe resistance min": {
+    "value": "-0.5",
+    "id": "aoe resistance min"
+  },
+  "aoe resistance max": {
+    "value": "0.8",
+    "id": "aoe resistance max"
+  },
+  "attackPower buff max": {
+    "value": "4",
+    "id": "attackPower buff max"
+  },
+  "attackPower debuff min": {
+    "value": "0.25",
+    "id": "attackPower debuff min"
+  },
+  "speed power damage reduction fraction": {
+    "value": "0.001",
+    "id": "speed power damage reduction fraction"
+  },
+  "speed power crit bonus fraction": {
+    "value": "0",
+    "id": "speed power crit bonus fraction"
+  },
+  "attack power weight for skills": {
+    "value": "0.6",
+    "id": "attack power weight for skills"
+  },
+  "will power weight for skills": {
+    "value": "1.2",
+    "id": "will power weight for skills"
+  },
+  "tangle drain heal fraction": {
+    "value": "0",
+    "id": "tangle drain heal fraction"
+  },
+  "low chance bonus fraction": {
+    "value": "0.3",
+    "id": "low chance bonus fraction"
+  },
+  "charge up hit multiplier": {
+    "value": "2.2",
+    "id": "charge up hit multiplier"
+  },
+  "cooldown 0 multiplier": {
+    "value": "0.5",
+    "id": "cooldown 0 multiplier"
+  },
+  "cooldown 1 multiplier": {
+    "value": "0.75",
+    "id": "cooldown 1 multiplier"
+  },
+  "cooldown 2 multiplier": {
+    "value": "1",
+    "id": "cooldown 2 multiplier"
+  },
+  "cooldown 3 multiplier": {
+    "value": "1.25",
+    "id": "cooldown 3 multiplier"
+  },
+  "cooldown 4 multiplier": {
+    "value": "1.5",
+    "id": "cooldown 4 multiplier"
+  },
+  "cooldown 5 multiplier": {
+    "value": "1.75",
+    "id": "cooldown 5 multiplier"
+  },
+  "cooldown 6 multiplier": {
+    "value": "2",
+    "id": "cooldown 6 multiplier"
+  },
+  "cooldown 7 multiplier": {
+    "value": "2.25",
+    "id": "cooldown 7 multiplier"
+  },
+  "cooldown 99 multiplier": {
+    "value": "1",
+    "id": "cooldown 99 multiplier"
+  },
+  "aoe multiplier": {
+    "value": "1",
+    "id": "aoe multiplier"
+  },
+  "multi-random 2 multiplier": {
+    "value": "0.55",
+    "id": "multi-random 2 multiplier"
+  },
+  "multi-random 3 multiplier": {
+    "value": "0.366666666666667",
+    "id": "multi-random 3 multiplier"
+  },
+  "multi-random 4 multiplier": {
+    "value": "0.275",
+    "id": "multi-random 4 multiplier"
+  },
+  "multi-random 5 multiplier": {
+    "value": "0.22",
+    "id": "multi-random 5 multiplier"
+  },
+  "multi-random 6 multiplier": {
+    "value": "0.183333333333333",
+    "id": "multi-random 6 multiplier"
+  },
+  "multi-random 7 multiplier": {
+    "value": "0.157142857142857",
+    "id": "multi-random 7 multiplier"
+  },
+  "multi-random 8 multiplier": {
+    "value": "0.1375",
+    "id": "multi-random 8 multiplier"
+  },
+  "multi-random 9 multiplier": {
+    "value": "0.122222222222222",
+    "id": "multi-random 9 multiplier"
+  },
+  "multi-random 10 multiplier": {
+    "value": "0.11",
+    "id": "multi-random 10 multiplier"
+  },
+  "passive multiplier": {
+    "value": "0.5",
+    "id": "passive multiplier"
+  },
+  "buff multiplier": {
+    "value": "2",
+    "id": "buff multiplier"
+  },
+  "debuff multiplier": {
+    "value": "2",
+    "id": "debuff multiplier"
+  },
+  "experience exponent": {
+    "value": "2",
+    "id": "experience exponent"
+  },
+  "experience scale": {
+    "value": "2000000",
+    "id": "experience scale"
+  },
+  "experience rarity 1 fraction": {
+    "value": "0.11",
+    "id": "experience rarity 1 fraction"
+  },
+  "experience rarity 2 fraction": {
+    "value": "0.2",
+    "id": "experience rarity 2 fraction"
+  },
+  "experience rarity 3 fraction": {
+    "value": "0.34",
+    "id": "experience rarity 3 fraction"
+  },
+  "experience rarity 4 fraction": {
+    "value": "0.58",
+    "id": "experience rarity 4 fraction"
+  },
+  "experience rarity 5 fraction": {
+    "value": "1",
+    "id": "experience rarity 5 fraction"
+  },
+  "experience offset": {
+    "value": "200",
+    "id": "experience offset"
+  },
+  "regenerate multiplier": {
+    "value": "1",
+    "id": "regenerate multiplier"
+  },
+  "endpoint check interval seconds": {
+    "value": "600",
+    "id": "endpoint check interval seconds"
+  },
+  "global quip chance": {
+    "value": "0.5",
+    "id": "global quip chance"
+  },
+  "battlecry quip chance": {
+    "value": "1",
+    "id": "battlecry quip chance"
+  },
+  "idle quip chance": {
+    "value": "0.3",
+    "id": "idle quip chance"
+  },
+  "wounded quip chance": {
+    "value": "1",
+    "id": "wounded quip chance"
+  },
+  "insult quip chance": {
+    "value": "0.5",
+    "id": "insult quip chance"
+  },
+  "thank quip chance": {
+    "value": "0.4",
+    "id": "thank quip chance"
+  },
+  "reaction quip chance": {
+    "value": "0.6",
+    "id": "reaction quip chance"
+  },
+  "reaction_respond quip weight": {
+    "value": "10",
+    "id": "reaction_respond quip weight"
+  },
+  "reaction_chimein quip weight": {
+    "value": "5",
+    "id": "reaction_chimein quip weight"
+  },
+  "reaction_retort quip weight": {
+    "value": "2",
+    "id": "reaction_retort quip weight"
+  },
+  "defense change stack size": {
+    "value": "0.1",
+    "id": "defense change stack size"
+  },
+  "attack power change stack size": {
+    "value": "3",
+    "id": "attack power change stack size"
+  },
+  "will power change stack size": {
+    "value": "3",
+    "id": "will power change stack size"
+  },
+  "evasion chance": {
+    "value": "0.5",
+    "id": "evasion chance"
+  },
+  "chill speed reduction": {
+    "value": "0",
+    "id": "chill speed reduction"
+  },
+  "chill freeze effect id": {
+    "value": "freeze",
+    "id": "chill freeze effect id"
+  },
+  "multi-random subsequent hit animation delay": {
+    "value": "0",
+    "id": "multi-random subsequent hit animation delay"
+  },
+  "skill camera chance": {
+    "value": "1",
+    "id": "skill camera chance"
+  },
+  "strong affinity multiplier": {
+    "value": "1.4",
+    "id": "strong affinity multiplier"
+  },
+  "weak affinity multiplier": {
+    "value": "0.71",
+    "id": "weak affinity multiplier"
+  },
+  "kill shot default target bonus": {
+    "value": "0.5",
+    "id": "kill shot default target bonus"
+  },
+  "friendship skill power scale": {
+    "value": "1",
+    "id": "friendship skill power scale"
+  },
+  "miniboss hp multiplier": {
+    "value": "1.25",
+    "id": "miniboss hp multiplier"
+  },
+  "boss hp multiplier": {
+    "value": "2",
+    "id": "boss hp multiplier"
+  },
+  "intro boss hp multiplier": {
+    "value": "1.8",
+    "id": "intro boss hp multiplier"
+  },
+  "pvp opponent power multiplier": {
+    "value": "1",
+    "id": "pvp opponent power multiplier"
+  },
+  "chance miss effectFraction minimum": {
+    "value": "0.2",
+    "id": "chance miss effectFraction minimum"
+  },
+  "chance miss chance minimum": {
+    "value": "0.4",
+    "id": "chance miss chance minimum"
+  },
+  "pet power fraction common stat count": {
+    "value": "1",
+    "id": "pet power fraction common stat count"
+  },
+  "pet power fraction common signature": {
+    "value": "0.2",
+    "id": "pet power fraction common signature"
+  },
+  "pet power fraction common primary": {
+    "value": "0.173913043478261",
+    "id": "pet power fraction common primary"
+  },
+  "pet power fraction rare stat count": {
+    "value": "2",
+    "id": "pet power fraction rare stat count"
+  },
+  "pet power fraction rare signature": {
+    "value": "0.22",
+    "id": "pet power fraction rare signature"
+  },
+  "pet power fraction rare primary": {
+    "value": "0.195652173913043",
+    "id": "pet power fraction rare primary"
+  },
+  "pet power fraction rare secondary": {
+    "value": "0.0869565217391305",
+    "id": "pet power fraction rare secondary"
+  },
+  "pet power fraction very rare stat count": {
+    "value": "2",
+    "id": "pet power fraction very rare stat count"
+  },
+  "pet power fraction very rare signature": {
+    "value": "0.25",
+    "id": "pet power fraction very rare signature"
+  },
+  "pet power fraction very rare primary": {
+    "value": "0.217391304347826",
+    "id": "pet power fraction very rare primary"
+  },
+  "pet power fraction very rare secondary": {
+    "value": "0.108695652173913",
+    "id": "pet power fraction very rare secondary"
+  },
+  "pet power fraction epic stat count": {
+    "value": "3",
+    "id": "pet power fraction epic stat count"
+  },
+  "pet power fraction epic signature": {
+    "value": "0.3",
+    "id": "pet power fraction epic signature"
+  },
+  "pet power fraction epic primary": {
+    "value": "0.239130434782609",
+    "id": "pet power fraction epic primary"
+  },
+  "pet power fraction epic secondary": {
+    "value": "0.130434782608696",
+    "id": "pet power fraction epic secondary"
+  },
+  "pet power fraction epic tertiary": {
+    "value": "0.0652173913043478",
+    "id": "pet power fraction epic tertiary"
+  },
+  "pet power fraction legendary stat count": {
+    "value": "3",
+    "id": "pet power fraction legendary stat count"
+  },
+  "pet power fraction legendary signature": {
+    "value": "0.35",
+    "id": "pet power fraction legendary signature"
+  },
+  "pet power fraction legendary primary": {
+    "value": "0.260869565217391",
+    "id": "pet power fraction legendary primary"
+  },
+  "pet power fraction legendary secondary": {
+    "value": "0.152173913043478",
+    "id": "pet power fraction legendary secondary"
+  },
+  "pet power fraction legendary tertiary": {
+    "value": "0.0869565217391305",
+    "id": "pet power fraction legendary tertiary"
+  },
+  "pet power start fraction": {
+    "value": "0.04",
+    "id": "pet power start fraction"
+  },
+  "pet upgrade common exponent": {
+    "value": "2.12",
+    "id": "pet upgrade common exponent"
+  },
+  "pet upgrade common scale": {
+    "value": "33500",
+    "id": "pet upgrade common scale"
+  },
+  "pet upgrade common offset": {
+    "value": "35",
+    "id": "pet upgrade common offset"
+  },
+  "pet upgrade rare exponent": {
+    "value": "2.12",
+    "id": "pet upgrade rare exponent"
+  },
+  "pet upgrade rare scale": {
+    "value": "83700",
+    "id": "pet upgrade rare scale"
+  },
+  "pet upgrade rare offset": {
+    "value": "85",
+    "id": "pet upgrade rare offset"
+  },
+  "pet upgrade very rare exponent": {
+    "value": "2.12",
+    "id": "pet upgrade very rare exponent"
+  },
+  "pet upgrade very rare scale": {
+    "value": "209300",
+    "id": "pet upgrade very rare scale"
+  },
+  "pet upgrade very rare offset": {
+    "value": "210",
+    "id": "pet upgrade very rare offset"
+  },
+  "pet upgrade epic exponent": {
+    "value": "2.12",
+    "id": "pet upgrade epic exponent"
+  },
+  "pet upgrade epic scale": {
+    "value": "523200",
+    "id": "pet upgrade epic scale"
+  },
+  "pet upgrade epic offset": {
+    "value": "525",
+    "id": "pet upgrade epic offset"
+  },
+  "pet upgrade legendary exponent": {
+    "value": "2.12",
+    "id": "pet upgrade legendary exponent"
+  },
+  "pet upgrade legendary scale": {
+    "value": "1307900",
+    "id": "pet upgrade legendary scale"
+  },
+  "pet upgrade legendary offset": {
+    "value": "1310",
+    "id": "pet upgrade legendary offset"
+  },
+  "pet sell upgrade total fraction": {
+    "value": "0.125",
+    "id": "pet sell upgrade total fraction"
+  },
+  "pet sell starting fraction": {
+    "value": "0.5",
+    "id": "pet sell starting fraction"
+  },
+  "pet sell common offset": {
+    "value": "25",
+    "id": "pet sell common offset"
+  },
+  "pet sell rare offset": {
+    "value": "60",
+    "id": "pet sell rare offset"
+  },
+  "pet sell very rare offset": {
+    "value": "150",
+    "id": "pet sell very rare offset"
+  },
+  "pet sell epic offset": {
+    "value": "375",
+    "id": "pet sell epic offset"
+  },
+  "pet sell legendary offset": {
+    "value": "900",
+    "id": "pet sell legendary offset"
+  },
+  "first time reward battle 204 pet stat 1": {
+    "value": "5",
+    "id": "first time reward battle 204 pet stat 1"
+  },
+  "first time reward battle 206 pet stat 1": {
+    "value": "3",
+    "id": "first time reward battle 206 pet stat 1"
+  },
+  "first time reward battle 301 pet stat 1": {
+    "value": "7",
+    "id": "first time reward battle 301 pet stat 1"
+  },
+  "ai smart decision chance normal": {
+    "value": "0.4",
+    "id": "ai smart decision chance normal"
+  },
+  "ai smart decision chance hard": {
+    "value": "0.7",
+    "id": "ai smart decision chance hard"
+  },
+  "ai smart decision chance eclipse": {
+    "value": "1",
+    "id": "ai smart decision chance eclipse"
+  },
+  "ai smart decision chance pvp": {
+    "value": "1",
+    "id": "ai smart decision chance pvp"
+  },
+  "ai smart decision chance pvp tutorial": {
+    "value": "0.4",
+    "id": "ai smart decision chance pvp tutorial"
+  },
+  "ai smart decision chance player autoplay": {
+    "value": "0.2",
+    "id": "ai smart decision chance player autoplay"
+  },
+  "ai damage score weight": {
+    "value": "1",
+    "id": "ai damage score weight"
+  },
+  "ai heal score weight": {
+    "value": "1.2",
+    "id": "ai heal score weight"
+  },
+  "ai overheal max detriment": {
+    "value": "0.1",
+    "id": "ai overheal max detriment"
+  },
+  "ai buff score weight": {
+    "value": "0.2",
+    "id": "ai buff score weight"
+  },
+  "ai debuff score weight": {
+    "value": "0.15",
+    "id": "ai debuff score weight"
+  },
+  "ai control score weight": {
+    "value": "0.5",
+    "id": "ai control score weight"
+  },
+  "ai cooldown score weight": {
+    "value": "0.05",
+    "id": "ai cooldown score weight"
+  },
+  "ai low health heal score max bonus": {
+    "value": "0.2",
+    "id": "ai low health heal score max bonus"
+  },
+  "ai kill shot damage score bonus": {
+    "value": "1",
+    "id": "ai kill shot damage score bonus"
+  },
+  "ai cancel charge up bonus": {
+    "value": "0.4",
+    "id": "ai cancel charge up bonus"
+  },
+  "ai buff highest power max bonus": {
+    "value": "0.05",
+    "id": "ai buff highest power max bonus"
+  },
+  "ai debuff highest power max bonus": {
+    "value": "0.05",
+    "id": "ai debuff highest power max bonus"
+  },
+  "ai buff wave start max bonus": {
+    "value": "0.15",
+    "id": "ai buff wave start max bonus"
+  },
+  "ai debuff wave start max bonus": {
+    "value": "0.1",
+    "id": "ai debuff wave start max bonus"
+  },
+  "ai taunt bonus": {
+    "value": "0.2",
+    "id": "ai taunt bonus"
+  },
+  "ai charge up score weight": {
+    "value": "0.7",
+    "id": "ai charge up score weight"
+  },
+  "minimum battle seconds": {
+    "value": "7",
+    "id": "minimum battle seconds"
+  },
+  "stamina regeneration per second": {
+    "value": "0.00167",
+    "id": "stamina regeneration per second"
+  },
+  "quick loot stamina regeneration per second": {
+    "value": "0.000556",
+    "id": "quick loot stamina regeneration per second"
+  },
+  "battle stamina cost": {
+    "value": "3",
+    "id": "battle stamina cost"
+  },
+  "enemy team power multiplier waves 1": {
+    "value": "1",
+    "id": "enemy team power multiplier waves 1"
+  },
+  "enemy team power multiplier waves 2": {
+    "value": "0.9",
+    "id": "enemy team power multiplier waves 2"
+  },
+  "enemy team power multiplier waves 3": {
+    "value": "0.6",
+    "id": "enemy team power multiplier waves 3"
+  },
+  "enemy team power multiplier waves 4": {
+    "value": "0.5",
+    "id": "enemy team power multiplier waves 4"
+  },
+  "enemy team power multiplier waves 5": {
+    "value": "0.5",
+    "id": "enemy team power multiplier waves 5"
+  },
+  "max rank common": {
+    "value": "6",
+    "id": "max rank common"
+  },
+  "max rank rare": {
+    "value": "6",
+    "id": "max rank rare"
+  },
+  "max rank very rare": {
+    "value": "6",
+    "id": "max rank very rare"
+  },
+  "max rank epic": {
+    "value": "6",
+    "id": "max rank epic"
+  },
+  "max rank legendary": {
+    "value": "6",
+    "id": "max rank legendary"
+  },
+  "crowns per coin": {
+    "value": "0.0536",
+    "id": "crowns per coin"
+  },
+  "crowns per kitsune chip": {
+    "value": "24",
+    "id": "crowns per kitsune chip"
+  },
+  "quick loot potion multiplier": {
+    "value": "1",
+    "id": "quick loot potion multiplier"
+  },
+  "credits": {
+    "value": "THIAGO DE ALMEIDA\nALEXANDER ALVARADO\nHERNAN ARES\nHENRIQUE ARRAIS\nCURTIS BATESON\nJOSEPH BELANGER\nALLIN BOLT\nPETER BRADSHAW\nNATALIE BRASH COUPAR\nGUILHERME CAZZONATO\nJAESEUNG CHOI\nPIERRE R COLLIGNON\nANTHONY COURNOYER\nCHRIS DAY\nDEREK DAY\nJANET DAY\nMICHAEL DAY\nMARCO DE VITA\nALBIN DESBOEUFS\nBORIS DIMITRIJEVIC\nMARIANA D'ORNELLAS\nAHMED SAMY ESMAIL\nRUWAN FERNANDO\nALEX FOLLAND\nERIC FOLLAND\nJOSEPH R GABRIEL\nJEREMY GROSS\nMORGAN HALL\nMORGAN HODKINSON\nANDREW HOU\nDAVID HOWELL\nERIC HOWELL\nKEPPY\nKEVIN KEITH\nDR. KIM\nBALDI KONIJN\nDEREK LAUFMAN\nJUNSEOL LEE\nKEVIN (HUN) LEE\nKRISTOPHER LEE\nSHIU CHEUNG LI\nJOSH MORHART\nMEI-ING NIEUWLAND\nJAN OBERGFELL-BOURMER\nYOSHI ONISHI\nDENNIS OPEL\nDAVID PERDIGÓN\nNOAH PETRIDES\nREN PHILLIPS\nEMILIE POIRIER\nDAN READ\nNICK RILEY\nLAURA RIONDET\nRYAN ROSS\nGEMA \"MIZPARKZ\" SANTOS\nSHINTA\nGREGORY SILVA\nASHLEY SMITH\nGERALD SOMBILON\nANGIE YE-REUM SON\nHANS STEINBACH\nYAGO MIGUENS SUAREZ\nTONY THAI\nTONY TSANG\nCRAIG WILLIAMS\nKAYLA WILLIAMSON\nANGUS WEMYSS SYME\nBILLY WIMBLETT\nJOSH WOOLLEY\nJAMIE YOUNG\nSEAN YOURCHEK\nANGELA YUZYK\nYOUSSEF ZAMANI",
+    "id": "credits"
+  },
+  "pvp refresh cost exponent": {
+    "value": "1.5",
+    "id": "pvp refresh cost exponent"
+  },
+  "pvp refresh cost min": {
+    "value": "20",
+    "id": "pvp refresh cost min"
+  },
+  "pvp refresh cost player level multiplier": {
+    "value": "0.2",
+    "id": "pvp refresh cost player level multiplier"
+  },
+  "side quest speed up scale": {
+    "value": "1",
+    "id": "side quest speed up scale"
+  },
+  "side quest speed up exponent": {
+    "value": "0.45",
+    "id": "side quest speed up exponent"
+  },
+  "side quests to pick from count": {
+    "value": "6",
+    "id": "side quests to pick from count"
+  },
+  "side quests refresh interval seconds": {
+    "value": "86400",
+    "id": "side quests refresh interval seconds"
+  },
+  "side quests difficulty modifier": {
+    "value": "0.7",
+    "id": "side quests difficulty modifier"
+  },
+  "analytics user key total_crowns_spent": {
+    "value": "20",
+    "id": "analytics user key total_crowns_spent"
+  },
+  "analytics user key total_coins_spent": {
+    "value": "21",
+    "id": "analytics user key total_coins_spent"
+  },
+  "analytics user key pve_played": {
+    "value": "22",
+    "id": "analytics user key pve_played"
+  },
+  "analytics user key pvp_played": {
+    "value": "23",
+    "id": "analytics user key pvp_played"
+  },
+  "analytics user key pve_won": {
+    "value": "24",
+    "id": "analytics user key pve_won"
+  },
+  "analytics user key pvp_won": {
+    "value": "25",
+    "id": "analytics user key pvp_won"
+  },
+  "analytics user key num_sessions": {
+    "value": "26",
+    "id": "analytics user key num_sessions"
+  },
+  "analytics user key total_usd_spent": {
+    "value": "27",
+    "id": "analytics user key total_usd_spent"
+  },
+  "server delay show load time": {
+    "value": "4",
+    "id": "server delay show load time"
+  },
+  "name validation regex": {
+    "value": "(?!(i)user\\ )(?:(?!.*[ ]{2}))^[\\p{L}\\p{M}\\p{N} \\[\\]\\.]{4,12}$",
+    "id": "name validation regex"
+  },
+  "guild_validation_regex": {
+    "value": "(?!(i)user\\ )(?:(?!.*[ ]{2}))^[\\p{L}\\p{M}\\p{N} \\[\\]\\.]{4,15}$",
+    "id": "guild_validation_regex"
+  },
+  "guild_chat_update_time": {
+    "value": "30",
+    "id": "guild_chat_update_time"
+  },
+  "guild_activity_log_update_time": {
+    "value": "300",
+    "id": "guild_activity_log_update_time"
+  },
+  "exp fraction waves defeated 0": {
+    "value": "0",
+    "id": "exp fraction waves defeated 0"
+  },
+  "exp fraction waves defeated 1": {
+    "value": "0.1",
+    "id": "exp fraction waves defeated 1"
+  },
+  "exp fraction waves defeated 2": {
+    "value": "0.2",
+    "id": "exp fraction waves defeated 2"
+  },
+  "exp fraction waves defeated 3": {
+    "value": "0.3",
+    "id": "exp fraction waves defeated 3"
+  },
+  "exp fraction waves defeated 4": {
+    "value": "0.4",
+    "id": "exp fraction waves defeated 4"
+  },
+  "exp fraction waves defeated 5": {
+    "value": "0.5",
+    "id": "exp fraction waves defeated 5"
+  },
+  "area rewards pets 10 common": {
+    "value": "0.15",
+    "id": "area rewards pets 10 common"
+  },
+  "area rewards pets 10 rare": {
+    "value": "0.05",
+    "id": "area rewards pets 10 rare"
+  },
+  "area rewards pets 10 very rare": {
+    "value": "0",
+    "id": "area rewards pets 10 very rare"
+  },
+  "area rewards pets 10 epic": {
+    "value": "0",
+    "id": "area rewards pets 10 epic"
+  },
+  "area rewards pets 10 legendary": {
+    "value": "0",
+    "id": "area rewards pets 10 legendary"
+  },
+  "area rewards pets 11 common": {
+    "value": "0",
+    "id": "area rewards pets 11 common"
+  },
+  "area rewards pets 11 rare": {
+    "value": "0.08",
+    "id": "area rewards pets 11 rare"
+  },
+  "area rewards pets 11 very rare": {
+    "value": "0.02",
+    "id": "area rewards pets 11 very rare"
+  },
+  "area rewards pets 11 epic": {
+    "value": "0",
+    "id": "area rewards pets 11 epic"
+  },
+  "area rewards pets 11 legendary": {
+    "value": "0",
+    "id": "area rewards pets 11 legendary"
+  },
+  "area rewards pets 12 common": {
+    "value": "0",
+    "id": "area rewards pets 12 common"
+  },
+  "area rewards pets 12 rare": {
+    "value": "0",
+    "id": "area rewards pets 12 rare"
+  },
+  "area rewards pets 12 very rare": {
+    "value": "0.06",
+    "id": "area rewards pets 12 very rare"
+  },
+  "area rewards pets 12 epic": {
+    "value": "0.03",
+    "id": "area rewards pets 12 epic"
+  },
+  "area rewards pets 12 legendary": {
+    "value": "0",
+    "id": "area rewards pets 12 legendary"
+  },
+  "area rewards pets 20 common": {
+    "value": "0.15",
+    "id": "area rewards pets 20 common"
+  },
+  "area rewards pets 20 rare": {
+    "value": "0.05",
+    "id": "area rewards pets 20 rare"
+  },
+  "area rewards pets 20 very rare": {
+    "value": "0",
+    "id": "area rewards pets 20 very rare"
+  },
+  "area rewards pets 20 epic": {
+    "value": "0",
+    "id": "area rewards pets 20 epic"
+  },
+  "area rewards pets 20 legendary": {
+    "value": "0",
+    "id": "area rewards pets 20 legendary"
+  },
+  "area rewards pets 21 common": {
+    "value": "0",
+    "id": "area rewards pets 21 common"
+  },
+  "area rewards pets 21 rare": {
+    "value": "0.1",
+    "id": "area rewards pets 21 rare"
+  },
+  "area rewards pets 21 very rare": {
+    "value": "0.03",
+    "id": "area rewards pets 21 very rare"
+  },
+  "area rewards pets 21 epic": {
+    "value": "0",
+    "id": "area rewards pets 21 epic"
+  },
+  "area rewards pets 21 legendary": {
+    "value": "0",
+    "id": "area rewards pets 21 legendary"
+  },
+  "area rewards pets 22 common": {
+    "value": "0",
+    "id": "area rewards pets 22 common"
+  },
+  "area rewards pets 22 rare": {
+    "value": "0",
+    "id": "area rewards pets 22 rare"
+  },
+  "area rewards pets 22 very rare": {
+    "value": "0.08",
+    "id": "area rewards pets 22 very rare"
+  },
+  "area rewards pets 22 epic": {
+    "value": "0.03",
+    "id": "area rewards pets 22 epic"
+  },
+  "area rewards pets 22 legendary": {
+    "value": "0",
+    "id": "area rewards pets 22 legendary"
+  },
+  "area rewards pets 30 common": {
+    "value": "0.15",
+    "id": "area rewards pets 30 common"
+  },
+  "area rewards pets 30 rare": {
+    "value": "0.05",
+    "id": "area rewards pets 30 rare"
+  },
+  "area rewards pets 30 very rare": {
+    "value": "0",
+    "id": "area rewards pets 30 very rare"
+  },
+  "area rewards pets 30 epic": {
+    "value": "0",
+    "id": "area rewards pets 30 epic"
+  },
+  "area rewards pets 30 legendary": {
+    "value": "0",
+    "id": "area rewards pets 30 legendary"
+  },
+  "area rewards pets 31 common": {
+    "value": "0",
+    "id": "area rewards pets 31 common"
+  },
+  "area rewards pets 31 rare": {
+    "value": "0.1",
+    "id": "area rewards pets 31 rare"
+  },
+  "area rewards pets 31 very rare": {
+    "value": "0.03",
+    "id": "area rewards pets 31 very rare"
+  },
+  "area rewards pets 31 epic": {
+    "value": "0",
+    "id": "area rewards pets 31 epic"
+  },
+  "area rewards pets 31 legendary": {
+    "value": "0",
+    "id": "area rewards pets 31 legendary"
+  },
+  "area rewards pets 32 common": {
+    "value": "0",
+    "id": "area rewards pets 32 common"
+  },
+  "area rewards pets 32 rare": {
+    "value": "0",
+    "id": "area rewards pets 32 rare"
+  },
+  "area rewards pets 32 very rare": {
+    "value": "0.08",
+    "id": "area rewards pets 32 very rare"
+  },
+  "area rewards pets 32 epic": {
+    "value": "0.03",
+    "id": "area rewards pets 32 epic"
+  },
+  "area rewards pets 32 legendary": {
+    "value": "0",
+    "id": "area rewards pets 32 legendary"
+  },
+  "area rewards pets 40 common": {
+    "value": "0.15",
+    "id": "area rewards pets 40 common"
+  },
+  "area rewards pets 40 rare": {
+    "value": "0.05",
+    "id": "area rewards pets 40 rare"
+  },
+  "area rewards pets 40 very rare": {
+    "value": "0.02",
+    "id": "area rewards pets 40 very rare"
+  },
+  "area rewards pets 40 epic": {
+    "value": "0",
+    "id": "area rewards pets 40 epic"
+  },
+  "area rewards pets 40 legendary": {
+    "value": "0",
+    "id": "area rewards pets 40 legendary"
+  },
+  "area rewards pets 41 common": {
+    "value": "0",
+    "id": "area rewards pets 41 common"
+  },
+  "area rewards pets 41 rare": {
+    "value": "0.12",
+    "id": "area rewards pets 41 rare"
+  },
+  "area rewards pets 41 very rare": {
+    "value": "0.04",
+    "id": "area rewards pets 41 very rare"
+  },
+  "area rewards pets 41 epic": {
+    "value": "0.02",
+    "id": "area rewards pets 41 epic"
+  },
+  "area rewards pets 41 legendary": {
+    "value": "0",
+    "id": "area rewards pets 41 legendary"
+  },
+  "area rewards pets 42 common": {
+    "value": "0",
+    "id": "area rewards pets 42 common"
+  },
+  "area rewards pets 42 rare": {
+    "value": "0",
+    "id": "area rewards pets 42 rare"
+  },
+  "area rewards pets 42 very rare": {
+    "value": "0.08",
+    "id": "area rewards pets 42 very rare"
+  },
+  "area rewards pets 42 epic": {
+    "value": "0.04",
+    "id": "area rewards pets 42 epic"
+  },
+  "area rewards pets 42 legendary": {
+    "value": "0.01",
+    "id": "area rewards pets 42 legendary"
+  },
+  "area rewards pets 50 common": {
+    "value": "0.15",
+    "id": "area rewards pets 50 common"
+  },
+  "area rewards pets 50 rare": {
+    "value": "0.05",
+    "id": "area rewards pets 50 rare"
+  },
+  "area rewards pets 50 very rare": {
+    "value": "0.02",
+    "id": "area rewards pets 50 very rare"
+  },
+  "area rewards pets 50 epic": {
+    "value": "0",
+    "id": "area rewards pets 50 epic"
+  },
+  "area rewards pets 50 legendary": {
+    "value": "0",
+    "id": "area rewards pets 50 legendary"
+  },
+  "area rewards pets 51 common": {
+    "value": "0",
+    "id": "area rewards pets 51 common"
+  },
+  "area rewards pets 51 rare": {
+    "value": "0",
+    "id": "area rewards pets 51 rare"
+  },
+  "area rewards pets 51 very rare": {
+    "value": "0.04",
+    "id": "area rewards pets 51 very rare"
+  },
+  "area rewards pets 51 epic": {
+    "value": "0.02",
+    "id": "area rewards pets 51 epic"
+  },
+  "area rewards pets 51 legendary": {
+    "value": "0",
+    "id": "area rewards pets 51 legendary"
+  },
+  "area rewards pets 52 common": {
+    "value": "0",
+    "id": "area rewards pets 52 common"
+  },
+  "area rewards pets 52 rare": {
+    "value": "0",
+    "id": "area rewards pets 52 rare"
+  },
+  "area rewards pets 52 very rare": {
+    "value": "0.08",
+    "id": "area rewards pets 52 very rare"
+  },
+  "area rewards pets 52 epic": {
+    "value": "0.04",
+    "id": "area rewards pets 52 epic"
+  },
+  "area rewards pets 52 legendary": {
+    "value": "0.01",
+    "id": "area rewards pets 52 legendary"
+  },
+  "area rewards pets 60 common": {
+    "value": "0.15",
+    "id": "area rewards pets 60 common"
+  },
+  "area rewards pets 60 rare": {
+    "value": "0.08",
+    "id": "area rewards pets 60 rare"
+  },
+  "area rewards pets 60 very rare": {
+    "value": "0.02",
+    "id": "area rewards pets 60 very rare"
+  },
+  "area rewards pets 60 epic": {
+    "value": "0",
+    "id": "area rewards pets 60 epic"
+  },
+  "area rewards pets 60 legendary": {
+    "value": "0",
+    "id": "area rewards pets 60 legendary"
+  },
+  "area rewards pets 61 common": {
+    "value": "0",
+    "id": "area rewards pets 61 common"
+  },
+  "area rewards pets 61 rare": {
+    "value": "0",
+    "id": "area rewards pets 61 rare"
+  },
+  "area rewards pets 61 very rare": {
+    "value": "0.06",
+    "id": "area rewards pets 61 very rare"
+  },
+  "area rewards pets 61 epic": {
+    "value": "0.03",
+    "id": "area rewards pets 61 epic"
+  },
+  "area rewards pets 61 legendary": {
+    "value": "0",
+    "id": "area rewards pets 61 legendary"
+  },
+  "area rewards pets 62 common": {
+    "value": "0",
+    "id": "area rewards pets 62 common"
+  },
+  "area rewards pets 62 rare": {
+    "value": "0",
+    "id": "area rewards pets 62 rare"
+  },
+  "area rewards pets 62 very rare": {
+    "value": "0.1",
+    "id": "area rewards pets 62 very rare"
+  },
+  "area rewards pets 62 epic": {
+    "value": "0.04",
+    "id": "area rewards pets 62 epic"
+  },
+  "area rewards pets 62 legendary": {
+    "value": "0.01",
+    "id": "area rewards pets 62 legendary"
+  },
+  "area rewards pets 70 common": {
+    "value": "0",
+    "id": "area rewards pets 70 common"
+  },
+  "area rewards pets 70 rare": {
+    "value": "0.08",
+    "id": "area rewards pets 70 rare"
+  },
+  "area rewards pets 70 very rare": {
+    "value": "0.02",
+    "id": "area rewards pets 70 very rare"
+  },
+  "area rewards pets 70 epic": {
+    "value": "0",
+    "id": "area rewards pets 70 epic"
+  },
+  "area rewards pets 70 legendary": {
+    "value": "0",
+    "id": "area rewards pets 70 legendary"
+  },
+  "area rewards pets 71 common": {
+    "value": "0",
+    "id": "area rewards pets 71 common"
+  },
+  "area rewards pets 71 rare": {
+    "value": "0",
+    "id": "area rewards pets 71 rare"
+  },
+  "area rewards pets 71 very rare": {
+    "value": "0.06",
+    "id": "area rewards pets 71 very rare"
+  },
+  "area rewards pets 71 epic": {
+    "value": "0.03",
+    "id": "area rewards pets 71 epic"
+  },
+  "area rewards pets 71 legendary": {
+    "value": "0",
+    "id": "area rewards pets 71 legendary"
+  },
+  "area rewards pets 72 common": {
+    "value": "0",
+    "id": "area rewards pets 72 common"
+  },
+  "area rewards pets 72 rare": {
+    "value": "0",
+    "id": "area rewards pets 72 rare"
+  },
+  "area rewards pets 72 very rare": {
+    "value": "0.1",
+    "id": "area rewards pets 72 very rare"
+  },
+  "area rewards pets 72 epic": {
+    "value": "0.04",
+    "id": "area rewards pets 72 epic"
+  },
+  "area rewards pets 72 legendary": {
+    "value": "0.01",
+    "id": "area rewards pets 72 legendary"
+  },
+  "area rewards pets 80 common": {
+    "value": "0",
+    "id": "area rewards pets 80 common"
+  },
+  "area rewards pets 80 rare": {
+    "value": "0.1",
+    "id": "area rewards pets 80 rare"
+  },
+  "area rewards pets 80 very rare": {
+    "value": "0.03",
+    "id": "area rewards pets 80 very rare"
+  },
+  "area rewards pets 80 epic": {
+    "value": "0",
+    "id": "area rewards pets 80 epic"
+  },
+  "area rewards pets 80 legendary": {
+    "value": "0",
+    "id": "area rewards pets 80 legendary"
+  },
+  "area rewards pets 81 common": {
+    "value": "0",
+    "id": "area rewards pets 81 common"
+  },
+  "area rewards pets 81 rare": {
+    "value": "0",
+    "id": "area rewards pets 81 rare"
+  },
+  "area rewards pets 81 very rare": {
+    "value": "0.08",
+    "id": "area rewards pets 81 very rare"
+  },
+  "area rewards pets 81 epic": {
+    "value": "0.03",
+    "id": "area rewards pets 81 epic"
+  },
+  "area rewards pets 81 legendary": {
+    "value": "0",
+    "id": "area rewards pets 81 legendary"
+  },
+  "area rewards pets 82 common": {
+    "value": "0",
+    "id": "area rewards pets 82 common"
+  },
+  "area rewards pets 82 rare": {
+    "value": "0",
+    "id": "area rewards pets 82 rare"
+  },
+  "area rewards pets 82 very rare": {
+    "value": "0.1",
+    "id": "area rewards pets 82 very rare"
+  },
+  "area rewards pets 82 epic": {
+    "value": "0.04",
+    "id": "area rewards pets 82 epic"
+  },
+  "area rewards pets 82 legendary": {
+    "value": "0.01",
+    "id": "area rewards pets 82 legendary"
+  },
+  "area rewards pets 90 common": {
+    "value": "0",
+    "id": "area rewards pets 90 common"
+  },
+  "area rewards pets 90 rare": {
+    "value": "0.1",
+    "id": "area rewards pets 90 rare"
+  },
+  "area rewards pets 90 very rare": {
+    "value": "0.03",
+    "id": "area rewards pets 90 very rare"
+  },
+  "area rewards pets 90 epic": {
+    "value": "0",
+    "id": "area rewards pets 90 epic"
+  },
+  "area rewards pets 90 legendary": {
+    "value": "0",
+    "id": "area rewards pets 90 legendary"
+  },
+  "area rewards pets 91 common": {
+    "value": "0",
+    "id": "area rewards pets 91 common"
+  },
+  "area rewards pets 91 rare": {
+    "value": "0",
+    "id": "area rewards pets 91 rare"
+  },
+  "area rewards pets 91 very rare": {
+    "value": "0.08",
+    "id": "area rewards pets 91 very rare"
+  },
+  "area rewards pets 91 epic": {
+    "value": "0.03",
+    "id": "area rewards pets 91 epic"
+  },
+  "area rewards pets 91 legendary": {
+    "value": "0",
+    "id": "area rewards pets 91 legendary"
+  },
+  "area rewards pets 92 common": {
+    "value": "0",
+    "id": "area rewards pets 92 common"
+  },
+  "area rewards pets 92 rare": {
+    "value": "0",
+    "id": "area rewards pets 92 rare"
+  },
+  "area rewards pets 92 very rare": {
+    "value": "0.1",
+    "id": "area rewards pets 92 very rare"
+  },
+  "area rewards pets 92 epic": {
+    "value": "0.04",
+    "id": "area rewards pets 92 epic"
+  },
+  "area rewards pets 92 legendary": {
+    "value": "0.01",
+    "id": "area rewards pets 92 legendary"
+  },
+  "area rewards pets 100 common": {
+    "value": "0",
+    "id": "area rewards pets 100 common"
+  },
+  "area rewards pets 100 rare": {
+    "value": "0.12",
+    "id": "area rewards pets 100 rare"
+  },
+  "area rewards pets 100 very rare": {
+    "value": "0.04",
+    "id": "area rewards pets 100 very rare"
+  },
+  "area rewards pets 100 epic": {
+    "value": "0.02",
+    "id": "area rewards pets 100 epic"
+  },
+  "area rewards pets 100 legendary": {
+    "value": "0",
+    "id": "area rewards pets 100 legendary"
+  },
+  "area rewards pets 101 common": {
+    "value": "0",
+    "id": "area rewards pets 101 common"
+  },
+  "area rewards pets 101 rare": {
+    "value": "0",
+    "id": "area rewards pets 101 rare"
+  },
+  "area rewards pets 101 very rare": {
+    "value": "0.08",
+    "id": "area rewards pets 101 very rare"
+  },
+  "area rewards pets 101 epic": {
+    "value": "0.03",
+    "id": "area rewards pets 101 epic"
+  },
+  "area rewards pets 101 legendary": {
+    "value": "0",
+    "id": "area rewards pets 101 legendary"
+  },
+  "area rewards pets 102 common": {
+    "value": "0",
+    "id": "area rewards pets 102 common"
+  },
+  "area rewards pets 102 rare": {
+    "value": "0",
+    "id": "area rewards pets 102 rare"
+  },
+  "area rewards pets 102 very rare": {
+    "value": "0.1",
+    "id": "area rewards pets 102 very rare"
+  },
+  "area rewards pets 102 epic": {
+    "value": "0.04",
+    "id": "area rewards pets 102 epic"
+  },
+  "area rewards pets 102 legendary": {
+    "value": "0.01",
+    "id": "area rewards pets 102 legendary"
+  },
+  "area rewards pets 110 common": {
+    "value": "0",
+    "id": "area rewards pets 110 common"
+  },
+  "area rewards pets 110 rare": {
+    "value": "0.12",
+    "id": "area rewards pets 110 rare"
+  },
+  "area rewards pets 110 very rare": {
+    "value": "0.04",
+    "id": "area rewards pets 110 very rare"
+  },
+  "area rewards pets 110 epic": {
+    "value": "0.02",
+    "id": "area rewards pets 110 epic"
+  },
+  "area rewards pets 110 legendary": {
+    "value": "0",
+    "id": "area rewards pets 110 legendary"
+  },
+  "area rewards pets 111 common": {
+    "value": "0",
+    "id": "area rewards pets 111 common"
+  },
+  "area rewards pets 111 rare": {
+    "value": "0",
+    "id": "area rewards pets 111 rare"
+  },
+  "area rewards pets 111 very rare": {
+    "value": "0.08",
+    "id": "area rewards pets 111 very rare"
+  },
+  "area rewards pets 111 epic": {
+    "value": "0.04",
+    "id": "area rewards pets 111 epic"
+  },
+  "area rewards pets 111 legendary": {
+    "value": "0.01",
+    "id": "area rewards pets 111 legendary"
+  },
+  "area rewards pets 112 common": {
+    "value": "0",
+    "id": "area rewards pets 112 common"
+  },
+  "area rewards pets 112 rare": {
+    "value": "0",
+    "id": "area rewards pets 112 rare"
+  },
+  "area rewards pets 112 very rare": {
+    "value": "0.1",
+    "id": "area rewards pets 112 very rare"
+  },
+  "area rewards pets 112 epic": {
+    "value": "0.04",
+    "id": "area rewards pets 112 epic"
+  },
+  "area rewards pets 112 legendary": {
+    "value": "0.01",
+    "id": "area rewards pets 112 legendary"
+  },
+  "area rewards pets 10 item id start": {
+    "value": "10200",
+    "id": "area rewards pets 10 item id start"
+  },
+  "area rewards pets 11 item id start": {
+    "value": "10201",
+    "id": "area rewards pets 11 item id start"
+  },
+  "area rewards pets 12 item id start": {
+    "value": "10202",
+    "id": "area rewards pets 12 item id start"
+  },
+  "area rewards pets 20 item id start": {
+    "value": "10205",
+    "id": "area rewards pets 20 item id start"
+  },
+  "area rewards pets 21 item id start": {
+    "value": "10206",
+    "id": "area rewards pets 21 item id start"
+  },
+  "area rewards pets 22 item id start": {
+    "value": "10207",
+    "id": "area rewards pets 22 item id start"
+  },
+  "area rewards pets 30 item id start": {
+    "value": "10210",
+    "id": "area rewards pets 30 item id start"
+  },
+  "area rewards pets 31 item id start": {
+    "value": "10211",
+    "id": "area rewards pets 31 item id start"
+  },
+  "area rewards pets 32 item id start": {
+    "value": "10212",
+    "id": "area rewards pets 32 item id start"
+  },
+  "area rewards pets 40 item id start": {
+    "value": "10215",
+    "id": "area rewards pets 40 item id start"
+  },
+  "area rewards pets 41 item id start": {
+    "value": "10216",
+    "id": "area rewards pets 41 item id start"
+  },
+  "area rewards pets 42 item id start": {
+    "value": "10217",
+    "id": "area rewards pets 42 item id start"
+  },
+  "area rewards pets 50 item id start": {
+    "value": "10220",
+    "id": "area rewards pets 50 item id start"
+  },
+  "area rewards pets 51 item id start": {
+    "value": "10221",
+    "id": "area rewards pets 51 item id start"
+  },
+  "area rewards pets 52 item id start": {
+    "value": "10222",
+    "id": "area rewards pets 52 item id start"
+  },
+  "area rewards pets 60 item id start": {
+    "value": "10225",
+    "id": "area rewards pets 60 item id start"
+  },
+  "area rewards pets 61 item id start": {
+    "value": "10226",
+    "id": "area rewards pets 61 item id start"
+  },
+  "area rewards pets 62 item id start": {
+    "value": "10227",
+    "id": "area rewards pets 62 item id start"
+  },
+  "area rewards pets 70 item id start": {
+    "value": "10230",
+    "id": "area rewards pets 70 item id start"
+  },
+  "area rewards pets 71 item id start": {
+    "value": "10231",
+    "id": "area rewards pets 71 item id start"
+  },
+  "area rewards pets 72 item id start": {
+    "value": "10232",
+    "id": "area rewards pets 72 item id start"
+  },
+  "area rewards pets 80 item id start": {
+    "value": "10235",
+    "id": "area rewards pets 80 item id start"
+  },
+  "area rewards pets 81 item id start": {
+    "value": "10236",
+    "id": "area rewards pets 81 item id start"
+  },
+  "area rewards pets 82 item id start": {
+    "value": "10237",
+    "id": "area rewards pets 82 item id start"
+  },
+  "area rewards pets 90 item id start": {
+    "value": "10240",
+    "id": "area rewards pets 90 item id start"
+  },
+  "area rewards pets 91 item id start": {
+    "value": "10241",
+    "id": "area rewards pets 91 item id start"
+  },
+  "area rewards pets 92 item id start": {
+    "value": "10242",
+    "id": "area rewards pets 92 item id start"
+  },
+  "area rewards pets 100 item id start": {
+    "value": "10245",
+    "id": "area rewards pets 100 item id start"
+  },
+  "area rewards pets 101 item id start": {
+    "value": "10246",
+    "id": "area rewards pets 101 item id start"
+  },
+  "area rewards pets 102 item id start": {
+    "value": "10247",
+    "id": "area rewards pets 102 item id start"
+  },
+  "area rewards pets 110 item id start": {
+    "value": "10250",
+    "id": "area rewards pets 110 item id start"
+  },
+  "area rewards pets 111 item id start": {
+    "value": "10251",
+    "id": "area rewards pets 111 item id start"
+  },
+  "area rewards pets 112 item id start": {
+    "value": "10252",
+    "id": "area rewards pets 112 item id start"
+  },
+  "area rewards keys 10 basic": {
+    "value": "0",
+    "id": "area rewards keys 10 basic"
+  },
+  "area rewards keys 20 basic": {
+    "value": "0.2",
+    "id": "area rewards keys 20 basic"
+  },
+  "area rewards keys 30 basic": {
+    "value": "0.3",
+    "id": "area rewards keys 30 basic"
+  },
+  "area rewards keys 11 basic": {
+    "value": "0",
+    "id": "area rewards keys 11 basic"
+  },
+  "area rewards keys 21 basic": {
+    "value": "0",
+    "id": "area rewards keys 21 basic"
+  },
+  "area rewards keys 40 basic": {
+    "value": "0.2",
+    "id": "area rewards keys 40 basic"
+  },
+  "area rewards keys 31 basic": {
+    "value": "0",
+    "id": "area rewards keys 31 basic"
+  },
+  "area rewards keys 50 basic": {
+    "value": "0.1",
+    "id": "area rewards keys 50 basic"
+  },
+  "area rewards keys 41 basic": {
+    "value": "0",
+    "id": "area rewards keys 41 basic"
+  },
+  "area rewards keys 12 basic": {
+    "value": "0",
+    "id": "area rewards keys 12 basic"
+  },
+  "area rewards keys 60 basic": {
+    "value": "0.05",
+    "id": "area rewards keys 60 basic"
+  },
+  "area rewards keys 22 basic": {
+    "value": "0",
+    "id": "area rewards keys 22 basic"
+  },
+  "area rewards keys 51 basic": {
+    "value": "0",
+    "id": "area rewards keys 51 basic"
+  },
+  "area rewards keys 32 basic": {
+    "value": "0",
+    "id": "area rewards keys 32 basic"
+  },
+  "area rewards keys 70 basic": {
+    "value": "0.01",
+    "id": "area rewards keys 70 basic"
+  },
+  "area rewards keys 61 basic": {
+    "value": "0",
+    "id": "area rewards keys 61 basic"
+  },
+  "area rewards keys 42 basic": {
+    "value": "0",
+    "id": "area rewards keys 42 basic"
+  },
+  "area rewards keys 80 basic": {
+    "value": "0",
+    "id": "area rewards keys 80 basic"
+  },
+  "area rewards keys 71 basic": {
+    "value": "0",
+    "id": "area rewards keys 71 basic"
+  },
+  "area rewards keys 52 basic": {
+    "value": "0",
+    "id": "area rewards keys 52 basic"
+  },
+  "area rewards keys 90 basic": {
+    "value": "0",
+    "id": "area rewards keys 90 basic"
+  },
+  "area rewards keys 81 basic": {
+    "value": "0",
+    "id": "area rewards keys 81 basic"
+  },
+  "area rewards keys 62 basic": {
+    "value": "0",
+    "id": "area rewards keys 62 basic"
+  },
+  "area rewards keys 100 basic": {
+    "value": "0",
+    "id": "area rewards keys 100 basic"
+  },
+  "area rewards keys 91 basic": {
+    "value": "0",
+    "id": "area rewards keys 91 basic"
+  },
+  "area rewards keys 72 basic": {
+    "value": "0",
+    "id": "area rewards keys 72 basic"
+  },
+  "area rewards keys 101 basic": {
+    "value": "0",
+    "id": "area rewards keys 101 basic"
+  },
+  "area rewards keys 110 basic": {
+    "value": "0",
+    "id": "area rewards keys 110 basic"
+  },
+  "area rewards keys 82 basic": {
+    "value": "0",
+    "id": "area rewards keys 82 basic"
+  },
+  "area rewards keys 92 basic": {
+    "value": "0",
+    "id": "area rewards keys 92 basic"
+  },
+  "area rewards keys 111 basic": {
+    "value": "0",
+    "id": "area rewards keys 111 basic"
+  },
+  "area rewards keys 102 basic": {
+    "value": "0",
+    "id": "area rewards keys 102 basic"
+  },
+  "area rewards keys 112 basic": {
+    "value": "0",
+    "id": "area rewards keys 112 basic"
+  },
+  "area rewards keys 10 silver": {
+    "value": "0",
+    "id": "area rewards keys 10 silver"
+  },
+  "area rewards keys 20 silver": {
+    "value": "0.02",
+    "id": "area rewards keys 20 silver"
+  },
+  "area rewards keys 30 silver": {
+    "value": "0.03",
+    "id": "area rewards keys 30 silver"
+  },
+  "area rewards keys 11 silver": {
+    "value": "0.05",
+    "id": "area rewards keys 11 silver"
+  },
+  "area rewards keys 21 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 21 silver"
+  },
+  "area rewards keys 40 silver": {
+    "value": "0.04",
+    "id": "area rewards keys 40 silver"
+  },
+  "area rewards keys 31 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 31 silver"
+  },
+  "area rewards keys 50 silver": {
+    "value": "0.04",
+    "id": "area rewards keys 50 silver"
+  },
+  "area rewards keys 41 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 41 silver"
+  },
+  "area rewards keys 12 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 12 silver"
+  },
+  "area rewards keys 60 silver": {
+    "value": "0.05",
+    "id": "area rewards keys 60 silver"
+  },
+  "area rewards keys 22 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 22 silver"
+  },
+  "area rewards keys 51 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 51 silver"
+  },
+  "area rewards keys 32 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 32 silver"
+  },
+  "area rewards keys 70 silver": {
+    "value": "0.05",
+    "id": "area rewards keys 70 silver"
+  },
+  "area rewards keys 61 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 61 silver"
+  },
+  "area rewards keys 42 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 42 silver"
+  },
+  "area rewards keys 80 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 80 silver"
+  },
+  "area rewards keys 71 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 71 silver"
+  },
+  "area rewards keys 52 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 52 silver"
+  },
+  "area rewards keys 90 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 90 silver"
+  },
+  "area rewards keys 81 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 81 silver"
+  },
+  "area rewards keys 62 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 62 silver"
+  },
+  "area rewards keys 100 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 100 silver"
+  },
+  "area rewards keys 91 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 91 silver"
+  },
+  "area rewards keys 72 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 72 silver"
+  },
+  "area rewards keys 101 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 101 silver"
+  },
+  "area rewards keys 110 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 110 silver"
+  },
+  "area rewards keys 82 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 82 silver"
+  },
+  "area rewards keys 92 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 92 silver"
+  },
+  "area rewards keys 111 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 111 silver"
+  },
+  "area rewards keys 102 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 102 silver"
+  },
+  "area rewards keys 112 silver": {
+    "value": "0.06",
+    "id": "area rewards keys 112 silver"
+  },
+  "area rewards keys 10 golden": {
+    "value": "0",
+    "id": "area rewards keys 10 golden"
+  },
+  "area rewards keys 20 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 20 golden"
+  },
+  "area rewards keys 30 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 30 golden"
+  },
+  "area rewards keys 11 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 11 golden"
+  },
+  "area rewards keys 21 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 21 golden"
+  },
+  "area rewards keys 40 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 40 golden"
+  },
+  "area rewards keys 31 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 31 golden"
+  },
+  "area rewards keys 50 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 50 golden"
+  },
+  "area rewards keys 41 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 41 golden"
+  },
+  "area rewards keys 12 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 12 golden"
+  },
+  "area rewards keys 60 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 60 golden"
+  },
+  "area rewards keys 22 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 22 golden"
+  },
+  "area rewards keys 51 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 51 golden"
+  },
+  "area rewards keys 32 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 32 golden"
+  },
+  "area rewards keys 70 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 70 golden"
+  },
+  "area rewards keys 61 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 61 golden"
+  },
+  "area rewards keys 42 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 42 golden"
+  },
+  "area rewards keys 80 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 80 golden"
+  },
+  "area rewards keys 71 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 71 golden"
+  },
+  "area rewards keys 52 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 52 golden"
+  },
+  "area rewards keys 90 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 90 golden"
+  },
+  "area rewards keys 81 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 81 golden"
+  },
+  "area rewards keys 62 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 62 golden"
+  },
+  "area rewards keys 100 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 100 golden"
+  },
+  "area rewards keys 91 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 91 golden"
+  },
+  "area rewards keys 72 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 72 golden"
+  },
+  "area rewards keys 101 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 101 golden"
+  },
+  "area rewards keys 110 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 110 golden"
+  },
+  "area rewards keys 82 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 82 golden"
+  },
+  "area rewards keys 92 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 92 golden"
+  },
+  "area rewards keys 111 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 111 golden"
+  },
+  "area rewards keys 102 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 102 golden"
+  },
+  "area rewards keys 112 golden": {
+    "value": "0.004",
+    "id": "area rewards keys 112 golden"
+  },
+  "area rewards gems 10 wyld": {
+    "value": "0",
+    "id": "area rewards gems 10 wyld"
+  },
+  "area rewards gems 20 wyld": {
+    "value": "0",
+    "id": "area rewards gems 20 wyld"
+  },
+  "area rewards gems 30 wyld": {
+    "value": "0.2",
+    "id": "area rewards gems 30 wyld"
+  },
+  "area rewards gems 11 wyld": {
+    "value": "0",
+    "id": "area rewards gems 11 wyld"
+  },
+  "area rewards gems 21 wyld": {
+    "value": "0",
+    "id": "area rewards gems 21 wyld"
+  },
+  "area rewards gems 40 wyld": {
+    "value": "0.2",
+    "id": "area rewards gems 40 wyld"
+  },
+  "area rewards gems 31 wyld": {
+    "value": "0",
+    "id": "area rewards gems 31 wyld"
+  },
+  "area rewards gems 50 wyld": {
+    "value": "0.2",
+    "id": "area rewards gems 50 wyld"
+  },
+  "area rewards gems 41 wyld": {
+    "value": "0",
+    "id": "area rewards gems 41 wyld"
+  },
+  "area rewards gems 12 wyld": {
+    "value": "0",
+    "id": "area rewards gems 12 wyld"
+  },
+  "area rewards gems 60 wyld": {
+    "value": "0",
+    "id": "area rewards gems 60 wyld"
+  },
+  "area rewards gems 22 wyld": {
+    "value": "0",
+    "id": "area rewards gems 22 wyld"
+  },
+  "area rewards gems 51 wyld": {
+    "value": "0",
+    "id": "area rewards gems 51 wyld"
+  },
+  "area rewards gems 32 wyld": {
+    "value": "0.2",
+    "id": "area rewards gems 32 wyld"
+  },
+  "area rewards gems 70 wyld": {
+    "value": "0.2",
+    "id": "area rewards gems 70 wyld"
+  },
+  "area rewards gems 61 wyld": {
+    "value": "0",
+    "id": "area rewards gems 61 wyld"
+  },
+  "area rewards gems 42 wyld": {
+    "value": "0",
+    "id": "area rewards gems 42 wyld"
+  },
+  "area rewards gems 80 wyld": {
+    "value": "0",
+    "id": "area rewards gems 80 wyld"
+  },
+  "area rewards gems 71 wyld": {
+    "value": "0",
+    "id": "area rewards gems 71 wyld"
+  },
+  "area rewards gems 52 wyld": {
+    "value": "0.2",
+    "id": "area rewards gems 52 wyld"
+  },
+  "area rewards gems 90 wyld": {
+    "value": "0",
+    "id": "area rewards gems 90 wyld"
+  },
+  "area rewards gems 81 wyld": {
+    "value": "0",
+    "id": "area rewards gems 81 wyld"
+  },
+  "area rewards gems 62 wyld": {
+    "value": "0",
+    "id": "area rewards gems 62 wyld"
+  },
+  "area rewards gems 100 wyld": {
+    "value": "0",
+    "id": "area rewards gems 100 wyld"
+  },
+  "area rewards gems 91 wyld": {
+    "value": "0",
+    "id": "area rewards gems 91 wyld"
+  },
+  "area rewards gems 72 wyld": {
+    "value": "0",
+    "id": "area rewards gems 72 wyld"
+  },
+  "area rewards gems 101 wyld": {
+    "value": "0",
+    "id": "area rewards gems 101 wyld"
+  },
+  "area rewards gems 110 wyld": {
+    "value": "0",
+    "id": "area rewards gems 110 wyld"
+  },
+  "area rewards gems 82 wyld": {
+    "value": "0",
+    "id": "area rewards gems 82 wyld"
+  },
+  "area rewards gems 92 wyld": {
+    "value": "0",
+    "id": "area rewards gems 92 wyld"
+  },
+  "area rewards gems 111 wyld": {
+    "value": "0",
+    "id": "area rewards gems 111 wyld"
+  },
+  "area rewards gems 102 wyld": {
+    "value": "0",
+    "id": "area rewards gems 102 wyld"
+  },
+  "area rewards gems 112 wyld": {
+    "value": "0",
+    "id": "area rewards gems 112 wyld"
+  },
+  "area rewards gems 10 gaea": {
+    "value": "0",
+    "id": "area rewards gems 10 gaea"
+  },
+  "area rewards gems 20 gaea": {
+    "value": "0",
+    "id": "area rewards gems 20 gaea"
+  },
+  "area rewards gems 30 gaea": {
+    "value": "0",
+    "id": "area rewards gems 30 gaea"
+  },
+  "area rewards gems 11 gaea": {
+    "value": "0",
+    "id": "area rewards gems 11 gaea"
+  },
+  "area rewards gems 21 gaea": {
+    "value": "0",
+    "id": "area rewards gems 21 gaea"
+  },
+  "area rewards gems 40 gaea": {
+    "value": "0",
+    "id": "area rewards gems 40 gaea"
+  },
+  "area rewards gems 31 gaea": {
+    "value": "0",
+    "id": "area rewards gems 31 gaea"
+  },
+  "area rewards gems 50 gaea": {
+    "value": "0",
+    "id": "area rewards gems 50 gaea"
+  },
+  "area rewards gems 41 gaea": {
+    "value": "0",
+    "id": "area rewards gems 41 gaea"
+  },
+  "area rewards gems 12 gaea": {
+    "value": "0",
+    "id": "area rewards gems 12 gaea"
+  },
+  "area rewards gems 60 gaea": {
+    "value": "0",
+    "id": "area rewards gems 60 gaea"
+  },
+  "area rewards gems 22 gaea": {
+    "value": "0",
+    "id": "area rewards gems 22 gaea"
+  },
+  "area rewards gems 51 gaea": {
+    "value": "0",
+    "id": "area rewards gems 51 gaea"
+  },
+  "area rewards gems 32 gaea": {
+    "value": "0",
+    "id": "area rewards gems 32 gaea"
+  },
+  "area rewards gems 70 gaea": {
+    "value": "0",
+    "id": "area rewards gems 70 gaea"
+  },
+  "area rewards gems 61 gaea": {
+    "value": "0",
+    "id": "area rewards gems 61 gaea"
+  },
+  "area rewards gems 42 gaea": {
+    "value": "0",
+    "id": "area rewards gems 42 gaea"
+  },
+  "area rewards gems 80 gaea": {
+    "value": "0",
+    "id": "area rewards gems 80 gaea"
+  },
+  "area rewards gems 71 gaea": {
+    "value": "0",
+    "id": "area rewards gems 71 gaea"
+  },
+  "area rewards gems 52 gaea": {
+    "value": "0",
+    "id": "area rewards gems 52 gaea"
+  },
+  "area rewards gems 90 gaea": {
+    "value": "0",
+    "id": "area rewards gems 90 gaea"
+  },
+  "area rewards gems 81 gaea": {
+    "value": "0",
+    "id": "area rewards gems 81 gaea"
+  },
+  "area rewards gems 62 gaea": {
+    "value": "0",
+    "id": "area rewards gems 62 gaea"
+  },
+  "area rewards gems 100 gaea": {
+    "value": "0",
+    "id": "area rewards gems 100 gaea"
+  },
+  "area rewards gems 91 gaea": {
+    "value": "0",
+    "id": "area rewards gems 91 gaea"
+  },
+  "area rewards gems 72 gaea": {
+    "value": "0",
+    "id": "area rewards gems 72 gaea"
+  },
+  "area rewards gems 101 gaea": {
+    "value": "0",
+    "id": "area rewards gems 101 gaea"
+  },
+  "area rewards gems 110 gaea": {
+    "value": "0",
+    "id": "area rewards gems 110 gaea"
+  },
+  "area rewards gems 82 gaea": {
+    "value": "0",
+    "id": "area rewards gems 82 gaea"
+  },
+  "area rewards gems 92 gaea": {
+    "value": "0",
+    "id": "area rewards gems 92 gaea"
+  },
+  "area rewards gems 111 gaea": {
+    "value": "0",
+    "id": "area rewards gems 111 gaea"
+  },
+  "area rewards gems 102 gaea": {
+    "value": "0",
+    "id": "area rewards gems 102 gaea"
+  },
+  "area rewards gems 112 gaea": {
+    "value": "0",
+    "id": "area rewards gems 112 gaea"
+  },
+  "area rewards gems 10 mirror": {
+    "value": "0",
+    "id": "area rewards gems 10 mirror"
+  },
+  "area rewards gems 20 mirror": {
+    "value": "0",
+    "id": "area rewards gems 20 mirror"
+  },
+  "area rewards gems 30 mirror": {
+    "value": "0",
+    "id": "area rewards gems 30 mirror"
+  },
+  "area rewards gems 11 mirror": {
+    "value": "0",
+    "id": "area rewards gems 11 mirror"
+  },
+  "area rewards gems 21 mirror": {
+    "value": "0",
+    "id": "area rewards gems 21 mirror"
+  },
+  "area rewards gems 40 mirror": {
+    "value": "0",
+    "id": "area rewards gems 40 mirror"
+  },
+  "area rewards gems 31 mirror": {
+    "value": "0",
+    "id": "area rewards gems 31 mirror"
+  },
+  "area rewards gems 50 mirror": {
+    "value": "0",
+    "id": "area rewards gems 50 mirror"
+  },
+  "area rewards gems 41 mirror": {
+    "value": "0",
+    "id": "area rewards gems 41 mirror"
+  },
+  "area rewards gems 12 mirror": {
+    "value": "0",
+    "id": "area rewards gems 12 mirror"
+  },
+  "area rewards gems 60 mirror": {
+    "value": "0",
+    "id": "area rewards gems 60 mirror"
+  },
+  "area rewards gems 22 mirror": {
+    "value": "0",
+    "id": "area rewards gems 22 mirror"
+  },
+  "area rewards gems 51 mirror": {
+    "value": "0",
+    "id": "area rewards gems 51 mirror"
+  },
+  "area rewards gems 32 mirror": {
+    "value": "0",
+    "id": "area rewards gems 32 mirror"
+  },
+  "area rewards gems 70 mirror": {
+    "value": "0",
+    "id": "area rewards gems 70 mirror"
+  },
+  "area rewards gems 61 mirror": {
+    "value": "0",
+    "id": "area rewards gems 61 mirror"
+  },
+  "area rewards gems 42 mirror": {
+    "value": "0",
+    "id": "area rewards gems 42 mirror"
+  },
+  "area rewards gems 80 mirror": {
+    "value": "0",
+    "id": "area rewards gems 80 mirror"
+  },
+  "area rewards gems 71 mirror": {
+    "value": "0",
+    "id": "area rewards gems 71 mirror"
+  },
+  "area rewards gems 52 mirror": {
+    "value": "0",
+    "id": "area rewards gems 52 mirror"
+  },
+  "area rewards gems 90 mirror": {
+    "value": "0",
+    "id": "area rewards gems 90 mirror"
+  },
+  "area rewards gems 81 mirror": {
+    "value": "0",
+    "id": "area rewards gems 81 mirror"
+  },
+  "area rewards gems 62 mirror": {
+    "value": "0",
+    "id": "area rewards gems 62 mirror"
+  },
+  "area rewards gems 100 mirror": {
+    "value": "0",
+    "id": "area rewards gems 100 mirror"
+  },
+  "area rewards gems 91 mirror": {
+    "value": "0",
+    "id": "area rewards gems 91 mirror"
+  },
+  "area rewards gems 72 mirror": {
+    "value": "0",
+    "id": "area rewards gems 72 mirror"
+  },
+  "area rewards gems 101 mirror": {
+    "value": "0",
+    "id": "area rewards gems 101 mirror"
+  },
+  "area rewards gems 110 mirror": {
+    "value": "0",
+    "id": "area rewards gems 110 mirror"
+  },
+  "area rewards gems 82 mirror": {
+    "value": "0",
+    "id": "area rewards gems 82 mirror"
+  },
+  "area rewards gems 92 mirror": {
+    "value": "0",
+    "id": "area rewards gems 92 mirror"
+  },
+  "area rewards gems 111 mirror": {
+    "value": "0",
+    "id": "area rewards gems 111 mirror"
+  },
+  "area rewards gems 102 mirror": {
+    "value": "0",
+    "id": "area rewards gems 102 mirror"
+  },
+  "area rewards gems 112 mirror": {
+    "value": "0",
+    "id": "area rewards gems 112 mirror"
+  },
+  "area rewards gems 10 elemental": {
+    "value": "0",
+    "id": "area rewards gems 10 elemental"
+  },
+  "area rewards gems 20 elemental": {
+    "value": "0",
+    "id": "area rewards gems 20 elemental"
+  },
+  "area rewards gems 30 elemental": {
+    "value": "0",
+    "id": "area rewards gems 30 elemental"
+  },
+  "area rewards gems 11 elemental": {
+    "value": "0.2",
+    "id": "area rewards gems 11 elemental"
+  },
+  "area rewards gems 21 elemental": {
+    "value": "0",
+    "id": "area rewards gems 21 elemental"
+  },
+  "area rewards gems 40 elemental": {
+    "value": "0",
+    "id": "area rewards gems 40 elemental"
+  },
+  "area rewards gems 31 elemental": {
+    "value": "0",
+    "id": "area rewards gems 31 elemental"
+  },
+  "area rewards gems 50 elemental": {
+    "value": "0",
+    "id": "area rewards gems 50 elemental"
+  },
+  "area rewards gems 41 elemental": {
+    "value": "0",
+    "id": "area rewards gems 41 elemental"
+  },
+  "area rewards gems 12 elemental": {
+    "value": "0",
+    "id": "area rewards gems 12 elemental"
+  },
+  "area rewards gems 60 elemental": {
+    "value": "0",
+    "id": "area rewards gems 60 elemental"
+  },
+  "area rewards gems 22 elemental": {
+    "value": "0.2",
+    "id": "area rewards gems 22 elemental"
+  },
+  "area rewards gems 51 elemental": {
+    "value": "0",
+    "id": "area rewards gems 51 elemental"
+  },
+  "area rewards gems 32 elemental": {
+    "value": "0",
+    "id": "area rewards gems 32 elemental"
+  },
+  "area rewards gems 70 elemental": {
+    "value": "0",
+    "id": "area rewards gems 70 elemental"
+  },
+  "area rewards gems 61 elemental": {
+    "value": "0.2",
+    "id": "area rewards gems 61 elemental"
+  },
+  "area rewards gems 42 elemental": {
+    "value": "0.2",
+    "id": "area rewards gems 42 elemental"
+  },
+  "area rewards gems 80 elemental": {
+    "value": "0",
+    "id": "area rewards gems 80 elemental"
+  },
+  "area rewards gems 71 elemental": {
+    "value": "0",
+    "id": "area rewards gems 71 elemental"
+  },
+  "area rewards gems 52 elemental": {
+    "value": "0",
+    "id": "area rewards gems 52 elemental"
+  },
+  "area rewards gems 90 elemental": {
+    "value": "0",
+    "id": "area rewards gems 90 elemental"
+  },
+  "area rewards gems 81 elemental": {
+    "value": "0",
+    "id": "area rewards gems 81 elemental"
+  },
+  "area rewards gems 62 elemental": {
+    "value": "0",
+    "id": "area rewards gems 62 elemental"
+  },
+  "area rewards gems 100 elemental": {
+    "value": "0.2",
+    "id": "area rewards gems 100 elemental"
+  },
+  "area rewards gems 91 elemental": {
+    "value": "0",
+    "id": "area rewards gems 91 elemental"
+  },
+  "area rewards gems 72 elemental": {
+    "value": "0",
+    "id": "area rewards gems 72 elemental"
+  },
+  "area rewards gems 101 elemental": {
+    "value": "0",
+    "id": "area rewards gems 101 elemental"
+  },
+  "area rewards gems 110 elemental": {
+    "value": "0.2",
+    "id": "area rewards gems 110 elemental"
+  },
+  "area rewards gems 82 elemental": {
+    "value": "0",
+    "id": "area rewards gems 82 elemental"
+  },
+  "area rewards gems 92 elemental": {
+    "value": "0",
+    "id": "area rewards gems 92 elemental"
+  },
+  "area rewards gems 111 elemental": {
+    "value": "0",
+    "id": "area rewards gems 111 elemental"
+  },
+  "area rewards gems 102 elemental": {
+    "value": "0",
+    "id": "area rewards gems 102 elemental"
+  },
+  "area rewards gems 112 elemental": {
+    "value": "0",
+    "id": "area rewards gems 112 elemental"
+  },
+  "area rewards gems 10 dark": {
+    "value": "0.2",
+    "id": "area rewards gems 10 dark"
+  },
+  "area rewards gems 20 dark": {
+    "value": "0",
+    "id": "area rewards gems 20 dark"
+  },
+  "area rewards gems 30 dark": {
+    "value": "0",
+    "id": "area rewards gems 30 dark"
+  },
+  "area rewards gems 11 dark": {
+    "value": "0",
+    "id": "area rewards gems 11 dark"
+  },
+  "area rewards gems 21 dark": {
+    "value": "0.2",
+    "id": "area rewards gems 21 dark"
+  },
+  "area rewards gems 40 dark": {
+    "value": "0",
+    "id": "area rewards gems 40 dark"
+  },
+  "area rewards gems 31 dark": {
+    "value": "0",
+    "id": "area rewards gems 31 dark"
+  },
+  "area rewards gems 50 dark": {
+    "value": "0",
+    "id": "area rewards gems 50 dark"
+  },
+  "area rewards gems 41 dark": {
+    "value": "0.2",
+    "id": "area rewards gems 41 dark"
+  },
+  "area rewards gems 12 dark": {
+    "value": "0.2",
+    "id": "area rewards gems 12 dark"
+  },
+  "area rewards gems 60 dark": {
+    "value": "0",
+    "id": "area rewards gems 60 dark"
+  },
+  "area rewards gems 22 dark": {
+    "value": "0",
+    "id": "area rewards gems 22 dark"
+  },
+  "area rewards gems 51 dark": {
+    "value": "0",
+    "id": "area rewards gems 51 dark"
+  },
+  "area rewards gems 32 dark": {
+    "value": "0",
+    "id": "area rewards gems 32 dark"
+  },
+  "area rewards gems 70 dark": {
+    "value": "0",
+    "id": "area rewards gems 70 dark"
+  },
+  "area rewards gems 61 dark": {
+    "value": "0",
+    "id": "area rewards gems 61 dark"
+  },
+  "area rewards gems 42 dark": {
+    "value": "0",
+    "id": "area rewards gems 42 dark"
+  },
+  "area rewards gems 80 dark": {
+    "value": "0.2",
+    "id": "area rewards gems 80 dark"
+  },
+  "area rewards gems 71 dark": {
+    "value": "0",
+    "id": "area rewards gems 71 dark"
+  },
+  "area rewards gems 52 dark": {
+    "value": "0",
+    "id": "area rewards gems 52 dark"
+  },
+  "area rewards gems 90 dark": {
+    "value": "0",
+    "id": "area rewards gems 90 dark"
+  },
+  "area rewards gems 81 dark": {
+    "value": "0.2",
+    "id": "area rewards gems 81 dark"
+  },
+  "area rewards gems 62 dark": {
+    "value": "0",
+    "id": "area rewards gems 62 dark"
+  },
+  "area rewards gems 100 dark": {
+    "value": "0",
+    "id": "area rewards gems 100 dark"
+  },
+  "area rewards gems 91 dark": {
+    "value": "0",
+    "id": "area rewards gems 91 dark"
+  },
+  "area rewards gems 72 dark": {
+    "value": "0",
+    "id": "area rewards gems 72 dark"
+  },
+  "area rewards gems 101 dark": {
+    "value": "0",
+    "id": "area rewards gems 101 dark"
+  },
+  "area rewards gems 110 dark": {
+    "value": "0",
+    "id": "area rewards gems 110 dark"
+  },
+  "area rewards gems 82 dark": {
+    "value": "0",
+    "id": "area rewards gems 82 dark"
+  },
+  "area rewards gems 92 dark": {
+    "value": "0",
+    "id": "area rewards gems 92 dark"
+  },
+  "area rewards gems 111 dark": {
+    "value": "0",
+    "id": "area rewards gems 111 dark"
+  },
+  "area rewards gems 102 dark": {
+    "value": "0",
+    "id": "area rewards gems 102 dark"
+  },
+  "area rewards gems 112 dark": {
+    "value": "0",
+    "id": "area rewards gems 112 dark"
+  },
+  "area rewards gems 10 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 10 wyld itemID"
+  },
+  "area rewards gems 20 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 20 wyld itemID"
+  },
+  "area rewards gems 30 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 30 wyld itemID"
+  },
+  "area rewards gems 40 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 40 wyld itemID"
+  },
+  "area rewards gems 11 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 11 wyld itemID"
+  },
+  "area rewards gems 21 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 21 wyld itemID"
+  },
+  "area rewards gems 12 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 12 wyld itemID"
+  },
+  "area rewards gems 50 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 50 wyld itemID"
+  },
+  "area rewards gems 31 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 31 wyld itemID"
+  },
+  "area rewards gems 22 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 22 wyld itemID"
+  },
+  "area rewards gems 41 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 41 wyld itemID"
+  },
+  "area rewards gems 60 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 60 wyld itemID"
+  },
+  "area rewards gems 32 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 32 wyld itemID"
+  },
+  "area rewards gems 51 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 51 wyld itemID"
+  },
+  "area rewards gems 70 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 70 wyld itemID"
+  },
+  "area rewards gems 42 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 42 wyld itemID"
+  },
+  "area rewards gems 61 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 61 wyld itemID"
+  },
+  "area rewards gems 80 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 80 wyld itemID"
+  },
+  "area rewards gems 52 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 52 wyld itemID"
+  },
+  "area rewards gems 71 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 71 wyld itemID"
+  },
+  "area rewards gems 90 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 90 wyld itemID"
+  },
+  "area rewards gems 62 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 62 wyld itemID"
+  },
+  "area rewards gems 81 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 81 wyld itemID"
+  },
+  "area rewards gems 72 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 72 wyld itemID"
+  },
+  "area rewards gems 100 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 100 wyld itemID"
+  },
+  "area rewards gems 91 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 91 wyld itemID"
+  },
+  "area rewards gems 82 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 82 wyld itemID"
+  },
+  "area rewards gems 101 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 101 wyld itemID"
+  },
+  "area rewards gems 110 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 110 wyld itemID"
+  },
+  "area rewards gems 92 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 92 wyld itemID"
+  },
+  "area rewards gems 111 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 111 wyld itemID"
+  },
+  "area rewards gems 102 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 102 wyld itemID"
+  },
+  "area rewards gems 112 wyld itemID": {
+    "value": "301",
+    "id": "area rewards gems 112 wyld itemID"
+  },
+  "area rewards gems 10 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 10 dark itemID"
+  },
+  "area rewards gems 20 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 20 dark itemID"
+  },
+  "area rewards gems 30 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 30 dark itemID"
+  },
+  "area rewards gems 40 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 40 dark itemID"
+  },
+  "area rewards gems 11 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 11 dark itemID"
+  },
+  "area rewards gems 21 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 21 dark itemID"
+  },
+  "area rewards gems 12 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 12 dark itemID"
+  },
+  "area rewards gems 50 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 50 dark itemID"
+  },
+  "area rewards gems 31 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 31 dark itemID"
+  },
+  "area rewards gems 22 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 22 dark itemID"
+  },
+  "area rewards gems 41 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 41 dark itemID"
+  },
+  "area rewards gems 60 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 60 dark itemID"
+  },
+  "area rewards gems 32 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 32 dark itemID"
+  },
+  "area rewards gems 51 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 51 dark itemID"
+  },
+  "area rewards gems 70 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 70 dark itemID"
+  },
+  "area rewards gems 42 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 42 dark itemID"
+  },
+  "area rewards gems 61 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 61 dark itemID"
+  },
+  "area rewards gems 80 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 80 dark itemID"
+  },
+  "area rewards gems 52 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 52 dark itemID"
+  },
+  "area rewards gems 71 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 71 dark itemID"
+  },
+  "area rewards gems 90 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 90 dark itemID"
+  },
+  "area rewards gems 62 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 62 dark itemID"
+  },
+  "area rewards gems 81 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 81 dark itemID"
+  },
+  "area rewards gems 72 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 72 dark itemID"
+  },
+  "area rewards gems 100 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 100 dark itemID"
+  },
+  "area rewards gems 91 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 91 dark itemID"
+  },
+  "area rewards gems 82 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 82 dark itemID"
+  },
+  "area rewards gems 101 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 101 dark itemID"
+  },
+  "area rewards gems 110 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 110 dark itemID"
+  },
+  "area rewards gems 92 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 92 dark itemID"
+  },
+  "area rewards gems 111 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 111 dark itemID"
+  },
+  "area rewards gems 102 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 102 dark itemID"
+  },
+  "area rewards gems 112 dark itemID": {
+    "value": "311",
+    "id": "area rewards gems 112 dark itemID"
+  },
+  "area rewards gems 10 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 10 gaea itemID"
+  },
+  "area rewards gems 20 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 20 gaea itemID"
+  },
+  "area rewards gems 30 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 30 gaea itemID"
+  },
+  "area rewards gems 40 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 40 gaea itemID"
+  },
+  "area rewards gems 11 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 11 gaea itemID"
+  },
+  "area rewards gems 21 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 21 gaea itemID"
+  },
+  "area rewards gems 12 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 12 gaea itemID"
+  },
+  "area rewards gems 50 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 50 gaea itemID"
+  },
+  "area rewards gems 31 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 31 gaea itemID"
+  },
+  "area rewards gems 22 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 22 gaea itemID"
+  },
+  "area rewards gems 41 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 41 gaea itemID"
+  },
+  "area rewards gems 60 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 60 gaea itemID"
+  },
+  "area rewards gems 32 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 32 gaea itemID"
+  },
+  "area rewards gems 51 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 51 gaea itemID"
+  },
+  "area rewards gems 70 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 70 gaea itemID"
+  },
+  "area rewards gems 42 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 42 gaea itemID"
+  },
+  "area rewards gems 61 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 61 gaea itemID"
+  },
+  "area rewards gems 80 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 80 gaea itemID"
+  },
+  "area rewards gems 52 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 52 gaea itemID"
+  },
+  "area rewards gems 71 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 71 gaea itemID"
+  },
+  "area rewards gems 90 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 90 gaea itemID"
+  },
+  "area rewards gems 62 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 62 gaea itemID"
+  },
+  "area rewards gems 81 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 81 gaea itemID"
+  },
+  "area rewards gems 72 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 72 gaea itemID"
+  },
+  "area rewards gems 100 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 100 gaea itemID"
+  },
+  "area rewards gems 91 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 91 gaea itemID"
+  },
+  "area rewards gems 82 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 82 gaea itemID"
+  },
+  "area rewards gems 101 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 101 gaea itemID"
+  },
+  "area rewards gems 110 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 110 gaea itemID"
+  },
+  "area rewards gems 92 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 92 gaea itemID"
+  },
+  "area rewards gems 111 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 111 gaea itemID"
+  },
+  "area rewards gems 102 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 102 gaea itemID"
+  },
+  "area rewards gems 112 gaea itemID": {
+    "value": "321",
+    "id": "area rewards gems 112 gaea itemID"
+  },
+  "area rewards gems 10 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 10 elemental itemID"
+  },
+  "area rewards gems 20 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 20 elemental itemID"
+  },
+  "area rewards gems 30 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 30 elemental itemID"
+  },
+  "area rewards gems 40 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 40 elemental itemID"
+  },
+  "area rewards gems 11 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 11 elemental itemID"
+  },
+  "area rewards gems 21 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 21 elemental itemID"
+  },
+  "area rewards gems 12 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 12 elemental itemID"
+  },
+  "area rewards gems 50 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 50 elemental itemID"
+  },
+  "area rewards gems 31 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 31 elemental itemID"
+  },
+  "area rewards gems 22 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 22 elemental itemID"
+  },
+  "area rewards gems 41 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 41 elemental itemID"
+  },
+  "area rewards gems 60 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 60 elemental itemID"
+  },
+  "area rewards gems 32 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 32 elemental itemID"
+  },
+  "area rewards gems 51 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 51 elemental itemID"
+  },
+  "area rewards gems 70 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 70 elemental itemID"
+  },
+  "area rewards gems 42 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 42 elemental itemID"
+  },
+  "area rewards gems 61 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 61 elemental itemID"
+  },
+  "area rewards gems 80 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 80 elemental itemID"
+  },
+  "area rewards gems 52 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 52 elemental itemID"
+  },
+  "area rewards gems 71 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 71 elemental itemID"
+  },
+  "area rewards gems 90 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 90 elemental itemID"
+  },
+  "area rewards gems 62 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 62 elemental itemID"
+  },
+  "area rewards gems 81 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 81 elemental itemID"
+  },
+  "area rewards gems 72 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 72 elemental itemID"
+  },
+  "area rewards gems 100 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 100 elemental itemID"
+  },
+  "area rewards gems 91 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 91 elemental itemID"
+  },
+  "area rewards gems 82 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 82 elemental itemID"
+  },
+  "area rewards gems 101 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 101 elemental itemID"
+  },
+  "area rewards gems 110 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 110 elemental itemID"
+  },
+  "area rewards gems 92 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 92 elemental itemID"
+  },
+  "area rewards gems 111 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 111 elemental itemID"
+  },
+  "area rewards gems 102 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 102 elemental itemID"
+  },
+  "area rewards gems 112 elemental itemID": {
+    "value": "341",
+    "id": "area rewards gems 112 elemental itemID"
+  },
+  "area rewards gems 10 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 10 mirror itemID"
+  },
+  "area rewards gems 20 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 20 mirror itemID"
+  },
+  "area rewards gems 30 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 30 mirror itemID"
+  },
+  "area rewards gems 40 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 40 mirror itemID"
+  },
+  "area rewards gems 11 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 11 mirror itemID"
+  },
+  "area rewards gems 21 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 21 mirror itemID"
+  },
+  "area rewards gems 12 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 12 mirror itemID"
+  },
+  "area rewards gems 50 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 50 mirror itemID"
+  },
+  "area rewards gems 31 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 31 mirror itemID"
+  },
+  "area rewards gems 22 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 22 mirror itemID"
+  },
+  "area rewards gems 41 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 41 mirror itemID"
+  },
+  "area rewards gems 60 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 60 mirror itemID"
+  },
+  "area rewards gems 32 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 32 mirror itemID"
+  },
+  "area rewards gems 51 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 51 mirror itemID"
+  },
+  "area rewards gems 70 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 70 mirror itemID"
+  },
+  "area rewards gems 42 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 42 mirror itemID"
+  },
+  "area rewards gems 61 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 61 mirror itemID"
+  },
+  "area rewards gems 80 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 80 mirror itemID"
+  },
+  "area rewards gems 52 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 52 mirror itemID"
+  },
+  "area rewards gems 71 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 71 mirror itemID"
+  },
+  "area rewards gems 90 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 90 mirror itemID"
+  },
+  "area rewards gems 62 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 62 mirror itemID"
+  },
+  "area rewards gems 81 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 81 mirror itemID"
+  },
+  "area rewards gems 72 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 72 mirror itemID"
+  },
+  "area rewards gems 100 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 100 mirror itemID"
+  },
+  "area rewards gems 91 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 91 mirror itemID"
+  },
+  "area rewards gems 82 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 82 mirror itemID"
+  },
+  "area rewards gems 101 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 101 mirror itemID"
+  },
+  "area rewards gems 110 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 110 mirror itemID"
+  },
+  "area rewards gems 92 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 92 mirror itemID"
+  },
+  "area rewards gems 111 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 111 mirror itemID"
+  },
+  "area rewards gems 102 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 102 mirror itemID"
+  },
+  "area rewards gems 112 mirror itemID": {
+    "value": "331",
+    "id": "area rewards gems 112 mirror itemID"
+  },
+  "area rewards potions 10 all": {
+    "value": "1.5",
+    "id": "area rewards potions 10 all"
+  },
+  "area rewards potions 20 all": {
+    "value": "2",
+    "id": "area rewards potions 20 all"
+  },
+  "area rewards potions 30 all": {
+    "value": "2",
+    "id": "area rewards potions 30 all"
+  },
+  "area rewards potions 11 all": {
+    "value": "4.613",
+    "id": "area rewards potions 11 all"
+  },
+  "area rewards potions 21 all": {
+    "value": "3.429",
+    "id": "area rewards potions 21 all"
+  },
+  "area rewards potions 40 all": {
+    "value": "2.853",
+    "id": "area rewards potions 40 all"
+  },
+  "area rewards potions 31 all": {
+    "value": "1.78",
+    "id": "area rewards potions 31 all"
+  },
+  "area rewards potions 50 all": {
+    "value": "3",
+    "id": "area rewards potions 50 all"
+  },
+  "area rewards potions 41 all": {
+    "value": "2.234",
+    "id": "area rewards potions 41 all"
+  },
+  "area rewards potions 12 all": {
+    "value": "3.429",
+    "id": "area rewards potions 12 all"
+  },
+  "area rewards potions 60 all": {
+    "value": "3.6",
+    "id": "area rewards potions 60 all"
+  },
+  "area rewards potions 22 all": {
+    "value": "1.05",
+    "id": "area rewards potions 22 all"
+  },
+  "area rewards potions 51 all": {
+    "value": "2.654",
+    "id": "area rewards potions 51 all"
+  },
+  "area rewards potions 32 all": {
+    "value": "1.17",
+    "id": "area rewards potions 32 all"
+  },
+  "area rewards potions 70 all": {
+    "value": "4.173",
+    "id": "area rewards potions 70 all"
+  },
+  "area rewards potions 61 all": {
+    "value": "3.046",
+    "id": "area rewards potions 61 all"
+  },
+  "area rewards potions 42 all": {
+    "value": "1.31",
+    "id": "area rewards potions 42 all"
+  },
+  "area rewards potions 80 all": {
+    "value": "1.077",
+    "id": "area rewards potions 80 all"
+  },
+  "area rewards potions 71 all": {
+    "value": "3.42",
+    "id": "area rewards potions 71 all"
+  },
+  "area rewards potions 52 all": {
+    "value": "1.445",
+    "id": "area rewards potions 52 all"
+  },
+  "area rewards potions 90 all": {
+    "value": "1.383",
+    "id": "area rewards potions 90 all"
+  },
+  "area rewards potions 81 all": {
+    "value": "1.056",
+    "id": "area rewards potions 81 all"
+  },
+  "area rewards potions 62 all": {
+    "value": "1.573",
+    "id": "area rewards potions 62 all"
+  },
+  "area rewards potions 100 all": {
+    "value": "1.883",
+    "id": "area rewards potions 100 all"
+  },
+  "area rewards potions 91 all": {
+    "value": "1.153",
+    "id": "area rewards potions 91 all"
+  },
+  "area rewards potions 72 all": {
+    "value": "1.696",
+    "id": "area rewards potions 72 all"
+  },
+  "area rewards potions 101 all": {
+    "value": "1.243",
+    "id": "area rewards potions 101 all"
+  },
+  "area rewards potions 110 all": {
+    "value": "2.869",
+    "id": "area rewards potions 110 all"
+  },
+  "area rewards potions 82 all": {
+    "value": "1.813",
+    "id": "area rewards potions 82 all"
+  },
+  "area rewards potions 92 all": {
+    "value": "1.93",
+    "id": "area rewards potions 92 all"
+  },
+  "area rewards potions 111 all": {
+    "value": "1.332",
+    "id": "area rewards potions 111 all"
+  },
+  "area rewards potions 102 all": {
+    "value": "2.045",
+    "id": "area rewards potions 102 all"
+  },
+  "area rewards potions 112 all": {
+    "value": "2.153",
+    "id": "area rewards potions 112 all"
+  },
+  "area rewards potions 10 wyld": {
+    "value": "0",
+    "id": "area rewards potions 10 wyld"
+  },
+  "area rewards potions 20 wyld": {
+    "value": "0",
+    "id": "area rewards potions 20 wyld"
+  },
+  "area rewards potions 30 wyld": {
+    "value": "0",
+    "id": "area rewards potions 30 wyld"
+  },
+  "area rewards potions 40 wyld": {
+    "value": "0",
+    "id": "area rewards potions 40 wyld"
+  },
+  "area rewards potions 11 wyld": {
+    "value": "0",
+    "id": "area rewards potions 11 wyld"
+  },
+  "area rewards potions 21 wyld": {
+    "value": "0",
+    "id": "area rewards potions 21 wyld"
+  },
+  "area rewards potions 12 wyld": {
+    "value": "0",
+    "id": "area rewards potions 12 wyld"
+  },
+  "area rewards potions 50 wyld": {
+    "value": "0",
+    "id": "area rewards potions 50 wyld"
+  },
+  "area rewards potions 31 wyld": {
+    "value": "0",
+    "id": "area rewards potions 31 wyld"
+  },
+  "area rewards potions 22 wyld": {
+    "value": "0",
+    "id": "area rewards potions 22 wyld"
+  },
+  "area rewards potions 41 wyld": {
+    "value": "0",
+    "id": "area rewards potions 41 wyld"
+  },
+  "area rewards potions 60 wyld": {
+    "value": "0",
+    "id": "area rewards potions 60 wyld"
+  },
+  "area rewards potions 32 wyld": {
+    "value": "0",
+    "id": "area rewards potions 32 wyld"
+  },
+  "area rewards potions 51 wyld": {
+    "value": "0",
+    "id": "area rewards potions 51 wyld"
+  },
+  "area rewards potions 70 wyld": {
+    "value": "0",
+    "id": "area rewards potions 70 wyld"
+  },
+  "area rewards potions 42 wyld": {
+    "value": "0",
+    "id": "area rewards potions 42 wyld"
+  },
+  "area rewards potions 61 wyld": {
+    "value": "0",
+    "id": "area rewards potions 61 wyld"
+  },
+  "area rewards potions 80 wyld": {
+    "value": "0",
+    "id": "area rewards potions 80 wyld"
+  },
+  "area rewards potions 52 wyld": {
+    "value": "0",
+    "id": "area rewards potions 52 wyld"
+  },
+  "area rewards potions 71 wyld": {
+    "value": "0",
+    "id": "area rewards potions 71 wyld"
+  },
+  "area rewards potions 90 wyld": {
+    "value": "0",
+    "id": "area rewards potions 90 wyld"
+  },
+  "area rewards potions 62 wyld": {
+    "value": "0",
+    "id": "area rewards potions 62 wyld"
+  },
+  "area rewards potions 81 wyld": {
+    "value": "0",
+    "id": "area rewards potions 81 wyld"
+  },
+  "area rewards potions 72 wyld": {
+    "value": "0",
+    "id": "area rewards potions 72 wyld"
+  },
+  "area rewards potions 100 wyld": {
+    "value": "0",
+    "id": "area rewards potions 100 wyld"
+  },
+  "area rewards potions 91 wyld": {
+    "value": "0",
+    "id": "area rewards potions 91 wyld"
+  },
+  "area rewards potions 82 wyld": {
+    "value": "0",
+    "id": "area rewards potions 82 wyld"
+  },
+  "area rewards potions 101 wyld": {
+    "value": "0",
+    "id": "area rewards potions 101 wyld"
+  },
+  "area rewards potions 110 wyld": {
+    "value": "0",
+    "id": "area rewards potions 110 wyld"
+  },
+  "area rewards potions 92 wyld": {
+    "value": "0",
+    "id": "area rewards potions 92 wyld"
+  },
+  "area rewards potions 111 wyld": {
+    "value": "0",
+    "id": "area rewards potions 111 wyld"
+  },
+  "area rewards potions 102 wyld": {
+    "value": "0",
+    "id": "area rewards potions 102 wyld"
+  },
+  "area rewards potions 112 wyld": {
+    "value": "0",
+    "id": "area rewards potions 112 wyld"
+  },
+  "area rewards potions 10 dark": {
+    "value": "0",
+    "id": "area rewards potions 10 dark"
+  },
+  "area rewards potions 20 dark": {
+    "value": "0",
+    "id": "area rewards potions 20 dark"
+  },
+  "area rewards potions 30 dark": {
+    "value": "0",
+    "id": "area rewards potions 30 dark"
+  },
+  "area rewards potions 40 dark": {
+    "value": "0",
+    "id": "area rewards potions 40 dark"
+  },
+  "area rewards potions 11 dark": {
+    "value": "0",
+    "id": "area rewards potions 11 dark"
+  },
+  "area rewards potions 21 dark": {
+    "value": "0",
+    "id": "area rewards potions 21 dark"
+  },
+  "area rewards potions 12 dark": {
+    "value": "0",
+    "id": "area rewards potions 12 dark"
+  },
+  "area rewards potions 50 dark": {
+    "value": "0",
+    "id": "area rewards potions 50 dark"
+  },
+  "area rewards potions 31 dark": {
+    "value": "0",
+    "id": "area rewards potions 31 dark"
+  },
+  "area rewards potions 22 dark": {
+    "value": "0",
+    "id": "area rewards potions 22 dark"
+  },
+  "area rewards potions 41 dark": {
+    "value": "0",
+    "id": "area rewards potions 41 dark"
+  },
+  "area rewards potions 60 dark": {
+    "value": "0",
+    "id": "area rewards potions 60 dark"
+  },
+  "area rewards potions 32 dark": {
+    "value": "0",
+    "id": "area rewards potions 32 dark"
+  },
+  "area rewards potions 51 dark": {
+    "value": "0",
+    "id": "area rewards potions 51 dark"
+  },
+  "area rewards potions 70 dark": {
+    "value": "0",
+    "id": "area rewards potions 70 dark"
+  },
+  "area rewards potions 42 dark": {
+    "value": "0",
+    "id": "area rewards potions 42 dark"
+  },
+  "area rewards potions 61 dark": {
+    "value": "0",
+    "id": "area rewards potions 61 dark"
+  },
+  "area rewards potions 80 dark": {
+    "value": "0",
+    "id": "area rewards potions 80 dark"
+  },
+  "area rewards potions 52 dark": {
+    "value": "0",
+    "id": "area rewards potions 52 dark"
+  },
+  "area rewards potions 71 dark": {
+    "value": "0",
+    "id": "area rewards potions 71 dark"
+  },
+  "area rewards potions 90 dark": {
+    "value": "0",
+    "id": "area rewards potions 90 dark"
+  },
+  "area rewards potions 62 dark": {
+    "value": "0",
+    "id": "area rewards potions 62 dark"
+  },
+  "area rewards potions 81 dark": {
+    "value": "0",
+    "id": "area rewards potions 81 dark"
+  },
+  "area rewards potions 72 dark": {
+    "value": "0",
+    "id": "area rewards potions 72 dark"
+  },
+  "area rewards potions 100 dark": {
+    "value": "0",
+    "id": "area rewards potions 100 dark"
+  },
+  "area rewards potions 91 dark": {
+    "value": "0",
+    "id": "area rewards potions 91 dark"
+  },
+  "area rewards potions 82 dark": {
+    "value": "0",
+    "id": "area rewards potions 82 dark"
+  },
+  "area rewards potions 101 dark": {
+    "value": "0",
+    "id": "area rewards potions 101 dark"
+  },
+  "area rewards potions 110 dark": {
+    "value": "0",
+    "id": "area rewards potions 110 dark"
+  },
+  "area rewards potions 92 dark": {
+    "value": "0",
+    "id": "area rewards potions 92 dark"
+  },
+  "area rewards potions 111 dark": {
+    "value": "0",
+    "id": "area rewards potions 111 dark"
+  },
+  "area rewards potions 102 dark": {
+    "value": "0",
+    "id": "area rewards potions 102 dark"
+  },
+  "area rewards potions 112 dark": {
+    "value": "0",
+    "id": "area rewards potions 112 dark"
+  },
+  "area rewards potions 10 gaea": {
+    "value": "0",
+    "id": "area rewards potions 10 gaea"
+  },
+  "area rewards potions 20 gaea": {
+    "value": "0",
+    "id": "area rewards potions 20 gaea"
+  },
+  "area rewards potions 30 gaea": {
+    "value": "0",
+    "id": "area rewards potions 30 gaea"
+  },
+  "area rewards potions 40 gaea": {
+    "value": "0",
+    "id": "area rewards potions 40 gaea"
+  },
+  "area rewards potions 11 gaea": {
+    "value": "0",
+    "id": "area rewards potions 11 gaea"
+  },
+  "area rewards potions 21 gaea": {
+    "value": "0",
+    "id": "area rewards potions 21 gaea"
+  },
+  "area rewards potions 12 gaea": {
+    "value": "0",
+    "id": "area rewards potions 12 gaea"
+  },
+  "area rewards potions 50 gaea": {
+    "value": "0",
+    "id": "area rewards potions 50 gaea"
+  },
+  "area rewards potions 31 gaea": {
+    "value": "0",
+    "id": "area rewards potions 31 gaea"
+  },
+  "area rewards potions 22 gaea": {
+    "value": "0",
+    "id": "area rewards potions 22 gaea"
+  },
+  "area rewards potions 41 gaea": {
+    "value": "0",
+    "id": "area rewards potions 41 gaea"
+  },
+  "area rewards potions 60 gaea": {
+    "value": "0",
+    "id": "area rewards potions 60 gaea"
+  },
+  "area rewards potions 32 gaea": {
+    "value": "0",
+    "id": "area rewards potions 32 gaea"
+  },
+  "area rewards potions 51 gaea": {
+    "value": "0",
+    "id": "area rewards potions 51 gaea"
+  },
+  "area rewards potions 70 gaea": {
+    "value": "0",
+    "id": "area rewards potions 70 gaea"
+  },
+  "area rewards potions 42 gaea": {
+    "value": "0",
+    "id": "area rewards potions 42 gaea"
+  },
+  "area rewards potions 61 gaea": {
+    "value": "0",
+    "id": "area rewards potions 61 gaea"
+  },
+  "area rewards potions 80 gaea": {
+    "value": "0",
+    "id": "area rewards potions 80 gaea"
+  },
+  "area rewards potions 52 gaea": {
+    "value": "0",
+    "id": "area rewards potions 52 gaea"
+  },
+  "area rewards potions 71 gaea": {
+    "value": "0",
+    "id": "area rewards potions 71 gaea"
+  },
+  "area rewards potions 90 gaea": {
+    "value": "0",
+    "id": "area rewards potions 90 gaea"
+  },
+  "area rewards potions 62 gaea": {
+    "value": "0",
+    "id": "area rewards potions 62 gaea"
+  },
+  "area rewards potions 81 gaea": {
+    "value": "0",
+    "id": "area rewards potions 81 gaea"
+  },
+  "area rewards potions 72 gaea": {
+    "value": "0",
+    "id": "area rewards potions 72 gaea"
+  },
+  "area rewards potions 100 gaea": {
+    "value": "0",
+    "id": "area rewards potions 100 gaea"
+  },
+  "area rewards potions 91 gaea": {
+    "value": "0",
+    "id": "area rewards potions 91 gaea"
+  },
+  "area rewards potions 82 gaea": {
+    "value": "0",
+    "id": "area rewards potions 82 gaea"
+  },
+  "area rewards potions 101 gaea": {
+    "value": "0",
+    "id": "area rewards potions 101 gaea"
+  },
+  "area rewards potions 110 gaea": {
+    "value": "0",
+    "id": "area rewards potions 110 gaea"
+  },
+  "area rewards potions 92 gaea": {
+    "value": "0",
+    "id": "area rewards potions 92 gaea"
+  },
+  "area rewards potions 111 gaea": {
+    "value": "0",
+    "id": "area rewards potions 111 gaea"
+  },
+  "area rewards potions 102 gaea": {
+    "value": "0",
+    "id": "area rewards potions 102 gaea"
+  },
+  "area rewards potions 112 gaea": {
+    "value": "0",
+    "id": "area rewards potions 112 gaea"
+  },
+  "area rewards potions 10 elemental": {
+    "value": "0",
+    "id": "area rewards potions 10 elemental"
+  },
+  "area rewards potions 20 elemental": {
+    "value": "0",
+    "id": "area rewards potions 20 elemental"
+  },
+  "area rewards potions 30 elemental": {
+    "value": "0",
+    "id": "area rewards potions 30 elemental"
+  },
+  "area rewards potions 40 elemental": {
+    "value": "0",
+    "id": "area rewards potions 40 elemental"
+  },
+  "area rewards potions 11 elemental": {
+    "value": "0",
+    "id": "area rewards potions 11 elemental"
+  },
+  "area rewards potions 21 elemental": {
+    "value": "0",
+    "id": "area rewards potions 21 elemental"
+  },
+  "area rewards potions 12 elemental": {
+    "value": "0",
+    "id": "area rewards potions 12 elemental"
+  },
+  "area rewards potions 50 elemental": {
+    "value": "0",
+    "id": "area rewards potions 50 elemental"
+  },
+  "area rewards potions 31 elemental": {
+    "value": "0",
+    "id": "area rewards potions 31 elemental"
+  },
+  "area rewards potions 22 elemental": {
+    "value": "0",
+    "id": "area rewards potions 22 elemental"
+  },
+  "area rewards potions 41 elemental": {
+    "value": "0",
+    "id": "area rewards potions 41 elemental"
+  },
+  "area rewards potions 60 elemental": {
+    "value": "0",
+    "id": "area rewards potions 60 elemental"
+  },
+  "area rewards potions 32 elemental": {
+    "value": "0",
+    "id": "area rewards potions 32 elemental"
+  },
+  "area rewards potions 51 elemental": {
+    "value": "0",
+    "id": "area rewards potions 51 elemental"
+  },
+  "area rewards potions 70 elemental": {
+    "value": "0",
+    "id": "area rewards potions 70 elemental"
+  },
+  "area rewards potions 42 elemental": {
+    "value": "0",
+    "id": "area rewards potions 42 elemental"
+  },
+  "area rewards potions 61 elemental": {
+    "value": "0",
+    "id": "area rewards potions 61 elemental"
+  },
+  "area rewards potions 80 elemental": {
+    "value": "0",
+    "id": "area rewards potions 80 elemental"
+  },
+  "area rewards potions 52 elemental": {
+    "value": "0",
+    "id": "area rewards potions 52 elemental"
+  },
+  "area rewards potions 71 elemental": {
+    "value": "0",
+    "id": "area rewards potions 71 elemental"
+  },
+  "area rewards potions 90 elemental": {
+    "value": "0",
+    "id": "area rewards potions 90 elemental"
+  },
+  "area rewards potions 62 elemental": {
+    "value": "0",
+    "id": "area rewards potions 62 elemental"
+  },
+  "area rewards potions 81 elemental": {
+    "value": "0",
+    "id": "area rewards potions 81 elemental"
+  },
+  "area rewards potions 72 elemental": {
+    "value": "0",
+    "id": "area rewards potions 72 elemental"
+  },
+  "area rewards potions 100 elemental": {
+    "value": "0",
+    "id": "area rewards potions 100 elemental"
+  },
+  "area rewards potions 91 elemental": {
+    "value": "0",
+    "id": "area rewards potions 91 elemental"
+  },
+  "area rewards potions 82 elemental": {
+    "value": "0",
+    "id": "area rewards potions 82 elemental"
+  },
+  "area rewards potions 101 elemental": {
+    "value": "0",
+    "id": "area rewards potions 101 elemental"
+  },
+  "area rewards potions 110 elemental": {
+    "value": "0",
+    "id": "area rewards potions 110 elemental"
+  },
+  "area rewards potions 92 elemental": {
+    "value": "0",
+    "id": "area rewards potions 92 elemental"
+  },
+  "area rewards potions 111 elemental": {
+    "value": "0",
+    "id": "area rewards potions 111 elemental"
+  },
+  "area rewards potions 102 elemental": {
+    "value": "0",
+    "id": "area rewards potions 102 elemental"
+  },
+  "area rewards potions 112 elemental": {
+    "value": "0",
+    "id": "area rewards potions 112 elemental"
+  },
+  "area rewards potions 10 mirror": {
+    "value": "0",
+    "id": "area rewards potions 10 mirror"
+  },
+  "area rewards potions 20 mirror": {
+    "value": "0",
+    "id": "area rewards potions 20 mirror"
+  },
+  "area rewards potions 30 mirror": {
+    "value": "0",
+    "id": "area rewards potions 30 mirror"
+  },
+  "area rewards potions 40 mirror": {
+    "value": "0",
+    "id": "area rewards potions 40 mirror"
+  },
+  "area rewards potions 11 mirror": {
+    "value": "0",
+    "id": "area rewards potions 11 mirror"
+  },
+  "area rewards potions 21 mirror": {
+    "value": "0",
+    "id": "area rewards potions 21 mirror"
+  },
+  "area rewards potions 12 mirror": {
+    "value": "0",
+    "id": "area rewards potions 12 mirror"
+  },
+  "area rewards potions 50 mirror": {
+    "value": "0",
+    "id": "area rewards potions 50 mirror"
+  },
+  "area rewards potions 31 mirror": {
+    "value": "0",
+    "id": "area rewards potions 31 mirror"
+  },
+  "area rewards potions 22 mirror": {
+    "value": "0",
+    "id": "area rewards potions 22 mirror"
+  },
+  "area rewards potions 41 mirror": {
+    "value": "0",
+    "id": "area rewards potions 41 mirror"
+  },
+  "area rewards potions 60 mirror": {
+    "value": "0",
+    "id": "area rewards potions 60 mirror"
+  },
+  "area rewards potions 32 mirror": {
+    "value": "0",
+    "id": "area rewards potions 32 mirror"
+  },
+  "area rewards potions 51 mirror": {
+    "value": "0",
+    "id": "area rewards potions 51 mirror"
+  },
+  "area rewards potions 70 mirror": {
+    "value": "0",
+    "id": "area rewards potions 70 mirror"
+  },
+  "area rewards potions 42 mirror": {
+    "value": "0",
+    "id": "area rewards potions 42 mirror"
+  },
+  "area rewards potions 61 mirror": {
+    "value": "0",
+    "id": "area rewards potions 61 mirror"
+  },
+  "area rewards potions 80 mirror": {
+    "value": "0",
+    "id": "area rewards potions 80 mirror"
+  },
+  "area rewards potions 52 mirror": {
+    "value": "0",
+    "id": "area rewards potions 52 mirror"
+  },
+  "area rewards potions 71 mirror": {
+    "value": "0",
+    "id": "area rewards potions 71 mirror"
+  },
+  "area rewards potions 90 mirror": {
+    "value": "0",
+    "id": "area rewards potions 90 mirror"
+  },
+  "area rewards potions 62 mirror": {
+    "value": "0",
+    "id": "area rewards potions 62 mirror"
+  },
+  "area rewards potions 81 mirror": {
+    "value": "0",
+    "id": "area rewards potions 81 mirror"
+  },
+  "area rewards potions 72 mirror": {
+    "value": "0",
+    "id": "area rewards potions 72 mirror"
+  },
+  "area rewards potions 100 mirror": {
+    "value": "0",
+    "id": "area rewards potions 100 mirror"
+  },
+  "area rewards potions 91 mirror": {
+    "value": "0",
+    "id": "area rewards potions 91 mirror"
+  },
+  "area rewards potions 82 mirror": {
+    "value": "0",
+    "id": "area rewards potions 82 mirror"
+  },
+  "area rewards potions 101 mirror": {
+    "value": "0",
+    "id": "area rewards potions 101 mirror"
+  },
+  "area rewards potions 110 mirror": {
+    "value": "0",
+    "id": "area rewards potions 110 mirror"
+  },
+  "area rewards potions 92 mirror": {
+    "value": "0",
+    "id": "area rewards potions 92 mirror"
+  },
+  "area rewards potions 111 mirror": {
+    "value": "0",
+    "id": "area rewards potions 111 mirror"
+  },
+  "area rewards potions 102 mirror": {
+    "value": "0",
+    "id": "area rewards potions 102 mirror"
+  },
+  "area rewards potions 112 mirror": {
+    "value": "0",
+    "id": "area rewards potions 112 mirror"
+  },
+  "area rewards potions 10 all itemID": {
+    "value": "451",
+    "id": "area rewards potions 10 all itemID"
+  },
+  "area rewards potions 20 all itemID": {
+    "value": "451",
+    "id": "area rewards potions 20 all itemID"
+  },
+  "area rewards potions 30 all itemID": {
+    "value": "452",
+    "id": "area rewards potions 30 all itemID"
+  },
+  "area rewards potions 11 all itemID": {
+    "value": "452",
+    "id": "area rewards potions 11 all itemID"
+  },
+  "area rewards potions 21 all itemID": {
+    "value": "453",
+    "id": "area rewards potions 21 all itemID"
+  },
+  "area rewards potions 40 all itemID": {
+    "value": "452",
+    "id": "area rewards potions 40 all itemID"
+  },
+  "area rewards potions 31 all itemID": {
+    "value": "453",
+    "id": "area rewards potions 31 all itemID"
+  },
+  "area rewards potions 50 all itemID": {
+    "value": "452",
+    "id": "area rewards potions 50 all itemID"
+  },
+  "area rewards potions 41 all itemID": {
+    "value": "453",
+    "id": "area rewards potions 41 all itemID"
+  },
+  "area rewards potions 12 all itemID": {
+    "value": "453",
+    "id": "area rewards potions 12 all itemID"
+  },
+  "area rewards potions 60 all itemID": {
+    "value": "452",
+    "id": "area rewards potions 60 all itemID"
+  },
+  "area rewards potions 22 all itemID": {
+    "value": "454",
+    "id": "area rewards potions 22 all itemID"
+  },
+  "area rewards potions 51 all itemID": {
+    "value": "453",
+    "id": "area rewards potions 51 all itemID"
+  },
+  "area rewards potions 32 all itemID": {
+    "value": "454",
+    "id": "area rewards potions 32 all itemID"
+  },
+  "area rewards potions 70 all itemID": {
+    "value": "452",
+    "id": "area rewards potions 70 all itemID"
+  },
+  "area rewards potions 61 all itemID": {
+    "value": "453",
+    "id": "area rewards potions 61 all itemID"
+  },
+  "area rewards potions 42 all itemID": {
+    "value": "454",
+    "id": "area rewards potions 42 all itemID"
+  },
+  "area rewards potions 80 all itemID": {
+    "value": "453",
+    "id": "area rewards potions 80 all itemID"
+  },
+  "area rewards potions 71 all itemID": {
+    "value": "453",
+    "id": "area rewards potions 71 all itemID"
+  },
+  "area rewards potions 52 all itemID": {
+    "value": "454",
+    "id": "area rewards potions 52 all itemID"
+  },
+  "area rewards potions 90 all itemID": {
+    "value": "453",
+    "id": "area rewards potions 90 all itemID"
+  },
+  "area rewards potions 81 all itemID": {
+    "value": "454",
+    "id": "area rewards potions 81 all itemID"
+  },
+  "area rewards potions 62 all itemID": {
+    "value": "454",
+    "id": "area rewards potions 62 all itemID"
+  },
+  "area rewards potions 100 all itemID": {
+    "value": "453",
+    "id": "area rewards potions 100 all itemID"
+  },
+  "area rewards potions 91 all itemID": {
+    "value": "454",
+    "id": "area rewards potions 91 all itemID"
+  },
+  "area rewards potions 72 all itemID": {
+    "value": "454",
+    "id": "area rewards potions 72 all itemID"
+  },
+  "area rewards potions 101 all itemID": {
+    "value": "454",
+    "id": "area rewards potions 101 all itemID"
+  },
+  "area rewards potions 110 all itemID": {
+    "value": "453",
+    "id": "area rewards potions 110 all itemID"
+  },
+  "area rewards potions 82 all itemID": {
+    "value": "454",
+    "id": "area rewards potions 82 all itemID"
+  },
+  "area rewards potions 92 all itemID": {
+    "value": "454",
+    "id": "area rewards potions 92 all itemID"
+  },
+  "area rewards potions 111 all itemID": {
+    "value": "454",
+    "id": "area rewards potions 111 all itemID"
+  },
+  "area rewards potions 102 all itemID": {
+    "value": "454",
+    "id": "area rewards potions 102 all itemID"
+  },
+  "area rewards potions 112 all itemID": {
+    "value": "454",
+    "id": "area rewards potions 112 all itemID"
+  },
+  "area rewards potions 10 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 10 wyld itemID"
+  },
+  "area rewards potions 20 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 20 wyld itemID"
+  },
+  "area rewards potions 30 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 30 wyld itemID"
+  },
+  "area rewards potions 40 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 40 wyld itemID"
+  },
+  "area rewards potions 11 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 11 wyld itemID"
+  },
+  "area rewards potions 21 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 21 wyld itemID"
+  },
+  "area rewards potions 12 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 12 wyld itemID"
+  },
+  "area rewards potions 50 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 50 wyld itemID"
+  },
+  "area rewards potions 31 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 31 wyld itemID"
+  },
+  "area rewards potions 22 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 22 wyld itemID"
+  },
+  "area rewards potions 41 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 41 wyld itemID"
+  },
+  "area rewards potions 60 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 60 wyld itemID"
+  },
+  "area rewards potions 32 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 32 wyld itemID"
+  },
+  "area rewards potions 51 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 51 wyld itemID"
+  },
+  "area rewards potions 70 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 70 wyld itemID"
+  },
+  "area rewards potions 42 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 42 wyld itemID"
+  },
+  "area rewards potions 61 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 61 wyld itemID"
+  },
+  "area rewards potions 80 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 80 wyld itemID"
+  },
+  "area rewards potions 52 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 52 wyld itemID"
+  },
+  "area rewards potions 71 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 71 wyld itemID"
+  },
+  "area rewards potions 90 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 90 wyld itemID"
+  },
+  "area rewards potions 62 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 62 wyld itemID"
+  },
+  "area rewards potions 81 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 81 wyld itemID"
+  },
+  "area rewards potions 72 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 72 wyld itemID"
+  },
+  "area rewards potions 100 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 100 wyld itemID"
+  },
+  "area rewards potions 91 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 91 wyld itemID"
+  },
+  "area rewards potions 82 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 82 wyld itemID"
+  },
+  "area rewards potions 101 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 101 wyld itemID"
+  },
+  "area rewards potions 110 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 110 wyld itemID"
+  },
+  "area rewards potions 92 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 92 wyld itemID"
+  },
+  "area rewards potions 111 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 111 wyld itemID"
+  },
+  "area rewards potions 102 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 102 wyld itemID"
+  },
+  "area rewards potions 112 wyld itemID": {
+    "value": "0",
+    "id": "area rewards potions 112 wyld itemID"
+  },
+  "area rewards potions 10 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 10 dark itemID"
+  },
+  "area rewards potions 20 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 20 dark itemID"
+  },
+  "area rewards potions 30 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 30 dark itemID"
+  },
+  "area rewards potions 40 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 40 dark itemID"
+  },
+  "area rewards potions 11 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 11 dark itemID"
+  },
+  "area rewards potions 21 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 21 dark itemID"
+  },
+  "area rewards potions 12 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 12 dark itemID"
+  },
+  "area rewards potions 50 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 50 dark itemID"
+  },
+  "area rewards potions 31 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 31 dark itemID"
+  },
+  "area rewards potions 22 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 22 dark itemID"
+  },
+  "area rewards potions 41 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 41 dark itemID"
+  },
+  "area rewards potions 60 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 60 dark itemID"
+  },
+  "area rewards potions 32 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 32 dark itemID"
+  },
+  "area rewards potions 51 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 51 dark itemID"
+  },
+  "area rewards potions 70 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 70 dark itemID"
+  },
+  "area rewards potions 42 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 42 dark itemID"
+  },
+  "area rewards potions 61 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 61 dark itemID"
+  },
+  "area rewards potions 80 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 80 dark itemID"
+  },
+  "area rewards potions 52 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 52 dark itemID"
+  },
+  "area rewards potions 71 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 71 dark itemID"
+  },
+  "area rewards potions 90 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 90 dark itemID"
+  },
+  "area rewards potions 62 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 62 dark itemID"
+  },
+  "area rewards potions 81 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 81 dark itemID"
+  },
+  "area rewards potions 72 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 72 dark itemID"
+  },
+  "area rewards potions 100 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 100 dark itemID"
+  },
+  "area rewards potions 91 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 91 dark itemID"
+  },
+  "area rewards potions 82 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 82 dark itemID"
+  },
+  "area rewards potions 101 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 101 dark itemID"
+  },
+  "area rewards potions 110 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 110 dark itemID"
+  },
+  "area rewards potions 92 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 92 dark itemID"
+  },
+  "area rewards potions 111 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 111 dark itemID"
+  },
+  "area rewards potions 102 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 102 dark itemID"
+  },
+  "area rewards potions 112 dark itemID": {
+    "value": "0",
+    "id": "area rewards potions 112 dark itemID"
+  },
+  "area rewards potions 10 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 10 gaea itemID"
+  },
+  "area rewards potions 20 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 20 gaea itemID"
+  },
+  "area rewards potions 30 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 30 gaea itemID"
+  },
+  "area rewards potions 40 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 40 gaea itemID"
+  },
+  "area rewards potions 11 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 11 gaea itemID"
+  },
+  "area rewards potions 21 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 21 gaea itemID"
+  },
+  "area rewards potions 12 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 12 gaea itemID"
+  },
+  "area rewards potions 50 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 50 gaea itemID"
+  },
+  "area rewards potions 31 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 31 gaea itemID"
+  },
+  "area rewards potions 22 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 22 gaea itemID"
+  },
+  "area rewards potions 41 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 41 gaea itemID"
+  },
+  "area rewards potions 60 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 60 gaea itemID"
+  },
+  "area rewards potions 32 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 32 gaea itemID"
+  },
+  "area rewards potions 51 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 51 gaea itemID"
+  },
+  "area rewards potions 70 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 70 gaea itemID"
+  },
+  "area rewards potions 42 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 42 gaea itemID"
+  },
+  "area rewards potions 61 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 61 gaea itemID"
+  },
+  "area rewards potions 80 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 80 gaea itemID"
+  },
+  "area rewards potions 52 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 52 gaea itemID"
+  },
+  "area rewards potions 71 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 71 gaea itemID"
+  },
+  "area rewards potions 90 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 90 gaea itemID"
+  },
+  "area rewards potions 62 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 62 gaea itemID"
+  },
+  "area rewards potions 81 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 81 gaea itemID"
+  },
+  "area rewards potions 72 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 72 gaea itemID"
+  },
+  "area rewards potions 100 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 100 gaea itemID"
+  },
+  "area rewards potions 91 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 91 gaea itemID"
+  },
+  "area rewards potions 82 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 82 gaea itemID"
+  },
+  "area rewards potions 101 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 101 gaea itemID"
+  },
+  "area rewards potions 110 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 110 gaea itemID"
+  },
+  "area rewards potions 92 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 92 gaea itemID"
+  },
+  "area rewards potions 111 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 111 gaea itemID"
+  },
+  "area rewards potions 102 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 102 gaea itemID"
+  },
+  "area rewards potions 112 gaea itemID": {
+    "value": "0",
+    "id": "area rewards potions 112 gaea itemID"
+  },
+  "area rewards potions 10 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 10 elemental itemID"
+  },
+  "area rewards potions 20 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 20 elemental itemID"
+  },
+  "area rewards potions 30 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 30 elemental itemID"
+  },
+  "area rewards potions 40 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 40 elemental itemID"
+  },
+  "area rewards potions 11 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 11 elemental itemID"
+  },
+  "area rewards potions 21 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 21 elemental itemID"
+  },
+  "area rewards potions 12 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 12 elemental itemID"
+  },
+  "area rewards potions 50 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 50 elemental itemID"
+  },
+  "area rewards potions 31 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 31 elemental itemID"
+  },
+  "area rewards potions 22 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 22 elemental itemID"
+  },
+  "area rewards potions 41 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 41 elemental itemID"
+  },
+  "area rewards potions 60 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 60 elemental itemID"
+  },
+  "area rewards potions 32 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 32 elemental itemID"
+  },
+  "area rewards potions 51 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 51 elemental itemID"
+  },
+  "area rewards potions 70 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 70 elemental itemID"
+  },
+  "area rewards potions 42 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 42 elemental itemID"
+  },
+  "area rewards potions 61 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 61 elemental itemID"
+  },
+  "area rewards potions 80 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 80 elemental itemID"
+  },
+  "area rewards potions 52 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 52 elemental itemID"
+  },
+  "area rewards potions 71 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 71 elemental itemID"
+  },
+  "area rewards potions 90 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 90 elemental itemID"
+  },
+  "area rewards potions 62 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 62 elemental itemID"
+  },
+  "area rewards potions 81 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 81 elemental itemID"
+  },
+  "area rewards potions 72 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 72 elemental itemID"
+  },
+  "area rewards potions 100 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 100 elemental itemID"
+  },
+  "area rewards potions 91 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 91 elemental itemID"
+  },
+  "area rewards potions 82 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 82 elemental itemID"
+  },
+  "area rewards potions 101 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 101 elemental itemID"
+  },
+  "area rewards potions 110 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 110 elemental itemID"
+  },
+  "area rewards potions 92 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 92 elemental itemID"
+  },
+  "area rewards potions 111 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 111 elemental itemID"
+  },
+  "area rewards potions 102 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 102 elemental itemID"
+  },
+  "area rewards potions 112 elemental itemID": {
+    "value": "0",
+    "id": "area rewards potions 112 elemental itemID"
+  },
+  "area rewards potions 10 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 10 mirror itemID"
+  },
+  "area rewards potions 20 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 20 mirror itemID"
+  },
+  "area rewards potions 30 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 30 mirror itemID"
+  },
+  "area rewards potions 40 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 40 mirror itemID"
+  },
+  "area rewards potions 11 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 11 mirror itemID"
+  },
+  "area rewards potions 21 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 21 mirror itemID"
+  },
+  "area rewards potions 12 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 12 mirror itemID"
+  },
+  "area rewards potions 50 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 50 mirror itemID"
+  },
+  "area rewards potions 31 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 31 mirror itemID"
+  },
+  "area rewards potions 22 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 22 mirror itemID"
+  },
+  "area rewards potions 41 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 41 mirror itemID"
+  },
+  "area rewards potions 60 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 60 mirror itemID"
+  },
+  "area rewards potions 32 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 32 mirror itemID"
+  },
+  "area rewards potions 51 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 51 mirror itemID"
+  },
+  "area rewards potions 70 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 70 mirror itemID"
+  },
+  "area rewards potions 42 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 42 mirror itemID"
+  },
+  "area rewards potions 61 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 61 mirror itemID"
+  },
+  "area rewards potions 80 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 80 mirror itemID"
+  },
+  "area rewards potions 52 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 52 mirror itemID"
+  },
+  "area rewards potions 71 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 71 mirror itemID"
+  },
+  "area rewards potions 90 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 90 mirror itemID"
+  },
+  "area rewards potions 62 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 62 mirror itemID"
+  },
+  "area rewards potions 81 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 81 mirror itemID"
+  },
+  "area rewards potions 72 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 72 mirror itemID"
+  },
+  "area rewards potions 100 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 100 mirror itemID"
+  },
+  "area rewards potions 91 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 91 mirror itemID"
+  },
+  "area rewards potions 82 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 82 mirror itemID"
+  },
+  "area rewards potions 101 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 101 mirror itemID"
+  },
+  "area rewards potions 110 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 110 mirror itemID"
+  },
+  "area rewards potions 92 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 92 mirror itemID"
+  },
+  "area rewards potions 111 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 111 mirror itemID"
+  },
+  "area rewards potions 102 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 102 mirror itemID"
+  },
+  "area rewards potions 112 mirror itemID": {
+    "value": "0",
+    "id": "area rewards potions 112 mirror itemID"
+  },
+  "default store item 01": {
+    "value": "90202",
+    "id": "default store item 01"
+  },
+  "default store item 02": {
+    "value": "90203",
+    "id": "default store item 02"
+  },
+  "default store item 03": {
+    "value": "90304",
+    "id": "default store item 03"
+  },
+  "minimum notification period": {
+    "value": "3600",
+    "id": "minimum notification period"
+  },
+  "notification restriction start hour": {
+    "value": "23",
+    "id": "notification restriction start hour"
+  },
+  "notification restriction end hour": {
+    "value": "6",
+    "id": "notification restriction end hour"
+  },
+  "guild creation cost": {
+    "value": "10000",
+    "id": "guild creation cost"
+  },
+  "guild max members": {
+    "value": "50",
+    "id": "guild max members"
+  },
+  "guild leader inactive limit": {
+    "value": "15",
+    "id": "guild leader inactive limit"
+  },
+  "first win battle xp multiplier": {
+    "value": "2",
+    "id": "first win battle xp multiplier"
+  },
+  "first win battle coin multiplier": {
+    "value": "7",
+    "id": "first win battle coin multiplier"
+  },
+  "A new buyer pack id": {
+    "value": "90603",
+    "id": "A new buyer pack id"
+  },
+  "B new buyer pack id": {
+    "value": "90603",
+    "id": "B new buyer pack id"
+  },
+  "rename player cost crowns": {
+    "value": "200",
+    "id": "rename player cost crowns"
+  },
+  "guild titan unlock cost coins": {
+    "value": "25000",
+    "id": "guild titan unlock cost coins"
+  },
+  "trophy change minimum": {
+    "value": "5",
+    "id": "trophy change minimum"
+  },
+  "trophy change maximum": {
+    "value": "40",
+    "id": "trophy change maximum"
+  },
+  "trophy change sigmoid base": {
+    "value": "1.005",
+    "id": "trophy change sigmoid base"
+  },
+  "daily pvp chest count": {
+    "value": "3",
+    "id": "daily pvp chest count"
+  },
+  "daily pvp chest 1 kills required": {
+    "value": "6",
+    "id": "daily pvp chest 1 kills required"
+  },
+  "daily pvp chest 2 kills required": {
+    "value": "20",
+    "id": "daily pvp chest 2 kills required"
+  },
+  "daily pvp chest 3 kills required": {
+    "value": "50",
+    "id": "daily pvp chest 3 kills required"
+  },
+  "pvp chest preview low threshold": {
+    "value": "0.39",
+    "id": "pvp chest preview low threshold"
+  },
+  "low quality target framerate": {
+    "value": "-1",
+    "id": "low quality target framerate"
+  },
+  "high quality target framerate": {
+    "value": "30",
+    "id": "high quality target framerate"
+  },
+  "low quality anti aliasing": {
+    "value": "0",
+    "id": "low quality anti aliasing"
+  },
+  "high quality anti aliasing": {
+    "value": "0",
+    "id": "high quality anti aliasing"
+  },
+  "time limit draft dungeon choosing": {
+    "value": "15",
+    "id": "time limit draft dungeon choosing"
+  },
+  "daily goal difficulties added": {
+    "value": "[1, 3, 4, 5, 6, 7, 8]",
+    "id": "daily goal difficulties added"
+  },
+  "show daily goal badges until level": {
+    "value": "0",
+    "id": "show daily goal badges until level"
+  },
+  "token steal chance common": {
+    "value": "1",
+    "id": "token steal chance common"
+  },
+  "token steal chance rare": {
+    "value": "1",
+    "id": "token steal chance rare"
+  },
+  "token steal chance very rare": {
+    "value": "1",
+    "id": "token steal chance very rare"
+  },
+  "token steal chance epic": {
+    "value": "1",
+    "id": "token steal chance epic"
+  },
+  "token steal chance legendary": {
+    "value": "1",
+    "id": "token steal chance legendary"
+  },
+  "token steal limit common": {
+    "value": "10",
+    "id": "token steal limit common"
+  },
+  "token steal limit rare": {
+    "value": "5",
+    "id": "token steal limit rare"
+  },
+  "token steal limit very rare": {
+    "value": "3",
+    "id": "token steal limit very rare"
+  },
+  "token steal limit epic": {
+    "value": "1",
+    "id": "token steal limit epic"
+  },
+  "token steal limit legendary": {
+    "value": "1",
+    "id": "token steal limit legendary"
+  },
+  "token steal skill level 1 rarities": {
+    "value": "[\"common\", \"rare\"]",
+    "id": "token steal skill level 1 rarities"
+  },
+  "token steal skill level 2 rarities": {
+    "value": "[\"common\", \"rare\", \"very rare\"]",
+    "id": "token steal skill level 2 rarities"
+  },
+  "token steal skill level 3 rarities": {
+    "value": "[\"common\", \"rare\", \"very rare\", \"epic\"]",
+    "id": "token steal skill level 3 rarities"
+  },
+  "max goals": {
+    "value": "12",
+    "id": "max goals"
+  },
+  "Warcaller Expire Days": {
+    "value": "7",
+    "id": "Warcaller Expire Days"
+  },
+  "CommonTokenCostMax": {
+    "value": "1000",
+    "id": "CommonTokenCostMax"
+  },
+  "CommonTokenCostExp": {
+    "value": "1.26",
+    "id": "CommonTokenCostExp"
+  },
+  "CommonTokenCostBase": {
+    "value": "65",
+    "id": "CommonTokenCostBase"
+  },
+  "RareTokenCostMax": {
+    "value": "3000",
+    "id": "RareTokenCostMax"
+  },
+  "RareTokenCostExp": {
+    "value": "1.26",
+    "id": "RareTokenCostExp"
+  },
+  "RareTokenCostBase": {
+    "value": "190",
+    "id": "RareTokenCostBase"
+  },
+  "VeryRareTokenCostMax": {
+    "value": "10000",
+    "id": "VeryRareTokenCostMax"
+  },
+  "VeryRareTokenCostExp": {
+    "value": "1.26",
+    "id": "VeryRareTokenCostExp"
+  },
+  "VeryRareTokenCostBase": {
+    "value": "625",
+    "id": "VeryRareTokenCostBase"
+  },
+  "EpicTokenCostMax": {
+    "value": "24000",
+    "id": "EpicTokenCostMax"
+  },
+  "EpicTokenCostExp": {
+    "value": "1.985",
+    "id": "EpicTokenCostExp"
+  },
+  "EpicTokenCostBase": {
+    "value": "1500",
+    "id": "EpicTokenCostBase"
+  },
+  "LegendaryTokenCostMax": {
+    "value": "100000",
+    "id": "LegendaryTokenCostMax"
+  },
+  "LegendaryTokenCostExp": {
+    "value": "1.465",
+    "id": "LegendaryTokenCostExp"
+  },
+  "LegendaryTokenCostBase": {
+    "value": "6250",
+    "id": "LegendaryTokenCostBase"
+  },
+  "minimum guild seconds for shared progression event goal collect": {
+    "value": "86400",
+    "id": "minimum guild seconds for shared progression event goal collect"
+  },
+  "tournament event win streak tiers": {
+    "value": "5",
+    "id": "tournament event win streak tiers"
+  },
+  "tournament event win streak tier 1 wins required": {
+    "value": "1",
+    "id": "tournament event win streak tier 1 wins required"
+  },
+  "tournament event win streak tier 1 coin multiplier": {
+    "value": "1",
+    "id": "tournament event win streak tier 1 coin multiplier"
+  },
+  "tournament event win streak tier 1 stones multiplier": {
+    "value": "1",
+    "id": "tournament event win streak tier 1 stones multiplier"
+  },
+  "tournament event win streak tier 1 trophy multiplier": {
+    "value": "1",
+    "id": "tournament event win streak tier 1 trophy multiplier"
+  },
+  "tournament event win streak tier 2 wins required": {
+    "value": "2",
+    "id": "tournament event win streak tier 2 wins required"
+  },
+  "tournament event win streak tier 2 coin multiplier": {
+    "value": "1.5",
+    "id": "tournament event win streak tier 2 coin multiplier"
+  },
+  "tournament event win streak tier 2 stones multiplier": {
+    "value": "1.5",
+    "id": "tournament event win streak tier 2 stones multiplier"
+  },
+  "tournament event win streak tier 2 trophy multiplier": {
+    "value": "1.2",
+    "id": "tournament event win streak tier 2 trophy multiplier"
+  },
+  "tournament event win streak tier 3 wins required": {
+    "value": "3",
+    "id": "tournament event win streak tier 3 wins required"
+  },
+  "tournament event win streak tier 3 coin multiplier": {
+    "value": "2",
+    "id": "tournament event win streak tier 3 coin multiplier"
+  },
+  "tournament event win streak tier 3 stones multiplier": {
+    "value": "2",
+    "id": "tournament event win streak tier 3 stones multiplier"
+  },
+  "tournament event win streak tier 3 trophy multiplier": {
+    "value": "1.3",
+    "id": "tournament event win streak tier 3 trophy multiplier"
+  },
+  "tournament event win streak tier 4 wins required": {
+    "value": "4",
+    "id": "tournament event win streak tier 4 wins required"
+  },
+  "tournament event win streak tier 4 coin multiplier": {
+    "value": "2.5",
+    "id": "tournament event win streak tier 4 coin multiplier"
+  },
+  "tournament event win streak tier 4 stones multiplier": {
+    "value": "2.5",
+    "id": "tournament event win streak tier 4 stones multiplier"
+  },
+  "tournament event win streak tier 4 trophy multiplier": {
+    "value": "1.4",
+    "id": "tournament event win streak tier 4 trophy multiplier"
+  },
+  "tournament event win streak tier 5 wins required": {
+    "value": "5",
+    "id": "tournament event win streak tier 5 wins required"
+  },
+  "tournament event win streak tier 5 coin multiplier": {
+    "value": "3",
+    "id": "tournament event win streak tier 5 coin multiplier"
+  },
+  "tournament event win streak tier 5 stones multiplier": {
+    "value": "3",
+    "id": "tournament event win streak tier 5 stones multiplier"
+  },
+  "tournament event win streak tier 5 trophy multiplier": {
+    "value": "1.5",
+    "id": "tournament event win streak tier 5 trophy multiplier"
+  },
+  "tournament event trophy change minimum": {
+    "value": "0",
+    "id": "tournament event trophy change minimum"
+  },
+  "tournament event trophy change maximum": {
+    "value": "40",
+    "id": "tournament event trophy change maximum"
+  },
+  "tournament event trophy change sigmoid base": {
+    "value": "1.005",
+    "id": "tournament event trophy change sigmoid base"
+  },
+  "tournament event minimum trophies": {
+    "value": "50",
+    "id": "tournament event minimum trophies"
+  },
+  "timed key period": {
+    "value": "28800",
+    "id": "timed key period"
+  },
+  "first time buyer pack period": {
+    "value": "28800",
+    "id": "first time buyer pack period"
+  },
+  "UTC offset": {
+    "value": "0",
+    "id": "UTC offset"
+  },
+  "UTC offset daily rewards": {
+    "value": "8",
+    "id": "UTC offset daily rewards"
+  },
+  "UTC offset shop tokens": {
+    "value": "0",
+    "id": "UTC offset shop tokens"
+  },
+  "UTC offset daily goals": {
+    "value": "0",
+    "id": "UTC offset daily goals"
+  },
+  "UTC offset event daily actions": {
+    "value": "0",
+    "id": "UTC offset event daily actions"
+  },
+  "UTC offset daily dungeon": {
+    "value": "0",
+    "id": "UTC offset daily dungeon"
+  },
+  "UTC offset gift packages": {
+    "value": "0",
+    "id": "UTC offset gift packages"
+  },
+  "UTC offset ad units": {
+    "value": "0",
+    "id": "UTC offset ad units"
+  },
+  "extra store item ids for validation": {
+    "value": "90601, 90603, 91010, 90608, 91060, 91061",
+    "id": "extra store item ids for validation"
+  },
+  "game reload time in battle": {
+    "value": "7200",
+    "id": "game reload time in battle"
+  },
+  "game reload time in village": {
+    "value": "600",
+    "id": "game reload time in village"
+  },
+  "start showing goal tips key": {
+    "value": "165",
+    "id": "start showing goal tips key"
+  },
+  "stop showing goal tips key": {
+    "value": "10307",
+    "id": "stop showing goal tips key"
+  },
+  "stop showing goal tips level": {
+    "value": "6",
+    "id": "stop showing goal tips level"
+  },
+  "tutorial arrow indicator vertical offset": {
+    "value": "20",
+    "id": "tutorial arrow indicator vertical offset"
+  },
+  "tutorial goal id": {
+    "value": "200004",
+    "id": "tutorial goal id"
+  },
+  "max goal refresh duration": {
+    "value": "86400",
+    "id": "max goal refresh duration"
+  },
+  "hard mode tutorial battle id": {
+    "value": "402",
+    "id": "hard mode tutorial battle id"
+  },
+  "quick loot tutorial battle id": {
+    "value": "302",
+    "id": "quick loot tutorial battle id"
+  },
+  "speed tutorial battle id": {
+    "value": "203",
+    "id": "speed tutorial battle id"
+  },
+  "pointItemId": {
+    "value": "500000",
+    "id": "pointItemId"
+  },
+  "af offerwall short battle to complete": {
+    "value": "307",
+    "id": "af offerwall short battle to complete"
+  },
+  "af offerwall long player level to reach": {
+    "value": "9",
+    "id": "af offerwall long player level to reach"
+  },
+  "hero grid initial items to create": {
+    "value": "28",
+    "id": "hero grid initial items to create"
+  },
+  "hero grid subsequent items to create": {
+    "value": "5",
+    "id": "hero grid subsequent items to create"
+  },
+  "first pvp placement battle username key": {
+    "value": "Data_UI_FirstPvPOpponentName",
+    "id": "first pvp placement battle username key"
+  },
+  "minimum time between notifications in seconds": {
+    "value": "3600",
+    "id": "minimum time between notifications in seconds"
+  },
+  "weather round delay": {
+    "value": "3",
+    "id": "weather round delay"
+  },
+  "pvp battle end items": {
+    "value": "[ 500000, 500011, 500021 ]",
+    "id": "pvp battle end items"
+  },
+  "big brawl coin multiplier": {
+    "value": "2",
+    "id": "big brawl coin multiplier"
+  },
+  "big brawl crown multiplier": {
+    "value": "2",
+    "id": "big brawl crown multiplier"
+  },
+  "big brawl trophy reset value": {
+    "value": "10000",
+    "id": "big brawl trophy reset value"
+  },
+  "big brawl hud badge": {
+    "value": "Event_BigBrawl",
+    "id": "big brawl hud badge"
+  },
+  "shop preview cooldown hrs": {
+    "value": "6",
+    "id": "shop preview cooldown hrs"
+  },
+  "shop preview chance on loss": {
+    "value": "0",
+    "id": "shop preview chance on loss"
+  },
+  "shop preview chance on win": {
+    "value": "0.5",
+    "id": "shop preview chance on win"
+  },
+  "shop preview chance": {
+    "value": "0.5",
+    "id": "shop preview chance"
+  },
+  "menus ABM download slots": {
+    "value": "3",
+    "id": "menus ABM download slots"
+  },
+  "chars ABM download slots": {
+    "value": "2",
+    "id": "chars ABM download slots"
+  },
+  "env ABM download slots": {
+    "value": "1",
+    "id": "env ABM download slots"
+  },
+  "schedule low level suffix": {
+    "value": "_LowLevel",
+    "id": "schedule low level suffix"
+  },
+  "event rule has race sprite prefix": {
+    "value": "Frame_Race_",
+    "id": "event rule has race sprite prefix"
+  },
+  "auto play tutorial battle id": {
+    "value": "303",
+    "id": "auto play tutorial battle id"
+  },
+  "chat refresh time": {
+    "value": "5",
+    "id": "chat refresh time"
+  },
+  "joinGuildQuestKey": {
+    "value": "20300001",
+    "id": "joinGuildQuestKey"
+  },
+  "daily rewards required key": {
+    "value": "10206",
+    "id": "daily rewards required key"
+  },
+  "notificationColor": {
+    "value": "#7D49FFFF",
+    "id": "notificationColor"
+  },
+  "battle screen top buffer": {
+    "value": "100",
+    "id": "battle screen top buffer"
+  },
+  "tutorial glow thickness": {
+    "value": "12",
+    "id": "tutorial glow thickness"
+  },
+  "default game speed": {
+    "value": "1.3",
+    "id": "default game speed"
+  },
+  "CacheExpireSeconds": {
+    "value": "",
+    "id": "CacheExpireSeconds"
+  },
+  "PrefixChance": {
+    "value": "0.25",
+    "id": "PrefixChance"
+  },
+  "SuffixChance": {
+    "value": "0",
+    "id": "SuffixChance"
+  },
+  "Body2Chance": {
+    "value": "0",
+    "id": "Body2Chance"
+  },
+  "BodyChance": {
+    "value": "1",
+    "id": "BodyChance"
+  },
+  "trophy rule values": {
+    "value": "[1000,2000,3000,4000,5000,6000,7000,8000,9000,10000]",
+    "id": "trophy rule values"
+  },
+  "event rule brawl tier sprite": {
+    "value": "Frame_Arena",
+    "id": "event rule brawl tier sprite"
+  },
+  "event rule trophy multiplier sprite": {
+    "value": "Frame_Trophy",
+    "id": "event rule trophy multiplier sprite"
+  },
+  "cinnabar currency multiplier": {
+    "value": "2",
+    "id": "cinnabar currency multiplier"
+  },
+  "news url prefix": {
+    "value": "http://cdn1.darkmoon.emeraldcitygames.ca/misc/",
+    "id": "news url prefix"
+  },
+  "raid event data update period": {
+    "value": "60",
+    "id": "raid event data update period"
+  },
+  "titan sprite format": {
+    "value": "Hero_{0}_God",
+    "id": "titan sprite format"
+  },
+  "hero collection environment": {
+    "value": "Hero_Collection_01",
+    "id": "hero collection environment"
+  },
+  "max chat messages": {
+    "value": "100",
+    "id": "max chat messages"
+  },
+  "max activity logs": {
+    "value": "25",
+    "id": "max activity logs"
+  },
+  "message decay days": {
+    "value": "14",
+    "id": "message decay days"
+  },
+  "min potion tier to trigger chat": {
+    "value": "5",
+    "id": "min potion tier to trigger chat"
+  },
+  "final tutorial checkpoint key": {
+    "value": "165",
+    "id": "final tutorial checkpoint key"
+  },
+  "vip points item id": {
+    "value": "11",
+    "id": "vip points item id"
+  },
+  "maxMessagesInABlock": {
+    "value": "50",
+    "id": "maxMessagesInABlock"
+  },
+  "minMessageBlockTime": {
+    "value": "10",
+    "id": "minMessageBlockTime"
+  },
+  "vipTutorialStoryID": {
+    "value": "31000600",
+    "id": "vipTutorialStoryID"
+  },
+  "vipTutorialFreePoints": {
+    "value": "500",
+    "id": "vipTutorialFreePoints"
+  },
+  "forge dust itemID": {
+    "value": "23",
+    "id": "forge dust itemID"
+  },
+  "vip daily reward inactive color": {
+    "value": "#808080FF",
+    "id": "vip daily reward inactive color"
+  },
+  "daily dungeon ticket cap": {
+    "value": "2",
+    "id": "daily dungeon ticket cap"
+  },
+  "tower strike decay period": {
+    "value": "14400",
+    "id": "tower strike decay period"
+  },
+  "tower skip floor count": {
+    "value": "10",
+    "id": "tower skip floor count"
+  },
+  "tower max skip floors": {
+    "value": "40",
+    "id": "tower max skip floors"
+  },
+  "tower strike crowns to skip cooldown": {
+    "value": "100",
+    "id": "tower strike crowns to skip cooldown"
+  },
+  "user_activity_active_period": {
+    "value": "1800",
+    "id": "user_activity_active_period"
+  },
+  "user_activity_inactive_period": {
+    "value": "7200",
+    "id": "user_activity_inactive_period"
+  },
+  "max_friend_count": {
+    "value": "25",
+    "id": "max_friend_count"
+  },
+  "limitNewsDownloads": {
+    "value": "1",
+    "id": "limitNewsDownloads"
+  },
+  "friends_readout_format": {
+    "value": "<color=#51FDE9FF>{0}</color>/{1}",
+    "id": "friends_readout_format"
+  },
+  "buddy max friends": {
+    "value": "30",
+    "id": "buddy max friends"
+  },
+  "buddy request cap": {
+    "value": "100",
+    "id": "buddy request cap"
+  },
+  "buddy collect friend coin a day cap": {
+    "value": "50",
+    "id": "buddy collect friend coin a day cap"
+  },
+  "store front default store item ids": {
+    "value": "[90416,90412,90202]",
+    "id": "store front default store item ids"
+  },
+  "village model scene name": {
+    "value": "VillageDefault_Environment",
+    "id": "village model scene name"
+  },
+  "friend menu refresh period": {
+    "value": "0",
+    "id": "friend menu refresh period"
+  },
+  "cdm_gen": {
+    "value": "1",
+    "id": "cdm_gen"
+  },
+  "cdm_inj": {
+    "value": "0",
+    "id": "cdm_inj"
+  },
+  "cdm_obs": {
+    "value": "1",
+    "id": "cdm_obs"
+  },
+  "cdm_bat": {
+    "value": "1",
+    "id": "cdm_bat"
+  },
+  "cdm_min_wait": {
+    "value": "5",
+    "id": "cdm_min_wait"
+  },
+  "cdm_max_wait": {
+    "value": "10",
+    "id": "cdm_max_wait"
+  },
+  "cdm_min_var": {
+    "value": "a",
+    "id": "cdm_min_var"
+  },
+  "cdm_max_var": {
+    "value": "e",
+    "id": "cdm_max_var"
+  },
+  "cdm_max_msg": {
+    "value": "5",
+    "id": "cdm_max_msg"
+  },
+  "cdm_min_wait_02": {
+    "value": "1",
+    "id": "cdm_min_wait_02"
+  },
+  "cdm_max_wait_02": {
+    "value": "2",
+    "id": "cdm_max_wait_02"
+  },
+  "raid event hero picker refresh period": {
+    "value": "5",
+    "id": "raid event hero picker refresh period"
+  },
+  "include platform ids in helpshift metadata": {
+    "value": "1",
+    "id": "include platform ids in helpshift metadata"
+  },
+  "finish preloading streaming assets time out duration": {
+    "value": "60",
+    "id": "finish preloading streaming assets time out duration"
+  },
+  "daily portal vip points for unlocking elite": {
+    "value": "7750",
+    "id": "daily portal vip points for unlocking elite"
+  },
+  "exclusive min enforceable texture size": {
+    "value": "384",
+    "id": "exclusive min enforceable texture size"
+  },
+  "base friendship chance": {
+    "value": "0.2",
+    "id": "base friendship chance"
+  },
+  "racial friendship chance increase": {
+    "value": "0.1",
+    "id": "racial friendship chance increase"
+  },
+  "freeOrbPointsRequired": {
+    "value": "500",
+    "id": "freeOrbPointsRequired"
+  },
+  "Large cover health multiplier": {
+    "value": "1.5",
+    "id": "Large cover health multiplier"
+  },
+  "PvPStamina Refill Seconds": {
+    "value": "3600",
+    "id": "PvPStamina Refill Seconds"
+  },
+  "PvPStamina Refill Increment": {
+    "value": "1",
+    "id": "PvPStamina Refill Increment"
+  },
+  "PvPMatchRefreshCount": {
+    "value": "3",
+    "id": "PvPMatchRefreshCount"
+  },
+  "PvPMatchResetTimeHours": {
+    "value": "4",
+    "id": "PvPMatchResetTimeHours"
+  },
+  "PvPReplayMatchingTimeHours": {
+    "value": "3",
+    "id": "PvPReplayMatchingTimeHours"
+  },
+  "PvPLastActiveMatchTimeDays": {
+    "value": "1",
+    "id": "PvPLastActiveMatchTimeDays"
+  },
+  "PvPOpponentMatchingPowerMultiplier": {
+    "value": "1.0",
+    "id": "PvPOpponentMatchingPowerMultiplier"
+  },
+  "PvPMedalRanges": {
+    "value": "100",
+    "id": "PvPMedalRanges"
+  },
+  "PvPMinimumMedals": {
+    "value": "0",
+    "id": "PvPMinimumMedals"
+  },
+  "ZendeskGameID": {
+    "value": "twdo_ios",
+    "id": "ZendeskGameID"
+  },
+  "ZendeskSubdomain": {
+    "value": "funtactix",
+    "id": "ZendeskSubdomain"
+  },
+  "UserNameMin": {
+    "value": "4",
+    "id": "UserNameMin"
+  },
+  "UserNameMax": {
+    "value": "16",
+    "id": "UserNameMax"
+  },
+  "DailyResetTimeOffsetHours": {
+    "value": "0",
+    "id": "DailyResetTimeOffsetHours"
+  },
+  "Notifications.MinTime": {
+    "value": "120",
+    "id": "Notifications.MinTime"
+  },
+  "Notifications.PriorityCheckTime": {
+    "value": "30",
+    "id": "Notifications.PriorityCheckTime"
+  },
+  "Notifications.QuietTimeStart": {
+    "value": "1899-12-31 10:00:00 PM",
+    "id": "Notifications.QuietTimeStart"
+  },
+  "Notifications.QuietTimeEnd": {
+    "value": "1899-12-31 7:00:00 AM",
+    "id": "Notifications.QuietTimeEnd"
+  },
+  "Notifications.DaysInactive": {
+    "value": "5",
+    "id": "Notifications.DaysInactive"
+  },
+  "Notifications.DaysInactiveFollowUp": {
+    "value": "2",
+    "id": "Notifications.DaysInactiveFollowUp"
+  },
+  "smallIcon": {
+    "value": "Icon_Shop",
+    "id": "smallIcon"
+  },
+  "smallIconColor": {
+    "value": "#FFFFFF",
+    "id": "smallIconColor"
+  },
+  "dailyRewardsNotification": {
+    "value": "1",
+    "id": "dailyRewardsNotification"
+  },
+  "MaxImageDownloads": {
+    "value": "10",
+    "id": "MaxImageDownloads"
+  },
+  "MinRamSizeForImageDownload": {
+    "value": "1024",
+    "id": "MinRamSizeForImageDownload"
+  },
+  "SocialLink_Facebook": {
+    "value": "http://www.facebook.com",
+    "id": "SocialLink_Facebook"
+  },
+  "SocialLink_Instagram": {
+    "value": "http://www.instagram.com",
+    "id": "SocialLink_Instagram"
+  },
+  "SocialLink_Twitter": {
+    "value": "http://www.twitter.com",
+    "id": "SocialLink_Twitter"
+  },
+  "SocialLink_Youtube": {
+    "value": "http://www.youtube.com",
+    "id": "SocialLink_Youtube"
+  },
+  "SocialLink_Forums": {
+    "value": "http://www.reddit.com",
+    "id": "SocialLink_Forums"
+  },
+  "mission dead xp modifier": {
+    "value": "0.6",
+    "id": "mission dead xp modifier"
+  },
+  "max deployed shuttlecraft count": {
+    "value": "3",
+    "id": "max deployed shuttlecraft count"
+  },
+  "gear percent levels absorbed": {
+    "value": "0.1",
+    "id": "gear percent levels absorbed"
+  },
+  "TokenToLatinumExchangeValue": {
+    "value": "100",
+    "id": "TokenToLatinumExchangeValue"
+  },
+  "TechDefensePercent": {
+    "value": "0.38",
+    "id": "TechDefensePercent"
+  },
+  "PVPTutorialUnlockLevel": {
+    "value": "5",
+    "id": "PVPTutorialUnlockLevel"
+  },
+  "AllianceJoinRequestDuration": {
+    "value": "86400",
+    "id": "AllianceJoinRequestDuration"
+  },
+  "AllianceStaminaMax": {
+    "value": "5",
+    "id": "AllianceStaminaMax"
+  },
+  "AllianceStaminaRefillPeriodS": {
+    "value": "86400",
+    "id": "AllianceStaminaRefillPeriodS"
+  },
+  "PVPMatchmaking MedalBracket01": {
+    "value": "50",
+    "id": "PVPMatchmaking MedalBracket01"
+  },
+  "PVPMatchmaking MedalBracket02": {
+    "value": "100",
+    "id": "PVPMatchmaking MedalBracket02"
+  },
+  "PVPMatchmaking MedalBracket03": {
+    "value": "200",
+    "id": "PVPMatchmaking MedalBracket03"
+  }
+}

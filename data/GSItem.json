@@ -1,0 +1,1797 @@
+{
+  "Credits": {
+    "category": "Currency",
+    "currencyType": "Credits",
+    "name": "Common_Credits",
+    "description": "Data_Item_Description_Credits",
+    "icon": "Credits",
+    "iconFull": "Credits",
+    "rarity": "Common",
+    "id": "Credits"
+  },
+  "Latinum": {
+    "category": "Currency",
+    "currencyType": "Latinum",
+    "name": "Common_Latinum",
+    "description": "Data_Item_Description_Latinum",
+    "icon": "Latinum",
+    "iconFull": "Latinum",
+    "rarity": "Rare",
+    "id": "Latinum"
+  },
+  "Dilithium": {
+    "category": "Currency",
+    "currencyType": "Dilithium",
+    "name": "Common_Dilithium",
+    "description": "Data_Item_Description_Dilithium",
+    "icon": "Dilithium",
+    "iconFull": "Dilithium",
+    "rarity": "VeryRare",
+    "id": "Dilithium"
+  },
+  "Tritanium": {
+    "category": "Currency",
+    "currencyType": "Tritanium",
+    "name": "Common_Tritanium",
+    "description": "Data_Item_Description_Tritanium",
+    "icon": "Tritanium",
+    "iconFull": "Tritanium",
+    "rarity": "Common",
+    "id": "Tritanium"
+  },
+  "Player XP": {
+    "category": "Currency",
+    "currencyType": "Xp",
+    "name": "Common_Xp",
+    "description": "Data_Item_Description_Xp",
+    "icon": "Xp",
+    "iconFull": "Xp",
+    "rarity": "Epic",
+    "id": "Player XP"
+  },
+  "PvP Stamina": {
+    "category": "Currency",
+    "currencyType": "PvPStamina",
+    "name": "Common_PvPStamina",
+    "description": "Data_Item_Description_PvPStamina",
+    "icon": "PvPStamina",
+    "iconFull": "PvPStamina",
+    "rarity": "Legendary",
+    "id": "PvP Stamina"
+  },
+  "Alliance Stamina": {
+    "category": "Currency",
+    "currencyType": "AllianceStamina",
+    "name": "Common_AllianceStamina",
+    "description": "Data_Item_Description_AllianceStamina",
+    "icon": "Credits",
+    "iconFull": "Credits",
+    "rarity": "Legendary",
+    "id": "Alliance Stamina"
+  },
+  "Power Cell": {
+    "category": "Currency",
+    "currencyType": "PowerCells",
+    "name": "Common_PowerCell",
+    "description": "Data_Item_Description_PowerCell",
+    "icon": "PowerCell",
+    "iconFull": "PowerCell",
+    "rarity": "Common",
+    "id": "Power Cell"
+  },
+  "EventPoint": {
+    "category": "Currency",
+    "currencyType": "EventPoint",
+    "name": "Common_EventPoint",
+    "description": "Data_Item_Description_EventPoint",
+    "icon": "EventPoint",
+    "iconFull": "EventPoint",
+    "rarity": "Common",
+    "id": "EventPoint"
+  },
+  "PvP Chest Points": {
+    "category": "Currency",
+    "currencyType": "Chest",
+    "name": "Common_ChestCurrency",
+    "description": "Data_Item_Description_ChestCurrency",
+    "icon": "Replicator_PVP_Progression_Blue_Small",
+    "iconFull": "Replicator_PVP_Progression_Blue_Small",
+    "rarity": "Common",
+    "id": "PvP Chest Points"
+  },
+  "Alliance Currency": {
+    "category": "Currency",
+    "currencyType": "AllianceCurrency",
+    "name": "Common_Alliance_Currency",
+    "description": "Data_Item_Description_AllianceCurrency",
+    "icon": "AllianceCrystal_Full",
+    "iconFull": "AllianceCrystal_Full",
+    "rarity": "None",
+    "id": "Alliance Currency"
+  },
+  "BorgQueen": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Borg_Queen_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Legendary",
+    "iconFull": "Token_Legendary",
+    "rarity": "Legendary",
+    "id": "BorgQueen"
+  },
+  "Burnham": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Burnham_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Rare",
+    "iconFull": "Token_Rare",
+    "rarity": "Rare",
+    "id": "Burnham"
+  },
+  "Crusher": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Crusher_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_VeryRare",
+    "iconFull": "Token_VeryRare",
+    "rarity": "VeryRare",
+    "id": "Crusher"
+  },
+  "Culber": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Culber_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Rare",
+    "iconFull": "Token_Rare",
+    "rarity": "Rare",
+    "id": "Culber"
+  },
+  "Data": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Data_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Epic",
+    "iconFull": "Token_Epic",
+    "rarity": "Epic",
+    "id": "Data"
+  },
+  "Doctor": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Doctor_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Epic",
+    "iconFull": "Token_Epic",
+    "rarity": "Epic",
+    "id": "Doctor"
+  },
+  "Dukat": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Dukat_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_VeryRare",
+    "iconFull": "Token_VeryRare",
+    "rarity": "VeryRare",
+    "id": "Dukat"
+  },
+  "GenBorgEng01M": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenBorgEng01M_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenBorgEng01M"
+  },
+  "GenBorgMed01M": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenBorgMed01M_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenBorgMed01M"
+  },
+  "GenBorgSci01M": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenBorgSci01M_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenBorgSci01M"
+  },
+  "GenBorgSec01M": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenBorgSec01M_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenBorgSec01M"
+  },
+  "GenCardCom01M": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenCardCom01M_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenCardCom01M"
+  },
+  "GenCardEng01F": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenCardEng01F_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenCardEng01F"
+  },
+  "GenCardMed01M": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenCardMed01M_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenCardMed01M"
+  },
+  "GenCardSci01F": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenCardSci01F_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenCardSci01F"
+  },
+  "GenCardSec01M": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenCardSec01M_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenCardSec01M"
+  },
+  "GenHumanCom01M": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenHumanCom01M_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenHumanCom01M"
+  },
+  "GenHumanEng01F": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenHumanEng01F_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenHumanEng01F"
+  },
+  "GenHumanMed01M": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenHumanMed01M_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenHumanMed01M"
+  },
+  "GenHumanSci01F": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenHumanSci01F_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenHumanSci01F"
+  },
+  "GenHumanSec01M": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenHumanSec01M_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenHumanSec01M"
+  },
+  "GenKlingCom01M": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenKlingCom01M_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenKlingCom01M"
+  },
+  "GenKlingEng01F": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenKlingEng01F_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenKlingEng01F"
+  },
+  "GenKlingMed01M": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenKlingMed01M_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenKlingMed01M"
+  },
+  "GenKlingSci01F": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenKlingSci01F_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenKlingSci01F"
+  },
+  "GenKlingSec01M": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenKlingSec01M_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenKlingSec01M"
+  },
+  "GenRomuCom01M": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenRomuCom01M_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenRomuCom01M"
+  },
+  "GenRomuEng01F": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenRomuEng01F_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenRomuEng01F"
+  },
+  "GenRomuMed01M": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenRomuMed01M_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenRomuMed01M"
+  },
+  "GenRomuSci01F": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenRomuSci01F_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenRomuSci01F"
+  },
+  "GenRomuSec01M": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_GenRomuSec01M_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Common",
+    "iconFull": "Token_Common",
+    "rarity": "Common",
+    "id": "GenRomuSec01M"
+  },
+  "Geordi": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Geordi_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_VeryRare",
+    "iconFull": "Token_VeryRare",
+    "rarity": "VeryRare",
+    "id": "Geordi"
+  },
+  "Georgiou": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Georgiou_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Epic",
+    "iconFull": "Token_Epic",
+    "rarity": "Epic",
+    "id": "Georgiou"
+  },
+  "Gorn": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Gorn_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Legendary",
+    "iconFull": "Token_Legendary",
+    "rarity": "Legendary",
+    "id": "Gorn"
+  },
+  "Janeway": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Janeway_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_VeryRare",
+    "iconFull": "Token_VeryRare",
+    "rarity": "VeryRare",
+    "id": "Janeway"
+  },
+  "Khan": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Khan_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Legendary",
+    "iconFull": "Token_Legendary",
+    "rarity": "Legendary",
+    "id": "Khan"
+  },
+  "Kirk": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Kirk_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Legendary",
+    "iconFull": "Token_Legendary",
+    "rarity": "Legendary",
+    "id": "Kirk"
+  },
+  "Locutus": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Locutus_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Epic",
+    "iconFull": "Token_Epic",
+    "rarity": "Epic",
+    "id": "Locutus"
+  },
+  "Martok": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Martok_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_VeryRare",
+    "iconFull": "Token_VeryRare",
+    "rarity": "VeryRare",
+    "id": "Martok"
+  },
+  "McCoy": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_McCoy_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Rare",
+    "iconFull": "Token_Rare",
+    "rarity": "Rare",
+    "id": "McCoy"
+  },
+  "Nerys": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Nerys_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Rare",
+    "iconFull": "Token_Rare",
+    "rarity": "Rare",
+    "id": "Nerys"
+  },
+  "Nine": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Nine_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_VeryRare",
+    "iconFull": "Token_VeryRare",
+    "rarity": "VeryRare",
+    "id": "Nine"
+  },
+  "Odo": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Odo_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_VeryRare",
+    "iconFull": "Token_VeryRare",
+    "rarity": "VeryRare",
+    "id": "Odo"
+  },
+  "Phlox": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Phlox_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Epic",
+    "iconFull": "Token_Epic",
+    "rarity": "Epic",
+    "id": "Phlox"
+  },
+  "Picard": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Picard_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Legendary",
+    "iconFull": "Token_Legendary",
+    "rarity": "Legendary",
+    "id": "Picard"
+  },
+  "PicardOld": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_PicardOld_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Legendary",
+    "iconFull": "Token_Legendary",
+    "rarity": "Legendary",
+    "id": "PicardOld"
+  },
+  "Pike": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Pike_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Rare",
+    "iconFull": "Token_Rare",
+    "rarity": "Rare",
+    "id": "Pike"
+  },
+  "Quark": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Quark_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Epic",
+    "iconFull": "Token_Epic",
+    "rarity": "Epic",
+    "id": "Quark"
+  },
+  "Riker": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Riker_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_VeryRare",
+    "iconFull": "Token_VeryRare",
+    "rarity": "VeryRare",
+    "id": "Riker"
+  },
+  "Saru": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Saru_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_VeryRare",
+    "iconFull": "Token_VeryRare",
+    "rarity": "VeryRare",
+    "id": "Saru"
+  },
+  "Scott": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Scott_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Legendary",
+    "iconFull": "Token_Legendary",
+    "rarity": "Legendary",
+    "id": "Scott"
+  },
+  "Sela": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Sela_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Rare",
+    "iconFull": "Token_Rare",
+    "rarity": "Rare",
+    "id": "Sela"
+  },
+  "Sisko": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Sisko_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_VeryRare",
+    "iconFull": "Token_VeryRare",
+    "rarity": "VeryRare",
+    "id": "Sisko"
+  },
+  "Soji": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Soji_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Epic",
+    "iconFull": "Token_Epic",
+    "rarity": "Epic",
+    "id": "Soji"
+  },
+  "Spock": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Spock_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Legendary",
+    "iconFull": "Token_Legendary",
+    "rarity": "Legendary",
+    "id": "Spock"
+  },
+  "Sulu": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Sulu_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Rare",
+    "iconFull": "Token_Rare",
+    "rarity": "Rare",
+    "id": "Sulu"
+  },
+  "Sutra": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Sutra_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Rare",
+    "iconFull": "Token_Rare",
+    "rarity": "Rare",
+    "id": "Sutra"
+  },
+  "Tomalak": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Tomalak_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Epic",
+    "iconFull": "Token_Epic",
+    "rarity": "Epic",
+    "id": "Tomalak"
+  },
+  "Torres": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Torres_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Rare",
+    "iconFull": "Token_Rare",
+    "rarity": "Rare",
+    "id": "Torres"
+  },
+  "TPol": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_TPol_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Rare",
+    "iconFull": "Token_Rare",
+    "rarity": "Rare",
+    "id": "TPol"
+  },
+  "Uhura": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Uhura_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Rare",
+    "iconFull": "Token_Rare",
+    "rarity": "Rare",
+    "id": "Uhura"
+  },
+  "Worf": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Worf_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Rare",
+    "iconFull": "Token_Rare",
+    "rarity": "Rare",
+    "id": "Worf"
+  },
+  "Biomimetic Gel": {
+    "category": "BiomimeticGel",
+    "currencyType": "None",
+    "name": "Data_Items_Item_GelA_name",
+    "description": "Item_XP_Desc",
+    "icon": "BiomimeticGel_Reg",
+    "iconFull": "BiomimeticGel_Reg",
+    "rarity": "Common",
+    "DataBiomimeticGel": {
+      "Xp": 250
+    },
+    "id": "Biomimetic Gel"
+  },
+  "Rare Bio-Gel": {
+    "category": "BiomimeticGel",
+    "currencyType": "None",
+    "name": "Data_Items_Item_GelB_name",
+    "description": "Item_XP_Desc",
+    "icon": "BiomimeticGel_Rare",
+    "iconFull": "BiomimeticGel_Rare",
+    "rarity": "Rare",
+    "DataBiomimeticGel": {
+      "Xp": 750
+    },
+    "id": "Rare Bio-Gel"
+  },
+  "Advanced Bio-Gel": {
+    "category": "BiomimeticGel",
+    "currencyType": "None",
+    "name": "Data_Items_Item_GelC_name",
+    "description": "Item_XP_Desc",
+    "icon": "BiomimeticGel_Advanced",
+    "iconFull": "BiomimeticGel_Advanced",
+    "rarity": "VeryRare",
+    "DataBiomimeticGel": {
+      "Xp": 2500
+    },
+    "id": "Advanced Bio-Gel"
+  },
+  "Elite Bio-Gel": {
+    "category": "BiomimeticGel",
+    "currencyType": "None",
+    "name": "Data_Items_Item_GelD_name",
+    "description": "Item_XP_Desc",
+    "icon": "BiomimeticGel_Elite",
+    "iconFull": "BiomimeticGel_Elite",
+    "rarity": "Epic",
+    "DataBiomimeticGel": {
+      "Xp": 5000
+    },
+    "id": "Elite Bio-Gel"
+  },
+  "Legendary Bio-Gel": {
+    "category": "BiomimeticGel",
+    "currencyType": "None",
+    "name": "Data_Items_Item_GelE_name",
+    "description": "Item_XP_Desc",
+    "icon": "BiomimeticGel_Legendary",
+    "iconFull": "BiomimeticGel_Legendary",
+    "rarity": "Legendary",
+    "DataBiomimeticGel": {
+      "Xp": 15000
+    },
+    "id": "Legendary Bio-Gel"
+  },
+  "Proto Command 01": {
+    "category": "ProtoMatter",
+    "currencyType": "None",
+    "name": "Protomatter_Command",
+    "description": "item_Protomatter_Desc",
+    "icon": "Protomatter_Command",
+    "iconFull": "Protomatter_Command",
+    "rarity": "VeryRare",
+    "id": "Proto Command 01"
+  },
+  "Proto Engineer 01": {
+    "category": "ProtoMatter",
+    "currencyType": "None",
+    "name": "Protomatter_Engineer",
+    "description": "item_Protomatter_Desc",
+    "icon": "Protomatter_Engineering",
+    "iconFull": "Protomatter_Engineering",
+    "rarity": "VeryRare",
+    "id": "Proto Engineer 01"
+  },
+  "Proto Security 01": {
+    "category": "ProtoMatter",
+    "currencyType": "None",
+    "name": "Protomatter_Security",
+    "description": "item_Protomatter_Desc",
+    "icon": "Protomatter_Security",
+    "iconFull": "Protomatter_Security",
+    "rarity": "VeryRare",
+    "id": "Proto Security 01"
+  },
+  "Proto Science 01": {
+    "category": "ProtoMatter",
+    "currencyType": "None",
+    "name": "Protomatter_Science",
+    "description": "item_Protomatter_Desc",
+    "icon": "Protomatter_Science",
+    "iconFull": "Protomatter_Science",
+    "rarity": "VeryRare",
+    "id": "Proto Science 01"
+  },
+  "Proto Medical 01": {
+    "category": "ProtoMatter",
+    "currencyType": "None",
+    "name": "Protomatter_Medical",
+    "description": "item_Protomatter_Desc",
+    "icon": "Protomatter_Medical",
+    "iconFull": "Protomatter_Medical",
+    "rarity": "VeryRare",
+    "id": "Proto Medical 01"
+  },
+  "Medal": {
+    "category": "Item",
+    "currencyType": "None",
+    "name": "Items_Item_Medal_Name",
+    "description": "Items_Item_Medal_Desc",
+    "icon": "Medal",
+    "iconFull": "Medal",
+    "rarity": "Common",
+    "id": "Medal"
+  },
+  "Shards Basic": {
+    "category": "Item",
+    "currencyType": "None",
+    "name": "Data_Items_Item_Name_Shards_Basic",
+    "description": "Data_Items_Item_Description_Shards_Basic",
+    "icon": "NexusOrb_PVP_Legendary",
+    "iconFull": "NexusOrb_PVP_Legendary",
+    "rarity": "Common",
+    "id": "Shards Basic"
+  },
+  "Shards Advanced": {
+    "category": "Item",
+    "currencyType": "None",
+    "name": "Data_Items_Item_Name_Shards_Advanced",
+    "description": "Data_Items_Item_Description_Shards_Advanced",
+    "icon": "NexusOrb_Elite",
+    "iconFull": "NexusOrb_Elite",
+    "rarity": "Rare",
+    "id": "Shards Advanced"
+  },
+  "Shards Elite": {
+    "category": "Item",
+    "currencyType": "None",
+    "name": "Data_Items_Item_Name_Shards_Elite",
+    "description": "Data_Items_Item_Description_Shards_Elite",
+    "icon": "NexusOrb_Lengendary",
+    "iconFull": "NexusOrb_Lengendary",
+    "rarity": "VeryRare",
+    "id": "Shards Elite"
+  },
+  "Shards Credit": {
+    "category": "Item",
+    "currencyType": "None",
+    "name": "Data_Items_Item_Name_Shards_Credit",
+    "description": "Data_Items_Item_Description_Shards_Credit",
+    "icon": "NexusOrb_Advanced",
+    "iconFull": "NexusOrb_Advanced",
+    "rarity": "Common",
+    "id": "Shards Credit"
+  },
+  "Shards Biomimetic": {
+    "category": "Item",
+    "currencyType": "None",
+    "name": "Data_Items_Item_Name_Shards_Biomimetic",
+    "description": "Data_Items_Item_Description_Shards_Biomimetic",
+    "icon": "NexusOrb_Advanced",
+    "iconFull": "NexusOrb_Advanced",
+    "rarity": "Common",
+    "id": "Shards Biomimetic"
+  },
+  "Shards Protomatter": {
+    "category": "Item",
+    "currencyType": "None",
+    "name": "Data_Items_Item_Name_Shards_Protomatter",
+    "description": "Data_Items_Item_Description_Shards_Protomatter",
+    "icon": "NexusOrb_Advanced",
+    "iconFull": "NexusOrb_Advanced",
+    "rarity": "Common",
+    "id": "Shards Protomatter"
+  },
+  "Shards_Worf": {
+    "category": "Item",
+    "currencyType": "None",
+    "name": "Data_Items_Item_Name_Shards_Basic",
+    "description": "Data_Items_Item_Description_Shards_Basic",
+    "icon": "NexusOrbs_Common",
+    "iconFull": "NexusOrbs_Common",
+    "rarity": "Common",
+    "id": "Shards_Worf"
+  },
+  "Shards_McCoy": {
+    "category": "Item",
+    "currencyType": "None",
+    "name": "Data_Items_Item_Name_Shards_Basic",
+    "description": "Data_Items_Item_Description_Shards_Basic",
+    "icon": "NexusOrbs_Common",
+    "iconFull": "NexusOrbs_Common",
+    "rarity": "Common",
+    "id": "Shards_McCoy"
+  },
+  "Avatar Default": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Default",
+    "iconFull": "Avatar_Default",
+    "rarity": "Common",
+    "id": "Avatar Default"
+  },
+  "Avatar BorgQueen Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_BorgQueen_Blue",
+    "iconFull": "Avatar_BorgQueen_Blue",
+    "rarity": "Common",
+    "id": "Avatar BorgQueen Blue"
+  },
+  "Avatar BorgQueen Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_BorgQueen_Red",
+    "iconFull": "Avatar_BorgQueen_Red",
+    "rarity": "Common",
+    "id": "Avatar BorgQueen Red"
+  },
+  "Avatar Burnham Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Burnham_Blue",
+    "iconFull": "Avatar_Burnham_Blue",
+    "rarity": "Common",
+    "id": "Avatar Burnham Blue"
+  },
+  "Avatar Burnham Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Burnham_Red",
+    "iconFull": "Avatar_Burnham_Red",
+    "rarity": "Common",
+    "id": "Avatar Burnham Red"
+  },
+  "Avatar Crusher Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Crusher_Blue",
+    "iconFull": "Avatar_Crusher_Blue",
+    "rarity": "Common",
+    "id": "Avatar Crusher Blue"
+  },
+  "Avatar Crusher Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Crusher_Red",
+    "iconFull": "Avatar_Crusher_Red",
+    "rarity": "Common",
+    "id": "Avatar Crusher Red"
+  },
+  "Avatar Data Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Data_Blue",
+    "iconFull": "Avatar_Data_Blue",
+    "rarity": "Common",
+    "id": "Avatar Data Blue"
+  },
+  "Avatar Data Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Data_Red",
+    "iconFull": "Avatar_Data_Red",
+    "rarity": "Common",
+    "id": "Avatar Data Red"
+  },
+  "Avatar Dukat Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Dukat_Blue",
+    "iconFull": "Avatar_Dukat_Blue",
+    "rarity": "Common",
+    "id": "Avatar Dukat Blue"
+  },
+  "Avatar Dukat Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Dukat_Red",
+    "iconFull": "Avatar_Dukat_Red",
+    "rarity": "Common",
+    "id": "Avatar Dukat Red"
+  },
+  "Avatar GenCardCom01M Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenCardCom01M_Blue",
+    "iconFull": "Avatar_GenCardCom01M_Blue",
+    "rarity": "Common",
+    "id": "Avatar GenCardCom01M Blue"
+  },
+  "Avatar GenCardCom01M Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenCardCom01M_Red",
+    "iconFull": "Avatar_GenCardCom01M_Red",
+    "rarity": "Common",
+    "id": "Avatar GenCardCom01M Red"
+  },
+  "Avatar GenCardEng01F Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenCardEng01F_Blue",
+    "iconFull": "Avatar_GenCardEng01F_Blue",
+    "rarity": "Common",
+    "id": "Avatar GenCardEng01F Blue"
+  },
+  "Avatar GenCardEng01F Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenCardEng01F_Red",
+    "iconFull": "Avatar_GenCardEng01F_Red",
+    "rarity": "Common",
+    "id": "Avatar GenCardEng01F Red"
+  },
+  "Avatar GenCardMed01M Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenCardMed01M_Blue",
+    "iconFull": "Avatar_GenCardMed01M_Blue",
+    "rarity": "Common",
+    "id": "Avatar GenCardMed01M Blue"
+  },
+  "Avatar GenCardMed01M Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenCardMed01M_Red",
+    "iconFull": "Avatar_GenCardMed01M_Red",
+    "rarity": "Common",
+    "id": "Avatar GenCardMed01M Red"
+  },
+  "Avatar GenCardSci01F Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenCardSci01F_Blue",
+    "iconFull": "Avatar_GenCardSci01F_Blue",
+    "rarity": "Common",
+    "id": "Avatar GenCardSci01F Blue"
+  },
+  "Avatar GenCardSci01F Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenCardSci01F_Red",
+    "iconFull": "Avatar_GenCardSci01F_Red",
+    "rarity": "Common",
+    "id": "Avatar GenCardSci01F Red"
+  },
+  "Avatar GenCardSec01M Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenCardSec01M_Blue",
+    "iconFull": "Avatar_GenCardSec01M_Blue",
+    "rarity": "Common",
+    "id": "Avatar GenCardSec01M Blue"
+  },
+  "Avatar GenCardSec01M Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenCardSec01M_Red",
+    "iconFull": "Avatar_GenCardSec01M_Red",
+    "rarity": "Common",
+    "id": "Avatar GenCardSec01M Red"
+  },
+  "Avatar GenHumanCom01M Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenHumanCom01M_Blue",
+    "iconFull": "Avatar_GenHumanCom01M_Blue",
+    "rarity": "Common",
+    "id": "Avatar GenHumanCom01M Blue"
+  },
+  "Avatar GenHumanCom01M Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenHumanCom01M_Red",
+    "iconFull": "Avatar_GenHumanCom01M_Red",
+    "rarity": "Common",
+    "id": "Avatar GenHumanCom01M Red"
+  },
+  "Avatar GenHumanEng01F Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenHumanEng01F_Blue",
+    "iconFull": "Avatar_GenHumanEng01F_Blue",
+    "rarity": "Common",
+    "id": "Avatar GenHumanEng01F Blue"
+  },
+  "Avatar GenHumanEng01F Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenHumanEng01F_Red",
+    "iconFull": "Avatar_GenHumanEng01F_Red",
+    "rarity": "Common",
+    "id": "Avatar GenHumanEng01F Red"
+  },
+  "Avatar GenHumanMed01M Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenHumanMed01M_Blue",
+    "iconFull": "Avatar_GenHumanMed01M_Blue",
+    "rarity": "Common",
+    "id": "Avatar GenHumanMed01M Blue"
+  },
+  "Avatar GenHumanMed01M Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenHumanMed01M_Red",
+    "iconFull": "Avatar_GenHumanMed01M_Red",
+    "rarity": "Common",
+    "id": "Avatar GenHumanMed01M Red"
+  },
+  "Avatar GenHumanSci01F Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenHumanSci01F_Blue",
+    "iconFull": "Avatar_GenHumanSci01F_Blue",
+    "rarity": "Common",
+    "id": "Avatar GenHumanSci01F Blue"
+  },
+  "Avatar GenHumanSci01F Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenHumanSci01F_Red",
+    "iconFull": "Avatar_GenHumanSci01F_Red",
+    "rarity": "Common",
+    "id": "Avatar GenHumanSci01F Red"
+  },
+  "Avatar GenHumanSec01M Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenHumanSec01M_Blue",
+    "iconFull": "Avatar_GenHumanSec01M_Blue",
+    "rarity": "Common",
+    "id": "Avatar GenHumanSec01M Blue"
+  },
+  "Avatar GenHumanSec01M Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenHumanSec01M_Red",
+    "iconFull": "Avatar_GenHumanSec01M_Red",
+    "rarity": "Common",
+    "id": "Avatar GenHumanSec01M Red"
+  },
+  "Avatar GenRomuEng01F Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenRomuEng01F_Blue",
+    "iconFull": "Avatar_GenRomuEng01F_Blue",
+    "rarity": "Common",
+    "id": "Avatar GenRomuEng01F Blue"
+  },
+  "Avatar GenRomuEng01F Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenRomuEng01F_Red",
+    "iconFull": "Avatar_GenRomuEng01F_Red",
+    "rarity": "Common",
+    "id": "Avatar GenRomuEng01F Red"
+  },
+  "Avatar GenRomuSci01F Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenRomuSci01F_Blue",
+    "iconFull": "Avatar_GenRomuSci01F_Blue",
+    "rarity": "Common",
+    "id": "Avatar GenRomuSci01F Blue"
+  },
+  "Avatar GenRomuSci01F Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_GenRomuSci01F_Red",
+    "iconFull": "Avatar_GenRomuSci01F_Red",
+    "rarity": "Common",
+    "id": "Avatar GenRomuSci01F Red"
+  },
+  "Avatar Gorn Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Gorn_Blue",
+    "iconFull": "Avatar_Gorn_Blue",
+    "rarity": "Common",
+    "id": "Avatar Gorn Blue"
+  },
+  "Avatar Gorn Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Gorn_Red",
+    "iconFull": "Avatar_Gorn_Red",
+    "rarity": "Common",
+    "id": "Avatar Gorn Red"
+  },
+  "Avatar Janeway Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Janeway_Blue",
+    "iconFull": "Avatar_Janeway_Blue",
+    "rarity": "Common",
+    "id": "Avatar Janeway Blue"
+  },
+  "Avatar Janeway Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Janeway_Red",
+    "iconFull": "Avatar_Janeway_Red",
+    "rarity": "Common",
+    "id": "Avatar Janeway Red"
+  },
+  "Avatar Khan Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Khan_Blue",
+    "iconFull": "Avatar_Khan_Blue",
+    "rarity": "Common",
+    "id": "Avatar Khan Blue"
+  },
+  "Avatar Khan Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Khan_Red",
+    "iconFull": "Avatar_Khan_Red",
+    "rarity": "Common",
+    "id": "Avatar Khan Red"
+  },
+  "Avatar Kirk Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Kirk_Blue",
+    "iconFull": "Avatar_Kirk_Blue",
+    "rarity": "Common",
+    "id": "Avatar Kirk Blue"
+  },
+  "Avatar Kirk Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Kirk_Red",
+    "iconFull": "Avatar_Kirk_Red",
+    "rarity": "Common",
+    "id": "Avatar Kirk Red"
+  },
+  "Avatar LaForge Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_LaForge_Blue",
+    "iconFull": "Avatar_LaForge_Blue",
+    "rarity": "Common",
+    "id": "Avatar LaForge Blue"
+  },
+  "Avatar LaForge Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_LaForge_Red",
+    "iconFull": "Avatar_LaForge_Red",
+    "rarity": "Common",
+    "id": "Avatar LaForge Red"
+  },
+  "Avatar Locutus Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Locutus_Blue",
+    "iconFull": "Avatar_Locutus_Blue",
+    "rarity": "Common",
+    "id": "Avatar Locutus Blue"
+  },
+  "Avatar Locutus Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Locutus_Red",
+    "iconFull": "Avatar_Locutus_Red",
+    "rarity": "Common",
+    "id": "Avatar Locutus Red"
+  },
+  "Avatar McCoy Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_McCoy_Blue",
+    "iconFull": "Avatar_McCoy_Blue",
+    "rarity": "Common",
+    "id": "Avatar McCoy Blue"
+  },
+  "Avatar McCoy Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_McCoy_Red",
+    "iconFull": "Avatar_McCoy_Red",
+    "rarity": "Common",
+    "id": "Avatar McCoy Red"
+  },
+  "Avatar Nine Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Nine_Blue",
+    "iconFull": "Avatar_Nine_Blue",
+    "rarity": "Common",
+    "id": "Avatar Nine Blue"
+  },
+  "Avatar Nine Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Nine_Red",
+    "iconFull": "Avatar_Nine_Red",
+    "rarity": "Common",
+    "id": "Avatar Nine Red"
+  },
+  "Avatar Odo Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Odo_Blue",
+    "iconFull": "Avatar_Odo_Blue",
+    "rarity": "Common",
+    "id": "Avatar Odo Blue"
+  },
+  "Avatar Odo Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Odo_Red",
+    "iconFull": "Avatar_Odo_Red",
+    "rarity": "Common",
+    "id": "Avatar Odo Red"
+  },
+  "Avatar Phlox Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Phlox_Blue",
+    "iconFull": "Avatar_Phlox_Blue",
+    "rarity": "Common",
+    "id": "Avatar Phlox Blue"
+  },
+  "Avatar Phlox Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Phlox_Red",
+    "iconFull": "Avatar_Phlox_Red",
+    "rarity": "Common",
+    "id": "Avatar Phlox Red"
+  },
+  "Avatar Picard Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Picard_Blue",
+    "iconFull": "Avatar_Picard_Blue",
+    "rarity": "Common",
+    "id": "Avatar Picard Blue"
+  },
+  "Avatar Picard Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Picard_Red",
+    "iconFull": "Avatar_Picard_Red",
+    "rarity": "Common",
+    "id": "Avatar Picard Red"
+  },
+  "Avatar Pike Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Pike_Blue",
+    "iconFull": "Avatar_Pike_Blue",
+    "rarity": "Common",
+    "id": "Avatar Pike Blue"
+  },
+  "Avatar Pike Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Pike_Red",
+    "iconFull": "Avatar_Pike_Red",
+    "rarity": "Common",
+    "id": "Avatar Pike Red"
+  },
+  "Avatar Riker Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Riker_Blue",
+    "iconFull": "Avatar_Riker_Blue",
+    "rarity": "Common",
+    "id": "Avatar Riker Blue"
+  },
+  "Avatar Riker Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Riker_Red",
+    "iconFull": "Avatar_Riker_Red",
+    "rarity": "Common",
+    "id": "Avatar Riker Red"
+  },
+  "Avatar Saru Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Saru_Blue",
+    "iconFull": "Avatar_Saru_Blue",
+    "rarity": "Common",
+    "id": "Avatar Saru Blue"
+  },
+  "Avatar Saru Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Saru_Red",
+    "iconFull": "Avatar_Saru_Red",
+    "rarity": "Common",
+    "id": "Avatar Saru Red"
+  },
+  "Avatar Sela Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Sela_Blue",
+    "iconFull": "Avatar_Sela_Blue",
+    "rarity": "Common",
+    "id": "Avatar Sela Blue"
+  },
+  "Avatar Sela Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Sela_Red",
+    "iconFull": "Avatar_Sela_Red",
+    "rarity": "Common",
+    "id": "Avatar Sela Red"
+  },
+  "Avatar Spock Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Spock_Blue",
+    "iconFull": "Avatar_Spock_Blue",
+    "rarity": "Common",
+    "id": "Avatar Spock Blue"
+  },
+  "Avatar Spock Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Spock_Red",
+    "iconFull": "Avatar_Spock_Red",
+    "rarity": "Common",
+    "id": "Avatar Spock Red"
+  },
+  "Avatar Tomalak Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Tomalak_Blue",
+    "iconFull": "Avatar_Tomalak_Blue",
+    "rarity": "Common",
+    "id": "Avatar Tomalak Blue"
+  },
+  "Avatar Tomalak Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Tomalak_Red",
+    "iconFull": "Avatar_Tomalak_Red",
+    "rarity": "Common",
+    "id": "Avatar Tomalak Red"
+  },
+  "Avatar TPol Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_TPol_Blue",
+    "iconFull": "Avatar_TPol_Blue",
+    "rarity": "Common",
+    "id": "Avatar TPol Blue"
+  },
+  "Avatar TPol Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_TPol_Red",
+    "iconFull": "Avatar_TPol_Red",
+    "rarity": "Common",
+    "id": "Avatar TPol Red"
+  },
+  "Avatar Uhura Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Uhura_Blue",
+    "iconFull": "Avatar_Uhura_Blue",
+    "rarity": "Common",
+    "id": "Avatar Uhura Blue"
+  },
+  "Avatar Uhura Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Uhura_Red",
+    "iconFull": "Avatar_Uhura_Red",
+    "rarity": "Common",
+    "id": "Avatar Uhura Red"
+  },
+  "Avatar Worf Blue": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Worf_Blue",
+    "iconFull": "Avatar_Worf_Blue",
+    "rarity": "Common",
+    "id": "Avatar Worf Blue"
+  },
+  "Avatar Worf Red": {
+    "category": "PlayerAvatar",
+    "currencyType": "None",
+    "icon": "Avatar_Worf_Red",
+    "iconFull": "Avatar_Worf_Red",
+    "rarity": "Common",
+    "id": "Avatar Worf Red"
+  },
+  "Trellium-D": {
+    "category": "Item",
+    "currencyType": "None",
+    "name": "Data_Items_Item_Name_Trellium-D",
+    "description": "Data_Items_Item_Desc_Trellium-D",
+    "icon": "Gearupgrade_Ore_TrelliumD",
+    "iconFull": "Gearupgrade_Ore_TrelliumD",
+    "rarity": "Common",
+    "id": "Trellium-D"
+  },
+  "Duranium": {
+    "category": "Item",
+    "currencyType": "None",
+    "name": "Data_Items_Item_Name_Duranium",
+    "description": "Data_Items_Item_Desc_Duranium",
+    "icon": "Gearupgrade_Ore_Duranium",
+    "iconFull": "Gearupgrade_Ore_Duranium",
+    "rarity": "VeryRare",
+    "id": "Duranium"
+  },
+  "Antiproton": {
+    "category": "Item",
+    "currencyType": "None",
+    "name": "Data_Items_Item_Name_Antiproton",
+    "description": "Data_Items_Item_Desc_Antiproton",
+    "icon": "Gearupgrade_Antimatter_Proton",
+    "iconFull": "Gearupgrade_Antimatter_Proton",
+    "rarity": "Common",
+    "id": "Antiproton"
+  },
+  "Antineutron": {
+    "category": "Item",
+    "currencyType": "None",
+    "name": "Data_Items_Item_Name_Antineutron",
+    "description": "Data_Items_Item_Desc_Antineutron",
+    "icon": "Gearupgrade_Antimatter_Neutron",
+    "iconFull": "Gearupgrade_Antimatter_Neutron",
+    "rarity": "VeryRare",
+    "id": "Antineutron"
+  },
+  "Xenylon": {
+    "category": "Item",
+    "currencyType": "None",
+    "name": "Data_Items_Item_Name_Xenylon",
+    "description": "Data_Items_Item_Desc_Xenylon",
+    "icon": "Gearupgrade_Cloth_Xenylon",
+    "iconFull": "Gearupgrade_Cloth_Xenylon",
+    "rarity": "Common",
+    "id": "Xenylon"
+  },
+  "Andorian Silk": {
+    "category": "Item",
+    "currencyType": "None",
+    "name": "Data_Items_Item_Name_Andorian_Silk",
+    "description": "Data_Items_Item_Desc_Andorian_Silk",
+    "icon": "Gearupgrade_Cloth_AndorianSilk",
+    "iconFull": "Gearupgrade_Cloth_AndorianSilk",
+    "rarity": "VeryRare",
+    "id": "Andorian Silk"
+  },
+  "Celebrate": {
+    "category": "Emote",
+    "currencyType": "None",
+    "name": "Data_Item_Emote_CelebrateMartok",
+    "description": "Data_Items_Desc_Emote",
+    "icon": "Emote_CelebrateMartok",
+    "iconFull": "Emote_CelebrateMartok",
+    "rarity": "Common",
+    "id": "Celebrate"
+  },
+  "ThumbsUp": {
+    "category": "Emote",
+    "currencyType": "None",
+    "name": "Data_Item_Emote_ThumbsUpPicard",
+    "description": "Data_Items_Desc_Emote",
+    "icon": "Emote_ThumbsUpPicard",
+    "iconFull": "Emote_ThumbsUpPicard",
+    "rarity": "Common",
+    "id": "ThumbsUp"
+  },
+  "ThumbsDown": {
+    "category": "Emote",
+    "currencyType": "None",
+    "name": "Data_Item_Emote_ThumbsDownKhan",
+    "description": "Data_Items_Desc_Emote",
+    "icon": "Emote_ThumbsDownKhan",
+    "iconFull": "Emote_ThumbsDownKhan",
+    "rarity": "Common",
+    "id": "ThumbsDown"
+  },
+  "Sly": {
+    "category": "Emote",
+    "currencyType": "None",
+    "name": "Data_Item_Emote_SlySmugRiker",
+    "description": "Data_Items_Desc_Emote",
+    "icon": "Emote_SlySmugRiker",
+    "iconFull": "Emote_SlySmugRiker",
+    "rarity": "Common",
+    "id": "Sly"
+  },
+  "Sleeping": {
+    "category": "Emote",
+    "currencyType": "None",
+    "name": "Data_Item_Emote_SleepyData",
+    "description": "Data_Items_Desc_Emote",
+    "icon": "Emote_SleepyData",
+    "iconFull": "Emote_SleepyData",
+    "rarity": "Common",
+    "id": "Sleeping"
+  },
+  "Happy": {
+    "category": "Emote",
+    "currencyType": "None",
+    "name": "Data_Item_Emote_HappySisko",
+    "description": "Data_Items_Desc_Emote",
+    "icon": "Emote_HappySisko",
+    "iconFull": "Emote_HappySisko",
+    "rarity": "Common",
+    "id": "Happy"
+  },
+  "Screaming": {
+    "category": "Emote",
+    "currencyType": "None",
+    "name": "Data_Item_Emote_ScreamSutra",
+    "description": "Data_Items_Desc_Emote",
+    "icon": "Emote_ScreamSutra",
+    "iconFull": "Emote_ScreamSutra",
+    "rarity": "Common",
+    "id": "Screaming"
+  },
+  "Sad": {
+    "category": "Emote",
+    "currencyType": "None",
+    "name": "Data_Item_Emote_SadSpock",
+    "description": "Data_Items_Desc_Emote",
+    "icon": "Emote_SadSpock",
+    "iconFull": "Emote_SadSpock",
+    "rarity": "Common",
+    "id": "Sad"
+  },
+  "Love": {
+    "category": "Emote",
+    "currencyType": "None",
+    "name": "Data_Item_Emote_LoveTpol",
+    "description": "Data_Items_Desc_Emote",
+    "icon": "Emote_LoveTpol",
+    "iconFull": "Emote_LoveTpol",
+    "rarity": "Common",
+    "id": "Love"
+  },
+  "Bored": {
+    "category": "Emote",
+    "currencyType": "None",
+    "name": "Data_Item_Emote_BoredChekov",
+    "description": "Data_Items_Desc_Emote",
+    "icon": "Emote_BoredChekov",
+    "iconFull": "Emote_BoredChekov",
+    "rarity": "Common",
+    "id": "Bored"
+  },
+  "Surprised": {
+    "category": "Emote",
+    "currencyType": "None",
+    "name": "Data_Item_Emote_SurprisedJaneway",
+    "description": "Data_Items_Desc_Emote",
+    "icon": "Emote_SurprisedJaneway",
+    "iconFull": "Emote_SurprisedJaneway",
+    "rarity": "Common",
+    "id": "Surprised"
+  },
+  "Laughing": {
+    "category": "Emote",
+    "currencyType": "None",
+    "name": "Data_Item_Emote_LaughingUhura",
+    "description": "Data_Items_Desc_Emote",
+    "icon": "Emote_LaughingUhura",
+    "iconFull": "Emote_LaughingUhura",
+    "rarity": "Common",
+    "id": "Laughing"
+  },
+  "Wink": {
+    "category": "Emote",
+    "currencyType": "None",
+    "name": "Data_Item_Emote_WinkPike",
+    "description": "Data_Items_Desc_Emote",
+    "icon": "Emote_WinkPike",
+    "iconFull": "Emote_WinkPike",
+    "rarity": "Common",
+    "id": "Wink"
+  },
+  "Thinking": {
+    "category": "Emote",
+    "currencyType": "None",
+    "name": "Data_Item_Emote_ThinkingScottie",
+    "description": "Data_Items_Desc_Emote",
+    "icon": "Emote_ThinkingScottie",
+    "iconFull": "Emote_ThinkingScottie",
+    "rarity": "Common",
+    "id": "Thinking"
+  },
+  "Unamused": {
+    "category": "Emote",
+    "currencyType": "None",
+    "name": "Data_Item_Emote_UnamusedTuvok",
+    "description": "Data_Items_Desc_Emote",
+    "icon": "Emote_UnamusedTuvok",
+    "iconFull": "Emote_UnamusedTuvok",
+    "rarity": "Common",
+    "id": "Unamused"
+  },
+  "Worried": {
+    "category": "Emote",
+    "currencyType": "None",
+    "name": "Data_Item_Emote_WorriedTroi",
+    "description": "Data_Items_Desc_Emote",
+    "icon": "Emote_WorriedTroi",
+    "iconFull": "Emote_WorriedTroi",
+    "rarity": "Common",
+    "id": "Worried"
+  },
+  "Excited": {
+    "category": "Emote",
+    "currencyType": "None",
+    "name": "Data_Item_Emote_ExcitedSoji",
+    "description": "Data_Items_Desc_Emote",
+    "icon": "Emote_ExcitedSoji",
+    "iconFull": "Emote_ExcitedSoji",
+    "rarity": "Common",
+    "id": "Excited"
+  },
+  "Confused": {
+    "category": "Emote",
+    "currencyType": "None",
+    "name": "Data_Item_Emote_ConfusedTomalak",
+    "description": "Data_Items_Desc_Emote",
+    "icon": "Emote_ConfusedTomalak",
+    "iconFull": "Emote_ConfusedTomalak",
+    "rarity": "Common",
+    "id": "Confused"
+  },
+  "Upset": {
+    "category": "Emote",
+    "currencyType": "None",
+    "name": "Data_Item_Emote_UpsetDukat",
+    "description": "Data_Items_Desc_Emote",
+    "icon": "Emote_UpsetDukat",
+    "iconFull": "Emote_UpsetDukat",
+    "rarity": "Common",
+    "id": "Upset"
+  },
+  "Angry": {
+    "category": "Emote",
+    "currencyType": "None",
+    "name": "Data_Item_Emote_AngryWorf",
+    "description": "Data_Items_Desc_Emote",
+    "icon": "Emote_AngryWorf",
+    "iconFull": "Emote_AngryWorf",
+    "rarity": "Common",
+    "id": "Angry"
+  }
+}

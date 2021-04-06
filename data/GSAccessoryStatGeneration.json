@@ -1,0 +1,47 @@
+{
+  "Health": {
+    "Stat": "Health",
+    "Weight": 100,
+    "id": "Health"
+  },
+  "Attack": {
+    "Stat": "Attack",
+    "Weight": 100,
+    "id": "Attack"
+  },
+  "Defense": {
+    "Stat": "Defense",
+    "Weight": 100,
+    "id": "Defense"
+  },
+  "Tech": {
+    "Stat": "Tech",
+    "Weight": 100,
+    "id": "Tech"
+  },
+  "CritChance": {
+    "Stat": "CritChance",
+    "Weight": 100,
+    "id": "CritChance"
+  },
+  "CritDamage": {
+    "Stat": "CritDamage",
+    "Weight": 100,
+    "id": "CritDamage"
+  },
+  "GlancingChance": {
+    "Stat": "GlancingChance",
+    "Weight": 100,
+    "id": "GlancingChance"
+  },
+  "GlancingDamage": {
+    "Stat": "GlancingDamage",
+    "Weight": 100,
+    "id": "GlancingDamage"
+  },
+  "Resolve": {
+    "Stat": "Resolve",
+    "Weight": 0,
+    "id": "Resolve"
+  }
+}

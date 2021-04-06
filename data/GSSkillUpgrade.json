@@ -1,0 +1,6464 @@
+{
+  "GSSkillKey(id = \"test_attack\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 400,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 400,
+      "Dilithium": 0,
+      "Latinum": 400,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "test_attack",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"test_skill1\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 600,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 600,
+      "Dilithium": 0,
+      "Latinum": 600,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "test_skill1",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"test_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 800,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 800,
+      "Dilithium": 0,
+      "Latinum": 800,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "test_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"test_skill3charge\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 2000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 2000,
+      "Dilithium": 0,
+      "Latinum": 2000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "test_skill3charge",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"test_Charged\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 2400,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 2400,
+      "Dilithium": 0,
+      "Latinum": 2400,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "test_Charged",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"test_skill3counter\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 2800,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 2800,
+      "Dilithium": 0,
+      "Latinum": 2800,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "test_skill3counter",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"test_counter\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 6400,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 6400,
+      "Dilithium": 0,
+      "Latinum": 6400,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "test_counter",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"test_skill3bomb\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 7200,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 7200,
+      "Dilithium": 0,
+      "Latinum": 7200,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "test_skill3bomb",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"borgqueen_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "borgqueen_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"borgqueen_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "borgqueen_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"borgqueen_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "borgqueen_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"borgqueen_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "borgqueen_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"borgqueen_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "borgqueen_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"borgqueen_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "borgqueen_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"burnham_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "burnham_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"burnham_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "burnham_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"burnham_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "burnham_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"crusher_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "crusher_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"crusher_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "crusher_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"crusher_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "crusher_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"crusher_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "crusher_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"crusher_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "crusher_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"crusher_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "crusher_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"culber_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "culber_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"culber_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "culber_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"culber_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "culber_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"culber_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "culber_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"data_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "data_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"data_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "data_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"data_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "data_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"data_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "data_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"data_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "data_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"data_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "data_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"doctor_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "doctor_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"doctor_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "doctor_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"doctor_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "doctor_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"doctor_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "doctor_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"doctor_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "doctor_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"doctor_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "doctor_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"dukat_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "dukat_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"dukat_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "dukat_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"dukat_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "dukat_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"dukat_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "dukat_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"dukat_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "dukat_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"dukat_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "dukat_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genBorgEng_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genBorgEng_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genBorgEng_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genBorgEng_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genBorgEng_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genBorgEng_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genBorgEng_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genBorgEng_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genBorgMed_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genBorgMed_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genBorgMed_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genBorgMed_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genBorgMed_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genBorgMed_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genBorgMed_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genBorgMed_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genBorgSci_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genBorgSci_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genBorgSci_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genBorgSci_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genBorgSci_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genBorgSci_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genBorgSci_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genBorgSci_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genBorgSec_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genBorgSec_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genBorgSec_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genBorgSec_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genBorgSec_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genBorgSec_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genBorgSec_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genBorgSec_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genCardCom_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genCardCom_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genCardCom_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genCardCom_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genCardCom_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genCardCom_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genCardCom_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genCardCom_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genCardEng_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genCardEng_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genCardEng_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genCardEng_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genCardEng_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genCardEng_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genCardEng_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genCardEng_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genCardMed_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genCardMed_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genCardMed_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genCardMed_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genCardMed_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genCardMed_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genCardMed_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genCardMed_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genCardSci_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genCardSci_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genCardSci_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genCardSci_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genCardSci_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genCardSci_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genCardSci_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genCardSci_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genCardSec_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genCardSec_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genCardSec_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genCardSec_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genCardSec_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genCardSec_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genCardSec_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genCardSec_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genHumanCom_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genHumanCom_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genHumanCom_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genHumanCom_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genHumanCom_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genHumanCom_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genHumanCom_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genHumanCom_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genHumanEng_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genHumanEng_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genHumanEng_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genHumanEng_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genHumanEng_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genHumanEng_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genHumanEng_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genHumanEng_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genHumanMed_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genHumanMed_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genHumanMed_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genHumanMed_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genHumanMed_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genHumanMed_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genHumanMed_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genHumanMed_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genHumanSci_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genHumanSci_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genHumanSci_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genHumanSci_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genHumanSci_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genHumanSci_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genHumanSci_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genHumanSci_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genHumanSec_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genHumanSec_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genHumanSec_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genHumanSec_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genHumanSec_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genHumanSec_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genHumanSec_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genHumanSec_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genKlingCom_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genKlingCom_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genKlingCom_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genKlingCom_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genKlingCom_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genKlingCom_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genKlingCom_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genKlingCom_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genKlingEng_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genKlingEng_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genKlingEng_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genKlingEng_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genKlingEng_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genKlingEng_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genKlingEng_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genKlingEng_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genKlingMed_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genKlingMed_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genKlingMed_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genKlingMed_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genKlingMed_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genKlingMed_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genKlingMed_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genKlingMed_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genKlingSci_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genKlingSci_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genKlingSci_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genKlingSci_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genKlingSci_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genKlingSci_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genKlingSci_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genKlingSci_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genKlingSec_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genKlingSec_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genKlingSec_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genKlingSec_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genKlingSec_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genKlingSec_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genKlingSec_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genKlingSec_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genRomuCom_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genRomuCom_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genRomuCom_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genRomuCom_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genRomuCom_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genRomuCom_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genRomuCom_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genRomuCom_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genRomuEng_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genRomuEng_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genRomuEng_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genRomuEng_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genRomuEng_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genRomuEng_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genRomuEng_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genRomuEng_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genRomuMed_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genRomuMed_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genRomuMed_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genRomuMed_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genRomuMed_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genRomuMed_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genRomuMed_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genRomuMed_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genRomuSci_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genRomuSci_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genRomuSci_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genRomuSci_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genRomuSci_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genRomuSci_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genRomuSci_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genRomuSci_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genRomuSec_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genRomuSec_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genRomuSec_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genRomuSec_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"genRomuSec_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genRomuSec_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"genRomuSec_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "genRomuSec_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"geordi_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "geordi_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"geordi_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "geordi_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"geordi_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "geordi_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"geordi_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "geordi_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"geordi_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "geordi_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"geordi_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "geordi_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"georgiou_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "georgiou_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"georgiou_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "georgiou_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"georgiou_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "georgiou_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"georgiou_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "georgiou_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"georgiou_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "georgiou_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"georgiou_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "georgiou_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"gorn_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "gorn_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"gorn_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "gorn_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"gorn_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "gorn_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"gorn_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "gorn_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"janeway_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "janeway_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"janeway_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "janeway_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"janeway_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "janeway_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"janeway_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "janeway_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"janeway_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "janeway_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"janeway_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "janeway_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"khan_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "khan_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"khan_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "khan_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"khan_skill1\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "khan_skill1",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"khan_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "khan_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"khan_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "khan_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"khan_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "khan_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"kirk_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "kirk_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"kirk_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "kirk_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"kirk_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "kirk_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"kirk_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "kirk_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"kirk_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "kirk_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"kirk_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "kirk_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"locutus_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "locutus_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"locutus_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "locutus_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"locutus_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "locutus_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"locutus_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "locutus_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"locutus_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "locutus_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"locutus_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "locutus_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"martok_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "martok_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"martok_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "martok_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"martok_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "martok_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"martok_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "martok_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"martok_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "martok_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"martok_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "martok_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"mccoy_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "mccoy_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"mccoy_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "mccoy_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"mccoy_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "mccoy_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"mccoy_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "mccoy_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"mccoy_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "mccoy_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"mccoy_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "mccoy_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"nerys_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "nerys_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"nerys_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "nerys_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"nerys_skill1\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "nerys_skill1",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"nerys_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "nerys_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"nine_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "nine_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"nine_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "nine_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"nine_skill1\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "nine_skill1",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"nine_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "nine_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"odo_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "odo_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"odo_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "odo_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"odo_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "odo_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"odo_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "odo_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"odo_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "odo_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"odo_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "odo_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"phlox_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "phlox_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"phlox_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "phlox_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"phlox_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "phlox_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"phlox_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "phlox_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"phlox_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "phlox_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"phlox_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Medical 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "phlox_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"picard_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "picard_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"picard_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "picard_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"picard_skill1\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "picard_skill1",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"picard_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "picard_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"picard_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "picard_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"picard_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "picard_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"picardOld_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "picardOld_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"picardOld_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "picardOld_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"picardOld_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "picardOld_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"picardOld_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "picardOld_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"picardOld_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "picardOld_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"picardOld_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "picardOld_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"pike_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "pike_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"pike_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "pike_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"pike_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "pike_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"pike_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "pike_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"pike_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "pike_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"pike_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "pike_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"quark_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "quark_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"quark_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "quark_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"quark_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "quark_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"quark_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "quark_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"quark_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "quark_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"quark_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "quark_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"riker_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "riker_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"riker_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "riker_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"riker_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "riker_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"riker_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "riker_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"riker_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "riker_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"riker_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "riker_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"saru_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "saru_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"saru_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "saru_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"saru_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "saru_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"saru_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "saru_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"saru_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "saru_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"saru_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "saru_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"scott_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "scott_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"scott_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "scott_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"scott_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "scott_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"scott_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "scott_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"scott_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "scott_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"scott_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "scott_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"sela_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "sela_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"sela_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "sela_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"sela_skill1\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "sela_skill1",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"sela_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "sela_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"sisko_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "sisko_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"sisko_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "sisko_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"sisko_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "sisko_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"sisko_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "sisko_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"sisko_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "sisko_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"sisko_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "sisko_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"soji_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "soji_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"soji_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "soji_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"soji_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "soji_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"soji_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "soji_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"soji_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "soji_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"soji_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "soji_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"spock_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "spock_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"spock_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "spock_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"spock_skill1\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "spock_skill1",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"spock_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "spock_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"spock_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "spock_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"spock_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "spock_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"sulu_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "sulu_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"sulu_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "sulu_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"sulu_skill1\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "sulu_skill1",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"sulu_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "sulu_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"sutra_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "sutra_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"sutra_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "sutra_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"sutra_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "sutra_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"sutra_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "sutra_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"tomalak_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "tomalak_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"tomalak_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "tomalak_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"tomalak_skill2_in\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "tomalak_skill2_in",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"tomalak_skill2_in\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "tomalak_skill2_in",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"torres_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "torres_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"torres_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "torres_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"torres_skill1\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "torres_skill1",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"torres_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "torres_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"tpol_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "tpol_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"tpol_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "tpol_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"tpol_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "tpol_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"tpol_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "tpol_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"uhura_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "uhura_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"uhura_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "uhura_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"uhura_skill1\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "uhura_skill1",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"uhura_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Science 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "uhura_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"worf_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "worf_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"worf_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "worf_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"worf_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "worf_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"worf_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "worf_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"worf_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "worf_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"worf_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "worf_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"torchbearer_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "torchbearer_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"torchbearer_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "torchbearer_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"torchbearer_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "torchbearer_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"torchbearer_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "torchbearer_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"stamets_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "stamets_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"stamets_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "stamets_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"stamets_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "stamets_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"stamets_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "stamets_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"stamets_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "stamets_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"stamets_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "stamets_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"elnor_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "elnor_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"elnor_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "elnor_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"elnor_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "elnor_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"elnor_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "elnor_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"elnor_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "elnor_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"elnor_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "elnor_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"tilly_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "tilly_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"tilly_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "tilly_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"tilly_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "tilly_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"tilly_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "tilly_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"tilly_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "tilly_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"tilly_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Engineer 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "tilly_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"troi_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "troi_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"troi_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "troi_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"troi_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "troi_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"troi_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "troi_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"troi_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "troi_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"troi_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "troi_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"chekov_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "chekov_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"chekov_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "chekov_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"chekov_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "chekov_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"chekov_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "chekov_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"chekov_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "chekov_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"chekov_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "chekov_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"tuvok_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "tuvok_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"tuvok_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "tuvok_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"tuvok_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "tuvok_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"tuvok_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "tuvok_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"tuvok_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "tuvok_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"tuvok_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "tuvok_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"chang_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "chang_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"chang_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "chang_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"chang_skill1\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "chang_skill1",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"chang_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "chang_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"chang_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "chang_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"chang_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "chang_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"garak_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "garak_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"garak_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "garak_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"garak_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "garak_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"garak_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "garak_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"garak_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "garak_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"garak_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Security 01": 10
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "garak_skill3",
+      "level": 2
+    }
+  }
+}

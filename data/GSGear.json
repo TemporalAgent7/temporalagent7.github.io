@@ -1,0 +1,988 @@
+{
+  "Starfleet PADD 2256 Command": {
+    "m_Type": "Role",
+    "m_CharID": "",
+    "m_Role": "Command",
+    "m_Slot": 0,
+    "m_NameLocKey": "Gear_Gear_Name_Role_01",
+    "m_DescLocKey": "Gear_Gear_Desc_Role_01",
+    "m_TriviaLocKey": "",
+    "m_Icon": "Gears_Generic_Engineering",
+    "m_Stats": [
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 18.1412
+      },
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.6713
+      },
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 3.2642
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Starfleet PADD 2256 Command"
+  },
+  "Starfleet PADD 2256 Science": {
+    "m_Type": "Role",
+    "m_CharID": "",
+    "m_Role": "Science",
+    "m_Slot": 0,
+    "m_NameLocKey": "Gear_Gear_Name_Role_01",
+    "m_DescLocKey": "Gear_Gear_Desc_Role_02",
+    "m_TriviaLocKey": "",
+    "m_Icon": "Gears_Generic_Engineering",
+    "m_Stats": [
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 18.1412
+      },
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 5.4403
+      },
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.4028
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Starfleet PADD 2256 Science"
+  },
+  "Starfleet PADD 2256 Security": {
+    "m_Type": "Role",
+    "m_CharID": "",
+    "m_Role": "Security",
+    "m_Slot": 0,
+    "m_NameLocKey": "Gear_Gear_Name_Role_01",
+    "m_DescLocKey": "Gear_Gear_Desc_Role_03",
+    "m_TriviaLocKey": "",
+    "m_Icon": "Gears_Generic_Engineering",
+    "m_Stats": [
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 18.1412
+      },
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 3.8633
+      },
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 3.2642
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Starfleet PADD 2256 Security"
+  },
+  "Starfleet PADD 2256 Medical": {
+    "m_Type": "Role",
+    "m_CharID": "",
+    "m_Role": "Medical",
+    "m_Slot": 0,
+    "m_NameLocKey": "Gear_Gear_Name_Role_01",
+    "m_DescLocKey": "Gear_Gear_Desc_Role_04",
+    "m_TriviaLocKey": "",
+    "m_Icon": "Gears_Generic_Engineering",
+    "m_Stats": [
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 18.1412
+      },
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.6713
+      },
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 2.318
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Starfleet PADD 2256 Medical"
+  },
+  "Starfleet PADD 2256 Engineering": {
+    "m_Type": "Role",
+    "m_CharID": "",
+    "m_Role": "Engineering",
+    "m_Slot": 0,
+    "m_NameLocKey": "Gear_Gear_Name_Role_01",
+    "m_DescLocKey": "Gear_Gear_Desc_Role_05",
+    "m_TriviaLocKey": "",
+    "m_Icon": "Gears_Generic_Engineering",
+    "m_Stats": [
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 18.1412
+      },
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 5.4403
+      },
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.4028
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Starfleet PADD 2256 Engineering"
+  },
+  "Type II Phaser 2256 Command": {
+    "m_Type": "Role",
+    "m_CharID": "",
+    "m_Role": "Command",
+    "m_Slot": 1,
+    "m_NameLocKey": "Gear_Gear_Name_Role_02",
+    "m_DescLocKey": "Gear_Gear_Desc_Role_06",
+    "m_TriviaLocKey": "",
+    "m_Icon": "Gears_Generic_Security",
+    "m_Stats": [
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 4.636
+      },
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 5.4403
+      },
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.4028
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Type II Phaser 2256 Command"
+  },
+  "Type II Phaser 2256 Science": {
+    "m_Type": "Role",
+    "m_CharID": "",
+    "m_Role": "Science",
+    "m_Slot": 1,
+    "m_NameLocKey": "Gear_Gear_Name_Role_02",
+    "m_DescLocKey": "Gear_Gear_Desc_Role_07",
+    "m_TriviaLocKey": "",
+    "m_Icon": "Gears_Generic_Security",
+    "m_Stats": [
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 4.636
+      },
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.6713
+      },
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 3.2642
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Type II Phaser 2256 Science"
+  },
+  "Type II Phaser 2256 Security": {
+    "m_Type": "Role",
+    "m_CharID": "",
+    "m_Role": "Security",
+    "m_Slot": 1,
+    "m_NameLocKey": "Gear_Gear_Name_Role_02",
+    "m_DescLocKey": "Gear_Gear_Desc_Role_08",
+    "m_TriviaLocKey": "",
+    "m_Icon": "Gears_Generic_Security",
+    "m_Stats": [
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 4.636
+      },
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 15.1177
+      },
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.4028
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Type II Phaser 2256 Security"
+  },
+  "Type II Phaser 2256 Medical": {
+    "m_Type": "Role",
+    "m_CharID": "",
+    "m_Role": "Medical",
+    "m_Slot": 1,
+    "m_NameLocKey": "Gear_Gear_Name_Role_02",
+    "m_DescLocKey": "Gear_Gear_Desc_Role_09",
+    "m_TriviaLocKey": "",
+    "m_Icon": "Gears_Generic_Security",
+    "m_Stats": [
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 4.636
+      },
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 5.4403
+      },
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.4028
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Type II Phaser 2256 Medical"
+  },
+  "Type II Phaser 2256 Engineering": {
+    "m_Type": "Role",
+    "m_CharID": "",
+    "m_Role": "Engineering",
+    "m_Slot": 1,
+    "m_NameLocKey": "Gear_Gear_Name_Role_02",
+    "m_DescLocKey": "Gear_Gear_Desc_Role_10",
+    "m_TriviaLocKey": "",
+    "m_Icon": "Gears_Generic_Security",
+    "m_Stats": [
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 4.636
+      },
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 15.1177
+      },
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 3.2642
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Type II Phaser 2256 Engineering"
+  },
+  "Tricorder 2256 Command": {
+    "m_Type": "Role",
+    "m_CharID": "",
+    "m_Role": "Command",
+    "m_Slot": 3,
+    "m_NameLocKey": "Gear_Gear_Name_Role_03",
+    "m_DescLocKey": "Gear_Gear_Desc_Role_11",
+    "m_TriviaLocKey": "",
+    "m_Icon": "Gears_Generic_Science",
+    "m_Stats": [
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 6.5284
+      },
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 15.1177
+      },
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 2.318
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Tricorder 2256 Command"
+  },
+  "Tricorder 2256 Science": {
+    "m_Type": "Role",
+    "m_CharID": "",
+    "m_Role": "Science",
+    "m_Slot": 3,
+    "m_NameLocKey": "Gear_Gear_Name_Role_03",
+    "m_DescLocKey": "Gear_Gear_Desc_Role_12",
+    "m_TriviaLocKey": "",
+    "m_Icon": "Gears_Generic_Science",
+    "m_Stats": [
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 6.5284
+      },
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 3.8633
+      },
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 9.0706
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Tricorder 2256 Science"
+  },
+  "Tricorder 2256 Security": {
+    "m_Type": "Role",
+    "m_CharID": "",
+    "m_Role": "Security",
+    "m_Slot": 3,
+    "m_NameLocKey": "Gear_Gear_Name_Role_03",
+    "m_DescLocKey": "Gear_Gear_Desc_Role_13",
+    "m_TriviaLocKey": "",
+    "m_Icon": "Gears_Generic_Science",
+    "m_Stats": [
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 6.5284
+      },
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.6713
+      },
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 9.0706
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Tricorder 2256 Security"
+  },
+  "Tricorder 2256 Medical": {
+    "m_Type": "Role",
+    "m_CharID": "",
+    "m_Role": "Medical",
+    "m_Slot": 3,
+    "m_NameLocKey": "Gear_Gear_Name_Role_03",
+    "m_DescLocKey": "Gear_Gear_Desc_Role_14",
+    "m_TriviaLocKey": "",
+    "m_Icon": "Gears_Generic_Science",
+    "m_Stats": [
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 6.5284
+      },
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 3.8633
+      },
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 9.0706
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Tricorder 2256 Medical"
+  },
+  "Tricorder 2256 Engineering": {
+    "m_Type": "Role",
+    "m_CharID": "",
+    "m_Role": "Engineering",
+    "m_Slot": 3,
+    "m_NameLocKey": "Gear_Gear_Name_Role_03",
+    "m_DescLocKey": "Gear_Gear_Desc_Role_15",
+    "m_TriviaLocKey": "",
+    "m_Icon": "Gears_Generic_Science",
+    "m_Stats": [
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 6.5284
+      },
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.6713
+      },
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 2.318
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Tricorder 2256 Engineering"
+  },
+  "Communicator 2256 Command": {
+    "m_Type": "Role",
+    "m_CharID": "",
+    "m_Role": "Command",
+    "m_Slot": 2,
+    "m_NameLocKey": "Gear_Gear_Name_Role_04",
+    "m_DescLocKey": "Gear_Gear_Desc_Role_16",
+    "m_TriviaLocKey": "",
+    "m_Icon": "Gears_Generic_Command",
+    "m_Stats": [
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.8056
+      },
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 3.8633
+      },
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 9.0706
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Communicator 2256 Command"
+  },
+  "Communicator 2256 Science": {
+    "m_Type": "Role",
+    "m_CharID": "",
+    "m_Role": "Science",
+    "m_Slot": 2,
+    "m_NameLocKey": "Gear_Gear_Name_Role_04",
+    "m_DescLocKey": "Gear_Gear_Desc_Role_17",
+    "m_TriviaLocKey": "",
+    "m_Icon": "Gears_Generic_Command",
+    "m_Stats": [
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.8056
+      },
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 15.1177
+      },
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 2.318
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Communicator 2256 Science"
+  },
+  "Communicator 2256 Security": {
+    "m_Type": "Role",
+    "m_CharID": "",
+    "m_Role": "Security",
+    "m_Slot": 2,
+    "m_NameLocKey": "Gear_Gear_Name_Role_04",
+    "m_DescLocKey": "Gear_Gear_Desc_Role_18",
+    "m_TriviaLocKey": "",
+    "m_Icon": "Gears_Generic_Command",
+    "m_Stats": [
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.8056
+      },
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 5.4403
+      },
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 2.318
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Communicator 2256 Security"
+  },
+  "Communicator 2256 Medical": {
+    "m_Type": "Role",
+    "m_CharID": "",
+    "m_Role": "Medical",
+    "m_Slot": 2,
+    "m_NameLocKey": "Gear_Gear_Name_Role_04",
+    "m_DescLocKey": "Gear_Gear_Desc_Role_19",
+    "m_TriviaLocKey": "",
+    "m_Icon": "Gears_Generic_Command",
+    "m_Stats": [
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.8056
+      },
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 15.1177
+      },
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 3.2642
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Communicator 2256 Medical"
+  },
+  "Communicator 2256 Engineering": {
+    "m_Type": "Role",
+    "m_CharID": "",
+    "m_Role": "Engineering",
+    "m_Slot": 2,
+    "m_NameLocKey": "Gear_Gear_Name_Role_04",
+    "m_DescLocKey": "Gear_Gear_Desc_Role_20",
+    "m_TriviaLocKey": "",
+    "m_Icon": "Gears_Generic_Command",
+    "m_Stats": [
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.8056
+      },
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 3.8633
+      },
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 9.0706
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Communicator 2256 Engineering"
+  },
+  "IDIC Medalion": {
+    "m_Type": "Unique",
+    "m_CharID": "Spock",
+    "m_Role": "None",
+    "m_Slot": 1,
+    "m_NameLocKey": "Gear_Gear_Name_Unique_01",
+    "m_DescLocKey": "Gear_Gear_Desc_Unique_01",
+    "m_TriviaLocKey": "Gear_Gear_Trivia_Unique_01",
+    "m_Icon": "Gears_Unique_SpockIDICPendant",
+    "m_Stats": [
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 5.856
+      },
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.848
+      },
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 4.1232
+      }
+    ],
+    "m_SkillID": "",
+    "id": "IDIC Medalion"
+  },
+  "Earl Grey Tea": {
+    "m_Type": "Unique",
+    "m_CharID": "Picard",
+    "m_Role": "None",
+    "m_Slot": 3,
+    "m_NameLocKey": "Gear_Gear_Name_Unique_02",
+    "m_DescLocKey": "Gear_Gear_Desc_Unique_02",
+    "m_TriviaLocKey": "Gear_Gear_Trivia_Unique_02",
+    "m_Icon": "Gears_Unique_PicardEarlGrey",
+    "m_Stats": [
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 8.2464
+      },
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 19.096
+      },
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 2.928
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Earl Grey Tea"
+  },
+  "Woodchopping Axe": {
+    "m_Type": "Unique",
+    "m_CharID": "Kirk",
+    "m_Role": "None",
+    "m_Slot": 1,
+    "m_NameLocKey": "Gear_Gear_Name_Unique_03",
+    "m_DescLocKey": "Gear_Gear_Desc_Unique_03",
+    "m_TriviaLocKey": "Gear_Gear_Trivia_Unique_03",
+    "m_Icon": "Gears_Unique_KirkAxe",
+    "m_Stats": [
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 5.856
+      },
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 6.872
+      },
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.5088
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Woodchopping Axe"
+  },
+  "Buckle Necklace": {
+    "m_Type": "Unique",
+    "m_CharID": "Khan",
+    "m_Role": "None",
+    "m_Slot": 1,
+    "m_NameLocKey": "Gear_Gear_Name_Unique_04",
+    "m_DescLocKey": "Gear_Gear_Desc_Unique_04",
+    "m_TriviaLocKey": "Gear_Gear_Trivia_Unique_04",
+    "m_Icon": "Gears_Unique_KhanPendant",
+    "m_Stats": [
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 5.856
+      },
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 6.872
+      },
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.5088
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Buckle Necklace"
+  },
+  "Synthetic Body Suit": {
+    "m_Type": "Unique",
+    "m_CharID": "BorgQueen",
+    "m_Role": "None",
+    "m_Slot": 1,
+    "m_NameLocKey": "Gear_Gear_Name_Unique_05",
+    "m_DescLocKey": "Gear_Gear_Desc_Unique_05",
+    "m_TriviaLocKey": "Gear_Gear_Trivia_Unique_05",
+    "m_Icon": "Gears_Unique_BorgQueenSuit",
+    "m_Stats": [
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 5.856
+      },
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 6.872
+      },
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.5088
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Synthetic Body Suit"
+  },
+  "Boulder": {
+    "m_Type": "Unique",
+    "m_CharID": "Gorn",
+    "m_Role": "None",
+    "m_Slot": 0,
+    "m_NameLocKey": "Gear_Gear_Name_Unique_06",
+    "m_DescLocKey": "Gear_Gear_Desc_Unique_06",
+    "m_TriviaLocKey": "Gear_Gear_Trivia_Unique_06",
+    "m_Icon": "Gears_Unique_GornBoulder",
+    "m_Stats": [
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 22.9152
+      },
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 4.88
+      },
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 4.1232
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Boulder"
+  },
+  "Calibration Spanner": {
+    "m_Type": "Unique",
+    "m_CharID": "Scott",
+    "m_Role": "None",
+    "m_Slot": 3,
+    "m_NameLocKey": "Gear_Gear_Name_Unique_07",
+    "m_DescLocKey": "Gear_Gear_Desc_Unique_07",
+    "m_TriviaLocKey": "Gear_Gear_Trivia_Unique_07",
+    "m_Icon": "Gears_Unique_ScottyCalibrationScanner",
+    "m_Stats": [
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 8.2464
+      },
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.848
+      },
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 2.928
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Calibration Spanner"
+  },
+  "Picard Wine": {
+    "m_Type": "Unique",
+    "m_CharID": "PicardOld",
+    "m_Role": "None",
+    "m_Slot": 3,
+    "m_NameLocKey": "Gear_Gear_Name_Unique_08",
+    "m_DescLocKey": "Gear_Gear_Desc_Unique_08",
+    "m_TriviaLocKey": "Gear_Gear_Trivia_Unique_08",
+    "m_Icon": "Gears_Unique_PicardWine",
+    "m_Stats": [
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 8.2464
+      },
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 19.096
+      },
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 2.928
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Picard Wine"
+  },
+  "Detective Hat": {
+    "m_Type": "Unique",
+    "m_CharID": "Data",
+    "m_Role": "None",
+    "m_Slot": 0,
+    "m_NameLocKey": "Gear_Gear_Name_Unique_09",
+    "m_DescLocKey": "Gear_Gear_Desc_Unique_09",
+    "m_TriviaLocKey": "Gear_Gear_Trivia_Unique_09",
+    "m_Icon": "Gears_Unique_DataHat",
+    "m_Stats": [
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 22.9152
+      },
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 6.872
+      },
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.5088
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Detective Hat"
+  },
+  "Facial Attachment": {
+    "m_Type": "Unique",
+    "m_CharID": "Locutus",
+    "m_Role": "None",
+    "m_Slot": 1,
+    "m_NameLocKey": "Gear_Gear_Name_Unique_10",
+    "m_DescLocKey": "Gear_Gear_Desc_Unique_10",
+    "m_TriviaLocKey": "Gear_Gear_Trivia_Unique_10",
+    "m_Icon": "Gears_Unique_LocutuAttachment",
+    "m_Stats": [
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 5.856
+      },
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 19.096
+      },
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.5088
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Facial Attachment"
+  },
+  "Osmotic Eel": {
+    "m_Type": "Unique",
+    "m_CharID": "Phlox",
+    "m_Role": "None",
+    "m_Slot": 0,
+    "m_NameLocKey": "Gear_Gear_Name_Unique_11",
+    "m_DescLocKey": "Gear_Gear_Desc_Unique_11",
+    "m_TriviaLocKey": "Gear_Gear_Trivia_Unique_11",
+    "m_Icon": "Gears_Unique_PhloxOsmoticEel",
+    "m_Stats": [
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 22.9152
+      },
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.848
+      },
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 2.928
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Osmotic Eel"
+  },
+  "Romulan Emblem": {
+    "m_Type": "Unique",
+    "m_CharID": "Tomalak",
+    "m_Role": "None",
+    "m_Slot": 3,
+    "m_NameLocKey": "Gear_Gear_Name_Unique_12",
+    "m_DescLocKey": "Gear_Gear_Desc_Unique_12",
+    "m_TriviaLocKey": "Gear_Gear_Trivia_Unique_12",
+    "m_Icon": "Gears_Unique_TomalakBelt",
+    "m_Stats": [
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 8.2464
+      },
+      {
+        "m_Type": "Health",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 19.096
+      },
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 2.928
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Romulan Emblem"
+  },
+  "Mobile Holo-Emitter": {
+    "m_Type": "Unique",
+    "m_CharID": "Doctor",
+    "m_Role": "None",
+    "m_Slot": 1,
+    "m_NameLocKey": "Gear_Gear_Name_Unique_13",
+    "m_DescLocKey": "Gear_Gear_Desc_Unique_13",
+    "m_TriviaLocKey": "Gear_Gear_Trivia_Unique_13",
+    "m_Icon": "Gears_Unique_ DoctorHoloEmitter",
+    "m_Stats": [
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 5.856
+      },
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 6.872
+      },
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.5088
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Mobile Holo-Emitter"
+  },
+  "Disk Blade": {
+    "m_Type": "Unique",
+    "m_CharID": "Georgiou",
+    "m_Role": "None",
+    "m_Slot": 1,
+    "m_NameLocKey": "Gear_Gear_Name_Unique_14",
+    "m_DescLocKey": "Gear_Gear_Desc_Unique_14",
+    "m_TriviaLocKey": "Gear_Gear_Trivia_Unique_14",
+    "m_Icon": "Gears_Unique_GeorgiouDisk",
+    "m_Stats": [
+      {
+        "m_Type": "Attack",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 5.856
+      },
+      {
+        "m_Type": "Tech",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 6.872
+      },
+      {
+        "m_Type": "Defense",
+        "m_BaseValue": 0.0,
+        "m_IncreaseValue": 0.5088
+      }
+    ],
+    "m_SkillID": "",
+    "id": "Disk Blade"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "MaxHealth": {
+    "MinValue": 10.0,
+    "MaxValue": 35.0,
+    "PowerWeight": 10.0,
+    "id": "MaxHealth"
+  },
+  "Attack": {
+    "MinValue": 4.0,
+    "MaxValue": 10.0,
+    "PowerWeight": 10.0,
+    "id": "Attack"
+  },
+  "Defense": {
+    "MinValue": 0.0,
+    "MaxValue": 3.0,
+    "PowerWeight": 10.0,
+    "id": "Defense"
+  },
+  "Tech": {
+    "MinValue": 0.0,
+    "MaxValue": 15.0,
+    "PowerWeight": 10.0,
+    "id": "Tech"
+  },
+  "Speed": {
+    "MinValue": 5.0,
+    "MaxValue": 20.0,
+    "PowerWeight": 10.0,
+    "id": "Speed"
+  },
+  "CritChance": {
+    "MinValue": 0.01,
+    "MaxValue": 0.1,
+    "PowerWeight": 10.0,
+    "id": "CritChance"
+  },
+  "CritDamage": {
+    "MinValue": 1.1,
+    "MaxValue": 1.5,
+    "PowerWeight": 10.0,
+    "id": "CritDamage"
+  },
+  "GlancingChance": {
+    "MinValue": 0.01,
+    "MaxValue": 0.15,
+    "PowerWeight": 10.0,
+    "id": "GlancingChance"
+  },
+  "GlancingDamage": {
+    "MinValue": 0.05,
+    "MaxValue": 0.3,
+    "PowerWeight": 10.0,
+    "id": "GlancingDamage"
+  },
+  "Resolve": {
+    "MinValue": 0.04,
+    "MaxValue": 0.13,
+    "PowerWeight": 10.0,
+    "id": "Resolve"
+  }
+}

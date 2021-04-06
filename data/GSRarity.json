@@ -1,0 +1,27 @@
+{
+  "Common": {
+    "Rarity": "Common",
+    "StatModifier": 1.0,
+    "id": "Common"
+  },
+  "Rare": {
+    "Rarity": "Rare",
+    "StatModifier": 1.0,
+    "id": "Rare"
+  },
+  "VeryRare": {
+    "Rarity": "VeryRare",
+    "StatModifier": 1.0,
+    "id": "VeryRare"
+  },
+  "Epic": {
+    "Rarity": "Epic",
+    "StatModifier": 1.0,
+    "id": "Epic"
+  },
+  "Legendary": {
+    "Rarity": "Legendary",
+    "StatModifier": 1.0,
+    "id": "Legendary"
+  }
+}

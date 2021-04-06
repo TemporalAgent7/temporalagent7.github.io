@@ -1,0 +1,626 @@
+{
+  "0": {
+    "name": "Common_League_0",
+    "desc": "Common_League_Desc_0",
+    "medalValue": "100",
+    "medalEnd": 100,
+    "rankLimit": 2147483647,
+    "tooltip": "League0",
+    "icon": "Icon_League01",
+    "arena": "Map_TrainingRoom_Final",
+    "stage": "Default",
+    "battle": "Pvp_PvpTier_0",
+    "pvpStaminaMax": 5,
+    "costPvPStamina": 1,
+    "rewardChestCurrency": 20,
+    "rewardEnergyCap": 100,
+    "lossPowerCell": 0,
+    "battleLogPowerCells": 0,
+    "rewardPowerCells": [
+      0,
+      2,
+      3,
+      5
+    ],
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 80,
+        "Player XP": 80
+      },
+      "FirstAmount": 80,
+      "Dilithium": 0,
+      "Latinum": 80,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": 0
+  },
+  "1": {
+    "name": "Common_League_1",
+    "desc": "Common_League_Desc_1",
+    "medalValue": "300",
+    "medalEnd": 300,
+    "rankLimit": 2147483647,
+    "tooltip": "League1",
+    "icon": "Icon_League02",
+    "arena": "Map_TrainingRoom_Final",
+    "stage": "Default",
+    "battle": "Pvp_PvpTier_1",
+    "pvpStaminaMax": 5,
+    "costPvPStamina": 1,
+    "rewardChestCurrency": 20,
+    "rewardEnergyCap": 100,
+    "lossPowerCell": 0,
+    "battleLogPowerCells": 0,
+    "rewardPowerCells": [
+      0,
+      3,
+      5,
+      8
+    ],
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 140,
+        "Player XP": 140
+      },
+      "FirstAmount": 140,
+      "Dilithium": 0,
+      "Latinum": 140,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": 1
+  },
+  "2": {
+    "name": "Common_League_2",
+    "desc": "Common_League_Desc_2",
+    "medalValue": "1300",
+    "medalEnd": 1300,
+    "rankLimit": 2147483647,
+    "tooltip": "League2",
+    "icon": "Icon_League02",
+    "arena": "Map_TrainingRoom_Final",
+    "stage": "Default",
+    "battle": "Pvp_PvpTier_2",
+    "pvpStaminaMax": 5,
+    "costPvPStamina": 1,
+    "rewardChestCurrency": 20,
+    "rewardEnergyCap": 100,
+    "lossPowerCell": 0,
+    "battleLogPowerCells": 0,
+    "rewardPowerCells": [
+      0,
+      4,
+      7,
+      11
+    ],
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 200,
+        "Player XP": 200
+      },
+      "FirstAmount": 200,
+      "Dilithium": 0,
+      "Latinum": 200,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": 2
+  },
+  "3": {
+    "name": "Common_League_3",
+    "desc": "Common_League_Desc_3",
+    "medalValue": "2700",
+    "medalEnd": 2700,
+    "rankLimit": 2147483647,
+    "tooltip": "League3",
+    "icon": "Icon_League02",
+    "arena": "Map_TrainingRoom_Final",
+    "stage": "Default",
+    "battle": "Pvp_PvpTier_3",
+    "pvpStaminaMax": 5,
+    "costPvPStamina": 1,
+    "rewardChestCurrency": 20,
+    "rewardEnergyCap": 100,
+    "lossPowerCell": 0,
+    "battleLogPowerCells": 0,
+    "rewardPowerCells": [
+      0,
+      5,
+      9,
+      14
+    ],
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 250,
+        "Player XP": 250
+      },
+      "FirstAmount": 250,
+      "Dilithium": 0,
+      "Latinum": 250,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": 3
+  },
+  "4": {
+    "name": "Common_League_4",
+    "desc": "Common_League_Desc_4",
+    "medalValue": "4600",
+    "medalEnd": 4600,
+    "rankLimit": 2147483647,
+    "tooltip": "League4",
+    "icon": "Icon_League03",
+    "arena": "Map_TrainingRoom_Final",
+    "stage": "Default",
+    "battle": "Pvp_PvpTier_4",
+    "pvpStaminaMax": 5,
+    "costPvPStamina": 1,
+    "rewardChestCurrency": 20,
+    "rewardEnergyCap": 100,
+    "lossPowerCell": 0,
+    "battleLogPowerCells": 0,
+    "rewardPowerCells": [
+      0,
+      6,
+      11,
+      17
+    ],
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 310,
+        "Player XP": 310
+      },
+      "FirstAmount": 310,
+      "Dilithium": 0,
+      "Latinum": 310,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": 4
+  },
+  "5": {
+    "name": "Common_League_5",
+    "desc": "Common_League_Desc_5",
+    "medalValue": "7000",
+    "medalEnd": 7000,
+    "rankLimit": 2147483647,
+    "tooltip": "League5",
+    "icon": "Icon_League03",
+    "arena": "Map_TrainingRoom_Final",
+    "stage": "Default",
+    "battle": "Pvp_PvpTier_5",
+    "pvpStaminaMax": 5,
+    "costPvPStamina": 1,
+    "rewardChestCurrency": 20,
+    "rewardEnergyCap": 100,
+    "lossPowerCell": 0,
+    "battleLogPowerCells": 0,
+    "rewardPowerCells": [
+      0,
+      7,
+      13,
+      20
+    ],
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 370,
+        "Player XP": 370
+      },
+      "FirstAmount": 370,
+      "Dilithium": 0,
+      "Latinum": 370,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": 5
+  },
+  "6": {
+    "name": "Common_League_6",
+    "desc": "Common_League_Desc_6",
+    "medalValue": "12700",
+    "medalEnd": 12700,
+    "rankLimit": 2147483647,
+    "tooltip": "League6",
+    "icon": "Icon_League03",
+    "arena": "Map_TrainingRoom_Final",
+    "stage": "Default",
+    "battle": "Pvp_PvpTier_6",
+    "pvpStaminaMax": 5,
+    "costPvPStamina": 1,
+    "rewardChestCurrency": 20,
+    "rewardEnergyCap": 100,
+    "lossPowerCell": 0,
+    "battleLogPowerCells": 0,
+    "rewardPowerCells": [
+      0,
+      8,
+      15,
+      23
+    ],
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 430,
+        "Player XP": 430
+      },
+      "FirstAmount": 430,
+      "Dilithium": 0,
+      "Latinum": 430,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": 6
+  },
+  "7": {
+    "name": "Common_League_7",
+    "desc": "Common_League_Desc_7",
+    "medalValue": "19400",
+    "medalEnd": 19400,
+    "rankLimit": 2147483647,
+    "tooltip": "League7",
+    "icon": "Icon_League03",
+    "arena": "Map_TrainingRoom_Final",
+    "stage": "Default",
+    "battle": "Pvp_PvpTier_7",
+    "pvpStaminaMax": 5,
+    "costPvPStamina": 1,
+    "rewardChestCurrency": 20,
+    "rewardEnergyCap": 100,
+    "lossPowerCell": 0,
+    "battleLogPowerCells": 0,
+    "rewardPowerCells": [
+      0,
+      9,
+      17,
+      26
+    ],
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 490,
+        "Player XP": 490
+      },
+      "FirstAmount": 490,
+      "Dilithium": 0,
+      "Latinum": 490,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": 7
+  },
+  "8": {
+    "name": "Common_League_8",
+    "desc": "Common_League_Desc_8",
+    "medalValue": "27000",
+    "medalEnd": 27000,
+    "rankLimit": 2147483647,
+    "tooltip": "League8",
+    "icon": "Icon_League03",
+    "arena": "Map_TrainingRoom_Final",
+    "stage": "Default",
+    "battle": "Pvp_PvpTier_8",
+    "pvpStaminaMax": 5,
+    "costPvPStamina": 1,
+    "rewardChestCurrency": 20,
+    "rewardEnergyCap": 100,
+    "lossPowerCell": 0,
+    "battleLogPowerCells": 0,
+    "rewardPowerCells": [
+      0,
+      10,
+      19,
+      29
+    ],
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 540,
+        "Player XP": 540
+      },
+      "FirstAmount": 540,
+      "Dilithium": 0,
+      "Latinum": 540,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": 8
+  },
+  "9": {
+    "name": "Common_League_9",
+    "desc": "Common_League_Desc_9",
+    "medalValue": "35600",
+    "medalEnd": 35600,
+    "rankLimit": 2147483647,
+    "tooltip": "League9",
+    "icon": "Icon_League04",
+    "arena": "Map_TrainingRoom_Final",
+    "stage": "Default",
+    "battle": "Pvp_PvpTier_9",
+    "pvpStaminaMax": 5,
+    "costPvPStamina": 1,
+    "rewardChestCurrency": 20,
+    "rewardEnergyCap": 100,
+    "lossPowerCell": 0,
+    "battleLogPowerCells": 0,
+    "rewardPowerCells": [
+      0,
+      11,
+      21,
+      32
+    ],
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 600,
+        "Player XP": 600
+      },
+      "FirstAmount": 600,
+      "Dilithium": 0,
+      "Latinum": 600,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": 9
+  },
+  "10": {
+    "name": "Common_League_10",
+    "desc": "Common_League_Desc_10",
+    "medalValue": "45100",
+    "medalEnd": 45100,
+    "rankLimit": 2147483647,
+    "tooltip": "League10",
+    "icon": "Icon_League04",
+    "arena": "Map_TrainingRoom_Final",
+    "stage": "Default",
+    "battle": "Pvp_PvpTier_10",
+    "pvpStaminaMax": 5,
+    "costPvPStamina": 1,
+    "rewardChestCurrency": 20,
+    "rewardEnergyCap": 100,
+    "lossPowerCell": 0,
+    "battleLogPowerCells": 0,
+    "rewardPowerCells": [
+      0,
+      12,
+      23,
+      35
+    ],
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 700,
+        "Player XP": 700
+      },
+      "FirstAmount": 700,
+      "Dilithium": 0,
+      "Latinum": 700,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": 10
+  },
+  "11": {
+    "name": "Common_League_11",
+    "desc": "Common_League_Desc_11",
+    "medalValue": "60800",
+    "medalEnd": 60800,
+    "rankLimit": 2147483647,
+    "tooltip": "League11",
+    "icon": "Icon_League04",
+    "arena": "Map_TrainingRoom_Final",
+    "stage": "Default",
+    "battle": "Pvp_PvpTier_11",
+    "pvpStaminaMax": 5,
+    "costPvPStamina": 1,
+    "rewardChestCurrency": 20,
+    "rewardEnergyCap": 100,
+    "lossPowerCell": 0,
+    "battleLogPowerCells": 0,
+    "rewardPowerCells": [
+      0,
+      13,
+      25,
+      38
+    ],
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 900,
+        "Player XP": 900
+      },
+      "FirstAmount": 900,
+      "Dilithium": 0,
+      "Latinum": 900,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": 11
+  },
+  "12": {
+    "name": "Common_League_12",
+    "desc": "Common_League_Desc_12",
+    "medalValue": "77900",
+    "medalEnd": 77900,
+    "rankLimit": 2147483647,
+    "tooltip": "League12",
+    "icon": "Icon_League04",
+    "arena": "Map_TrainingRoom_Final",
+    "stage": "Default",
+    "battle": "Pvp_PvpTier_12",
+    "pvpStaminaMax": 5,
+    "costPvPStamina": 1,
+    "rewardChestCurrency": 20,
+    "rewardEnergyCap": 100,
+    "lossPowerCell": 0,
+    "battleLogPowerCells": 0,
+    "rewardPowerCells": [
+      0,
+      14,
+      27,
+      41
+    ],
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1060,
+        "Player XP": 1060
+      },
+      "FirstAmount": 1060,
+      "Dilithium": 0,
+      "Latinum": 1060,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": 12
+  },
+  "13": {
+    "name": "Common_League_13",
+    "desc": "Common_League_Desc_13",
+    "medalValue": "MAX",
+    "medalEnd": 2147483647,
+    "rankLimit": 2147483647,
+    "tooltip": "League13",
+    "icon": "Icon_League04",
+    "arena": "Map_TrainingRoom_Final",
+    "stage": "Default",
+    "battle": "Pvp_PvpTier_13",
+    "pvpStaminaMax": 5,
+    "costPvPStamina": 1,
+    "rewardChestCurrency": 20,
+    "rewardEnergyCap": 100,
+    "lossPowerCell": 0,
+    "battleLogPowerCells": 0,
+    "rewardPowerCells": [
+      0,
+      15,
+      29,
+      44
+    ],
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1750,
+        "Player XP": 1750
+      },
+      "FirstAmount": 1750,
+      "Dilithium": 0,
+      "Latinum": 1750,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": 13
+  },
+  "14": {
+    "name": "Common_League_14",
+    "desc": "Common_League_Desc_14",
+    "medalValue": "TOP500",
+    "medalEnd": 2147483647,
+    "rankLimit": 500,
+    "tooltip": "League14",
+    "icon": "Icon_League05",
+    "arena": "Map_TrainingRoom_Final",
+    "stage": "Default",
+    "battle": "Pvp_PvpTier_14",
+    "pvpStaminaMax": 5,
+    "costPvPStamina": 1,
+    "rewardChestCurrency": 20,
+    "rewardEnergyCap": 100,
+    "lossPowerCell": 0,
+    "battleLogPowerCells": 0,
+    "rewardPowerCells": [
+      0,
+      16,
+      31,
+      47
+    ],
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 2700,
+        "Player XP": 2700
+      },
+      "FirstAmount": 2700,
+      "Dilithium": 0,
+      "Latinum": 2700,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": 14
+  },
+  "15": {
+    "name": "Common_League_15",
+    "desc": "Common_League_Desc_15",
+    "medalValue": "TOP30",
+    "medalEnd": 2147483647,
+    "rankLimit": 30,
+    "tooltip": "League15",
+    "icon": "Icon_League05",
+    "arena": "Map_TrainingRoom_Final",
+    "stage": "Default",
+    "battle": "Pvp_PvpTier_15",
+    "pvpStaminaMax": 5,
+    "costPvPStamina": 1,
+    "rewardChestCurrency": 20,
+    "rewardEnergyCap": 100,
+    "lossPowerCell": 0,
+    "battleLogPowerCells": 0,
+    "rewardPowerCells": [
+      0,
+      17,
+      33,
+      50
+    ],
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 3500,
+        "Player XP": 3500
+      },
+      "FirstAmount": 3500,
+      "Dilithium": 0,
+      "Latinum": 3500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": 15
+  }
+}
