@@ -1,0 +1,19 @@
+{
+  "name": "stl-dc",
+  "version": "0.0.1",
+  "description": "Star Trek: Legends DataCore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TemporalAgent7/LegendsDataCore.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/TemporalAgent7/LegendsDataCore/issues"
+  },
+  "homepage": "https://github.com/TemporalAgent7/LegendsDataCore#readme"
+}
