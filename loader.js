@@ -46,4 +46,4 @@ fetch('characters.json')
 			});
 		});
 	})
-	.catch((err) => console.error(`Error in fetching the URLs json (${err})`));
+	.catch((err) => console.error(`Error in fetching the json (${err})`));
