@@ -51,22 +51,41 @@ public class DeserializeData
 
     public void Start()
     {
-        convertBytesToJson("GSCharacter");
-        convertBytesToJson("GSBaseStat");
-        convertBytesToJson("GSGear");
-        convertBytesToJson("GSGearLevel");
-        convertBytesToJson("GSItem");
-        convertBytesToJson("GSLevel");
-        convertBytesToJson("GSMorale");
-        convertBytesToJson("GSProperties");
-        convertBytesToJson("GSPvPLeagues");
-        convertBytesToJson("GSRank");
-        convertBytesToJson("GSRarity");
-        convertBytesToJson("GSSkill");
-        convertBytesToJson("GSSkillUpgrade");
         convertBytesToJson("GSAccessoryItems");
         convertBytesToJson("GSAccessoryStatGeneration");
         convertBytesToJson("GSAccessoryStatGrowth");
         convertBytesToJson("GSAccessoryUpgrading");
+        convertBytesToJson("GSBaseStat");
+        convertBytesToJson("GSBattle");
+        convertBytesToJson("GSBattleEnemy");
+        convertBytesToJson("GSBattleModifier");
+        convertBytesToJson("GSCharacter");
+        convertBytesToJson("GSCutSceneDialogue");
+        convertBytesToJson("GSCutSceneStory");
+        convertBytesToJson("GSEffect");
+        convertBytesToJson("GSEffectType");
+        convertBytesToJson("GSEpisodes");
+        convertBytesToJson("GSGear");
+        convertBytesToJson("GSGearLevel");
+        convertBytesToJson("GSItem");
+        convertBytesToJson("GSLevel");
+        convertBytesToJson("GSMissionEffects");
+        convertBytesToJson("GSMissionNodes");
+        convertBytesToJson("GSMissionObjective");
+        convertBytesToJson("GSMissionRewards");
+        convertBytesToJson("GSMissions");
+        convertBytesToJson("GSMorale");
+        convertBytesToJson("GSNodeEncounter");
+        convertBytesToJson("GSNodeExploration");
+        convertBytesToJson("GSNodeMapData");
+        convertBytesToJson("GSNodeReplayRewards");
+        convertBytesToJson("GSNodeRewards");
+        convertBytesToJson("GSProperties");
+        convertBytesToJson("GSPvPLeagues");
+        convertBytesToJson("GSRank");
+        convertBytesToJson("GSRarity");
+        convertBytesToJson("GSReplayRewards");
+        convertBytesToJson("GSSkill");
+        convertBytesToJson("GSSkillUpgrade");
     }
 }

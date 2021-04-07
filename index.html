@@ -12,17 +12,32 @@
 		<div class="ui container" style="margin-top: 2em; padding-bottom: 2em">
 			<h2 class="ui header">Star Trek: Legends Character List (WIP)</h2>
 			<p>This is a work in progress, check <a href="https://github.com/TemporalAgent7/LegendsDataCore">GitHub</a> for updates!</p>
-			<table class="ui very basic collapsing celled table">
-				<thead>
-					<tr>
-						<th>Character</th>
-						<th>Stats</th>
-						<th>Max Stats</th>
-					</tr>
-				</thead>
-				<tbody class="dynamicchars"></tbody>
-			</table>
-			<p>Note: Assets and some text elements like names and descriptions are owned by Tilting Point or their licensors. This project is not associated with nor endorsed by Tilting Point or ViacomCBS.</p>
+			<div class="ui pointing secondary menu">
+				<a class="item active" data-tab="first">Characters</a>
+				<a class="item" data-tab="second">Missions</a>
+			</div>
+			<div class="ui tab segment active" data-tab="first">
+				<table class="ui very basic collapsing celled table">
+					<thead>
+						<tr>
+							<th>Character</th>
+							<th>Stats</th>
+							<th>Max Stats</th>
+						</tr>
+					</thead>
+					<tbody class="dynamicchars"></tbody>
+				</table>
+			</div>
+			<div class="ui tab segment dynamicepisodes" data-tab="second">
+			</div>
+			<p>
+				Note: Assets and some text elements like names and descriptions are owned by Tilting Point or their licensors. This project is not
+				associated with nor endorsed by Tilting Point or ViacomCBS.
+			</p>
 		</div>
+
+		<script>
+			$('.menu .item').tab();
+		</script>
 	</body>
 </html>

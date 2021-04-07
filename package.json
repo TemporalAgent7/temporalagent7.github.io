@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/TemporalAgent7/LegendsDataCore.git"
   },
+  "type": "module",
   "author": "",
   "license": "GPL-3.0-or-later",
   "bugs": {

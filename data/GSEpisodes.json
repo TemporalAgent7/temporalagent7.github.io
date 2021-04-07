@@ -1,0 +1,236 @@
+{
+  "episode 1-Easy": {
+    "EpisodeId": "episode 1",
+    "Difficulty": "Easy",
+    "OrderIndex": 1,
+    "Name": "Data_GSEpisodes_displayName_Episode1",
+    "BackgroundImage": "Campaign_Episode_1_HR:Main",
+    "Cutscene": "Episode1Cutscene",
+    "EpisodeIdentifierLoc": "UI_Common_Missions_EpisodeIdentifier_01",
+    "id": {
+      "id": "episode 1",
+      "difficulty": "Easy"
+    }
+  },
+  "episode 2-Easy": {
+    "EpisodeId": "episode 2",
+    "Difficulty": "Easy",
+    "OrderIndex": 2,
+    "Name": "Data_GSEpisodes_displayName_Episode2",
+    "BackgroundImage": "Campaign_Episode_3_HR:Main",
+    "Cutscene": "Episode2Cutscene",
+    "EpisodeIdentifierLoc": "UI_Common_Missions_EpisodeIdentifier_02",
+    "id": {
+      "id": "episode 2",
+      "difficulty": "Easy"
+    }
+  },
+  "episode 3-Easy": {
+    "EpisodeId": "episode 3",
+    "Difficulty": "Easy",
+    "OrderIndex": 3,
+    "Name": "Data_GSEpisodes_displayName_Episode3",
+    "BackgroundImage": "Campaign_Episode_2_HR:Main",
+    "Cutscene": "Episode3Cutscene",
+    "EpisodeIdentifierLoc": "UI_Common_Missions_EpisodeIdentifier_03",
+    "id": {
+      "id": "episode 3",
+      "difficulty": "Easy"
+    }
+  },
+  "episode 4-Easy": {
+    "EpisodeId": "episode 4",
+    "Difficulty": "Easy",
+    "OrderIndex": 4,
+    "Name": "Data_GSEpisodes_displayName_Episode4",
+    "BackgroundImage": "Campaign_Episode_4_HR:Main",
+    "Cutscene": "Episode4Cutscene",
+    "EpisodeIdentifierLoc": "UI_Common_Missions_EpisodeIdentifier_04",
+    "id": {
+      "id": "episode 4",
+      "difficulty": "Easy"
+    }
+  },
+  "episode 5-Easy": {
+    "EpisodeId": "episode 5",
+    "Difficulty": "Easy",
+    "OrderIndex": 5,
+    "Name": "Data_GSEpisodes_displayName_Episode5",
+    "BackgroundImage": "Campaign_Episode_5_HR:Main",
+    "Cutscene": "Episode5Cutscene",
+    "EpisodeIdentifierLoc": "UI_Common_Missions_EpisodeIdentifier_05",
+    "id": {
+      "id": "episode 5",
+      "difficulty": "Easy"
+    }
+  },
+  "episode 6-Easy": {
+    "EpisodeId": "episode 6",
+    "Difficulty": "Easy",
+    "OrderIndex": 6,
+    "Name": "Data_GSEpisodes_displayName_Episode6",
+    "BackgroundImage": "Campaign_Episode_6_HR:Main",
+    "Cutscene": "Episode6Cutscene",
+    "EpisodeIdentifierLoc": "UI_Common_Missions_EpisodeIdentifier_06",
+    "id": {
+      "id": "episode 6",
+      "difficulty": "Easy"
+    }
+  },
+  "episode 1-Hard": {
+    "EpisodeId": "episode 1",
+    "Difficulty": "Hard",
+    "OrderIndex": 1,
+    "Name": "Data_GSEpisodes_displayName_Episode1",
+    "BackgroundImage": "Campaign_Episode_1_HR:Main",
+    "Cutscene": "Episode1Cutscene",
+    "EpisodeIdentifierLoc": "UI_Common_Missions_EpisodeIdentifier_01",
+    "id": {
+      "id": "episode 1",
+      "difficulty": "Hard"
+    }
+  },
+  "episode 2-Hard": {
+    "EpisodeId": "episode 2",
+    "Difficulty": "Hard",
+    "OrderIndex": 2,
+    "Name": "Data_GSEpisodes_displayName_Episode2",
+    "BackgroundImage": "Campaign_Episode_3_HR:Main",
+    "Cutscene": "Episode2Cutscene",
+    "EpisodeIdentifierLoc": "UI_Common_Missions_EpisodeIdentifier_02",
+    "id": {
+      "id": "episode 2",
+      "difficulty": "Hard"
+    }
+  },
+  "episode 3-Hard": {
+    "EpisodeId": "episode 3",
+    "Difficulty": "Hard",
+    "OrderIndex": 3,
+    "Name": "Data_GSEpisodes_displayName_Episode3",
+    "BackgroundImage": "Campaign_Episode_2_HR:Main",
+    "Cutscene": "Episode3Cutscene",
+    "EpisodeIdentifierLoc": "UI_Common_Missions_EpisodeIdentifier_03",
+    "id": {
+      "id": "episode 3",
+      "difficulty": "Hard"
+    }
+  },
+  "episode 4-Hard": {
+    "EpisodeId": "episode 4",
+    "Difficulty": "Hard",
+    "OrderIndex": 4,
+    "Name": "Data_GSEpisodes_displayName_Episode4",
+    "BackgroundImage": "Campaign_Episode_4_HR:Main",
+    "Cutscene": "Episode4Cutscene",
+    "EpisodeIdentifierLoc": "UI_Common_Missions_EpisodeIdentifier_04",
+    "id": {
+      "id": "episode 4",
+      "difficulty": "Hard"
+    }
+  },
+  "episode 5-Hard": {
+    "EpisodeId": "episode 5",
+    "Difficulty": "Hard",
+    "OrderIndex": 5,
+    "Name": "Data_GSEpisodes_displayName_Episode5",
+    "BackgroundImage": "Campaign_Episode_5_HR:Main",
+    "Cutscene": "Episode5Cutscene",
+    "EpisodeIdentifierLoc": "UI_Common_Missions_EpisodeIdentifier_05",
+    "id": {
+      "id": "episode 5",
+      "difficulty": "Hard"
+    }
+  },
+  "episode 6-Hard": {
+    "EpisodeId": "episode 6",
+    "Difficulty": "Hard",
+    "OrderIndex": 6,
+    "Name": "Data_GSEpisodes_displayName_Episode6",
+    "BackgroundImage": "Campaign_Episode_6_HR:Main",
+    "Cutscene": "Episode6Cutscene",
+    "EpisodeIdentifierLoc": "UI_Common_Missions_EpisodeIdentifier_06",
+    "id": {
+      "id": "episode 6",
+      "difficulty": "Hard"
+    }
+  },
+  "episode 1-Doom": {
+    "EpisodeId": "episode 1",
+    "Difficulty": "Doom",
+    "OrderIndex": 1,
+    "Name": "Data_GSEpisodes_displayName_Episode1",
+    "BackgroundImage": "Campaign_Episode_1_HR:Main",
+    "Cutscene": "Episode1Cutscene",
+    "EpisodeIdentifierLoc": "UI_Common_Missions_EpisodeIdentifier_01",
+    "id": {
+      "id": "episode 1",
+      "difficulty": "Doom"
+    }
+  },
+  "episode 2-Doom": {
+    "EpisodeId": "episode 2",
+    "Difficulty": "Doom",
+    "OrderIndex": 2,
+    "Name": "Data_GSEpisodes_displayName_Episode2",
+    "BackgroundImage": "Campaign_Episode_3_HR:Main",
+    "Cutscene": "Episode2Cutscene",
+    "EpisodeIdentifierLoc": "UI_Common_Missions_EpisodeIdentifier_02",
+    "id": {
+      "id": "episode 2",
+      "difficulty": "Doom"
+    }
+  },
+  "episode 3-Doom": {
+    "EpisodeId": "episode 3",
+    "Difficulty": "Doom",
+    "OrderIndex": 3,
+    "Name": "Data_GSEpisodes_displayName_Episode3",
+    "BackgroundImage": "Campaign_Episode_2_HR:Main",
+    "Cutscene": "Episode3Cutscene",
+    "EpisodeIdentifierLoc": "UI_Common_Missions_EpisodeIdentifier_03",
+    "id": {
+      "id": "episode 3",
+      "difficulty": "Doom"
+    }
+  },
+  "episode 4-Doom": {
+    "EpisodeId": "episode 4",
+    "Difficulty": "Doom",
+    "OrderIndex": 4,
+    "Name": "Data_GSEpisodes_displayName_Episode4",
+    "BackgroundImage": "Campaign_Episode_4_HR:Main",
+    "Cutscene": "Episode4Cutscene",
+    "EpisodeIdentifierLoc": "UI_Common_Missions_EpisodeIdentifier_04",
+    "id": {
+      "id": "episode 4",
+      "difficulty": "Doom"
+    }
+  },
+  "episode 5-Doom": {
+    "EpisodeId": "episode 5",
+    "Difficulty": "Doom",
+    "OrderIndex": 5,
+    "Name": "Data_GSEpisodes_displayName_Episode5",
+    "BackgroundImage": "Campaign_Episode_5_HR:Main",
+    "Cutscene": "Episode5Cutscene",
+    "EpisodeIdentifierLoc": "UI_Common_Missions_EpisodeIdentifier_05",
+    "id": {
+      "id": "episode 5",
+      "difficulty": "Doom"
+    }
+  },
+  "episode 6-Doom": {
+    "EpisodeId": "episode 6",
+    "Difficulty": "Doom",
+    "OrderIndex": 6,
+    "Name": "Data_GSEpisodes_displayName_Episode6",
+    "BackgroundImage": "Campaign_Episode_6_HR:Main",
+    "Cutscene": "Episode6Cutscene",
+    "EpisodeIdentifierLoc": "UI_Common_Missions_EpisodeIdentifier_06",
+    "id": {
+      "id": "episode 6",
+      "difficulty": "Doom"
+    }
+  }
+}
