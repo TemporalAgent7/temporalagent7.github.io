@@ -1,16 +1,31 @@
 {
   "name": "stl-dc",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Star Trek: Legends DataCore",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next export",
+    "start": "next start"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TemporalAgent7/LegendsDataCore.git"
   },
-  "type": "module",
+  "dependencies": {
+    "localforage": "^1.9.0",
+    "next": "10.1.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "search-string": "^3.1.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.37",
+    "@types/react": "^17.0.3",
+    "typescript": "^4.2.4"
+  },
   "author": "",
   "license": "GPL-3.0-or-later",
   "bugs": {

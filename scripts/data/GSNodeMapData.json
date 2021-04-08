@@ -1,0 +1,3376 @@
+{
+  "e1_m1_battle01": {
+    "environmentPreset": "Combat_Cardassian_01",
+    "environmentSection": "Environment01",
+    "id": "e1_m1_battle01"
+  },
+  "e1_m2_battle01": {
+    "environmentPreset": "Combat_Cardassian_02",
+    "environmentSection": "Environment01_Generator",
+    "id": "e1_m2_battle01"
+  },
+  "e1_m2_battle02": {
+    "environmentPreset": "Combat_Cardassian_02_RedAlert",
+    "environmentSection": "Environment01_Generator_RedAlert",
+    "id": "e1_m2_battle02"
+  },
+  "e1_m2_exploration01": {
+    "storyId": "e1_m2_exploration01",
+    "environmentPreset": "Exploration_CardassianShip_e1m2",
+    "environmentSection": "Environment01_Generator",
+    "id": "e1_m2_exploration01"
+  },
+  "e1_m3_battle01": {
+    "environmentPreset": "Combat_Iceplanet_Esplanade_Fed",
+    "environmentSection": "Environment01_Esplanade",
+    "id": "e1_m3_battle01"
+  },
+  "e1_m3_battle02": {
+    "environmentPreset": "Combat_Iceplanet_FrozenWreckage",
+    "environmentSection": "Environment01_FrozenWreckage",
+    "id": "e1_m3_battle02"
+  },
+  "e1_m3_resource01": {
+    "storyId": "e1_m3_resource01",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e1_m3_resource01"
+  },
+  "e1_m3_story01": {
+    "storyId": "e1_m3_story01",
+    "environmentPreset": "Story_Ice_PlanetIntro",
+    "environmentSection": "Environment01_FrozenLake",
+    "id": "e1_m3_story01"
+  },
+  "e1_m3_story02": {
+    "storyId": "e1_m3_story02",
+    "environmentPreset": "Exploration_Ice_FederationBaseEntrance",
+    "environmentSection": "Environment01_FrozenWreckage",
+    "id": "e1_m3_story02"
+  },
+  "e1_m4_battle01": {
+    "environmentPreset": "Combat_FedOutpost_03",
+    "environmentSection": "Environment01_Outpost_Hallway",
+    "id": "e1_m4_battle01"
+  },
+  "e1_m4_battle02": {
+    "environmentPreset": "Combat_FedOutpost",
+    "environmentSection": "Environment01_Outpost_Int",
+    "id": "e1_m4_battle02"
+  },
+  "e1_m4_battle03": {
+    "environmentPreset": "Combat_FedOutpost_02",
+    "environmentSection": "Environment01_Outpost_Warehouse",
+    "id": "e1_m4_battle03"
+  },
+  "e1_m4_exploration01": {
+    "storyId": "e1_m4_exploration01",
+    "environmentPreset": "Exploration_Ice_FederationBaseEntrance",
+    "environmentSection": "Environment01_FrozenWreckage",
+    "id": "e1_m4_exploration01"
+  },
+  "e1_m4_resource02": {
+    "storyId": "e1_m4_resource02",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e1_m4_resource02"
+  },
+  "e1_m4_resource03": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e1_m4_resource03"
+  },
+  "e1_m4_story01": {
+    "storyId": "e1_m4_story01",
+    "environmentPreset": "Story_Ice_FedBaseInterior_HallsComputer",
+    "environmentSection": "Environment01_Outpost_Int",
+    "id": "e1_m4_story01"
+  },
+  "e1_m5_battle01": {
+    "environmentPreset": "Combat_FedOutpost_03",
+    "environmentSection": "Environment01_Outpost_Hallway",
+    "id": "e1_m5_battle01"
+  },
+  "e1_m5_battle02": {
+    "environmentPreset": "Combat_FedOutpost_02",
+    "environmentSection": "Environment01_Outpost_Warehouse",
+    "id": "e1_m5_battle02"
+  },
+  "e1_m5_battle03": {
+    "environmentPreset": "Combat_FedOutpost",
+    "environmentSection": "Environment01_Outpost_Int",
+    "id": "e1_m5_battle03"
+  },
+  "e1_m5_exploration01": {
+    "storyId": "e1_m5_exploration01",
+    "environmentPreset": "Exploration_FedBaseInt_CorridorSplit_e1m5",
+    "environmentSection": "Environment01_Outpost_Int",
+    "id": "e1_m5_exploration01"
+  },
+  "e1_m5_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e1_m5_resource02"
+  },
+  "e1_m5_resource03": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e1_m5_resource03"
+  },
+  "e1_m5_story01": {
+    "storyId": "e1_m5_story01",
+    "environmentPreset": "Story_Ice_FedBaseInterior_HallsComputer02",
+    "environmentSection": "Environment01_Outpost_Int",
+    "id": "e1_m5_story01"
+  },
+  "e1_m5_story02": {
+    "storyId": "e1_m5_story02",
+    "environmentPreset": "Story_Ice_FedBaseInterior_HallsComputer03",
+    "environmentSection": "Environment01_Outpost_Int",
+    "id": "e1_m5_story02"
+  },
+  "e1_m6_battle01": {
+    "environmentPreset": "Combat_FedOutpost_03",
+    "environmentSection": "Environment01_Outpost_Hallway",
+    "id": "e1_m6_battle01"
+  },
+  "e1_m6_battle02": {
+    "environmentPreset": "Combat_FedOutpost",
+    "environmentSection": "Environment01_Outpost_Int",
+    "id": "e1_m6_battle02"
+  },
+  "e1_m6_battle03": {
+    "environmentPreset": "Combat_FedOutpost_03_RedAlert",
+    "environmentSection": "Environment01_Outpost_Hallway_RedAlert",
+    "id": "e1_m6_battle03"
+  },
+  "e1_m6_exploration01": {
+    "storyId": "e1_m6_exploration01",
+    "environmentPreset": "Exploration_FedBaseInt_TalosCore_e1m6",
+    "environmentSection": "Environment01_Outpost_Warehouse",
+    "id": "e1_m6_exploration01"
+  },
+  "e1_m6_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e1_m6_resource02"
+  },
+  "e1_m6_resource05": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e1_m6_resource05"
+  },
+  "e1_m6_story01": {
+    "storyId": "e1_m6_story01",
+    "environmentPreset": "Exploration_FedBaseInt_TalosCore_e1m6",
+    "environmentSection": "Environment01_Outpost_Warehouse",
+    "id": "e1_m6_story01"
+  },
+  "e1_m6_story02": {
+    "storyId": "e1_m6_story02",
+    "environmentPreset": "Exploration_FedBaseInt_TalosCore_e1m6_Story",
+    "environmentSection": "Environment01_Outpost_Warehouse",
+    "id": "e1_m6_story02"
+  },
+  "e1_m6_story03": {
+    "storyId": "e1_m6_story03",
+    "environmentPreset": "Exploration_FedBaseInt_TalosCore_e1m6_Story",
+    "environmentSection": "Environment01_Outpost_Warehouse",
+    "id": "e1_m6_story03"
+  },
+  "e1_m6_story04": {
+    "storyId": "e1_m6_story04",
+    "environmentPreset": "Exploration_FedBaseInt_TalosCore_e1m6_Story",
+    "environmentSection": "Environment01_Outpost_Warehouse",
+    "id": "e1_m6_story04"
+  },
+  "e2_m1_battle01": {
+    "environmentPreset": "Combat_Iceplanet_Esplanade",
+    "environmentSection": "Environment01_Esplanade",
+    "id": "e2_m1_battle01"
+  },
+  "e2_m1_battle02": {
+    "environmentPreset": "Combat_Iceplanet_FrozenWreckage_Blizzard",
+    "environmentSection": "Environment01_FrozenWreckage",
+    "id": "e2_m1_battle02"
+  },
+  "e2_m1_battle03": {
+    "environmentPreset": "Combat_Iceplanet_Frozen_Lake",
+    "environmentSection": "Environment01_FrozenLake",
+    "id": "e2_m1_battle03"
+  },
+  "e2_m1_exploration01": {
+    "storyId": "e2_m1_exploration01",
+    "environmentPreset": "Exploration_Ice_e2m1_ShuttleCrash",
+    "environmentSection": "Environment01_Esplanade",
+    "id": "e2_m1_exploration01"
+  },
+  "e2_m1_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e2_m1_resource02"
+  },
+  "e2_m1_story01": {
+    "storyId": "e2_m1_story01",
+    "environmentPreset": "Combat_Iceplanet_Esplanade",
+    "environmentSection": "Environment01_Esplanade",
+    "id": "e2_m1_story01"
+  },
+  "e2_m2_battle01": {
+    "environmentPreset": "Combat_Iceplanet_Frozen_Lake",
+    "environmentSection": "Environment01_FrozenLake",
+    "id": "e2_m2_battle01"
+  },
+  "e2_m2_battle02": {
+    "environmentPreset": "Combat_Iceplanet_FrozenWreckage_Blizzard",
+    "environmentSection": "Environment01_FrozenWreckage",
+    "id": "e2_m2_battle02"
+  },
+  "e2_m2_battle03": {
+    "environmentPreset": "Combat_Iceplanet_Esplanade",
+    "environmentSection": "Environment01_Esplanade",
+    "id": "e2_m2_battle03"
+  },
+  "e2_m2_battle04": {
+    "environmentPreset": "Combat_Iceplanet_FrozenWreckage",
+    "environmentSection": "Environment01_FrozenWreckage",
+    "id": "e2_m2_battle04"
+  },
+  "e2_m2_battle05": {
+    "environmentPreset": "Combat_Iceplanet_Frozen_Lake",
+    "environmentSection": "Environment01_FrozenLake",
+    "id": "e2_m2_battle05"
+  },
+  "e2_m2_exploration01": {
+    "storyId": "e2_m2_exploration01",
+    "environmentPreset": "Exploration_Ice_e2m2_RomulanCamp",
+    "environmentSection": "Environment01_Esplanade",
+    "id": "e2_m2_exploration01"
+  },
+  "e2_m2_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e2_m2_resource02"
+  },
+  "e2_m2_resource04": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e2_m2_resource04"
+  },
+  "e2_m2_story01": {
+    "storyId": "e2_m2_story01",
+    "environmentPreset": "Combat_Iceplanet_Frozen_Lake",
+    "environmentSection": "Environment01_FrozenLake",
+    "id": "e2_m2_story01"
+  },
+  "e2_m3_battle01": {
+    "environmentPreset": "Combat_Desert_Shuttle",
+    "environmentSection": "Environment01_Desert",
+    "id": "e2_m3_battle01"
+  },
+  "e2_m3_battle02": {
+    "environmentPreset": "Combat_Desert_FlatDesert",
+    "environmentSection": "Environment01_Desert",
+    "id": "e2_m3_battle02"
+  },
+  "e2_m3_battle03": {
+    "environmentPreset": "Combat_Desert_Canyon",
+    "environmentSection": "Environment01_Desert",
+    "id": "e2_m3_battle03"
+  },
+  "e2_m3_battle04": {
+    "environmentPreset": "Combat_Desert_Shuttle",
+    "environmentSection": "Environment01_Desert",
+    "id": "e2_m3_battle04"
+  },
+  "e2_m3_battle05": {
+    "environmentPreset": "Combat_Desert_Canyon",
+    "environmentSection": "Environment01_Desert",
+    "id": "e2_m3_battle05"
+  },
+  "e2_m3_battle06": {
+    "environmentPreset": "Combat_Desert_FlatDesert",
+    "environmentSection": "Environment01_Desert",
+    "id": "e2_m3_battle06"
+  },
+  "e2_m3_exploration01": {
+    "storyId": "e2_m3_exploration01",
+    "environmentPreset": "Exploration_Desert_e2m3_GornCamp",
+    "environmentSection": "Environment01_Desert",
+    "id": "e2_m3_exploration01"
+  },
+  "e2_m3_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e2_m3_resource02"
+  },
+  "e2_m3_resource03": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e2_m3_resource03"
+  },
+  "e2_m3_story01": {
+    "storyId": "e2_m3_story01",
+    "environmentPreset": "Combat_Desert_Canyon",
+    "environmentSection": "Environment01_Desert",
+    "id": "e2_m3_story01"
+  },
+  "e2_m3_story02": {
+    "storyId": "e2_m3_story02",
+    "environmentPreset": "Combat_Desert_Canyon",
+    "environmentSection": "Environment01_Desert",
+    "id": "e2_m3_story02"
+  },
+  "e2_m3_story03": {
+    "storyId": "e2_m3_story03",
+    "environmentPreset": "Combat_Desert_FlatDesert",
+    "environmentSection": "Environment01_Desert",
+    "id": "e2_m3_story03"
+  },
+  "e2_m4_battle01": {
+    "environmentPreset": "Combat_Desert_FlatDesert",
+    "environmentSection": "Environment01_Desert",
+    "id": "e2_m4_battle01"
+  },
+  "e2_m4_battle02": {
+    "environmentPreset": "Combat_Desert_Shuttle",
+    "environmentSection": "Environment01_Desert",
+    "id": "e2_m4_battle02"
+  },
+  "e2_m4_battle03": {
+    "environmentPreset": "Combat_Desert_Canyon",
+    "environmentSection": "Environment01_Desert",
+    "id": "e2_m4_battle03"
+  },
+  "e2_m4_battle04": {
+    "environmentPreset": "Combat_Desert_FlatDesert",
+    "environmentSection": "Environment01_Desert",
+    "id": "e2_m4_battle04"
+  },
+  "e2_m4_battle05": {
+    "environmentPreset": "Combat_Desert_Shuttle",
+    "environmentSection": "Environment01_Desert",
+    "id": "e2_m4_battle05"
+  },
+  "e2_m4_battle06": {
+    "environmentPreset": "Combat_Desert_FlatDesert",
+    "environmentSection": "Environment01_Desert",
+    "id": "e2_m4_battle06"
+  },
+  "e2_m4_exploration01": {
+    "storyId": "e2_m4_exploration01",
+    "environmentPreset": "Exploration_Desert_e2m4_KirkEscape",
+    "environmentSection": "Environment01_Desert",
+    "id": "e2_m4_exploration01"
+  },
+  "e2_m4_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e2_m4_resource01"
+  },
+  "e2_m4_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e2_m4_resource02"
+  },
+  "e2_m4_story01": {
+    "storyId": "e2_m4_story01",
+    "environmentPreset": "Combat_Desert_Shuttle",
+    "environmentSection": "Environment01_Desert",
+    "id": "e2_m4_story01"
+  },
+  "e2_m4_story02": {
+    "storyId": "e2_m4_story02",
+    "environmentPreset": "Combat_Desert_Canyon",
+    "environmentSection": "Environment01_Desert",
+    "id": "e2_m4_story02"
+  },
+  "e2_m5_battle01": {
+    "environmentPreset": "Combat_GornOutpost_01",
+    "environmentSection": "Environment01_GornOUTPOST_Door",
+    "id": "e2_m5_battle01"
+  },
+  "e2_m5_battle02": {
+    "environmentPreset": "Combat_GornOutpost_Hallway_03",
+    "environmentSection": "Environment01_GornOUTPOST_Hall",
+    "id": "e2_m5_battle02"
+  },
+  "e2_m5_battle03": {
+    "environmentPreset": "Combat_GornOutpost_01",
+    "environmentSection": "Environment01_GornOUTPOST_Door",
+    "id": "e2_m5_battle03"
+  },
+  "e2_m5_battle04": {
+    "environmentPreset": "Combat_GornOutpost_BrokenDoor_02",
+    "environmentSection": "Environment01_GornOUTPOST_DoorBroken",
+    "id": "e2_m5_battle04"
+  },
+  "e2_m5_battle05": {
+    "environmentPreset": "Combat_GornOutpost_01",
+    "environmentSection": "Environment01_GornOUTPOST_Door",
+    "id": "e2_m5_battle05"
+  },
+  "e2_m5_battle06": {
+    "environmentPreset": "Combat_GornOutpost_BrokenDoor_02",
+    "environmentSection": "Environment01_GornOUTPOST_DoorBroken",
+    "id": "e2_m5_battle06"
+  },
+  "e2_m5_battle07": {
+    "environmentPreset": "Combat_GornOutpost_Hallway_03",
+    "environmentSection": "Environment01_GornOUTPOST_Hall",
+    "id": "e2_m5_battle07"
+  },
+  "e2_m5_exploration01": {
+    "storyId": "e2_m5_exploration01",
+    "environmentPreset": "Exploration_GornHallway_e2m5_Entrance",
+    "environmentSection": "Environment01_GornOUTPOST_Door",
+    "id": "e2_m5_exploration01"
+  },
+  "e2_m5_exploration02": {
+    "storyId": "e2_m5_exploration02",
+    "environmentPreset": "Exploration_GornBase_e2m5_Prisoners",
+    "environmentSection": "Environment01_GornOUTPOST_Door",
+    "id": "e2_m5_exploration02"
+  },
+  "e2_m5_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e2_m5_resource01"
+  },
+  "e2_m5_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e2_m5_resource02"
+  },
+  "e2_m5_story01": {
+    "storyId": "e2_m5_story01",
+    "environmentPreset": "Combat_GornOutpost_01",
+    "environmentSection": "Environment01_GornOUTPOST_Door",
+    "id": "e2_m5_story01"
+  },
+  "e2_m5_story02": {
+    "storyId": "e2_m5_story03",
+    "environmentPreset": "Combat_GornOutpost_01",
+    "environmentSection": "Environment01_GornOUTPOST_Door",
+    "id": "e2_m5_story02"
+  },
+  "e2_m5_story03": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e2_m5_story03"
+  },
+  "e2_m6_battle01": {
+    "environmentPreset": "Combat_GornOutpost_01",
+    "environmentSection": "Environment01_GornOUTPOST_Door",
+    "id": "e2_m6_battle01"
+  },
+  "e2_m6_battle02": {
+    "environmentPreset": "Combat_GornOutpost_Hallway_03",
+    "environmentSection": "Environment01_GornOUTPOST_Hall",
+    "id": "e2_m6_battle02"
+  },
+  "e2_m6_battle03": {
+    "environmentPreset": "Combat_GornOutpost_BrokenDoor_02",
+    "environmentSection": "Environment01_GornOUTPOST_DoorBroken",
+    "id": "e2_m6_battle03"
+  },
+  "e2_m6_battle04": {
+    "environmentPreset": "Combat_GornOutpost_Hallway_03",
+    "environmentSection": "Environment01_GornOUTPOST_Hall",
+    "id": "e2_m6_battle04"
+  },
+  "e2_m6_battle05": {
+    "environmentPreset": "Combat_GornOutpost_Hallway_03",
+    "environmentSection": "Environment01_GornOUTPOST_Hall",
+    "id": "e2_m6_battle05"
+  },
+  "e2_m6_battle06": {
+    "environmentPreset": "Combat_GornOutpost_01",
+    "environmentSection": "Environment01_GornOUTPOST_Door",
+    "id": "e2_m6_battle06"
+  },
+  "e2_m6_exploration01": {
+    "storyId": "e2_m6_exploration01",
+    "environmentPreset": "Exploration_GornBase_e2m6_DestroyedDoors",
+    "environmentSection": "Environment01_GornOUTPOST_DoorBroken",
+    "id": "e2_m6_exploration01"
+  },
+  "e2_m6_exploration02": {
+    "storyId": "e2_m6_exploration02",
+    "environmentPreset": "Exploration_GornBase_e2m6_WoundedGorn",
+    "environmentSection": "Environment01_GornOUTPOST_Hall",
+    "id": "e2_m6_exploration02"
+  },
+  "e2_m6_exploration03": {
+    "storyId": "e2_m6_exploration03",
+    "environmentPreset": "Exploration_GornBase_e2m6_RomulanBeacon",
+    "environmentSection": "Environment01_GornOUTPOST_Hall",
+    "id": "e2_m6_exploration03"
+  },
+  "e2_m6_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e2_m6_resource01"
+  },
+  "e2_m6_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e2_m6_resource02"
+  },
+  "e2_m6_story01": {
+    "storyId": "e2_m6_story01",
+    "environmentPreset": "Combat_GornOutpost_Hallway_03",
+    "environmentSection": "Environment01_GornOUTPOST_Hall",
+    "id": "e2_m6_story01"
+  },
+  "e2_m6_story02": {
+    "storyId": "e2_m6_story02",
+    "environmentPreset": "Combat_GornOutpost_01",
+    "environmentSection": "Environment01_GornOUTPOST_Door",
+    "id": "e2_m6_story02"
+  },
+  "e3_m1_battle01": {
+    "environmentPreset": "Combat_Desert_Shuttle",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m1_battle01"
+  },
+  "e3_m1_battle02": {
+    "environmentPreset": "Combat_Desert_FlatDesert",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m1_battle02"
+  },
+  "e3_m1_battle03": {
+    "environmentPreset": "Combat_Desert_Canyon",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m1_battle03"
+  },
+  "e3_m1_battle04": {
+    "environmentPreset": "Combat_Desert_FlatDesert",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m1_battle04"
+  },
+  "e3_m1_battle05": {
+    "environmentPreset": "Combat_Desert_Canyon",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m1_battle05"
+  },
+  "e3_m1_battle06": {
+    "environmentPreset": "Combat_Desert_Canyon",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m1_battle06"
+  },
+  "e3_m1_battle07": {
+    "environmentPreset": "Combat_Desert_Shuttle",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m1_battle07"
+  },
+  "e3_m1_exploration01": {
+    "storyId": "e3_m1_exploration01",
+    "environmentPreset": "Exploration_Desert_DefensiveStructure",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m1_exploration01"
+  },
+  "e3_m1_exploration02": {
+    "storyId": "e3_m1_exploration02",
+    "environmentPreset": "Exploration_Desert_DesertPath",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m1_exploration02"
+  },
+  "e3_m1_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e3_m1_resource01"
+  },
+  "e3_m1_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e3_m1_resource02"
+  },
+  "e3_m1_story01": {
+    "storyId": "e3_m1_story01",
+    "environmentPreset": "Exploration_Desert_Shuttle",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m1_story01"
+  },
+  "e3_m2_battle01": {
+    "environmentPreset": "Combat_Desert_Shuttle",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m2_battle01"
+  },
+  "e3_m2_battle02": {
+    "environmentPreset": "Combat_Desert_Shuttle",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m2_battle02"
+  },
+  "e3_m2_battle03": {
+    "environmentPreset": "Combat_Desert_BirdofPrey",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m2_battle03"
+  },
+  "e3_m2_battle04": {
+    "environmentPreset": "Combat_Desert_Canyon",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m2_battle04"
+  },
+  "e3_m2_battle05": {
+    "environmentPreset": "Combat_Desert_Canyon",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m2_battle05"
+  },
+  "e3_m2_battle06": {
+    "environmentPreset": "Combat_Desert_Canyon",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m2_battle06"
+  },
+  "e3_m2_battle07": {
+    "environmentPreset": "Combat_Desert_Canyon",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m2_battle07"
+  },
+  "e3_m2_battle08": {
+    "environmentPreset": "Combat_Desert_Canyon",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m2_battle08"
+  },
+  "e3_m2_exploration01": {
+    "storyId": "e3_m2_exploration01",
+    "environmentPreset": "Exploration_Desert_Shuttle",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m2_exploration01"
+  },
+  "e3_m2_exploration02": {
+    "storyId": "e3_m2_exploration02",
+    "environmentPreset": "Exploration_Desert_ShipGraveyard",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m2_exploration02"
+  },
+  "e3_m2_exploration03": {
+    "storyId": "e3_m2_exploration03",
+    "environmentPreset": "Exploration_Desert_Campsite",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m2_exploration03"
+  },
+  "e3_m2_resource03": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e3_m2_resource03"
+  },
+  "e3_m2_resource04": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e3_m2_resource04"
+  },
+  "e3_m3_battle01": {
+    "environmentPreset": "Combat_Desert_FlatDesert",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m3_battle01"
+  },
+  "e3_m3_battle02": {
+    "environmentPreset": "Combat_Desert_Canyon",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m3_battle02"
+  },
+  "e3_m3_battle03": {
+    "environmentPreset": "Combat_Desert_FlatDesert",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m3_battle03"
+  },
+  "e3_m3_battle04": {
+    "environmentPreset": "Combat_Desert_Canyon",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m3_battle04"
+  },
+  "e3_m3_battle05": {
+    "environmentPreset": "Combat_Desert_Shuttle",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m3_battle05"
+  },
+  "e3_m3_battle06": {
+    "environmentPreset": "Combat_Desert_FlatDesert",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m3_battle06"
+  },
+  "e3_m3_exploration01": {
+    "storyId": "e3_m3_exploration01",
+    "environmentPreset": "Exploration_Desert_Canyon",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m3_exploration01"
+  },
+  "e3_m3_exploration02": {
+    "storyId": "e3_m3_exploration02",
+    "environmentPreset": "Exploration_Desert_BanditCamp",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m3_exploration02"
+  },
+  "e3_m3_exploration03": {
+    "storyId": "e3_m3_exploration03",
+    "environmentPreset": "Exploration_Desert_BorgDoor",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m3_exploration03"
+  },
+  "e3_m3_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e3_m3_resource01"
+  },
+  "e3_m3_resource03": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e3_m3_resource03"
+  },
+  "e3_m3_story01": {
+    "storyId": "e3_m3_story01",
+    "environmentPreset": "Exploration_Desert_DefensiveStructure",
+    "environmentSection": "Environment01_Desert",
+    "id": "e3_m3_story01"
+  },
+  "e3_m4_battle01": {
+    "environmentPreset": "Combat_Borg_Room",
+    "environmentSection": "Environment02_Borg_Room",
+    "id": "e3_m4_battle01"
+  },
+  "e3_m4_battle02": {
+    "environmentPreset": "Combat_Borg_RechargingAlcove",
+    "environmentSection": "Environment02_Borg_RechargingAlcove",
+    "id": "e3_m4_battle02"
+  },
+  "e3_m4_battle03": {
+    "environmentPreset": "Combat_Borg_DataDistNode",
+    "environmentSection": "Environment02_Borg_DataDistNode",
+    "id": "e3_m4_battle03"
+  },
+  "e3_m4_battle04": {
+    "environmentPreset": "Combat_Borg_RechargingAlcove",
+    "environmentSection": "Environment02_Borg_RechargingAlcove",
+    "id": "e3_m4_battle04"
+  },
+  "e3_m4_battle05": {
+    "environmentPreset": "Combat_Borg_Room",
+    "environmentSection": "Environment02_Borg_Room",
+    "id": "e3_m4_battle05"
+  },
+  "e3_m4_battle06": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e3_m4_battle06"
+  },
+  "e3_m4_exploration01": {
+    "storyId": "e3_m4_exploration01",
+    "environmentPreset": "Exploration_BorgInterior_WasteSpill",
+    "environmentSection": "Environment01_Borg",
+    "id": "e3_m4_exploration01"
+  },
+  "e3_m4_exploration02": {
+    "storyId": "e3_m4_exploration02",
+    "environmentPreset": "Exploration_BorgInterior_RechargeStation",
+    "environmentSection": "Environment01_Borg",
+    "id": "e3_m4_exploration02"
+  },
+  "e3_m4_exploration03": {
+    "storyId": "e3_m4_exploration03",
+    "environmentPreset": "Exploration_BorgInterior_BorgObelisk",
+    "environmentSection": "Environment01_Borg",
+    "id": "e3_m4_exploration03"
+  },
+  "e3_m4_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e3_m4_resource01"
+  },
+  "e3_m4_resource03": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e3_m4_resource03"
+  },
+  "e3_m5_battle01": {
+    "environmentPreset": "Combat_Borg_DataDistNode",
+    "environmentSection": "Environment02_Borg_DataDistNode",
+    "id": "e3_m5_battle01"
+  },
+  "e3_m5_battle02": {
+    "environmentPreset": "Combat_Borg_Room",
+    "environmentSection": "Environment02_Borg_Room",
+    "id": "e3_m5_battle02"
+  },
+  "e3_m5_battle03": {
+    "environmentPreset": "Combat_Borg_RechargingAlcove",
+    "environmentSection": "Environment02_Borg_RechargingAlcove",
+    "id": "e3_m5_battle03"
+  },
+  "e3_m5_battle04": {
+    "environmentPreset": "Combat_Borg_Room",
+    "environmentSection": "Environment02_Borg_Room",
+    "id": "e3_m5_battle04"
+  },
+  "e3_m5_battle05": {
+    "environmentPreset": "Combat_Borg_RechargingAlcove",
+    "environmentSection": "Environment02_Borg_RechargingAlcove",
+    "id": "e3_m5_battle05"
+  },
+  "e3_m5_battle06": {
+    "environmentPreset": "Combat_Borg_DataDistNode",
+    "environmentSection": "Environment02_Borg_DataDistNode",
+    "id": "e3_m5_battle06"
+  },
+  "e3_m5_battle07": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e3_m5_battle07"
+  },
+  "e3_m5_exploration01": {
+    "storyId": "e3_m5_exploration01",
+    "environmentPreset": "Exploration_BorgInterior_Corridors",
+    "environmentSection": "Environment01_Borg",
+    "id": "e3_m5_exploration01"
+  },
+  "e3_m5_exploration02": {
+    "storyId": "e3_m5_exploration02",
+    "environmentPreset": "Exploration_BorgInterior_OdoTestRoom",
+    "environmentSection": "Environment01_Borg",
+    "id": "e3_m5_exploration02"
+  },
+  "e3_m5_exploration03": {
+    "storyId": "e3_m5_exploration03",
+    "environmentPreset": "Exploration_BorgInterior_MimeticPool",
+    "environmentSection": "Environment01_Borg",
+    "id": "e3_m5_exploration03"
+  },
+  "e3_m5_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e3_m5_resource01"
+  },
+  "e3_m5_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e3_m5_resource02"
+  },
+  "e3_m6_battle01": {
+    "environmentPreset": "Combat_Borg_DataDistNode",
+    "environmentSection": "Environment02_Borg_DataDistNode",
+    "id": "e3_m6_battle01"
+  },
+  "e3_m6_battle02": {
+    "environmentPreset": "Combat_Borg_RechargingAlcove",
+    "environmentSection": "Environment02_Borg_RechargingAlcove",
+    "id": "e3_m6_battle02"
+  },
+  "e3_m6_battle03": {
+    "environmentPreset": "Combat_Borg_RechargingAlcove",
+    "environmentSection": "Environment02_Borg_RechargingAlcove",
+    "id": "e3_m6_battle03"
+  },
+  "e3_m6_battle04": {
+    "environmentPreset": "Combat_Borg_Room",
+    "environmentSection": "Environment02_Borg_Room",
+    "id": "e3_m6_battle04"
+  },
+  "e3_m6_battle05": {
+    "environmentPreset": "Combat_Borg_DataDistNode",
+    "environmentSection": "Environment02_Borg_DataDistNode",
+    "id": "e3_m6_battle05"
+  },
+  "e3_m6_battle06": {
+    "environmentPreset": "Combat_Borg_Room",
+    "environmentSection": "Environment02_Borg_Room",
+    "id": "e3_m6_battle06"
+  },
+  "e3_m6_battle07": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e3_m6_battle07"
+  },
+  "e3_m6_exploration01": {
+    "storyId": "e3_m6_exploration01",
+    "environmentPreset": "Exploration_BorgInterior_RechargingStation",
+    "environmentSection": "Environment01_Borg",
+    "id": "e3_m6_exploration01"
+  },
+  "e3_m6_exploration02": {
+    "storyId": "e3_m6_exploration02",
+    "environmentPreset": "Exploration_BorgInterior_FinalPowerNode",
+    "environmentSection": "Environment01_Borg",
+    "id": "e3_m6_exploration02"
+  },
+  "e3_m6_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e3_m6_resource01"
+  },
+  "e3_m6_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e3_m6_resource02"
+  },
+  "e4_m1_battle01": {
+    "environmentPreset": "Combat_Forest_Clearing",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e4_m1_battle01"
+  },
+  "e4_m1_battle02": {
+    "environmentPreset": "Combat_Forest_Path",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e4_m1_battle02"
+  },
+  "e4_m1_battle03": {
+    "environmentPreset": "Combat_Forest_Federation_Path",
+    "environmentSection": "Environment01_Forest_Federation_Path",
+    "id": "e4_m1_battle03"
+  },
+  "e4_m1_battle04": {
+    "environmentPreset": "Combat_Forest_Path",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e4_m1_battle04"
+  },
+  "e4_m1_battle05": {
+    "environmentPreset": "Combat_Forest_Clearing",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e4_m1_battle05"
+  },
+  "e4_m1_battle06": {
+    "environmentPreset": "Combat_Forest_Federation_Path",
+    "environmentSection": "Environment01_Forest_Federation_Path",
+    "id": "e4_m1_battle06"
+  },
+  "e4_m1_battle07": {
+    "environmentPreset": "Combat_Forest_Path",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e4_m1_battle07"
+  },
+  "e4_m1_battle08": {
+    "environmentPreset": "Combat_Forest_Clearing",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e4_m1_battle08"
+  },
+  "e4_m1_battle09": {
+    "environmentPreset": "Combat_Forest_Federation_Path",
+    "environmentSection": "Environment01_Forest_Federation_Path",
+    "id": "e4_m1_battle09"
+  },
+  "e4_m1_battle10": {
+    "environmentPreset": "Combat_Forest_Federation_Clearing",
+    "environmentSection": "Environment01_Forest_Federation_Clearing",
+    "id": "e4_m1_battle10"
+  },
+  "e4_m1_exploration01": {
+    "storyId": "e4_m1_exploration01",
+    "environmentPreset": "Exploration_Forest_e4m1_StarfleetSurvivors",
+    "environmentSection": "Environment01_Forest_Federation_Clearing",
+    "id": "e4_m1_exploration01"
+  },
+  "e4_m1_exploration02": {
+    "storyId": "e4_m1_exploration02",
+    "environmentPreset": "Exploration_Forest_e4m1_RomulanBeacon",
+    "environmentSection": "Environment01_Forest_Federation_Path",
+    "id": "e4_m1_exploration02"
+  },
+  "e4_m1_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e4_m1_resource01"
+  },
+  "e4_m1_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e4_m1_resource02"
+  },
+  "e4_m1_story01": {
+    "storyId": "e4_m1_story01",
+    "environmentPreset": "Combat_Forest_Clearing",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e4_m1_story01"
+  },
+  "e4_m1_story02": {
+    "storyId": "e4_m1_story02",
+    "environmentPreset": "Combat_Forest_Path",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e4_m1_story02"
+  },
+  "e4_m2_battle01": {
+    "environmentPreset": "Combat_FedMedbay_CargoBay_01",
+    "environmentSection": "Environment02_MedBay_CargoBay",
+    "id": "e4_m2_battle01"
+  },
+  "e4_m2_battle02": {
+    "environmentPreset": "Combat_FedMedbay_Hallway_01",
+    "environmentSection": "Environment02_MedBay_Hallway",
+    "id": "e4_m2_battle02"
+  },
+  "e4_m2_battle03": {
+    "environmentPreset": "Combat_FedMedbay_Esplanade_01",
+    "environmentSection": "Environment02_MedBay_Esplanade",
+    "id": "e4_m2_battle03"
+  },
+  "e4_m2_battle04": {
+    "environmentPreset": "Combat_FedMedbay_Hallway_01",
+    "environmentSection": "Environment02_MedBay_Hallway",
+    "id": "e4_m2_battle04"
+  },
+  "e4_m2_battle05": {
+    "environmentPreset": "Combat_FedMedbay_CargoBay_01",
+    "environmentSection": "Environment02_MedBay_CargoBay",
+    "id": "e4_m2_battle05"
+  },
+  "e4_m2_battle06": {
+    "environmentPreset": "Combat_FedMedbay_CargoBay_01",
+    "environmentSection": "Environment02_MedBay_CargoBay",
+    "id": "e4_m2_battle06"
+  },
+  "e4_m2_battle07": {
+    "environmentPreset": "Combat_FedMedbay_Esplanade_01",
+    "environmentSection": "Environment02_MedBay_Esplanade",
+    "id": "e4_m2_battle07"
+  },
+  "e4_m2_battle08": {
+    "environmentPreset": "Combat_FedMedbay_Hallway_01",
+    "environmentSection": "Environment02_MedBay_Hallway",
+    "id": "e4_m2_battle08"
+  },
+  "e4_m2_battle09": {
+    "environmentPreset": "Combat_FedMedbay_CargoBay_01",
+    "environmentSection": "Environment02_MedBay_CargoBay",
+    "id": "e4_m2_battle09"
+  },
+  "e4_m2_battle10": {
+    "environmentPreset": "Combat_FedMedbay_Main_01",
+    "environmentSection": "Environment02_MedBay_Main",
+    "id": "e4_m2_battle10"
+  },
+  "e4_m2_exploration01": {
+    "storyId": "e4_m2_exploration01",
+    "environmentPreset": "Exploration_FedBaseInt_e4m2_BlockedCorridor",
+    "environmentSection": "Environment02_MedBay_CargoBay",
+    "id": "e4_m2_exploration01"
+  },
+  "e4_m2_exploration02": {
+    "storyId": "e4_m2_exploration02",
+    "environmentPreset": "Exploration_FedBaseInt_e4m2_Clinic",
+    "environmentSection": "Environment02_MedBay_Main",
+    "id": "e4_m2_exploration02"
+  },
+  "e4_m2_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e4_m2_resource01"
+  },
+  "e4_m2_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e4_m2_resource02"
+  },
+  "e4_m2_story01": {
+    "storyId": "e4_m2_story01",
+    "environmentPreset": "Combat_FedMedbay_CargoBay_01",
+    "environmentSection": "Environment02_MedBay_CargoBay",
+    "id": "e4_m2_story01"
+  },
+  "e4_m2_story02": {
+    "storyId": "e4_m2_story02",
+    "environmentPreset": "Combat_FedMedbay_CargoBay_01",
+    "environmentSection": "Environment02_MedBay_CargoBay",
+    "id": "e4_m2_story02"
+  },
+  "e4_m2_story03": {
+    "storyId": "e4_m2_story03",
+    "environmentPreset": "Combat_FedMedbay_Main_01",
+    "environmentSection": "Environment02_MedBay_Main",
+    "id": "e4_m2_story03"
+  },
+  "e4_m2_story04": {
+    "storyId": "e4_m2_story04",
+    "environmentPreset": "Combat_FedMedbay_Main_01",
+    "environmentSection": "Environment02_MedBay_Main",
+    "id": "e4_m2_story04"
+  },
+  "e4_m3_battle01": {
+    "environmentPreset": "Combat_FedMedbay_Main_01",
+    "environmentSection": "Environment02_MedBay_Main",
+    "id": "e4_m3_battle01"
+  },
+  "e4_m3_battle02": {
+    "environmentPreset": "Combat_FedMedbay_Hallway_01",
+    "environmentSection": "Environment02_MedBay_Hallway",
+    "id": "e4_m3_battle02"
+  },
+  "e4_m3_battle03": {
+    "environmentPreset": "Combat_FedMedbay_Hallway_01",
+    "environmentSection": "Environment02_MedBay_Hallway",
+    "id": "e4_m3_battle03"
+  },
+  "e4_m3_battle04": {
+    "environmentPreset": "Combat_FedMedbay_Esplanade_01",
+    "environmentSection": "Environment02_MedBay_Esplanade",
+    "id": "e4_m3_battle04"
+  },
+  "e4_m3_battle05": {
+    "environmentPreset": "Combat_FedMedbay_Esplanade_01",
+    "environmentSection": "Environment02_MedBay_Esplanade",
+    "id": "e4_m3_battle05"
+  },
+  "e4_m3_battle06": {
+    "environmentPreset": "Combat_FedMedbay_Hallway_01",
+    "environmentSection": "Environment02_MedBay_Hallway",
+    "id": "e4_m3_battle06"
+  },
+  "e4_m3_battle07": {
+    "environmentPreset": "Combat_FedMedbay_Esplanade_01",
+    "environmentSection": "Environment02_MedBay_Esplanade",
+    "id": "e4_m3_battle07"
+  },
+  "e4_m3_battle08": {
+    "environmentPreset": "Combat_FedMedbay_Esplanade_01",
+    "environmentSection": "Environment02_MedBay_Esplanade",
+    "id": "e4_m3_battle08"
+  },
+  "e4_m3_battle09": {
+    "environmentPreset": "Combat_FedMedbay_Hallway_01",
+    "environmentSection": "Environment02_MedBay_Hallway",
+    "id": "e4_m3_battle09"
+  },
+  "e4_m3_battle10": {
+    "environmentPreset": "Combat_FedMedbay_CargoBay_01",
+    "environmentSection": "Environment02_MedBay_CargoBay",
+    "id": "e4_m3_battle10"
+  },
+  "e4_m3_battle11": {
+    "environmentPreset": "Combat_FedMedbay_CargoBay_01",
+    "environmentSection": "Environment02_MedBay_CargoBay",
+    "id": "e4_m3_battle11"
+  },
+  "e4_m3_exploration01": {
+    "storyId": "e4_m3_exploration01",
+    "environmentPreset": "Exploration_FedBaseInt_e4m3_ClinicAftermath",
+    "environmentSection": "Environment02_MedBay_Main",
+    "id": "e4_m3_exploration01"
+  },
+  "e4_m3_exploration02": {
+    "storyId": "e4_m3_exploration02",
+    "environmentPreset": "Exploration_FedBaseInt_e4m3_Warehouse",
+    "environmentSection": "Environment02_MedBay_CargoBay",
+    "id": "e4_m3_exploration02"
+  },
+  "e4_m3_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e4_m3_resource01"
+  },
+  "e4_m3_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e4_m3_resource02"
+  },
+  "e4_m3_story01": {
+    "storyId": "e4_m3_story01",
+    "environmentPreset": "Exploration_FedBaseInt_e4m3_ClinicAftermath",
+    "environmentSection": "Environment02_MedBay_Main",
+    "id": "e4_m3_story01"
+  },
+  "e4_m3_story02": {
+    "storyId": "e4_m3_story02",
+    "environmentPreset": "Exploration_FedBaseInt_e4m3_ClinicAftermath",
+    "environmentSection": "Environment02_MedBay_Main",
+    "id": "e4_m3_story02"
+  },
+  "e4_m4_battle01": {
+    "environmentPreset": "Combat_Klingon_Door",
+    "environmentSection": "Environment02_KlingonBase_Door",
+    "id": "e4_m4_battle01"
+  },
+  "e4_m4_battle02": {
+    "environmentPreset": "Combat_Klingon_Hallway",
+    "environmentSection": "Environment02_KlingonBase_Hall",
+    "id": "e4_m4_battle02"
+  },
+  "e4_m4_battle03": {
+    "environmentPreset": "Combat_Klingon_Hallway",
+    "environmentSection": "Environment02_KlingonBase_Hall",
+    "id": "e4_m4_battle03"
+  },
+  "e4_m4_battle04": {
+    "environmentPreset": "Combat_Klingon_Door",
+    "environmentSection": "Environment02_KlingonBase_Door",
+    "id": "e4_m4_battle04"
+  },
+  "e4_m4_battle05": {
+    "environmentPreset": "Combat_Klingon_Hallway",
+    "environmentSection": "Environment02_KlingonBase_Hall",
+    "id": "e4_m4_battle05"
+  },
+  "e4_m4_battle06": {
+    "environmentPreset": "Combat_Klingon_Door",
+    "environmentSection": "Environment02_KlingonBase_Door",
+    "id": "e4_m4_battle06"
+  },
+  "e4_m4_battle07": {
+    "environmentPreset": "Combat_Klingon_Hallway",
+    "environmentSection": "Environment02_KlingonBase_Hall",
+    "id": "e4_m4_battle07"
+  },
+  "e4_m4_battle08": {
+    "environmentPreset": "Combat_Klingon_Hallway",
+    "environmentSection": "Environment02_KlingonBase_Hall",
+    "id": "e4_m4_battle08"
+  },
+  "e4_m4_battle09": {
+    "environmentPreset": "Combat_Klingon_Door",
+    "environmentSection": "Environment02_KlingonBase_Door",
+    "id": "e4_m4_battle09"
+  },
+  "e4_m4_battle10": {
+    "environmentPreset": "Combat_Klingon_Hallway",
+    "environmentSection": "Environment02_KlingonBase_Hall",
+    "id": "e4_m4_battle10"
+  },
+  "e4_m4_battle11": {
+    "environmentPreset": "Combat_Klingon_Door",
+    "environmentSection": "Environment02_KlingonBase_Door",
+    "id": "e4_m4_battle11"
+  },
+  "e4_m4_battle12": {
+    "environmentPreset": "Combat_Klingon_MedBay",
+    "environmentSection": "Environment02_KlingonBase_Medbay",
+    "id": "e4_m4_battle12"
+  },
+  "e4_m4_battle13": {
+    "environmentPreset": "Combat_Klingon_Hallway",
+    "environmentSection": "Environment02_KlingonBase_Hall",
+    "id": "e4_m4_battle13"
+  },
+  "e4_m4_battle14": {
+    "environmentPreset": "Combat_Klingon_Door",
+    "environmentSection": "Environment02_KlingonBase_Door",
+    "id": "e4_m4_battle14"
+  },
+  "e4_m4_exploration01": {
+    "storyId": "e4_m4_exploration01",
+    "environmentPreset": "Exploration_Desert_e4m4_KlingonIntGuards",
+    "environmentSection": "Environment02_KlingonBase_Door",
+    "id": "e4_m4_exploration01"
+  },
+  "e4_m4_exploration02": {
+    "storyId": "e4_m4_exploration02",
+    "environmentPreset": "Exploration_Desert_e4m4_KlingonIntLab",
+    "environmentSection": "Environment02_KlingonBase_Medbay",
+    "id": "e4_m4_exploration02"
+  },
+  "e4_m4_exploration03": {
+    "storyId": "e4_m4_exploration03",
+    "environmentPreset": "Exploration_Desert_e4m4_KlingonIntHarvest",
+    "environmentSection": "Environment02_KlingonBase_Medbay",
+    "id": "e4_m4_exploration03"
+  },
+  "e4_m4_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e4_m4_resource01"
+  },
+  "e4_m4_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e4_m4_resource02"
+  },
+  "e4_m4_story01": {
+    "storyId": "e4_m4_story01",
+    "environmentPreset": "Combat_Klingon_MedBay",
+    "environmentSection": "Environment02_KlingonBase_Medbay",
+    "id": "e4_m4_story01"
+  },
+  "e4_m5_battle01": {
+    "environmentPreset": "Combat_Forest_Federation_Path",
+    "environmentSection": "Environment01_Forest_Federation_Path",
+    "id": "e4_m5_battle01"
+  },
+  "e4_m5_battle02": {
+    "environmentPreset": "Combat_Forest_Path",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e4_m5_battle02"
+  },
+  "e4_m5_battle03": {
+    "environmentPreset": "Combat_Forest_Clearing",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e4_m5_battle03"
+  },
+  "e4_m5_battle04": {
+    "environmentPreset": "Combat_Forest_Federation_Path",
+    "environmentSection": "Environment01_Forest_Federation_Path",
+    "id": "e4_m5_battle04"
+  },
+  "e4_m5_battle05": {
+    "environmentPreset": "Combat_Forest_Clearing",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e4_m5_battle05"
+  },
+  "e4_m5_battle06": {
+    "environmentPreset": "Combat_Forest_Federation_Path",
+    "environmentSection": "Environment01_Forest_Federation_Path",
+    "id": "e4_m5_battle06"
+  },
+  "e4_m5_battle07": {
+    "environmentPreset": "Combat_Forest_Path",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e4_m5_battle07"
+  },
+  "e4_m5_battle08": {
+    "environmentPreset": "Combat_Forest_Clearing",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e4_m5_battle08"
+  },
+  "e4_m5_battle09": {
+    "environmentPreset": "Combat_Forest_Path",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e4_m5_battle09"
+  },
+  "e4_m5_battle10": {
+    "environmentPreset": "Combat_Forest_Federation_Clearing",
+    "environmentSection": "Environment01_Forest_Federation_Clearing",
+    "id": "e4_m5_battle10"
+  },
+  "e4_m5_exploration01": {
+    "storyId": "e4_m5_exploration01",
+    "environmentPreset": "Exploration_Forest_e4m5_FiltrationUnit01",
+    "environmentSection": "Environment01_Forest_Federation_Path",
+    "id": "e4_m5_exploration01"
+  },
+  "e4_m5_exploration02": {
+    "storyId": "e4_m5_exploration02",
+    "environmentPreset": "Exploration_Forest_e4m5_FiltrationUnit02",
+    "environmentSection": "Environment01_Forest_Federation_Clearing",
+    "id": "e4_m5_exploration02"
+  },
+  "e4_m5_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e4_m5_resource01"
+  },
+  "e4_m5_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e4_m5_resource02"
+  },
+  "e4_m5_story01": {
+    "storyId": "e4_m5_story01",
+    "environmentPreset": "Combat_Forest_Federation_Clearing",
+    "environmentSection": "Environment01_Forest_Federation_Clearing",
+    "id": "e4_m5_story01"
+  },
+  "e4_m5_story02": {
+    "storyId": "e4_m5_story02",
+    "environmentPreset": "Exploration_Forest_e4m5_FiltrationUnit01",
+    "environmentSection": "Environment01_Forest_Federation_Path",
+    "id": "e4_m5_story02"
+  },
+  "e4_m5_story03": {
+    "storyId": "e4_m5_story03",
+    "environmentPreset": "Combat_Forest_Clearing",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e4_m5_story03"
+  },
+  "e4_m5_story04": {
+    "storyId": "e4_m5_story04",
+    "environmentPreset": "Combat_Forest_Federation_Clearing",
+    "environmentSection": "Environment01_Forest_Federation_Clearing",
+    "id": "e4_m5_story04"
+  },
+  "e4_m6_battle01": {
+    "environmentPreset": "Combat_FedMedbay_Esplanade_01",
+    "environmentSection": "Environment02_MedBay_Esplanade",
+    "id": "e4_m6_battle01"
+  },
+  "e4_m6_battle02": {
+    "environmentPreset": "Combat_FedMedbay_Hallway_01",
+    "environmentSection": "Environment02_MedBay_Hallway",
+    "id": "e4_m6_battle02"
+  },
+  "e4_m6_battle03": {
+    "environmentPreset": "Combat_FedMedbay_Esplanade_01",
+    "environmentSection": "Environment02_MedBay_Esplanade",
+    "id": "e4_m6_battle03"
+  },
+  "e4_m6_battle04": {
+    "environmentPreset": "Combat_FedMedbay_Hallway_01",
+    "environmentSection": "Environment02_MedBay_Hallway",
+    "id": "e4_m6_battle04"
+  },
+  "e4_m6_battle05": {
+    "environmentPreset": "Combat_FedMedbay_Esplanade_01",
+    "environmentSection": "Environment02_MedBay_Esplanade",
+    "id": "e4_m6_battle05"
+  },
+  "e4_m6_battle06": {
+    "environmentPreset": "Combat_FedOutpost_03",
+    "environmentSection": "Environment01_Outpost_Hallway",
+    "id": "e4_m6_battle06"
+  },
+  "e4_m6_battle07": {
+    "environmentPreset": "Combat_FedOutpost_03",
+    "environmentSection": "Environment01_Outpost_Hallway",
+    "id": "e4_m6_battle07"
+  },
+  "e4_m6_battle08": {
+    "environmentPreset": "Combat_FedMedbay_CargoBay_01",
+    "environmentSection": "Environment02_MedBay_CargoBay",
+    "id": "e4_m6_battle08"
+  },
+  "e4_m6_battle09": {
+    "environmentPreset": "Combat_FedMedbay_CargoBay_01",
+    "environmentSection": "Environment02_MedBay_CargoBay",
+    "id": "e4_m6_battle09"
+  },
+  "e4_m6_battle10": {
+    "environmentPreset": "Combat_FedMedbay_KhansThrone_01",
+    "environmentSection": "Environment02_MedBay_CargoBay",
+    "id": "e4_m6_battle10"
+  },
+  "e4_m6_battle11": {
+    "environmentPreset": "Combat_FedMedbay_KhansThrone_01",
+    "environmentSection": "Environment02_MedBay_CargoBay",
+    "id": "e4_m6_battle11"
+  },
+  "e4_m6_exploration01": {
+    "storyId": "e4_m6_exploration01",
+    "environmentPreset": "Exploration_FedBaseInt_e4m6_LockedDoors",
+    "environmentSection": "Environment02_MedBay_CargoBay",
+    "id": "e4_m6_exploration01"
+  },
+  "e4_m6_exploration02": {
+    "storyId": "e4_m6_exploration02",
+    "environmentPreset": "Exploration_FedBaseInt_e4m6_KhanDoors",
+    "environmentSection": "Environment02_MedBay_CargoBay",
+    "id": "e4_m6_exploration02"
+  },
+  "e4_m6_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e4_m6_resource01"
+  },
+  "e4_m6_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e4_m6_resource02"
+  },
+  "e4_m6_story01": {
+    "storyId": "e4_m6_story01",
+    "environmentPreset": "Combat_FedMedbay_Hallway_01",
+    "environmentSection": "Environment02_MedBay_Hallway",
+    "id": "e4_m6_story01"
+  },
+  "e5_m1_battle01": {
+    "environmentPreset": "Combat_Forest_Clearing",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e5_m1_battle01"
+  },
+  "e5_m1_battle02": {
+    "environmentPreset": "Combat_Forest_Path",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e5_m1_battle02"
+  },
+  "e5_m1_battle03": {
+    "environmentPreset": "Combat_Forest_Path",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e5_m1_battle03"
+  },
+  "e5_m1_battle04": {
+    "environmentPreset": "Combat_Forest_Path",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e5_m1_battle04"
+  },
+  "e5_m1_battle05": {
+    "environmentPreset": "Combat_Forest_Clearing",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e5_m1_battle05"
+  },
+  "e5_m1_battle06": {
+    "environmentPreset": "Combat_Forest_Path",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e5_m1_battle06"
+  },
+  "e5_m1_battle07": {
+    "environmentPreset": "Combat_Forest_Clearing",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e5_m1_battle07"
+  },
+  "e5_m1_battle08": {
+    "environmentPreset": "Combat_Forest_Path",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e5_m1_battle08"
+  },
+  "e5_m1_battle09": {
+    "environmentPreset": "Combat_Forest_Path",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e5_m1_battle09"
+  },
+  "e5_m1_battle10": {
+    "environmentPreset": "Combat_Forest_Clearing_BirdOfPreyCrash",
+    "environmentSection": "Environment01_Forest_Clearing_BOP_Crash",
+    "id": "e5_m1_battle10"
+  },
+  "e5_m1_exploration01": {
+    "storyId": "e5_m1_exploration01",
+    "environmentPreset": "Exploration_Forest_e5m1_ToxicFungi",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e5_m1_exploration01"
+  },
+  "e5_m1_exploration02": {
+    "storyId": "e5_m1_exploration02",
+    "environmentPreset": "Exploration_Forest_e5m1_BirdOfPreyCrash",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e5_m1_exploration02"
+  },
+  "e5_m1_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e5_m1_resource01"
+  },
+  "e5_m1_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e5_m1_resource02"
+  },
+  "e5_m1_story01": {
+    "storyId": "e5_m1_story01",
+    "environmentPreset": "Exploration_Forest_e5m1_Transmission",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e5_m1_story01"
+  },
+  "e5_m1_story02": {
+    "storyId": "e5_m1_story02",
+    "environmentPreset": "Exploration_Forest_e5m1_BirdOfPreyDebris",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e5_m1_story02"
+  },
+  "e5_m1_story03": {
+    "storyId": "e5_m1_story03",
+    "environmentPreset": "Exploration_Forest_e5m1_BirdOfPreyCrash_Story",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e5_m1_story03"
+  },
+  "e5_m2_battle01": {
+    "environmentPreset": "Combat_Forest_Path",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e5_m2_battle01"
+  },
+  "e5_m2_battle02": {
+    "environmentPreset": "Combat_Forest_Path",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e5_m2_battle02"
+  },
+  "e5_m2_battle03": {
+    "environmentPreset": "Combat_Forest_Path",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e5_m2_battle03"
+  },
+  "e5_m2_battle04": {
+    "environmentPreset": "Combat_Forest_Clearing",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e5_m2_battle04"
+  },
+  "e5_m2_battle05": {
+    "environmentPreset": "Combat_Forest_Path_BirdOfPreySurvivors",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e5_m2_battle05"
+  },
+  "e5_m2_battle06": {
+    "environmentPreset": "Combat_Forest_Path_BirdOfPreySurvivors",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e5_m2_battle06"
+  },
+  "e5_m2_battle07": {
+    "environmentPreset": "Combat_Forest_Path_BirdOfPreySurvivors",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e5_m2_battle07"
+  },
+  "e5_m2_battle08": {
+    "environmentPreset": "Combat_Forest_Path",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e5_m2_battle08"
+  },
+  "e5_m2_battle09": {
+    "environmentPreset": "Combat_Forest_Clearing",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e5_m2_battle09"
+  },
+  "e5_m2_battle10": {
+    "environmentPreset": "Combat_Forest_Clearing_MercCamp",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e5_m2_battle10"
+  },
+  "e5_m2_battle11": {
+    "environmentPreset": "Combat_Forest_Path",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e5_m2_battle11"
+  },
+  "e5_m2_battle12": {
+    "environmentPreset": "Combat_Forest_Federation_Clearing",
+    "environmentSection": "Environment01_Forest_Federation_Clearing",
+    "id": "e5_m2_battle12"
+  },
+  "e5_m2_exploration01": {
+    "storyId": "e5_m2_exploration01",
+    "environmentPreset": "Exploration_Forest_e5m2_ThickTrees",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e5_m2_exploration01"
+  },
+  "e5_m2_exploration02": {
+    "storyId": "e5_m2_exploration02",
+    "environmentPreset": "Exploration_Forest_e5m2_BirdOfPreySurvivors",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e5_m2_exploration02"
+  },
+  "e5_m2_exploration03": {
+    "storyId": "e5_m2_exploration03",
+    "environmentPreset": "Exploration_Forest_e5m2_BorgSphere",
+    "environmentSection": "Environment01_Forest_Federation_Path",
+    "id": "e5_m2_exploration03"
+  },
+  "e5_m2_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e5_m2_resource01"
+  },
+  "e5_m2_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e5_m2_resource02"
+  },
+  "e5_m2_story01": {
+    "storyId": "e5_m2_story01",
+    "environmentPreset": "Exploration_Forest_e5m2_BorgTransmission",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e5_m2_story01"
+  },
+  "e5_m2_story02": {
+    "storyId": "e5_m2_story02",
+    "environmentPreset": "Exploration_Forest_e5m2_BirdOfPreySurvivors_Story",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e5_m2_story02"
+  },
+  "e5_m3_battle01": {
+    "environmentPreset": "Combat_FedOutpost",
+    "environmentSection": "Environment01_Outpost_Int",
+    "id": "e5_m3_battle01"
+  },
+  "e5_m3_battle02": {
+    "environmentPreset": "Combat_FedOutpost_03",
+    "environmentSection": "Environment01_Outpost_Hallway",
+    "id": "e5_m3_battle02"
+  },
+  "e5_m3_battle03": {
+    "environmentPreset": "Combat_FedMedbay_CargoBay_01",
+    "environmentSection": "Environment02_MedBay_CargoBay",
+    "id": "e5_m3_battle03"
+  },
+  "e5_m3_battle04": {
+    "environmentPreset": "Combat_FedOutpost_02",
+    "environmentSection": "Environment01_Outpost_Warehouse",
+    "id": "e5_m3_battle04"
+  },
+  "e5_m3_battle05": {
+    "environmentPreset": "Combat_FedOutpost",
+    "environmentSection": "Environment01_Outpost_Int",
+    "id": "e5_m3_battle05"
+  },
+  "e5_m3_battle06": {
+    "environmentPreset": "Combat_FedOutpost_02",
+    "environmentSection": "Environment01_Outpost_Warehouse",
+    "id": "e5_m3_battle06"
+  },
+  "e5_m3_battle07": {
+    "environmentPreset": "Combat_FedOutpost",
+    "environmentSection": "Environment01_Outpost_Int",
+    "id": "e5_m3_battle07"
+  },
+  "e5_m3_battle08": {
+    "environmentPreset": "Combat_FedOutpost_03",
+    "environmentSection": "Environment01_Outpost_Hallway",
+    "id": "e5_m3_battle08"
+  },
+  "e5_m3_battle09": {
+    "environmentPreset": "Combat_FedOutpost",
+    "environmentSection": "Environment01_Outpost_Int",
+    "id": "e5_m3_battle09"
+  },
+  "e5_m3_battle10": {
+    "environmentPreset": "Combat_FedOutpost_02",
+    "environmentSection": "Environment01_Outpost_Warehouse",
+    "id": "e5_m3_battle10"
+  },
+  "e5_m3_battle11": {
+    "environmentPreset": "Combat_FedOutpost_03_RedAlert",
+    "environmentSection": "Environment01_Outpost_Hallway_RedAlert",
+    "id": "e5_m3_battle11"
+  },
+  "e5_m3_exploration01": {
+    "storyId": "e5_m3_exploration01",
+    "environmentPreset": "Exploration_FedBaseInt_e5m3_LootingMercs",
+    "environmentSection": "Environment02_MedBay_CargoBay",
+    "id": "e5_m3_exploration01"
+  },
+  "e5_m3_exploration02": {
+    "storyId": "e5_m3_exploration02",
+    "environmentPreset": "Exploration_FedBaseInt_e5m3_SealedDoor",
+    "environmentSection": "Environment02_MedBay_Esplanade",
+    "id": "e5_m3_exploration02"
+  },
+  "e5_m3_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e5_m3_resource01"
+  },
+  "e5_m3_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e5_m3_resource02"
+  },
+  "e5_m3_story01": {
+    "storyId": "e5_m3_story01",
+    "environmentPreset": "Exploration_FedBaseInt_e5m3_Transmission",
+    "environmentSection": "Environment01_Outpost_Int",
+    "id": "e5_m3_story01"
+  },
+  "e5_m3_story02": {
+    "storyId": "e5_m3_story02",
+    "environmentPreset": "Exploration_FedBaseInt_e5m3_FedSurvivors",
+    "environmentSection": "Environment01_Outpost_Int",
+    "id": "e5_m3_story02"
+  },
+  "e5_m4_battle01": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m4_battle01"
+  },
+  "e5_m4_battle02": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m4_battle02"
+  },
+  "e5_m4_battle03": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m4_battle03"
+  },
+  "e5_m4_battle04": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m4_battle04"
+  },
+  "e5_m4_battle05": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m4_battle05"
+  },
+  "e5_m4_battle06": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m4_battle06"
+  },
+  "e5_m4_battle07": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m4_battle07"
+  },
+  "e5_m4_battle08": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m4_battle08"
+  },
+  "e5_m4_battle09": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m4_battle09"
+  },
+  "e5_m4_battle10": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m4_battle10"
+  },
+  "e5_m4_battle11": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m4_battle11"
+  },
+  "e5_m4_battle12": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m4_battle12"
+  },
+  "e5_m4_battle13": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m4_battle13"
+  },
+  "e5_m4_exploration01": {
+    "storyId": "e5_m4_exploration01",
+    "environmentPreset": "Exploration_BorgInt_e5m4_BorgDataNode01",
+    "environmentSection": "Environment02_Borg_DataDistNode",
+    "id": "e5_m4_exploration01"
+  },
+  "e5_m4_exploration02": {
+    "storyId": "e5_m4_exploration02",
+    "environmentPreset": "Exploration_BorgInt_e5m4_RechargingAlcove",
+    "environmentSection": "Environment02_Borg_RechargingAlcove",
+    "id": "e5_m4_exploration02"
+  },
+  "e5_m4_exploration03": {
+    "storyId": "e5_m4_exploration03",
+    "environmentPreset": "Exploration_BorgInt_e5m4_BorgDataNode02",
+    "environmentSection": "Environment02_Borg_RechargingAlcove",
+    "id": "e5_m4_exploration03"
+  },
+  "e5_m4_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e5_m4_resource01"
+  },
+  "e5_m4_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e5_m4_resource02"
+  },
+  "e5_m4_story01": {
+    "storyId": "e5_m4_story01",
+    "environmentPreset": "Exploration_BorgInt_e5m4_SevenTransmission",
+    "environmentSection": "Environment02_Borg_Room",
+    "id": "e5_m4_story01"
+  },
+  "e5_m4_story02": {
+    "storyId": "e5_m4_story02",
+    "environmentPreset": "Exploration_BorgInt_e5m4_BorgDataNode_Story01",
+    "environmentSection": "Environment02_Borg_DataDistNode",
+    "id": "e5_m4_story02"
+  },
+  "e5_m4_story03": {
+    "storyId": "e5_m4_story02",
+    "environmentPreset": "Exploration_BorgInt_e5m4_BorgDataNode_Story02",
+    "environmentSection": "Environment02_Borg_RechargingAlcove",
+    "id": "e5_m4_story03"
+  },
+  "e5_m5_battle01": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m5_battle01"
+  },
+  "e5_m5_battle02": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m5_battle02"
+  },
+  "e5_m5_battle03": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m5_battle03"
+  },
+  "e5_m5_battle04": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m5_battle04"
+  },
+  "e5_m5_battle05": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m5_battle05"
+  },
+  "e5_m5_battle06": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m5_battle06"
+  },
+  "e5_m5_battle07": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m5_battle07"
+  },
+  "e5_m5_battle08": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m5_battle08"
+  },
+  "e5_m5_battle09": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m5_battle09"
+  },
+  "e5_m5_battle10": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m5_battle10"
+  },
+  "e5_m5_battle11": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m5_battle11"
+  },
+  "e5_m5_battle12": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m5_battle12"
+  },
+  "e5_m5_exploration01": {
+    "storyId": "e5_m5_exploration01",
+    "environmentPreset": "Exploration_BorgInt_e5m5_BorgPrisoners01",
+    "environmentSection": "Environment02_Borg_Room",
+    "id": "e5_m5_exploration01"
+  },
+  "e5_m5_exploration02": {
+    "storyId": "e5_m5_exploration02",
+    "environmentPreset": "Exploration_BorgInt_e5m5_BorgDataNode01",
+    "environmentSection": "Environment02_Borg_DataDistNode",
+    "id": "e5_m5_exploration02"
+  },
+  "e5_m5_exploration03": {
+    "storyId": "e5_m5_exploration03",
+    "environmentPreset": "Exploration_BorgInt_e5m5_BorgPrisoners02",
+    "environmentSection": "Environment02_Borg_Room",
+    "id": "e5_m5_exploration03"
+  },
+  "e5_m5_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e5_m5_resource01"
+  },
+  "e5_m5_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e5_m5_resource02"
+  },
+  "e5_m5_story01": {
+    "storyId": "e5_m5_story01",
+    "environmentPreset": "Exploration_BorgInt_e5m5_ArtemisTransmission01_Story",
+    "environmentSection": "Environment02_Borg_DataDistNode",
+    "id": "e5_m5_story01"
+  },
+  "e5_m5_story02": {
+    "storyId": "e5_m5_story02",
+    "environmentPreset": "Exploration_BorgInt_e5m5_ArtemisTransmission02_Story",
+    "environmentSection": "Environment02_Borg_RechargingAlcove",
+    "id": "e5_m5_story02"
+  },
+  "e5_m5_story03": {
+    "storyId": "e5_m5_story02",
+    "environmentPreset": "Exploration_BorgInt_e5m5_ArtemisTransmission02_Story",
+    "environmentSection": "Environment02_Borg_RechargingAlcove",
+    "id": "e5_m5_story03"
+  },
+  "e5_m6_battle01": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m6_battle01"
+  },
+  "e5_m6_battle02": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m6_battle02"
+  },
+  "e5_m6_battle03": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m6_battle03"
+  },
+  "e5_m6_battle04": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m6_battle04"
+  },
+  "e5_m6_battle05": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m6_battle05"
+  },
+  "e5_m6_battle06": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m6_battle06"
+  },
+  "e5_m6_battle07": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m6_battle07"
+  },
+  "e5_m6_battle08": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m6_battle08"
+  },
+  "e5_m6_battle09": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m6_battle09"
+  },
+  "e5_m6_battle10": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m6_battle10"
+  },
+  "e5_m6_battle11": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m6_battle11"
+  },
+  "e5_m6_battle12": {
+    "environmentPreset": "Combat_BorgInterior",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m6_battle12"
+  },
+  "e5_m6_exploration01": {
+    "storyId": "e5_m6_exploration01",
+    "environmentPreset": "Exploration_BorgInt_e5m6_BorgSurrounded",
+    "environmentSection": "Environment02_Borg_DataDistNode",
+    "id": "e5_m6_exploration01"
+  },
+  "e5_m6_exploration02": {
+    "storyId": "e5_m6_exploration02",
+    "environmentPreset": "Exploration_BorgInt_e5m6_WarpCoreShielded",
+    "environmentSection": "Environment02_Borg_Room",
+    "id": "e5_m6_exploration02"
+  },
+  "e5_m6_exploration03": {
+    "storyId": "e5_m6_exploration03",
+    "environmentPreset": "Exploration_BorgInt_e5m6_WarpCoreAmbush",
+    "environmentSection": "Environment02_Borg_Room",
+    "id": "e5_m6_exploration03"
+  },
+  "e5_m6_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e5_m6_resource01"
+  },
+  "e5_m6_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e5_m6_resource02"
+  },
+  "e5_m6_story01": {
+    "storyId": "e5_m6_story01",
+    "environmentPreset": "Exploration_BorgInt_e5m6_QueenTransmission_Story",
+    "environmentSection": "Environment01_Borg",
+    "id": "e5_m6_story01"
+  },
+  "e5_m6_story02": {
+    "storyId": "e5_m6_story02",
+    "environmentPreset": "Exploration_BorgInt_e5m6_BorgDataNode_Story01",
+    "environmentSection": "Environment02_Borg_Room",
+    "id": "e5_m6_story02"
+  },
+  "e5_m6_story03": {
+    "storyId": "e5_m6_story02",
+    "environmentPreset": "Exploration_BorgInt_e5m6_BorgDataNode_Story02",
+    "environmentSection": "Environment02_Borg_Room",
+    "id": "e5_m6_story03"
+  },
+  "e5_m6_story04": {
+    "storyId": "e5_m6_story04",
+    "environmentPreset": "Exploration_BorgInt_e5m6_AlternateEntrance",
+    "environmentSection": "Environment02_Borg_Room",
+    "id": "e5_m6_story04"
+  },
+  "e5_m6_story05": {
+    "storyId": "e5_m6_story05",
+    "environmentPreset": "Exploration_BorgInt_e5m6_BorgDataNode_Story03",
+    "environmentSection": "Environment02_Borg_DataDistNode",
+    "id": "e5_m6_story05"
+  },
+  "e6_m1_battle01": {
+    "environmentPreset": "Combat_FedShip_Hallway_01",
+    "environmentSection": "Environment01_FedShip_InteriorHall",
+    "id": "e6_m1_battle01"
+  },
+  "e6_m1_battle02": {
+    "environmentPreset": "Combat_FedShip_EntryWell_01",
+    "environmentSection": "Environment01_FedShip_InteriorEntryWell",
+    "id": "e6_m1_battle02"
+  },
+  "e6_m1_battle03": {
+    "environmentPreset": "Combat_FedShip_Hallway_01",
+    "environmentSection": "Environment01_FedShip_InteriorHall",
+    "id": "e6_m1_battle03"
+  },
+  "e6_m1_battle04": {
+    "environmentPreset": "Combat_FedShip_EntryWell_01",
+    "environmentSection": "Environment01_FedShip_InteriorEntryWell",
+    "id": "e6_m1_battle04"
+  },
+  "e6_m1_battle05": {
+    "environmentPreset": "Combat_FedShip_Hallway_01",
+    "environmentSection": "Environment01_FedShip_InteriorHall",
+    "id": "e6_m1_battle05"
+  },
+  "e6_m1_battle06": {
+    "environmentPreset": "Combat_FedShip_EntryWell_01",
+    "environmentSection": "Environment01_FedShip_InteriorEntryWell",
+    "id": "e6_m1_battle06"
+  },
+  "e6_m1_battle07": {
+    "environmentPreset": "Combat_FedShip_EntryWell_01",
+    "environmentSection": "Environment01_FedShip_InteriorEntryWell",
+    "id": "e6_m1_battle07"
+  },
+  "e6_m1_battle08": {
+    "environmentPreset": "Combat_FedShip_Hallway_01",
+    "environmentSection": "Environment01_FedShip_InteriorHall",
+    "id": "e6_m1_battle08"
+  },
+  "e6_m1_battle09": {
+    "environmentPreset": "Combat_FedShip_EntryWell_01",
+    "environmentSection": "Environment01_FedShip_InteriorEntryWell",
+    "id": "e6_m1_battle09"
+  },
+  "e6_m1_battle10": {
+    "environmentPreset": "Combat_FedShip_Hallway_01",
+    "environmentSection": "Environment01_FedShip_InteriorHall",
+    "id": "e6_m1_battle10"
+  },
+  "e6_m1_battle11": {
+    "environmentPreset": "Combat_FedShip_EntryWell_01",
+    "environmentSection": "Environment01_FedShip_InteriorEntryWell",
+    "id": "e6_m1_battle11"
+  },
+  "e6_m1_battle12": {
+    "environmentPreset": "Combat_FedShip_Hallway_01",
+    "environmentSection": "Environment01_FedShip_InteriorHall",
+    "id": "e6_m1_battle12"
+  },
+  "e6_m1_battle13": {
+    "environmentPreset": "Combat_FedShip_Medbay_Sisko_01",
+    "environmentSection": "Environment01_FedShip_Medbay",
+    "id": "e6_m1_battle13"
+  },
+  "e6_m1_exploration01": {
+    "storyId": "e6_m1_exploration01",
+    "environmentPreset": "Exploration_FedShipInt_e6m1_SecurityForcefield",
+    "environmentSection": "Environment01_FedShip_InteriorEntryWell",
+    "id": "e6_m1_exploration01"
+  },
+  "e6_m1_exploration02": {
+    "storyId": "e6_m1_exploration02",
+    "environmentPreset": "Exploration_FedShipInt_e6m1_SickbaySisko",
+    "environmentSection": "Environment01_FedShip_Medbay",
+    "id": "e6_m1_exploration02"
+  },
+  "e6_m1_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e6_m1_resource01"
+  },
+  "e6_m1_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e6_m1_resource02"
+  },
+  "e6_m1_story01": {
+    "storyId": "e6_m1_story01",
+    "environmentPreset": "Exploration_FedShipInt_e6m1_BeamedAboard_Story",
+    "environmentSection": "Environment01_FedShip_InteriorHall",
+    "id": "e6_m1_story01"
+  },
+  "e6_m1_story02": {
+    "storyId": "e6_m1_story02",
+    "environmentPreset": "Exploration_FedShipInt_e6m1_FederationBodies_Story",
+    "environmentSection": "Environment01_FedShip_InteriorHall",
+    "id": "e6_m1_story02"
+  },
+  "e6_m1_story03": {
+    "storyId": "e6_m1_story03",
+    "environmentPreset": "Exploration_FedShipInt_e6m1_WallWriting_Story01",
+    "environmentSection": "Environment01_FedShip_InteriorEntryWell",
+    "id": "e6_m1_story03"
+  },
+  "e6_m1_story04": {
+    "storyId": "e6_m1_story03",
+    "environmentPreset": "Exploration_FedShipInt_e6m1_WallWriting_Story02",
+    "environmentSection": "Environment01_FedShip_InteriorHall",
+    "id": "e6_m1_story04"
+  },
+  "e6_m1_story05": {
+    "storyId": "e6_m1_story04",
+    "environmentPreset": "Exploration_FedShipInt_e6m1_Sisko_Story",
+    "environmentSection": "Environment01_FedShip_Medbay",
+    "id": "e6_m1_story05"
+  },
+  "e6_m2_battle01": {
+    "environmentPreset": "Combat_FedShip_Medbay_01",
+    "environmentSection": "Environment01_FedShip_Medbay",
+    "id": "e6_m2_battle01"
+  },
+  "e6_m2_battle02": {
+    "environmentPreset": "Combat_FedShip_Hallway_01",
+    "environmentSection": "Environment01_FedShip_InteriorHall",
+    "id": "e6_m2_battle02"
+  },
+  "e6_m2_battle03": {
+    "environmentPreset": "Combat_FedShip_EntryWell_01",
+    "environmentSection": "Environment01_FedShip_InteriorEntryWell",
+    "id": "e6_m2_battle03"
+  },
+  "e6_m2_battle04": {
+    "environmentPreset": "Combat_FedShip_Hallway_01",
+    "environmentSection": "Environment01_FedShip_InteriorHall",
+    "id": "e6_m2_battle04"
+  },
+  "e6_m2_battle05": {
+    "environmentPreset": "Combat_FedShip_Medbay_01",
+    "environmentSection": "Environment01_FedShip_Medbay",
+    "id": "e6_m2_battle05"
+  },
+  "e6_m2_battle06": {
+    "environmentPreset": "Combat_FedShip_EntryWell_01",
+    "environmentSection": "Environment01_FedShip_InteriorEntryWell",
+    "id": "e6_m2_battle06"
+  },
+  "e6_m2_battle07": {
+    "environmentPreset": "Combat_FedShip_Hallway_01",
+    "environmentSection": "Environment01_FedShip_InteriorHall",
+    "id": "e6_m2_battle07"
+  },
+  "e6_m2_battle08": {
+    "environmentPreset": "Combat_FedShip_EntryWell_01",
+    "environmentSection": "Environment01_FedShip_InteriorEntryWell",
+    "id": "e6_m2_battle08"
+  },
+  "e6_m2_battle09": {
+    "environmentPreset": "Combat_FedShip_InteriorRoom_01",
+    "environmentSection": "Environment01_FedShip_InteriorRoom",
+    "id": "e6_m2_battle09"
+  },
+  "e6_m2_battle10": {
+    "environmentPreset": "Combat_FedShip_Hallway_01",
+    "environmentSection": "Environment01_FedShip_InteriorHall",
+    "id": "e6_m2_battle10"
+  },
+  "e6_m2_battle11": {
+    "environmentPreset": "Combat_FedShip_EntryWell_01",
+    "environmentSection": "Environment01_FedShip_InteriorEntryWell",
+    "id": "e6_m2_battle11"
+  },
+  "e6_m2_exploration01": {
+    "storyId": "e6_m2_exploration01",
+    "environmentPreset": "Exploration_FedShipInt_e6m2_SickbayChoice",
+    "environmentSection": "Environment01_FedShip_Medbay",
+    "id": "e6_m2_exploration01"
+  },
+  "e6_m2_exploration02": {
+    "storyId": "e6_m2_exploration02",
+    "environmentPreset": "Exploration_FedShipInt_e6m2_CrewQuarters",
+    "environmentSection": "Environment01_FedShip_InteriorEntryWell",
+    "id": "e6_m2_exploration02"
+  },
+  "e6_m2_exploration03": {
+    "storyId": "e6_m2_exploration03",
+    "environmentPreset": "Exploration_FedShipInt_e6m2_Turbolift",
+    "environmentSection": "Environment01_FedShip_InteriorHall",
+    "id": "e6_m2_exploration03"
+  },
+  "e6_m2_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e6_m2_resource01"
+  },
+  "e6_m2_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e6_m2_resource02"
+  },
+  "e6_m2_story01": {
+    "storyId": "e6_m2_story01",
+    "environmentPreset": "Exploration_FedShipInt_e6m2_SiskoMemories_Story",
+    "environmentSection": "Environment01_FedShip_InteriorRoom",
+    "id": "e6_m2_story01"
+  },
+  "e6_m2_story02": {
+    "storyId": "e6_m2_story02",
+    "environmentPreset": "Exploration_FedShipInt_e6m2_NavigationLogs_Story",
+    "environmentSection": "Environment01_FedShip_InteriorRoom",
+    "id": "e6_m2_story02"
+  },
+  "e6_m3_battle01": {
+    "environmentPreset": "Combat_Klingon_Hallway_Dreamless",
+    "environmentSection": "Environment02_KlingonBase_Hall_Dreamless",
+    "id": "e6_m3_battle01"
+  },
+  "e6_m3_battle02": {
+    "environmentPreset": "Combat_Klingon_Hallway_Dreamless",
+    "environmentSection": "Environment02_KlingonBase_Hall_Dreamless",
+    "id": "e6_m3_battle02"
+  },
+  "e6_m3_battle03": {
+    "environmentPreset": "Combat_Klingon_Door_Dreamless",
+    "environmentSection": "Environment02_KlingonBase_Door_Dreamless",
+    "id": "e6_m3_battle03"
+  },
+  "e6_m3_battle04": {
+    "environmentPreset": "Combat_Klingon_Hallway_Dreamless",
+    "environmentSection": "Environment02_KlingonBase_Hall_Dreamless",
+    "id": "e6_m3_battle04"
+  },
+  "e6_m3_battle05": {
+    "environmentPreset": "Combat_Klingon_Door_Dreamless",
+    "environmentSection": "Environment02_KlingonBase_Door_Dreamless",
+    "id": "e6_m3_battle05"
+  },
+  "e6_m3_battle06": {
+    "environmentPreset": "Combat_Klingon_Door_Dreamless",
+    "environmentSection": "Environment02_KlingonBase_Door_Dreamless",
+    "id": "e6_m3_battle06"
+  },
+  "e6_m3_battle07": {
+    "environmentPreset": "Combat_Klingon_Door_Dreamless",
+    "environmentSection": "Environment02_KlingonBase_Door_Dreamless",
+    "id": "e6_m3_battle07"
+  },
+  "e6_m3_battle08": {
+    "environmentPreset": "Combat_Klingon_Hallway_Dreamless",
+    "environmentSection": "Environment02_KlingonBase_Hall_Dreamless",
+    "id": "e6_m3_battle08"
+  },
+  "e6_m3_battle09": {
+    "environmentPreset": "Combat_Klingon_Door_Dreamless",
+    "environmentSection": "Environment02_KlingonBase_Door_Dreamless",
+    "id": "e6_m3_battle09"
+  },
+  "e6_m3_battle10": {
+    "environmentPreset": "Combat_Klingon_Hallway_Dreamless",
+    "environmentSection": "Environment02_KlingonBase_Hall_Dreamless",
+    "id": "e6_m3_battle10"
+  },
+  "e6_m3_battle11": {
+    "environmentPreset": "Combat_Klingon_Door_Dreamless",
+    "environmentSection": "Environment02_KlingonBase_Door_Dreamless",
+    "id": "e6_m3_battle11"
+  },
+  "e6_m3_battle12": {
+    "environmentPreset": "Combat_Klingon_MedBay_Dreamless",
+    "environmentSection": "Environment02_KlingonBase_MedbayDreamless",
+    "id": "e6_m3_battle12"
+  },
+  "e6_m3_exploration01": {
+    "storyId": "e6_m3_exploration01",
+    "environmentPreset": "Exploration_KlingShipInt_e6m3_Intersection",
+    "environmentSection": "Environment02_KlingonBase_Door_Dreamless",
+    "id": "e6_m3_exploration01"
+  },
+  "e6_m3_exploration02": {
+    "storyId": "e6_m3_exploration02",
+    "environmentPreset": "Exploration_KlingShipInt_e6m3_HullBreach",
+    "environmentSection": "Environment02_KlingonBase_Hall_Dreamless",
+    "id": "e6_m3_exploration02"
+  },
+  "e6_m3_exploration03": {
+    "storyId": "e6_m3_exploration03",
+    "environmentPreset": "Exploration_KlingShipInt_e6m3_Sickbay",
+    "environmentSection": "Environment02_KlingonBase_MedbayDreamless",
+    "id": "e6_m3_exploration03"
+  },
+  "e6_m3_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e6_m3_resource01"
+  },
+  "e6_m3_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e6_m3_resource02"
+  },
+  "e6_m3_story01": {
+    "storyId": "e6_m3_story01",
+    "environmentPreset": "Exploration_KlingShipInt_e6m3_MartokTransmission_Story01",
+    "environmentSection": "Environment02_KlingonBase_Door_Dreamless",
+    "id": "e6_m3_story01"
+  },
+  "e6_m3_story02": {
+    "storyId": "e6_m3_story02",
+    "environmentPreset": "Exploration_KlingShipInt_e6m3_MartokTransmission_Story02",
+    "environmentSection": "Environment02_KlingonBase_Hall_Dreamless",
+    "id": "e6_m3_story02"
+  },
+  "e6_m3_story03": {
+    "storyId": "e6_m3_story02",
+    "environmentPreset": "Exploration_KlingShipInt_e6m3_MartokTransmission_Story03",
+    "environmentSection": "Environment02_KlingonBase_Door_Dreamless",
+    "id": "e6_m3_story03"
+  },
+  "e6_m3_story04": {
+    "storyId": "e6_m3_story04",
+    "environmentPreset": "Exploration_KlingShipInt_e6m3_MartokTransmission_Story04",
+    "environmentSection": "Environment02_KlingonBase_Hall_Dreamless",
+    "id": "e6_m3_story04"
+  },
+  "e6_m4_battle01": {
+    "environmentPreset": "Combat_Cardassian_HallDreamless_02_RedAlert",
+    "environmentSection": "Environment02_Generator_RedAlert_Dreamless",
+    "id": "e6_m4_battle01"
+  },
+  "e6_m4_battle02": {
+    "environmentPreset": "Combat_Cardassian_HallDreamless_Shield_02_RedAlert",
+    "environmentSection": "Environment02_Generator_RedAlert_Dreamless",
+    "id": "e6_m4_battle02"
+  },
+  "e6_m4_battle03": {
+    "environmentPreset": "Combat_Cardassian_HallDreamless_Shield_02_RedAlert",
+    "environmentSection": "Environment02_Generator_RedAlert_Dreamless",
+    "id": "e6_m4_battle03"
+  },
+  "e6_m4_battle04": {
+    "environmentPreset": "Combat_Cardassian_HallDreamless_Shield_02_RedAlert",
+    "environmentSection": "Environment02_Generator_RedAlert_Dreamless",
+    "id": "e6_m4_battle04"
+  },
+  "e6_m4_battle05": {
+    "environmentPreset": "Combat_Cardassian_HallDreamless_02_RedAlert",
+    "environmentSection": "Environment02_Generator_RedAlert_Dreamless",
+    "id": "e6_m4_battle05"
+  },
+  "e6_m4_battle06": {
+    "environmentPreset": "Combat_Cardassian_HallDreamless_02_RedAlert",
+    "environmentSection": "Environment02_Generator_RedAlert_Dreamless",
+    "id": "e6_m4_battle06"
+  },
+  "e6_m4_battle07": {
+    "environmentPreset": "Combat_Cardassian_HallDreamless_02_RedAlert",
+    "environmentSection": "Environment02_Generator_RedAlert_Dreamless",
+    "id": "e6_m4_battle07"
+  },
+  "e6_m4_battle08": {
+    "environmentPreset": "Combat_Cardassian_HallDreamless_02_RedAlert",
+    "environmentSection": "Environment02_Generator_RedAlert_Dreamless",
+    "id": "e6_m4_battle08"
+  },
+  "e6_m4_battle09": {
+    "environmentPreset": "Combat_Cardassian_GenDreamless_02_RedAlert",
+    "environmentSection": "Environment01_Generator_RedAlert",
+    "id": "e6_m4_battle09"
+  },
+  "e6_m4_battle10": {
+    "environmentPreset": "Combat_Cardassian_HallDreamless_02_RedAlert",
+    "environmentSection": "Environment02_Generator_RedAlert_Dreamless",
+    "id": "e6_m4_battle10"
+  },
+  "e6_m4_battle11": {
+    "environmentPreset": "Combat_Cardassian_GenDreamless_02_RedAlert",
+    "environmentSection": "Environment01_Generator_RedAlert",
+    "id": "e6_m4_battle11"
+  },
+  "e6_m4_battle12": {
+    "environmentPreset": "Combat_Cardassian_HallDreamless_02_RedAlert",
+    "environmentSection": "Environment02_Generator_RedAlert_Dreamless",
+    "id": "e6_m4_battle12"
+  },
+  "e6_m4_battle13": {
+    "environmentPreset": "Combat_Cardassian_BridgeDreamless_RedAlert",
+    "environmentSection": "Environment02_Generator_RedAlert_Dreamless",
+    "id": "e6_m4_battle13"
+  },
+  "e6_m4_exploration01": {
+    "storyId": "e6_m4_exploration01",
+    "environmentPreset": "Exploration_CardShipInt_e6m4_CardGroup",
+    "environmentSection": "Environment01_RedAlert",
+    "id": "e6_m4_exploration01"
+  },
+  "e6_m4_exploration02": {
+    "storyId": "e6_m4_exploration02",
+    "environmentPreset": "Exploration_CardShipInt_e6m4_WarpCore",
+    "environmentSection": "Environment01_RedAlert",
+    "id": "e6_m4_exploration02"
+  },
+  "e6_m4_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e6_m4_resource01"
+  },
+  "e6_m4_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e6_m4_resource02"
+  },
+  "e6_m4_story01": {
+    "storyId": "e6_m4_story01",
+    "environmentPreset": "Exploration_CardShipInt_e6m4_WarpCoreWarning_Story01",
+    "environmentSection": "Environment01_RedAlert",
+    "id": "e6_m4_story01"
+  },
+  "e6_m4_story02": {
+    "storyId": "e6_m4_story02",
+    "environmentPreset": "Exploration_CardShipInt_e6m4_WarpCoreWarning_Story02",
+    "environmentSection": "Environment01_RedAlert",
+    "id": "e6_m4_story02"
+  },
+  "e6_m4_story03": {
+    "storyId": "e6_m4_story02",
+    "environmentPreset": "Exploration_CardShipInt_e6m4_WarpCoreWarning_Story03",
+    "environmentSection": "Environment01_RedAlert",
+    "id": "e6_m4_story03"
+  },
+  "e6_m4_story04": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e6_m4_story04"
+  },
+  "e6_m5_battle01": {
+    "environmentPreset": "Combat_Nexus_DesertRuins",
+    "environmentSection": "Environment01_Nexus_DesertRuins",
+    "id": "e6_m5_battle01"
+  },
+  "e6_m5_battle02": {
+    "environmentPreset": "Combat_Nexus_DesertRuins_02",
+    "environmentSection": "Environment01_Nexus_DesertRuins_02",
+    "id": "e6_m5_battle02"
+  },
+  "e6_m5_battle03": {
+    "environmentPreset": "Combat_Nexus_DesertRuins",
+    "environmentSection": "Environment01_Nexus_DesertRuins",
+    "id": "e6_m5_battle03"
+  },
+  "e6_m5_battle04": {
+    "environmentPreset": "Combat_Nexus_DesertRuins",
+    "environmentSection": "Environment01_Nexus_DesertRuins",
+    "id": "e6_m5_battle04"
+  },
+  "e6_m5_battle05": {
+    "environmentPreset": "Combat_Nexus_DesertRuins_02",
+    "environmentSection": "Environment01_Nexus_DesertRuins_02",
+    "id": "e6_m5_battle05"
+  },
+  "e6_m5_battle06": {
+    "environmentPreset": "Combat_Nexus_DesertRuins",
+    "environmentSection": "Environment01_Nexus_DesertRuins",
+    "id": "e6_m5_battle06"
+  },
+  "e6_m5_battle07": {
+    "environmentPreset": "Combat_Nexus_DesertRuins_02",
+    "environmentSection": "Environment01_Nexus_DesertRuins_02",
+    "id": "e6_m5_battle07"
+  },
+  "e6_m5_battle08": {
+    "environmentPreset": "Combat_Nexus_DesertRuins",
+    "environmentSection": "Environment01_Nexus_DesertRuins",
+    "id": "e6_m5_battle08"
+  },
+  "e6_m5_battle09": {
+    "environmentPreset": "Combat_Nexus_DesertRuins_02",
+    "environmentSection": "Environment01_Nexus_DesertRuins_02",
+    "id": "e6_m5_battle09"
+  },
+  "e6_m5_battle10": {
+    "environmentPreset": "Combat_Nexus_DesertRuins_02",
+    "environmentSection": "Environment01_Nexus_DesertRuins_02",
+    "id": "e6_m5_battle10"
+  },
+  "e6_m5_battle11": {
+    "environmentPreset": "Combat_Nexus_DesertRuins_03",
+    "environmentSection": "Environment01_Nexus_DesertRuins_03",
+    "id": "e6_m5_battle11"
+  },
+  "e6_m5_exploration01": {
+    "storyId": "e6_m5_exploration01",
+    "environmentPreset": "Exploration_NexusRuins_e6m5_MysterySignal",
+    "environmentSection": "Environment01_Nexus_DesertRuins",
+    "id": "e6_m5_exploration01"
+  },
+  "e6_m5_exploration02": {
+    "storyId": "e6_m5_exploration02",
+    "environmentPreset": "Exploration_NexusRuins_e6m5_CardCamp",
+    "environmentSection": "Environment01_Nexus_DesertRuins",
+    "id": "e6_m5_exploration02"
+  },
+  "e6_m5_exploration03": {
+    "storyId": "e6_m5_exploration03",
+    "environmentPreset": "Exploration_NexusRuins_e6m5_NexusRuins",
+    "environmentSection": "Environment01_Nexus_DesertRuins_03",
+    "id": "e6_m5_exploration03"
+  },
+  "e6_m5_exploration04": {
+    "storyId": "e6_m5_exploration04",
+    "environmentPreset": "Exploration_NexusRuins_e6m5_NexusRuinEntrance",
+    "environmentSection": "Environment01_Nexus_DesertRuins_02",
+    "id": "e6_m5_exploration04"
+  },
+  "e6_m5_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e6_m5_resource01"
+  },
+  "e6_m5_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e6_m5_resource02"
+  },
+  "e6_m6_battle01": {
+    "environmentPreset": "Combat_Nexus_DesertRuins_03",
+    "environmentSection": "Environment01_Nexus_DesertRuins_03",
+    "id": "e6_m6_battle01"
+  },
+  "e6_m6_battle02": {
+    "environmentPreset": "Combat_Nexus_DesertRuins_02",
+    "environmentSection": "Environment01_Nexus_DesertRuins_02",
+    "id": "e6_m6_battle02"
+  },
+  "e6_m6_battle03": {
+    "environmentPreset": "Combat_Nexus_DesertRuins",
+    "environmentSection": "Environment01_Nexus_DesertRuins",
+    "id": "e6_m6_battle03"
+  },
+  "e6_m6_battle04": {
+    "environmentPreset": "Combat_Nexus_DesertRuins_02",
+    "environmentSection": "Environment01_Nexus_DesertRuins_02",
+    "id": "e6_m6_battle04"
+  },
+  "e6_m6_battle05": {
+    "environmentPreset": "Combat_Nexus_DesertRuins_03",
+    "environmentSection": "Environment01_Nexus_DesertRuins_03",
+    "id": "e6_m6_battle05"
+  },
+  "e6_m6_battle06": {
+    "environmentPreset": "Combat_Nexus_DesertRuins",
+    "environmentSection": "Environment01_Nexus_DesertRuins",
+    "id": "e6_m6_battle06"
+  },
+  "e6_m6_battle07": {
+    "environmentPreset": "Combat_Nexus_DesertRuins",
+    "environmentSection": "Environment01_Nexus_DesertRuins",
+    "id": "e6_m6_battle07"
+  },
+  "e6_m6_battle08": {
+    "environmentPreset": "Combat_Nexus_DesertRuins_02",
+    "environmentSection": "Environment01_Nexus_DesertRuins_02",
+    "id": "e6_m6_battle08"
+  },
+  "e6_m6_battle09": {
+    "environmentPreset": "Combat_Nexus_DesertRuins_02",
+    "environmentSection": "Environment01_Nexus_DesertRuins_02",
+    "id": "e6_m6_battle09"
+  },
+  "e6_m6_battle10": {
+    "environmentPreset": "Combat_Nexus_DesertRuins_02",
+    "environmentSection": "Environment01_Nexus_DesertRuins_02",
+    "id": "e6_m6_battle10"
+  },
+  "e6_m6_battle11": {
+    "environmentPreset": "Combat_Nexus_DesertRuins",
+    "environmentSection": "Environment01_Nexus_DesertRuins",
+    "id": "e6_m6_battle11"
+  },
+  "e6_m6_battle12": {
+    "environmentPreset": "Combat_Nexus_DesertRuins_02",
+    "environmentSection": "Environment01_Nexus_DesertRuins_02",
+    "id": "e6_m6_battle12"
+  },
+  "e6_m6_battle13": {
+    "environmentPreset": "Combat_Nexus_DesertRuins_03",
+    "environmentSection": "Environment01_Nexus_DesertRuins_03",
+    "id": "e6_m6_battle13"
+  },
+  "e6_m6_battle14": {
+    "environmentPreset": "Combat_Nexus_DesertRuins_04",
+    "environmentSection": "Environment01_Nexus_DesertRuins_04",
+    "id": "e6_m6_battle14"
+  },
+  "e6_m6_battle15": {
+    "environmentPreset": "Combat_Nexus_DesertRuins_04",
+    "environmentSection": "Environment01_Nexus_DesertRuins_04",
+    "id": "e6_m6_battle15"
+  },
+  "e6_m6_exploration01": {
+    "storyId": "e6_m6_exploration01",
+    "environmentPreset": "Exploration_NexusRuins_e6m6_NexusIntersection",
+    "environmentSection": "Environment01_Nexus_DesertRuins",
+    "id": "e6_m6_exploration01"
+  },
+  "e6_m6_exploration02": {
+    "storyId": "e6_m6_exploration02",
+    "environmentPreset": "Exploration_NexusRuins_e6m6_NexusTech",
+    "environmentSection": "Environment01_Nexus_DesertRuins_03",
+    "id": "e6_m6_exploration02"
+  },
+  "e6_m6_exploration03": {
+    "storyId": "e6_m6_exploration03",
+    "environmentPreset": "Exploration_NexusRuins_e6m6_DreamlessGroup",
+    "environmentSection": "Environment01_Nexus_DesertRuins_02",
+    "id": "e6_m6_exploration03"
+  },
+  "e6_m6_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e6_m6_resource01"
+  },
+  "e6_m6_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e6_m6_resource02"
+  },
+  "e6_m6_story01": {
+    "storyId": "e6_m6_story01",
+    "environmentPreset": "Exploration_NexusRuins_e6m6_NexusOrb_Story01",
+    "environmentSection": "Environment01_Nexus_DesertRuins_03",
+    "id": "e6_m6_story01"
+  },
+  "e6_m6_story02": {
+    "storyId": "e6_m6_story02",
+    "environmentPreset": "Exploration_NexusRuins_e6m6_NexusOrb_Story02",
+    "environmentSection": "Environment01_Nexus_DesertRuins_03",
+    "id": "e6_m6_story02"
+  },
+  "e6_m6_story03": {
+    "storyId": "e6_m6_story03",
+    "environmentPreset": "Exploration_NexusRuins_e6m6_NexusOrb_Story03",
+    "environmentSection": "Environment01_Nexus_DesertRuins_03",
+    "id": "e6_m6_story03"
+  },
+  "e6_m6_story04": {
+    "storyId": "e6_m6_story03",
+    "environmentPreset": "Exploration_NexusRuins_e6m6_NexusOrb_Story04",
+    "environmentSection": "Environment01_Nexus_DesertRuins_03",
+    "id": "e6_m6_story04"
+  },
+  "e6_m6_story05": {
+    "storyId": "e6_m6_story02",
+    "environmentPreset": "Combat_Nexus_DesertRuins_02",
+    "environmentSection": "Environment01_Nexus_DesertRuins_02",
+    "id": "e6_m6_story05"
+  },
+  "e6_m6_story06": {
+    "storyId": "e6_m6_story03",
+    "environmentPreset": "Exploration_NexusRuins_e6m6_NexusOrb_Story05",
+    "environmentSection": "Environment01_Nexus_DesertRuins_03",
+    "id": "e6_m6_story06"
+  },
+  "e7_m1_battle01": {
+    "environmentPreset": "Combat_NexusMachineInterior_01",
+    "environmentSection": "Environment01_NexusMachineInterior_01",
+    "id": "e7_m1_battle01"
+  },
+  "e7_m1_battle02": {
+    "environmentPreset": "Combat_NexusMachineInterior_01",
+    "environmentSection": "Environment01_NexusMachineInterior_01",
+    "id": "e7_m1_battle02"
+  },
+  "e7_m1_battle03": {
+    "environmentPreset": "Combat_NexusMachineInterior_03",
+    "environmentSection": "Environment01_NexusMachineInterior_03",
+    "id": "e7_m1_battle03"
+  },
+  "e7_m1_battle04": {
+    "environmentPreset": "Combat_NexusMachineInterior_01",
+    "environmentSection": "Environment01_NexusMachineInterior_01",
+    "id": "e7_m1_battle04"
+  },
+  "e7_m1_battle05": {
+    "environmentPreset": "Combat_NexusMachineInterior_03",
+    "environmentSection": "Environment01_NexusMachineInterior_03",
+    "id": "e7_m1_battle05"
+  },
+  "e7_m1_battle06": {
+    "environmentPreset": "Combat_NexusMachineInterior_01",
+    "environmentSection": "Environment01_NexusMachineInterior_01",
+    "id": "e7_m1_battle06"
+  },
+  "e7_m1_battle07": {
+    "environmentPreset": "Combat_NexusMachineInterior_02",
+    "environmentSection": "Environment01_NexusMachineInterior_02",
+    "id": "e7_m1_battle07"
+  },
+  "e7_m1_battle08": {
+    "environmentPreset": "Combat_NexusMachineInterior_01",
+    "environmentSection": "Environment01_NexusMachineInterior_01",
+    "id": "e7_m1_battle08"
+  },
+  "e7_m1_battle09": {
+    "environmentPreset": "Combat_NexusMachineInterior_02",
+    "environmentSection": "Environment01_NexusMachineInterior_02",
+    "id": "e7_m1_battle09"
+  },
+  "e7_m1_battle10": {
+    "environmentPreset": "Combat_NexusMachineInterior_01",
+    "environmentSection": "Environment01_NexusMachineInterior_01",
+    "id": "e7_m1_battle10"
+  },
+  "e7_m1_battle11": {
+    "environmentPreset": "Combat_NexusMachineInterior_02",
+    "environmentSection": "Environment01_NexusMachineInterior_02",
+    "id": "e7_m1_battle11"
+  },
+  "e7_m1_battle12": {
+    "environmentPreset": "Combat_NexusMachineInterior_03",
+    "environmentSection": "Environment01_NexusMachineInterior_03",
+    "id": "e7_m1_battle12"
+  },
+  "e7_m1_exploration01": {
+    "storyId": "e7_m1_exploration01",
+    "environmentPreset": "Exploration_NexusMachine_e7m1_Forcefield",
+    "environmentSection": "Environment01_NexusMachineInterior_01",
+    "id": "e7_m1_exploration01"
+  },
+  "e7_m1_exploration02": {
+    "storyId": "e7_m1_exploration02",
+    "environmentPreset": "Exploration_NexusMachine_e7m1_Storage",
+    "environmentSection": "Environment01_NexusMachineInterior_01",
+    "id": "e7_m1_exploration02"
+  },
+  "e7_m1_exploration03": {
+    "storyId": "e7_m1_exploration03",
+    "environmentPreset": "Exploration_NexusMachine_e7m1_LeapOfFaith",
+    "environmentSection": "Environment01_NexusMachineInterior_02",
+    "id": "e7_m1_exploration03"
+  },
+  "e7_m1_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m1_resource01"
+  },
+  "e7_m1_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m1_resource02"
+  },
+  "e7_m1_story01": {
+    "storyId": "e7_m1_story01",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m1_story01"
+  },
+  "e7_m1_story02": {
+    "storyId": "e7_m1_story02",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m1_story02"
+  },
+  "e7_m1_story03": {
+    "storyId": "e7_m1_story03",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m1_story03"
+  },
+  "e7_m1_story04": {
+    "storyId": "e7_m1_story04",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m1_story04"
+  },
+  "e7_m2_battle01": {
+    "environmentPreset": "Combat_Forest_Federation_Clearing_Night",
+    "environmentSection": "Environment01_Forest_Federation_Clearing",
+    "id": "e7_m2_battle01"
+  },
+  "e7_m2_battle02": {
+    "environmentPreset": "Combat_Forest_Federation_Path_Night",
+    "environmentSection": "Environment01_Forest_Federation_Path",
+    "id": "e7_m2_battle02"
+  },
+  "e7_m2_battle03": {
+    "environmentPreset": "Combat_Forest_Path_Night",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e7_m2_battle03"
+  },
+  "e7_m2_battle04": {
+    "environmentPreset": "Combat_Forest_Clearing_Night",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e7_m2_battle04"
+  },
+  "e7_m2_battle05": {
+    "environmentPreset": "Combat_Forest_Path_Night",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e7_m2_battle05"
+  },
+  "e7_m2_battle06": {
+    "environmentPreset": "Combat_Forest_Clearing_MercCamp_Night",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e7_m2_battle06"
+  },
+  "e7_m2_battle07": {
+    "environmentPreset": "Combat_Forest_Federation_Clearing_Night",
+    "environmentSection": "Environment01_Forest_Federation_Clearing",
+    "id": "e7_m2_battle07"
+  },
+  "e7_m2_battle08": {
+    "environmentPreset": "Combat_Forest_Clearing_Night",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e7_m2_battle08"
+  },
+  "e7_m2_battle09": {
+    "environmentPreset": "Combat_Forest_Path_Night",
+    "environmentSection": "Environment01_Forest_Path",
+    "id": "e7_m2_battle09"
+  },
+  "e7_m2_battle10": {
+    "environmentPreset": "Combat_Forest_Clearing_MercCamp_Night",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e7_m2_battle10"
+  },
+  "e7_m2_battle11": {
+    "environmentPreset": "Combat_Forest_Clearing_Night",
+    "environmentSection": "Environment01_Forest_Clearing",
+    "id": "e7_m2_battle11"
+  },
+  "e7_m2_battle12": {
+    "environmentPreset": "Combat_Forest_Federation_Path_Night",
+    "environmentSection": "Environment01_Forest_Federation_Path",
+    "id": "e7_m2_battle12"
+  },
+  "e7_m2_battle13": {
+    "environmentPreset": "Combat_Forest_Federation_Clearing_Night",
+    "environmentSection": "Environment01_Forest_Federation_Clearing",
+    "id": "e7_m2_battle13"
+  },
+  "e7_m2_exploration01": {
+    "storyId": "e7_m2_exploration01",
+    "environmentPreset": "Exploration_Forest_Night_e7m2_Runabout",
+    "environmentSection": "Environment01_Forest_Federation_Clearing",
+    "id": "e7_m2_exploration01"
+  },
+  "e7_m2_exploration02": {
+    "storyId": "e7_m2_exploration02",
+    "environmentPreset": "Exploration_Forest_Night_e7m2_Supplies",
+    "environmentSection": "Environment01_Forest_Clearing_BOP_Crash",
+    "id": "e7_m2_exploration02"
+  },
+  "e7_m2_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m2_resource01"
+  },
+  "e7_m2_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m2_resource02"
+  },
+  "e7_m2_story01": {
+    "storyId": "e7_m2_story01",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m2_story01"
+  },
+  "e7_m2_story02": {
+    "storyId": "e7_m2_story02",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m2_story02"
+  },
+  "e7_m2_story03": {
+    "storyId": "e7_m2_story03",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m2_story03"
+  },
+  "e7_m2_story04": {
+    "storyId": "e7_m2_story04",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m2_story04"
+  },
+  "e7_m3_battle01": {
+    "environmentPreset": "Combat_Borg_DataDistNode",
+    "environmentSection": "Environment02_Borg_DataDistNode",
+    "id": "e7_m3_battle01"
+  },
+  "e7_m3_battle02": {
+    "environmentPreset": "Combat_Borg_Room",
+    "environmentSection": "Environment02_Borg_Room",
+    "id": "e7_m3_battle02"
+  },
+  "e7_m3_battle03": {
+    "environmentPreset": "Combat_Borg_RechargingAlcove",
+    "environmentSection": "Environment02_Borg_RechargingAlcove",
+    "id": "e7_m3_battle03"
+  },
+  "e7_m3_battle04": {
+    "environmentPreset": "Combat_Borg_DataDistNode",
+    "environmentSection": "Environment02_Borg_DataDistNode",
+    "id": "e7_m3_battle04"
+  },
+  "e7_m3_battle05": {
+    "environmentPreset": "Combat_Borg_DataDistNode",
+    "environmentSection": "Environment02_Borg_DataDistNode",
+    "id": "e7_m3_battle05"
+  },
+  "e7_m3_battle06": {
+    "environmentPreset": "Combat_Borg_RechargingAlcove",
+    "environmentSection": "Environment02_Borg_RechargingAlcove",
+    "id": "e7_m3_battle06"
+  },
+  "e7_m3_battle07": {
+    "environmentPreset": "Combat_Borg_Room",
+    "environmentSection": "Environment02_Borg_Room",
+    "id": "e7_m3_battle07"
+  },
+  "e7_m3_battle08": {
+    "environmentPreset": "Combat_Borg_RechargingAlcove",
+    "environmentSection": "Environment02_Borg_RechargingAlcove",
+    "id": "e7_m3_battle08"
+  },
+  "e7_m3_battle09": {
+    "environmentPreset": "Combat_Borg_DataDistNode",
+    "environmentSection": "Environment02_Borg_DataDistNode",
+    "id": "e7_m3_battle09"
+  },
+  "e7_m3_battle10": {
+    "environmentPreset": "Combat_Borg_DataDistNode",
+    "environmentSection": "Environment02_Borg_DataDistNode",
+    "id": "e7_m3_battle10"
+  },
+  "e7_m3_battle11": {
+    "environmentPreset": "Combat_Borg_RechargingAlcove",
+    "environmentSection": "Environment02_Borg_RechargingAlcove",
+    "id": "e7_m3_battle11"
+  },
+  "e7_m3_battle12": {
+    "environmentPreset": "Combat_Borg_Room",
+    "environmentSection": "Environment02_Borg_Room",
+    "id": "e7_m3_battle12"
+  },
+  "e7_m3_battle13": {
+    "environmentPreset": "Combat_Borg_DataDistNode",
+    "environmentSection": "Environment02_Borg_DataDistNode",
+    "id": "e7_m3_battle13"
+  },
+  "e7_m3_battle14": {
+    "environmentPreset": "Combat_Borg_RechargingAlcove",
+    "environmentSection": "Environment02_Borg_RechargingAlcove",
+    "id": "e7_m3_battle14"
+  },
+  "e7_m3_exploration01": {
+    "storyId": "e7_m3_exploration01",
+    "environmentPreset": "Exploration_BorgInt_e7m3_CubeScan",
+    "environmentSection": "Environment01_Borg",
+    "id": "e7_m3_exploration01"
+  },
+  "e7_m3_exploration02": {
+    "storyId": "e7_m3_exploration02",
+    "environmentPreset": "Exploration_BorgInt_e7m3_Supplies",
+    "environmentSection": "Environment02_Borg_Room",
+    "id": "e7_m3_exploration02"
+  },
+  "e7_m3_exploration03": {
+    "storyId": "e7_m3_exploration03",
+    "environmentPreset": "Exploration_BorgInt_e7m3_Alcove",
+    "environmentSection": "Environment02_Borg_RechargingAlcove",
+    "id": "e7_m3_exploration03"
+  },
+  "e7_m3_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m3_resource01"
+  },
+  "e7_m3_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m3_resource02"
+  },
+  "e7_m3_story01": {
+    "storyId": "e7_m3_story01",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m3_story01"
+  },
+  "e7_m3_story02": {
+    "storyId": "e7_m3_story02",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m3_story02"
+  },
+  "e7_m3_story03": {
+    "storyId": "e7_m3_story03",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m3_story03"
+  },
+  "e7_m3_story04": {
+    "storyId": "e7_m3_story04",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m3_story04"
+  },
+  "e7_m3_story05": {
+    "storyId": "e7_m3_story05",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m3_story05"
+  },
+  "e7_m4_battle01": {
+    "environmentPreset": "Combat_FedShip_Maru_InteriorRoom_01",
+    "environmentSection": "Environment01_FedShip_InteriorRoom",
+    "id": "e7_m4_battle01"
+  },
+  "e7_m4_battle02": {
+    "environmentPreset": "Combat_FedShip_Maru_Medbay_01",
+    "environmentSection": "Environment01_FedShip_Maru_Medbay",
+    "id": "e7_m4_battle02"
+  },
+  "e7_m4_battle03": {
+    "environmentPreset": "Combat_FedShip_Maru_EntryWell_01",
+    "environmentSection": "Environment01_FedShip_Maru_InteriorEntryWell",
+    "id": "e7_m4_battle03"
+  },
+  "e7_m4_battle04": {
+    "environmentPreset": "Combat_FedShip_Maru_Hallway_01",
+    "environmentSection": "Environment01_FedShip_InteriorHall",
+    "id": "e7_m4_battle04"
+  },
+  "e7_m4_battle05": {
+    "environmentPreset": "Combat_FedShip_Maru_EntryWell_01",
+    "environmentSection": "Environment01_FedShip_Maru_InteriorEntryWell",
+    "id": "e7_m4_battle05"
+  },
+  "e7_m4_battle06": {
+    "environmentPreset": "Combat_FedShip_Maru_Medbay_01",
+    "environmentSection": "Environment01_FedShip_Maru_Medbay",
+    "id": "e7_m4_battle06"
+  },
+  "e7_m4_battle07": {
+    "environmentPreset": "Combat_FedShip_Maru_Medbay_01",
+    "environmentSection": "Environment01_FedShip_Maru_Medbay",
+    "id": "e7_m4_battle07"
+  },
+  "e7_m4_battle08": {
+    "environmentPreset": "Combat_FedShip_Maru_Hallway_01",
+    "environmentSection": "Environment01_FedShip_InteriorHall",
+    "id": "e7_m4_battle08"
+  },
+  "e7_m4_battle09": {
+    "environmentPreset": "Combat_FedShip_Maru_InteriorRoom_01",
+    "environmentSection": "Environment01_FedShip_InteriorRoom",
+    "id": "e7_m4_battle09"
+  },
+  "e7_m4_battle10": {
+    "environmentPreset": "Combat_FedShip_Maru_Hallway_01",
+    "environmentSection": "Environment01_FedShip_InteriorHall",
+    "id": "e7_m4_battle10"
+  },
+  "e7_m4_battle11": {
+    "environmentPreset": "Combat_FedShip_Maru_EntryWell_01",
+    "environmentSection": "Environment01_FedShip_Maru_InteriorEntryWell",
+    "id": "e7_m4_battle11"
+  },
+  "e7_m4_exploration01": {
+    "storyId": "e7_m4_exploration01",
+    "environmentPreset": "Exploration_FedShip_Maru_e7m4_Wounded",
+    "environmentSection": "Environment01_FedShip_Maru_Medbay",
+    "id": "e7_m4_exploration01"
+  },
+  "e7_m4_exploration02": {
+    "storyId": "e7_m4_exploration02",
+    "environmentPreset": "Exploration_FedShip_Maru_e7m4_Storage",
+    "environmentSection": "Environment01_FedShip_Maru_InteriorEntryWell",
+    "id": "e7_m4_exploration02"
+  },
+  "e7_m4_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m4_resource01"
+  },
+  "e7_m4_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m4_resource02"
+  },
+  "e7_m4_story01": {
+    "storyId": "e7_m4_story01",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m4_story01"
+  },
+  "e7_m4_story02": {
+    "storyId": "e7_m4_story02",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m4_story02"
+  },
+  "e7_m4_story03": {
+    "storyId": "e7_m4_story03",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m4_story03"
+  },
+  "e7_m5_battle01": {
+    "environmentPreset": "Combat_Desert_CanyonNight",
+    "environmentSection": "Environment01_Desert_Canyon",
+    "id": "e7_m5_battle01"
+  },
+  "e7_m5_battle02": {
+    "environmentPreset": "Combat_Desert_BirdofPreyNight",
+    "environmentSection": "Environment01_Desert_Birdofprey",
+    "id": "e7_m5_battle02"
+  },
+  "e7_m5_battle03": {
+    "environmentPreset": "Combat_Desert_FlatDesertNight",
+    "environmentSection": "Environment01_Desert",
+    "id": "e7_m5_battle03"
+  },
+  "e7_m5_battle04": {
+    "environmentPreset": "Combat_Desert_CanyonNight",
+    "environmentSection": "Environment01_Desert_Canyon",
+    "id": "e7_m5_battle04"
+  },
+  "e7_m5_battle05": {
+    "environmentPreset": "Combat_Desert_BirdofPreyNight",
+    "environmentSection": "Environment01_Desert_Birdofprey",
+    "id": "e7_m5_battle05"
+  },
+  "e7_m5_battle06": {
+    "environmentPreset": "Combat_Desert_CanyonNight",
+    "environmentSection": "Environment01_Desert_Canyon",
+    "id": "e7_m5_battle06"
+  },
+  "e7_m5_battle07": {
+    "environmentPreset": "Combat_Desert_FlatDesertNight",
+    "environmentSection": "Environment01_Desert",
+    "id": "e7_m5_battle07"
+  },
+  "e7_m5_battle08": {
+    "environmentPreset": "Combat_Desert_BirdofPreyNight",
+    "environmentSection": "Environment01_Desert_Birdofprey",
+    "id": "e7_m5_battle08"
+  },
+  "e7_m5_battle09": {
+    "environmentPreset": "Combat_Desert_ShuttleNight",
+    "environmentSection": "Environment01_Desert_Shuttle",
+    "id": "e7_m5_battle09"
+  },
+  "e7_m5_exploration01": {
+    "storyId": "e7_m5_exploration01",
+    "environmentPreset": "Exploration_DesertNight_e7m5_RomulanSensor01",
+    "environmentSection": "Environment01_Desert_Canyon",
+    "id": "e7_m5_exploration01"
+  },
+  "e7_m5_exploration02": {
+    "storyId": "e7_m5_exploration02",
+    "environmentPreset": "Exploration_DesertNight_e7m5_RomulanSensor02",
+    "environmentSection": "Environment01_Desert_Birdofprey",
+    "id": "e7_m5_exploration02"
+  },
+  "e7_m5_exploration03": {
+    "storyId": "e7_m5_exploration03",
+    "environmentPreset": "Exploration_DesertNight_e7m5_RomulanShuttle",
+    "environmentSection": "Environment01_Desert",
+    "id": "e7_m5_exploration03"
+  },
+  "e7_m5_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m5_resource01"
+  },
+  "e7_m5_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m5_resource02"
+  },
+  "e7_m5_story01": {
+    "storyId": "e7_m5_story01",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m5_story01"
+  },
+  "e7_m5_story02": {
+    "storyId": "e7_m5_story02",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m5_story02"
+  },
+  "e7_m6_battle01": {
+    "environmentPreset": "Combat_NexusMachineInterior_03",
+    "environmentSection": "Environment01_NexusMachineInterior_03",
+    "id": "e7_m6_battle01"
+  },
+  "e7_m6_battle02": {
+    "environmentPreset": "Combat_NexusMachineInterior_01",
+    "environmentSection": "Environment01_NexusMachineInterior_01",
+    "id": "e7_m6_battle02"
+  },
+  "e7_m6_battle03": {
+    "environmentPreset": "Combat_NexusMachineInterior_02",
+    "environmentSection": "Environment01_NexusMachineInterior_02",
+    "id": "e7_m6_battle03"
+  },
+  "e7_m6_battle04": {
+    "environmentPreset": "Combat_NexusMachineInterior_01",
+    "environmentSection": "Environment01_NexusMachineInterior_01",
+    "id": "e7_m6_battle04"
+  },
+  "e7_m6_battle05": {
+    "environmentPreset": "Combat_NexusMachineInterior_02",
+    "environmentSection": "Environment01_NexusMachineInterior_02",
+    "id": "e7_m6_battle05"
+  },
+  "e7_m6_battle06": {
+    "environmentPreset": "Combat_NexusMachineInterior_03",
+    "environmentSection": "Environment01_NexusMachineInterior_03",
+    "id": "e7_m6_battle06"
+  },
+  "e7_m6_battle07": {
+    "environmentPreset": "Combat_NexusMachineInterior_03",
+    "environmentSection": "Environment01_NexusMachineInterior_03",
+    "id": "e7_m6_battle07"
+  },
+  "e7_m6_battle08": {
+    "environmentPreset": "Combat_NexusMachineInterior_02",
+    "environmentSection": "Environment01_NexusMachineInterior_02",
+    "id": "e7_m6_battle08"
+  },
+  "e7_m6_battle09": {
+    "environmentPreset": "Combat_NexusMachineInterior_01",
+    "environmentSection": "Environment01_NexusMachineInterior_01",
+    "id": "e7_m6_battle09"
+  },
+  "e7_m6_battle10": {
+    "environmentPreset": "Combat_NexusMachineInterior_02",
+    "environmentSection": "Environment01_NexusMachineInterior_02",
+    "id": "e7_m6_battle10"
+  },
+  "e7_m6_battle11": {
+    "environmentPreset": "Combat_NexusMachineInterior_01",
+    "environmentSection": "Environment01_NexusMachineInterior_01",
+    "id": "e7_m6_battle11"
+  },
+  "e7_m6_battle12": {
+    "environmentPreset": "Combat_NexusMachineInterior_03",
+    "environmentSection": "Environment01_NexusMachineInterior_03",
+    "id": "e7_m6_battle12"
+  },
+  "e7_m6_exploration01": {
+    "storyId": "e7_m6_exploration01",
+    "environmentPreset": "Exploration_NexusMachine_e7m6_PathSplit",
+    "environmentSection": "Environment01_NexusMachineInterior_02",
+    "id": "e7_m6_exploration01"
+  },
+  "e7_m6_exploration02": {
+    "storyId": "e7_m6_exploration02",
+    "environmentPreset": "Exploration_NexusMachine_e7m6_FinalPrep",
+    "environmentSection": "Environment01_NexusMachineInterior_03",
+    "id": "e7_m6_exploration02"
+  },
+  "e7_m6_resource01": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m6_resource01"
+  },
+  "e7_m6_resource02": {
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m6_resource02"
+  },
+  "e7_m6_story01": {
+    "storyId": "e7_m6_story01",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m6_story01"
+  },
+  "e7_m6_story02": {
+    "storyId": "e7_m6_story02",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m6_story02"
+  },
+  "e7_m6_story03": {
+    "storyId": "e7_m6_story03",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m6_story03"
+  },
+  "e7_m6_story04": {
+    "storyId": "e7_m6_story04",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m6_story04"
+  },
+  "e7_m6_story05": {
+    "storyId": "e7_m6_story05",
+    "environmentPreset": "",
+    "environmentSection": "",
+    "id": "e7_m6_story05"
+  }
+}

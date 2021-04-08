@@ -1,0 +1,6911 @@
+{
+  "e1_m1": {
+    "Nodes": {
+      "e1_m1_battle01": {
+        "StartNode": true,
+        "EndNode": true,
+        "NodeId": "e1_m1_battle01",
+        "NextNodeIds": [],
+        "Type": "Encounter"
+      }
+    },
+    "id": "e1_m1"
+  },
+  "e1_m2": {
+    "Nodes": {
+      "e1_m2_battle01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e1_m2_battle01",
+        "NextNodeIds": [
+          "e1_m2_exploration01"
+        ],
+        "Type": "Encounter"
+      },
+      "e1_m2_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m2_exploration01",
+        "NextNodeIds": [
+          "e1_m2_battle02"
+        ],
+        "PreviousNodeId": "e1_m2_battle01",
+        "Type": "Opportunity"
+      },
+      "e1_m2_battle02": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e1_m2_battle02",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e1_m2_exploration01",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e1_m2"
+  },
+  "e1_m3": {
+    "Nodes": {
+      "e1_m3_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e1_m3_story01",
+        "NextNodeIds": [
+          "e1_m3_resource01"
+        ],
+        "Type": "Story"
+      },
+      "e1_m3_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m3_resource01",
+        "NextNodeIds": [
+          "e1_m3_battle01"
+        ],
+        "PreviousNodeId": "e1_m3_story01",
+        "Type": "Resource"
+      },
+      "e1_m3_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m3_battle01",
+        "NextNodeIds": [
+          "e1_m3_battle02"
+        ],
+        "PreviousNodeId": "e1_m3_resource01",
+        "Type": "Encounter"
+      },
+      "e1_m3_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m3_battle02",
+        "NextNodeIds": [
+          "e1_m3_story02"
+        ],
+        "PreviousNodeId": "e1_m3_battle01",
+        "Type": "Encounter"
+      },
+      "e1_m3_story02": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e1_m3_story02",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e1_m3_battle02",
+        "Type": "Story"
+      }
+    },
+    "id": "e1_m3"
+  },
+  "e1_m4": {
+    "Nodes": {
+      "e1_m4_exploration01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e1_m4_exploration01",
+        "NextNodeIds": [
+          "e1_m4_battle01"
+        ],
+        "Type": "Opportunity"
+      },
+      "e1_m4_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m4_battle01",
+        "NextNodeIds": [
+          "e1_m4_story01"
+        ],
+        "PreviousNodeId": "e1_m4_exploration01",
+        "Type": "Encounter"
+      },
+      "e1_m4_story01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m4_story01",
+        "NextNodeIds": [
+          "e1_m4_resource02"
+        ],
+        "PreviousNodeId": "e1_m4_battle01",
+        "Type": "Story"
+      },
+      "e1_m4_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m4_resource02",
+        "NextNodeIds": [
+          "e1_m4_battle02"
+        ],
+        "PreviousNodeId": "e1_m4_story01",
+        "Type": "Resource"
+      },
+      "e1_m4_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m4_battle02",
+        "NextNodeIds": [
+          "e1_m4_resource03"
+        ],
+        "PreviousNodeId": "e1_m4_resource02",
+        "Type": "Encounter"
+      },
+      "e1_m4_resource03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m4_resource03",
+        "NextNodeIds": [
+          "e1_m4_battle03"
+        ],
+        "PreviousNodeId": "e1_m4_battle02",
+        "Type": "Resource"
+      },
+      "e1_m4_battle03": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e1_m4_battle03",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e1_m4_resource03",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e1_m4"
+  },
+  "e1_m5": {
+    "Nodes": {
+      "e1_m5_battle01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e1_m5_battle01",
+        "NextNodeIds": [
+          "e1_m5_story01"
+        ],
+        "Type": "Encounter"
+      },
+      "e1_m5_story01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m5_story01",
+        "NextNodeIds": [
+          "e1_m5_battle02"
+        ],
+        "PreviousNodeId": "e1_m5_battle01",
+        "Type": "Story"
+      },
+      "e1_m5_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m5_battle02",
+        "NextNodeIds": [
+          "e1_m5_resource02"
+        ],
+        "PreviousNodeId": "e1_m5_story01",
+        "Type": "Encounter"
+      },
+      "e1_m5_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m5_resource02",
+        "NextNodeIds": [
+          "e1_m5_exploration01"
+        ],
+        "PreviousNodeId": "e1_m5_battle02",
+        "Type": "Resource"
+      },
+      "e1_m5_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m5_exploration01",
+        "NextNodeIds": [
+          "e1_m5_resource03",
+          "e1_m5_story02"
+        ],
+        "PreviousNodeId": "e1_m5_resource02",
+        "Type": "Opportunity"
+      },
+      "e1_m5_resource03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m5_resource03",
+        "NextNodeIds": [
+          "e1_m5_battle03"
+        ],
+        "PreviousNodeId": "e1_m5_exploration01",
+        "Type": "Resource"
+      },
+      "e1_m5_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m5_story02",
+        "NextNodeIds": [
+          "e1_m5_battle03"
+        ],
+        "PreviousNodeId": "e1_m5_exploration01",
+        "Type": "Story"
+      },
+      "e1_m5_battle03": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e1_m5_battle03",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e1_m5_resource03",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e1_m5"
+  },
+  "e1_m6": {
+    "Nodes": {
+      "e1_m6_battle01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e1_m6_battle01",
+        "NextNodeIds": [
+          "e1_m6_story01"
+        ],
+        "Type": "Encounter"
+      },
+      "e1_m6_story01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m6_story01",
+        "NextNodeIds": [
+          "e1_m6_resource02"
+        ],
+        "PreviousNodeId": "e1_m6_battle01",
+        "Type": "Story"
+      },
+      "e1_m6_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m6_resource02",
+        "NextNodeIds": [
+          "e1_m6_battle02"
+        ],
+        "PreviousNodeId": "e1_m6_story01",
+        "Type": "Resource"
+      },
+      "e1_m6_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m6_battle02",
+        "NextNodeIds": [
+          "e1_m6_battle03"
+        ],
+        "PreviousNodeId": "e1_m6_resource02",
+        "Type": "Encounter"
+      },
+      "e1_m6_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m6_battle03",
+        "NextNodeIds": [
+          "e1_m6_resource05"
+        ],
+        "PreviousNodeId": "e1_m6_battle02",
+        "Type": "Encounter"
+      },
+      "e1_m6_resource05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m6_resource05",
+        "NextNodeIds": [
+          "e1_m6_exploration01"
+        ],
+        "PreviousNodeId": "e1_m6_battle03",
+        "Type": "Resource"
+      },
+      "e1_m6_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m6_exploration01",
+        "NextNodeIds": [
+          "e1_m6_story02",
+          "e1_m6_story03"
+        ],
+        "PreviousNodeId": "e1_m6_resource05",
+        "Type": "Opportunity"
+      },
+      "e1_m6_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m6_story02",
+        "NextNodeIds": [
+          "e1_m6_story04"
+        ],
+        "PreviousNodeId": "e1_m6_exploration01",
+        "Type": "Story"
+      },
+      "e1_m6_story03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e1_m6_story03",
+        "NextNodeIds": [
+          "e1_m6_story04"
+        ],
+        "PreviousNodeId": "e1_m6_exploration01",
+        "Type": "Story"
+      },
+      "e1_m6_story04": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e1_m6_story04",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e1_m6_story02",
+        "Type": "Story"
+      }
+    },
+    "id": "e1_m6"
+  },
+  "e2_m1": {
+    "Nodes": {
+      "e2_m1_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e2_m1_story01",
+        "NextNodeIds": [
+          "e2_m1_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e2_m1_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m1_battle01",
+        "NextNodeIds": [
+          "e2_m1_battle02"
+        ],
+        "PreviousNodeId": "e2_m1_story01",
+        "Type": "Encounter"
+      },
+      "e2_m1_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m1_battle02",
+        "NextNodeIds": [
+          "e2_m1_resource02"
+        ],
+        "PreviousNodeId": "e2_m1_battle01",
+        "Type": "Encounter"
+      },
+      "e2_m1_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m1_resource02",
+        "NextNodeIds": [
+          "e2_m1_exploration01"
+        ],
+        "PreviousNodeId": "e2_m1_battle02",
+        "Type": "Resource"
+      },
+      "e2_m1_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m1_exploration01",
+        "NextNodeIds": [
+          "e2_m1_battle03"
+        ],
+        "PreviousNodeId": "e2_m1_resource02",
+        "Type": "Opportunity"
+      },
+      "e2_m1_battle03": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e2_m1_battle03",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e2_m1_exploration01",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e2_m1"
+  },
+  "e2_m2": {
+    "Nodes": {
+      "e2_m2_battle01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e2_m2_battle01",
+        "NextNodeIds": [
+          "e2_m2_story01"
+        ],
+        "Type": "Encounter"
+      },
+      "e2_m2_story01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m2_story01",
+        "NextNodeIds": [
+          "e2_m2_exploration01"
+        ],
+        "PreviousNodeId": "e2_m2_battle01",
+        "Type": "Story"
+      },
+      "e2_m2_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m2_exploration01",
+        "NextNodeIds": [
+          "e2_m2_resource02",
+          "e2_m2_battle03"
+        ],
+        "PreviousNodeId": "e2_m2_story01",
+        "Type": "Opportunity"
+      },
+      "e2_m2_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m2_resource02",
+        "NextNodeIds": [
+          "e2_m2_battle02"
+        ],
+        "PreviousNodeId": "e2_m2_exploration01",
+        "Type": "Resource"
+      },
+      "e2_m2_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m2_battle02",
+        "NextNodeIds": [
+          "e2_m2_battle05"
+        ],
+        "PreviousNodeId": "e2_m2_resource02",
+        "Type": "Encounter"
+      },
+      "e2_m2_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m2_battle03",
+        "NextNodeIds": [
+          "e2_m2_battle04"
+        ],
+        "PreviousNodeId": "e2_m2_exploration01",
+        "Type": "Encounter"
+      },
+      "e2_m2_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m2_battle04",
+        "NextNodeIds": [
+          "e2_m2_resource04"
+        ],
+        "PreviousNodeId": "e2_m2_battle03",
+        "Type": "Encounter"
+      },
+      "e2_m2_resource04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m2_resource04",
+        "NextNodeIds": [
+          "e2_m2_battle05"
+        ],
+        "PreviousNodeId": "e2_m2_battle04",
+        "Type": "Resource"
+      },
+      "e2_m2_battle05": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e2_m2_battle05",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e2_m2_battle02",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e2_m2"
+  },
+  "e2_m3": {
+    "Nodes": {
+      "e2_m3_battle01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e2_m3_battle01",
+        "NextNodeIds": [
+          "e2_m3_story01"
+        ],
+        "Type": "Encounter"
+      },
+      "e2_m3_story01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m3_story01",
+        "NextNodeIds": [
+          "e2_m3_resource02"
+        ],
+        "PreviousNodeId": "e2_m3_battle01",
+        "Type": "Story"
+      },
+      "e2_m3_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m3_resource02",
+        "NextNodeIds": [
+          "e2_m3_battle02"
+        ],
+        "PreviousNodeId": "e2_m3_story01",
+        "Type": "Resource"
+      },
+      "e2_m3_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m3_battle02",
+        "NextNodeIds": [
+          "e2_m3_exploration01"
+        ],
+        "PreviousNodeId": "e2_m3_resource02",
+        "Type": "Encounter"
+      },
+      "e2_m3_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m3_exploration01",
+        "NextNodeIds": [
+          "e2_m3_battle03",
+          "e2_m3_story02"
+        ],
+        "PreviousNodeId": "e2_m3_battle02",
+        "Type": "Opportunity"
+      },
+      "e2_m3_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m3_battle03",
+        "NextNodeIds": [
+          "e2_m3_resource03"
+        ],
+        "PreviousNodeId": "e2_m3_exploration01",
+        "Type": "Encounter"
+      },
+      "e2_m3_resource03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m3_resource03",
+        "NextNodeIds": [
+          "e2_m3_battle04"
+        ],
+        "PreviousNodeId": "e2_m3_battle03",
+        "Type": "Resource"
+      },
+      "e2_m3_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m3_battle04",
+        "NextNodeIds": [
+          "e2_m3_story03"
+        ],
+        "PreviousNodeId": "e2_m3_resource03",
+        "Type": "Encounter"
+      },
+      "e2_m3_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m3_story02",
+        "NextNodeIds": [
+          "e2_m3_battle05"
+        ],
+        "PreviousNodeId": "e2_m3_exploration01",
+        "Type": "Story"
+      },
+      "e2_m3_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m3_battle05",
+        "NextNodeIds": [
+          "e2_m3_story03"
+        ],
+        "PreviousNodeId": "e2_m3_story02",
+        "Type": "Encounter"
+      },
+      "e2_m3_story03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m3_story03",
+        "NextNodeIds": [
+          "e2_m3_battle06"
+        ],
+        "PreviousNodeId": "e2_m3_battle04",
+        "Type": "Story"
+      },
+      "e2_m3_battle06": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e2_m3_battle06",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e2_m3_story03",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e2_m3"
+  },
+  "e2_m4": {
+    "Nodes": {
+      "e2_m4_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e2_m4_story01",
+        "NextNodeIds": [
+          "e2_m4_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e2_m4_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m4_battle01",
+        "NextNodeIds": [
+          "e2_m4_battle02"
+        ],
+        "PreviousNodeId": "e2_m4_story01",
+        "Type": "Encounter"
+      },
+      "e2_m4_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m4_battle02",
+        "NextNodeIds": [
+          "e2_m4_exploration01"
+        ],
+        "PreviousNodeId": "e2_m4_battle01",
+        "Type": "Encounter"
+      },
+      "e2_m4_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m4_exploration01",
+        "NextNodeIds": [
+          "e2_m4_battle03",
+          "e2_m4_resource02"
+        ],
+        "PreviousNodeId": "e2_m4_battle02",
+        "Type": "Opportunity"
+      },
+      "e2_m4_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m4_resource02",
+        "NextNodeIds": [
+          "e2_m4_battle04"
+        ],
+        "PreviousNodeId": "e2_m4_exploration01",
+        "Type": "Resource"
+      },
+      "e2_m4_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m4_battle03",
+        "NextNodeIds": [
+          "e2_m4_battle05"
+        ],
+        "PreviousNodeId": "e2_m4_exploration01",
+        "Type": "Encounter"
+      },
+      "e2_m4_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m4_battle04",
+        "NextNodeIds": [
+          "e2_m4_story02"
+        ],
+        "PreviousNodeId": "e2_m4_resource02",
+        "Type": "Encounter"
+      },
+      "e2_m4_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m4_battle05",
+        "NextNodeIds": [
+          "e2_m4_story02"
+        ],
+        "PreviousNodeId": "e2_m4_battle03",
+        "Type": "Encounter"
+      },
+      "e2_m4_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m4_story02",
+        "NextNodeIds": [
+          "e2_m4_resource01"
+        ],
+        "PreviousNodeId": "e2_m4_battle04",
+        "Type": "Story"
+      },
+      "e2_m4_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m4_resource01",
+        "NextNodeIds": [
+          "e2_m4_battle06"
+        ],
+        "PreviousNodeId": "e2_m4_story02",
+        "Type": "Resource"
+      },
+      "e2_m4_battle06": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e2_m4_battle06",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e2_m4_resource01",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e2_m4"
+  },
+  "e2_m5": {
+    "Nodes": {
+      "e2_m5_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e2_m5_story01",
+        "NextNodeIds": [
+          "e2_m5_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e2_m5_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m5_battle01",
+        "NextNodeIds": [
+          "e2_m5_battle02"
+        ],
+        "PreviousNodeId": "e2_m5_story01",
+        "Type": "Encounter"
+      },
+      "e2_m5_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m5_battle02",
+        "NextNodeIds": [
+          "e2_m5_exploration01"
+        ],
+        "PreviousNodeId": "e2_m5_battle01",
+        "Type": "Encounter"
+      },
+      "e2_m5_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m5_exploration01",
+        "NextNodeIds": [
+          "e2_m5_battle03",
+          "e2_m5_resource02"
+        ],
+        "PreviousNodeId": "e2_m5_battle02",
+        "Type": "Opportunity"
+      },
+      "e2_m5_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m5_battle03",
+        "NextNodeIds": [
+          "e2_m5_exploration02"
+        ],
+        "PreviousNodeId": "e2_m5_exploration01",
+        "Type": "Encounter"
+      },
+      "e2_m5_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m5_resource02",
+        "NextNodeIds": [
+          "e2_m5_battle04"
+        ],
+        "PreviousNodeId": "e2_m5_exploration01",
+        "Type": "Resource"
+      },
+      "e2_m5_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m5_battle04",
+        "NextNodeIds": [
+          "e2_m5_battle05"
+        ],
+        "PreviousNodeId": "e2_m5_resource02",
+        "Type": "Encounter"
+      },
+      "e2_m5_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m5_exploration02",
+        "NextNodeIds": [
+          "e2_m5_battle06"
+        ],
+        "PreviousNodeId": "e2_m5_battle03",
+        "Type": "Opportunity"
+      },
+      "e2_m5_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m5_battle05",
+        "NextNodeIds": [
+          "e2_m5_resource01"
+        ],
+        "PreviousNodeId": "e2_m5_battle04",
+        "Type": "Encounter"
+      },
+      "e2_m5_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m5_battle06",
+        "NextNodeIds": [
+          "e2_m5_resource01"
+        ],
+        "PreviousNodeId": "e2_m5_exploration02",
+        "Type": "Encounter"
+      },
+      "e2_m5_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m5_resource01",
+        "NextNodeIds": [
+          "e2_m5_battle07"
+        ],
+        "PreviousNodeId": "e2_m5_battle05",
+        "Type": "Resource"
+      },
+      "e2_m5_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m5_battle07",
+        "NextNodeIds": [
+          "e2_m5_story02"
+        ],
+        "PreviousNodeId": "e2_m5_resource01",
+        "Type": "Encounter"
+      },
+      "e2_m5_story02": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e2_m5_story02",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e2_m5_battle07",
+        "Type": "Story"
+      }
+    },
+    "id": "e2_m5"
+  },
+  "e2_m6": {
+    "Nodes": {
+      "e2_m6_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e2_m6_story01",
+        "NextNodeIds": [
+          "e2_m6_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e2_m6_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m6_battle01",
+        "NextNodeIds": [
+          "e2_m6_resource01"
+        ],
+        "PreviousNodeId": "e2_m6_story01",
+        "Type": "Encounter"
+      },
+      "e2_m6_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m6_resource01",
+        "NextNodeIds": [
+          "e2_m6_battle02"
+        ],
+        "PreviousNodeId": "e2_m6_battle01",
+        "Type": "Resource"
+      },
+      "e2_m6_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m6_battle02",
+        "NextNodeIds": [
+          "e2_m6_exploration01"
+        ],
+        "PreviousNodeId": "e2_m6_resource01",
+        "Type": "Encounter"
+      },
+      "e2_m6_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m6_exploration01",
+        "NextNodeIds": [
+          "e2_m6_battle03",
+          "e2_m6_battle04",
+          "e2_m6_battle04"
+        ],
+        "PreviousNodeId": "e2_m6_battle02",
+        "Type": "Opportunity"
+      },
+      "e2_m6_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m6_battle03",
+        "NextNodeIds": [
+          "e2_m6_exploration02"
+        ],
+        "PreviousNodeId": "e2_m6_exploration01",
+        "Type": "Encounter"
+      },
+      "e2_m6_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m6_exploration02",
+        "NextNodeIds": [
+          "e2_m6_resource02"
+        ],
+        "PreviousNodeId": "e2_m6_battle03",
+        "Type": "Opportunity"
+      },
+      "e2_m6_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m6_resource02",
+        "NextNodeIds": [
+          "e2_m6_battle05"
+        ],
+        "PreviousNodeId": "e2_m6_exploration02",
+        "Type": "Resource"
+      },
+      "e2_m6_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m6_battle04",
+        "NextNodeIds": [
+          "e2_m6_exploration03"
+        ],
+        "PreviousNodeId": "e2_m6_exploration01",
+        "Type": "Encounter"
+      },
+      "e2_m6_exploration03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m6_exploration03",
+        "NextNodeIds": [
+          "e2_m6_battle05"
+        ],
+        "PreviousNodeId": "e2_m6_battle04",
+        "Type": "Opportunity"
+      },
+      "e2_m6_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m6_battle05",
+        "NextNodeIds": [
+          "e2_m6_battle06"
+        ],
+        "PreviousNodeId": "e2_m6_resource02",
+        "Type": "Encounter"
+      },
+      "e2_m6_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e2_m6_battle06",
+        "NextNodeIds": [
+          "e2_m6_story02"
+        ],
+        "PreviousNodeId": "e2_m6_battle05",
+        "Type": "Encounter"
+      },
+      "e2_m6_story02": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e2_m6_story02",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e2_m6_battle06",
+        "Type": "Story"
+      }
+    },
+    "id": "e2_m6"
+  },
+  "e3_m1": {
+    "Nodes": {
+      "e3_m1_exploration01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e3_m1_exploration01",
+        "NextNodeIds": [
+          "e3_m1_battle01",
+          "e3_m1_resource01"
+        ],
+        "Type": "Opportunity"
+      },
+      "e3_m1_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m1_battle01",
+        "NextNodeIds": [
+          "e3_m1_battle02"
+        ],
+        "PreviousNodeId": "e3_m1_exploration01",
+        "Type": "Encounter"
+      },
+      "e3_m1_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m1_resource01",
+        "NextNodeIds": [
+          "e3_m1_battle02"
+        ],
+        "PreviousNodeId": "e3_m1_exploration01",
+        "Type": "Resource"
+      },
+      "e3_m1_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m1_battle02",
+        "NextNodeIds": [
+          "e3_m1_battle03"
+        ],
+        "PreviousNodeId": "e3_m1_battle01",
+        "Type": "Encounter"
+      },
+      "e3_m1_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m1_battle03",
+        "NextNodeIds": [
+          "e3_m1_exploration02"
+        ],
+        "PreviousNodeId": "e3_m1_battle02",
+        "Type": "Encounter"
+      },
+      "e3_m1_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m1_exploration02",
+        "NextNodeIds": [
+          "e3_m1_battle04",
+          "e3_m1_resource02"
+        ],
+        "PreviousNodeId": "e3_m1_battle03",
+        "Type": "Opportunity"
+      },
+      "e3_m1_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m1_resource02",
+        "NextNodeIds": [
+          "e3_m1_battle05"
+        ],
+        "PreviousNodeId": "e3_m1_exploration02",
+        "Type": "Resource"
+      },
+      "e3_m1_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m1_battle04",
+        "NextNodeIds": [
+          "e3_m1_battle06"
+        ],
+        "PreviousNodeId": "e3_m1_exploration02",
+        "Type": "Encounter"
+      },
+      "e3_m1_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m1_battle05",
+        "NextNodeIds": [
+          "e3_m1_battle07"
+        ],
+        "PreviousNodeId": "e3_m1_resource02",
+        "Type": "Encounter"
+      },
+      "e3_m1_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m1_battle06",
+        "NextNodeIds": [
+          "e3_m1_story01"
+        ],
+        "PreviousNodeId": "e3_m1_battle04",
+        "Type": "Encounter"
+      },
+      "e3_m1_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m1_battle07",
+        "NextNodeIds": [
+          "e3_m1_story01"
+        ],
+        "PreviousNodeId": "e3_m1_battle05",
+        "Type": "Encounter"
+      },
+      "e3_m1_story01": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e3_m1_story01",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e3_m1_battle06",
+        "Type": "Story"
+      }
+    },
+    "id": "e3_m1"
+  },
+  "e3_m2": {
+    "Nodes": {
+      "e3_m2_exploration01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e3_m2_exploration01",
+        "NextNodeIds": [
+          "e3_m2_battle01"
+        ],
+        "Type": "Opportunity"
+      },
+      "e3_m2_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m2_battle01",
+        "NextNodeIds": [
+          "e3_m2_battle02"
+        ],
+        "PreviousNodeId": "e3_m2_exploration01",
+        "Type": "Encounter"
+      },
+      "e3_m2_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m2_battle02",
+        "NextNodeIds": [
+          "e3_m2_exploration02"
+        ],
+        "PreviousNodeId": "e3_m2_battle01",
+        "Type": "Encounter"
+      },
+      "e3_m2_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m2_exploration02",
+        "NextNodeIds": [
+          "e3_m2_battle03",
+          "e3_m2_resource04"
+        ],
+        "PreviousNodeId": "e3_m2_battle02",
+        "Type": "Opportunity"
+      },
+      "e3_m2_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m2_battle03",
+        "NextNodeIds": [
+          "e3_m2_resource03"
+        ],
+        "PreviousNodeId": "e3_m2_exploration02",
+        "Type": "Encounter"
+      },
+      "e3_m2_resource03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m2_resource03",
+        "NextNodeIds": [
+          "e3_m2_exploration03"
+        ],
+        "PreviousNodeId": "e3_m2_battle03",
+        "Type": "Resource"
+      },
+      "e3_m2_resource04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m2_resource04",
+        "NextNodeIds": [
+          "e3_m2_battle04"
+        ],
+        "PreviousNodeId": "e3_m2_exploration02",
+        "Type": "Resource"
+      },
+      "e3_m2_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m2_battle04",
+        "NextNodeIds": [
+          "e3_m2_exploration03"
+        ],
+        "PreviousNodeId": "e3_m2_resource04",
+        "Type": "Encounter"
+      },
+      "e3_m2_exploration03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m2_exploration03",
+        "NextNodeIds": [
+          "e3_m2_battle05"
+        ],
+        "PreviousNodeId": "e3_m2_resource03",
+        "Type": "Opportunity"
+      },
+      "e3_m2_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m2_battle05",
+        "NextNodeIds": [
+          "e3_m2_battle06"
+        ],
+        "PreviousNodeId": "e3_m2_exploration03",
+        "Type": "Encounter"
+      },
+      "e3_m2_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m2_battle06",
+        "NextNodeIds": [
+          "e3_m2_battle08"
+        ],
+        "PreviousNodeId": "e3_m2_battle05",
+        "Type": "Encounter"
+      },
+      "e3_m2_battle08": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e3_m2_battle08",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e3_m2_battle06",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e3_m2"
+  },
+  "e3_m3": {
+    "Nodes": {
+      "e3_m3_battle01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e3_m3_battle01",
+        "NextNodeIds": [
+          "e3_m3_exploration01"
+        ],
+        "Type": "Encounter"
+      },
+      "e3_m3_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m3_exploration01",
+        "NextNodeIds": [
+          "e3_m3_resource01",
+          "e3_m3_battle02"
+        ],
+        "PreviousNodeId": "e3_m3_battle01",
+        "Type": "Opportunity"
+      },
+      "e3_m3_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m3_resource01",
+        "NextNodeIds": [
+          "e3_m3_battle03"
+        ],
+        "PreviousNodeId": "e3_m3_exploration01",
+        "Type": "Resource"
+      },
+      "e3_m3_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m3_battle02",
+        "NextNodeIds": [
+          "e3_m3_battle03"
+        ],
+        "PreviousNodeId": "e3_m3_exploration01",
+        "Type": "Encounter"
+      },
+      "e3_m3_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m3_battle03",
+        "NextNodeIds": [
+          "e3_m3_exploration02"
+        ],
+        "PreviousNodeId": "e3_m3_resource01",
+        "Type": "Encounter"
+      },
+      "e3_m3_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m3_exploration02",
+        "NextNodeIds": [
+          "e3_m3_resource03",
+          "e3_m3_battle04"
+        ],
+        "PreviousNodeId": "e3_m3_battle03",
+        "Type": "Opportunity"
+      },
+      "e3_m3_resource03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m3_resource03",
+        "NextNodeIds": [
+          "e3_m3_battle05"
+        ],
+        "PreviousNodeId": "e3_m3_exploration02",
+        "Type": "Resource"
+      },
+      "e3_m3_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m3_battle04",
+        "NextNodeIds": [
+          "e3_m3_battle05"
+        ],
+        "PreviousNodeId": "e3_m3_exploration02",
+        "Type": "Encounter"
+      },
+      "e3_m3_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m3_battle05",
+        "NextNodeIds": [
+          "e3_m3_story01"
+        ],
+        "PreviousNodeId": "e3_m3_resource03",
+        "Type": "Encounter"
+      },
+      "e3_m3_story01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m3_story01",
+        "NextNodeIds": [
+          "e3_m3_exploration03"
+        ],
+        "PreviousNodeId": "e3_m3_battle05",
+        "Type": "Story"
+      },
+      "e3_m3_exploration03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m3_exploration03",
+        "NextNodeIds": [
+          "e3_m3_battle06"
+        ],
+        "PreviousNodeId": "e3_m3_story01",
+        "Type": "Opportunity"
+      },
+      "e3_m3_battle06": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e3_m3_battle06",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e3_m3_exploration03",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e3_m3"
+  },
+  "e3_m4": {
+    "Nodes": {
+      "e3_m4_battle01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e3_m4_battle01",
+        "NextNodeIds": [
+          "e3_m4_exploration01"
+        ],
+        "Type": "Encounter"
+      },
+      "e3_m4_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m4_exploration01",
+        "NextNodeIds": [
+          "e3_m4_battle02",
+          "e3_m4_resource01"
+        ],
+        "PreviousNodeId": "e3_m4_battle01",
+        "Type": "Opportunity"
+      },
+      "e3_m4_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m4_battle02",
+        "NextNodeIds": [
+          "e3_m4_battle03"
+        ],
+        "PreviousNodeId": "e3_m4_exploration01",
+        "Type": "Encounter"
+      },
+      "e3_m4_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m4_resource01",
+        "NextNodeIds": [
+          "e3_m4_battle03"
+        ],
+        "PreviousNodeId": "e3_m4_exploration01",
+        "Type": "Resource"
+      },
+      "e3_m4_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m4_battle03",
+        "NextNodeIds": [
+          "e3_m4_exploration02"
+        ],
+        "PreviousNodeId": "e3_m4_battle02",
+        "Type": "Encounter"
+      },
+      "e3_m4_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m4_exploration02",
+        "NextNodeIds": [
+          "e3_m4_resource03",
+          "e3_m4_battle04"
+        ],
+        "PreviousNodeId": "e3_m4_battle03",
+        "Type": "Opportunity"
+      },
+      "e3_m4_resource03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m4_resource03",
+        "NextNodeIds": [
+          "e3_m4_battle05"
+        ],
+        "PreviousNodeId": "e3_m4_exploration02",
+        "Type": "Resource"
+      },
+      "e3_m4_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m4_battle04",
+        "NextNodeIds": [
+          "e3_m4_battle05"
+        ],
+        "PreviousNodeId": "e3_m4_exploration02",
+        "Type": "Encounter"
+      },
+      "e3_m4_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m4_battle05",
+        "NextNodeIds": [
+          "e3_m4_exploration03"
+        ],
+        "PreviousNodeId": "e3_m4_resource03",
+        "Type": "Encounter"
+      },
+      "e3_m4_exploration03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m4_exploration03",
+        "NextNodeIds": [
+          "e3_m4_battle06"
+        ],
+        "PreviousNodeId": "e3_m4_battle05",
+        "Type": "Opportunity"
+      },
+      "e3_m4_battle06": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e3_m4_battle06",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e3_m4_exploration03",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e3_m4"
+  },
+  "e3_m5": {
+    "Nodes": {
+      "e3_m5_exploration01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e3_m5_exploration01",
+        "NextNodeIds": [
+          "e3_m5_resource01",
+          "e3_m5_battle01"
+        ],
+        "Type": "Opportunity"
+      },
+      "e3_m5_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m5_resource01",
+        "NextNodeIds": [
+          "e3_m5_battle02"
+        ],
+        "PreviousNodeId": "e3_m5_exploration01",
+        "Type": "Resource"
+      },
+      "e3_m5_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m5_battle01",
+        "NextNodeIds": [
+          "e3_m5_battle03"
+        ],
+        "PreviousNodeId": "e3_m5_exploration01",
+        "Type": "Encounter"
+      },
+      "e3_m5_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m5_battle02",
+        "NextNodeIds": [
+          "e3_m5_exploration02"
+        ],
+        "PreviousNodeId": "e3_m5_resource01",
+        "Type": "Encounter"
+      },
+      "e3_m5_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m5_battle03",
+        "NextNodeIds": [
+          "e3_m5_exploration02"
+        ],
+        "PreviousNodeId": "e3_m5_battle01",
+        "Type": "Encounter"
+      },
+      "e3_m5_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m5_exploration02",
+        "NextNodeIds": [
+          "e3_m5_battle04"
+        ],
+        "PreviousNodeId": "e3_m5_battle02",
+        "Type": "Opportunity"
+      },
+      "e3_m5_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m5_battle04",
+        "NextNodeIds": [
+          "e3_m5_battle05"
+        ],
+        "PreviousNodeId": "e3_m5_exploration02",
+        "Type": "Encounter"
+      },
+      "e3_m5_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m5_battle05",
+        "NextNodeIds": [
+          "e3_m5_battle06"
+        ],
+        "PreviousNodeId": "e3_m5_battle04",
+        "Type": "Encounter"
+      },
+      "e3_m5_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m5_battle06",
+        "NextNodeIds": [
+          "e3_m5_resource02"
+        ],
+        "PreviousNodeId": "e3_m5_battle05",
+        "Type": "Encounter"
+      },
+      "e3_m5_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m5_resource02",
+        "NextNodeIds": [
+          "e3_m5_exploration03"
+        ],
+        "PreviousNodeId": "e3_m5_battle06",
+        "Type": "Resource"
+      },
+      "e3_m5_exploration03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m5_exploration03",
+        "NextNodeIds": [
+          "e3_m5_battle07"
+        ],
+        "PreviousNodeId": "e3_m5_resource02",
+        "Type": "Opportunity"
+      },
+      "e3_m5_battle07": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e3_m5_battle07",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e3_m5_exploration03",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e3_m5"
+  },
+  "e3_m6": {
+    "Nodes": {
+      "e3_m6_battle01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e3_m6_battle01",
+        "NextNodeIds": [
+          "e3_m6_exploration01"
+        ],
+        "Type": "Encounter"
+      },
+      "e3_m6_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m6_exploration01",
+        "NextNodeIds": [
+          "e3_m6_battle02",
+          "e3_m6_battle04"
+        ],
+        "PreviousNodeId": "e3_m6_battle01",
+        "Type": "Opportunity"
+      },
+      "e3_m6_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m6_battle02",
+        "NextNodeIds": [
+          "e3_m6_battle03"
+        ],
+        "PreviousNodeId": "e3_m6_exploration01",
+        "Type": "Encounter"
+      },
+      "e3_m6_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m6_battle03",
+        "NextNodeIds": [
+          "e3_m6_battle05"
+        ],
+        "PreviousNodeId": "e3_m6_battle02",
+        "Type": "Encounter"
+      },
+      "e3_m6_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m6_battle04",
+        "NextNodeIds": [
+          "e3_m6_resource01"
+        ],
+        "PreviousNodeId": "e3_m6_exploration01",
+        "Type": "Encounter"
+      },
+      "e3_m6_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m6_resource01",
+        "NextNodeIds": [
+          "e3_m6_battle05"
+        ],
+        "PreviousNodeId": "e3_m6_battle04",
+        "Type": "Resource"
+      },
+      "e3_m6_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m6_battle05",
+        "NextNodeIds": [
+          "e3_m6_battle06"
+        ],
+        "PreviousNodeId": "e3_m6_battle03",
+        "Type": "Encounter"
+      },
+      "e3_m6_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m6_battle06",
+        "NextNodeIds": [
+          "e3_m6_resource02"
+        ],
+        "PreviousNodeId": "e3_m6_battle05",
+        "Type": "Encounter"
+      },
+      "e3_m6_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m6_resource02",
+        "NextNodeIds": [
+          "e3_m6_exploration02"
+        ],
+        "PreviousNodeId": "e3_m6_battle06",
+        "Type": "Resource"
+      },
+      "e3_m6_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e3_m6_exploration02",
+        "NextNodeIds": [
+          "e3_m6_battle07"
+        ],
+        "PreviousNodeId": "e3_m6_resource02",
+        "Type": "Opportunity"
+      },
+      "e3_m6_battle07": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e3_m6_battle07",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e3_m6_exploration02",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e3_m6"
+  },
+  "e4_m1": {
+    "Nodes": {
+      "e4_m1_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e4_m1_story01",
+        "NextNodeIds": [
+          "e4_m1_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e4_m1_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m1_battle01",
+        "NextNodeIds": [
+          "e4_m1_battle02"
+        ],
+        "PreviousNodeId": "e4_m1_story01",
+        "Type": "Encounter"
+      },
+      "e4_m1_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m1_battle02",
+        "NextNodeIds": [
+          "e4_m1_exploration01"
+        ],
+        "PreviousNodeId": "e4_m1_battle01",
+        "Type": "Encounter"
+      },
+      "e4_m1_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m1_exploration01",
+        "NextNodeIds": [
+          "e4_m1_battle03",
+          "e4_m1_battle06",
+          "e4_m1_resource01"
+        ],
+        "PreviousNodeId": "e4_m1_battle02",
+        "Type": "Opportunity"
+      },
+      "e4_m1_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m1_battle03",
+        "NextNodeIds": [
+          "e4_m1_battle04"
+        ],
+        "PreviousNodeId": "e4_m1_exploration01",
+        "Type": "Encounter"
+      },
+      "e4_m1_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m1_resource01",
+        "NextNodeIds": [
+          "e4_m1_battle06"
+        ],
+        "PreviousNodeId": "e4_m1_exploration01",
+        "Type": "Resource"
+      },
+      "e4_m1_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m1_battle04",
+        "NextNodeIds": [
+          "e4_m1_exploration02"
+        ],
+        "PreviousNodeId": "e4_m1_battle03",
+        "Type": "Encounter"
+      },
+      "e4_m1_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m1_exploration02",
+        "NextNodeIds": [
+          "e4_m1_battle05",
+          "e4_m1_battle08",
+          "e4_m1_resource02"
+        ],
+        "PreviousNodeId": "e4_m1_battle04",
+        "Type": "Opportunity"
+      },
+      "e4_m1_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m1_battle05",
+        "NextNodeIds": [
+          "e4_m1_battle09"
+        ],
+        "PreviousNodeId": "e4_m1_exploration02",
+        "Type": "Encounter"
+      },
+      "e4_m1_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m1_battle06",
+        "NextNodeIds": [
+          "e4_m1_battle07"
+        ],
+        "PreviousNodeId": "e4_m1_exploration01",
+        "Type": "Encounter"
+      },
+      "e4_m1_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m1_battle07",
+        "NextNodeIds": [
+          "e4_m1_exploration02"
+        ],
+        "PreviousNodeId": "e4_m1_battle06",
+        "Type": "Encounter"
+      },
+      "e4_m1_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m1_resource02",
+        "NextNodeIds": [
+          "e4_m1_battle08"
+        ],
+        "PreviousNodeId": "e4_m1_exploration02",
+        "Type": "Resource"
+      },
+      "e4_m1_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m1_battle08",
+        "NextNodeIds": [
+          "e4_m1_story02"
+        ],
+        "PreviousNodeId": "e4_m1_exploration02",
+        "Type": "Encounter"
+      },
+      "e4_m1_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m1_story02",
+        "NextNodeIds": [
+          "e4_m1_battle09"
+        ],
+        "PreviousNodeId": "e4_m1_battle08",
+        "Type": "Story"
+      },
+      "e4_m1_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m1_battle09",
+        "NextNodeIds": [
+          "e4_m1_battle10"
+        ],
+        "PreviousNodeId": "e4_m1_battle05",
+        "Type": "Encounter"
+      },
+      "e4_m1_battle10": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e4_m1_battle10",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e4_m1_battle09",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e4_m1"
+  },
+  "e4_m2": {
+    "Nodes": {
+      "e4_m2_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e4_m2_story01",
+        "NextNodeIds": [
+          "e4_m2_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e4_m2_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m2_battle01",
+        "NextNodeIds": [
+          "e4_m2_battle02"
+        ],
+        "PreviousNodeId": "e4_m2_story01",
+        "Type": "Encounter"
+      },
+      "e4_m2_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m2_battle02",
+        "NextNodeIds": [
+          "e4_m2_exploration01"
+        ],
+        "PreviousNodeId": "e4_m2_battle01",
+        "Type": "Encounter"
+      },
+      "e4_m2_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m2_exploration01",
+        "NextNodeIds": [
+          "e4_m2_battle03",
+          "e4_m2_story02",
+          "e4_m2_resource01"
+        ],
+        "PreviousNodeId": "e4_m2_battle02",
+        "Type": "Opportunity"
+      },
+      "e4_m2_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m2_resource01",
+        "NextNodeIds": [
+          "e4_m2_battle03"
+        ],
+        "PreviousNodeId": "e4_m2_exploration01",
+        "Type": "Resource"
+      },
+      "e4_m2_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m2_battle03",
+        "NextNodeIds": [
+          "e4_m2_battle04"
+        ],
+        "PreviousNodeId": "e4_m2_exploration01",
+        "Type": "Encounter"
+      },
+      "e4_m2_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m2_battle04",
+        "NextNodeIds": [
+          "e4_m2_battle05"
+        ],
+        "PreviousNodeId": "e4_m2_battle03",
+        "Type": "Encounter"
+      },
+      "e4_m2_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m2_battle05",
+        "NextNodeIds": [
+          "e4_m2_battle08"
+        ],
+        "PreviousNodeId": "e4_m2_battle04",
+        "Type": "Encounter"
+      },
+      "e4_m2_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m2_story02",
+        "NextNodeIds": [
+          "e4_m2_battle06"
+        ],
+        "PreviousNodeId": "e4_m2_exploration01",
+        "Type": "Story"
+      },
+      "e4_m2_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m2_battle06",
+        "NextNodeIds": [
+          "e4_m2_battle07"
+        ],
+        "PreviousNodeId": "e4_m2_story02",
+        "Type": "Encounter"
+      },
+      "e4_m2_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m2_battle07",
+        "NextNodeIds": [
+          "e4_m2_battle08"
+        ],
+        "PreviousNodeId": "e4_m2_battle06",
+        "Type": "Encounter"
+      },
+      "e4_m2_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m2_battle08",
+        "NextNodeIds": [
+          "e4_m2_resource02"
+        ],
+        "PreviousNodeId": "e4_m2_battle05",
+        "Type": "Encounter"
+      },
+      "e4_m2_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m2_resource02",
+        "NextNodeIds": [
+          "e4_m2_battle09"
+        ],
+        "PreviousNodeId": "e4_m2_battle08",
+        "Type": "Resource"
+      },
+      "e4_m2_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m2_battle09",
+        "NextNodeIds": [
+          "e4_m2_story03"
+        ],
+        "PreviousNodeId": "e4_m2_resource02",
+        "Type": "Encounter"
+      },
+      "e4_m2_story03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m2_story03",
+        "NextNodeIds": [
+          "e4_m2_exploration02"
+        ],
+        "PreviousNodeId": "e4_m2_battle09",
+        "Type": "Story"
+      },
+      "e4_m2_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m2_exploration02",
+        "NextNodeIds": [
+          "e4_m2_story04",
+          "e4_m2_battle10"
+        ],
+        "PreviousNodeId": "e4_m2_story03",
+        "Type": "Opportunity"
+      },
+      "e4_m2_story04": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e4_m2_story04",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e4_m2_exploration02",
+        "Type": "Story"
+      },
+      "e4_m2_battle10": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e4_m2_battle10",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e4_m2_exploration02",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e4_m2"
+  },
+  "e4_m3": {
+    "Nodes": {
+      "e4_m3_battle01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e4_m3_battle01",
+        "NextNodeIds": [
+          "e4_m3_exploration01"
+        ],
+        "Type": "Encounter"
+      },
+      "e4_m3_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m3_exploration01",
+        "NextNodeIds": [
+          "e4_m3_battle02",
+          "e4_m3_story01"
+        ],
+        "PreviousNodeId": "e4_m3_battle01",
+        "Type": "Opportunity"
+      },
+      "e4_m3_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m3_battle02",
+        "NextNodeIds": [
+          "e4_m3_battle03"
+        ],
+        "PreviousNodeId": "e4_m3_exploration01",
+        "Type": "Encounter"
+      },
+      "e4_m3_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m3_battle03",
+        "NextNodeIds": [
+          "e4_m3_resource01"
+        ],
+        "PreviousNodeId": "e4_m3_battle02",
+        "Type": "Encounter"
+      },
+      "e4_m3_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m3_resource01",
+        "NextNodeIds": [
+          "e4_m3_battle04"
+        ],
+        "PreviousNodeId": "e4_m3_battle03",
+        "Type": "Resource"
+      },
+      "e4_m3_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m3_battle04",
+        "NextNodeIds": [
+          "e4_m3_battle05"
+        ],
+        "PreviousNodeId": "e4_m3_resource01",
+        "Type": "Encounter"
+      },
+      "e4_m3_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m3_battle05",
+        "NextNodeIds": [
+          "e4_m3_battle10"
+        ],
+        "PreviousNodeId": "e4_m3_battle04",
+        "Type": "Encounter"
+      },
+      "e4_m3_story01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m3_story01",
+        "NextNodeIds": [
+          "e4_m3_battle06"
+        ],
+        "PreviousNodeId": "e4_m3_exploration01",
+        "Type": "Story"
+      },
+      "e4_m3_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m3_battle06",
+        "NextNodeIds": [
+          "e4_m3_battle07"
+        ],
+        "PreviousNodeId": "e4_m3_story01",
+        "Type": "Encounter"
+      },
+      "e4_m3_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m3_battle07",
+        "NextNodeIds": [
+          "e4_m3_battle08"
+        ],
+        "PreviousNodeId": "e4_m3_battle06",
+        "Type": "Encounter"
+      },
+      "e4_m3_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m3_battle08",
+        "NextNodeIds": [
+          "e4_m3_battle09"
+        ],
+        "PreviousNodeId": "e4_m3_battle07",
+        "Type": "Encounter"
+      },
+      "e4_m3_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m3_battle09",
+        "NextNodeIds": [
+          "e4_m3_battle10"
+        ],
+        "PreviousNodeId": "e4_m3_battle08",
+        "Type": "Encounter"
+      },
+      "e4_m3_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m3_battle10",
+        "NextNodeIds": [
+          "e4_m3_exploration02"
+        ],
+        "PreviousNodeId": "e4_m3_battle05",
+        "Type": "Encounter"
+      },
+      "e4_m3_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m3_exploration02",
+        "NextNodeIds": [
+          "e4_m3_battle11",
+          "e4_m3_resource02"
+        ],
+        "PreviousNodeId": "e4_m3_battle10",
+        "Type": "Opportunity"
+      },
+      "e4_m3_battle11": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m3_battle11",
+        "NextNodeIds": [
+          "e4_m3_story02"
+        ],
+        "PreviousNodeId": "e4_m3_exploration02",
+        "Type": "Encounter"
+      },
+      "e4_m3_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m3_resource02",
+        "NextNodeIds": [
+          "e4_m3_story02"
+        ],
+        "PreviousNodeId": "e4_m3_exploration02",
+        "Type": "Resource"
+      },
+      "e4_m3_story02": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e4_m3_story02",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e4_m3_battle11",
+        "Type": "Story"
+      }
+    },
+    "id": "e4_m3"
+  },
+  "e4_m4": {
+    "Nodes": {
+      "e4_m4_battle01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e4_m4_battle01",
+        "NextNodeIds": [
+          "e4_m4_battle02"
+        ],
+        "Type": "Encounter"
+      },
+      "e4_m4_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m4_battle02",
+        "NextNodeIds": [
+          "e4_m4_exploration01"
+        ],
+        "PreviousNodeId": "e4_m4_battle01",
+        "Type": "Encounter"
+      },
+      "e4_m4_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m4_exploration01",
+        "NextNodeIds": [
+          "e4_m4_battle03",
+          "e4_m4_battle06",
+          "e4_m4_battle08"
+        ],
+        "PreviousNodeId": "e4_m4_battle02",
+        "Type": "Opportunity"
+      },
+      "e4_m4_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m4_battle03",
+        "NextNodeIds": [
+          "e4_m4_battle04"
+        ],
+        "PreviousNodeId": "e4_m4_exploration01",
+        "Type": "Encounter"
+      },
+      "e4_m4_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m4_battle04",
+        "NextNodeIds": [
+          "e4_m4_battle05"
+        ],
+        "PreviousNodeId": "e4_m4_battle03",
+        "Type": "Encounter"
+      },
+      "e4_m4_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m4_battle05",
+        "NextNodeIds": [
+          "e4_m4_battle11"
+        ],
+        "PreviousNodeId": "e4_m4_battle04",
+        "Type": "Encounter"
+      },
+      "e4_m4_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m4_battle06",
+        "NextNodeIds": [
+          "e4_m4_battle07"
+        ],
+        "PreviousNodeId": "e4_m4_exploration01",
+        "Type": "Encounter"
+      },
+      "e4_m4_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m4_battle07",
+        "NextNodeIds": [
+          "e4_m4_battle10"
+        ],
+        "PreviousNodeId": "e4_m4_battle06",
+        "Type": "Encounter"
+      },
+      "e4_m4_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m4_battle08",
+        "NextNodeIds": [
+          "e4_m4_battle09"
+        ],
+        "PreviousNodeId": "e4_m4_exploration01",
+        "Type": "Encounter"
+      },
+      "e4_m4_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m4_battle09",
+        "NextNodeIds": [
+          "e4_m4_battle10"
+        ],
+        "PreviousNodeId": "e4_m4_battle08",
+        "Type": "Encounter"
+      },
+      "e4_m4_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m4_battle10",
+        "NextNodeIds": [
+          "e4_m4_battle11"
+        ],
+        "PreviousNodeId": "e4_m4_battle07",
+        "Type": "Encounter"
+      },
+      "e4_m4_battle11": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m4_battle11",
+        "NextNodeIds": [
+          "e4_m4_exploration02"
+        ],
+        "PreviousNodeId": "e4_m4_battle05",
+        "Type": "Encounter"
+      },
+      "e4_m4_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m4_exploration02",
+        "NextNodeIds": [
+          "e4_m4_resource02",
+          "e4_m4_battle12",
+          "e4_m4_battle13"
+        ],
+        "PreviousNodeId": "e4_m4_battle11",
+        "Type": "Opportunity"
+      },
+      "e4_m4_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m4_resource02",
+        "NextNodeIds": [
+          "e4_m4_story01"
+        ],
+        "PreviousNodeId": "e4_m4_exploration02",
+        "Type": "Resource"
+      },
+      "e4_m4_story01": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e4_m4_story01",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e4_m4_resource02",
+        "Type": "Story"
+      },
+      "e4_m4_battle12": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e4_m4_battle12",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e4_m4_exploration02",
+        "Type": "Encounter"
+      },
+      "e4_m4_battle13": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m4_battle13",
+        "NextNodeIds": [
+          "e4_m4_exploration03"
+        ],
+        "PreviousNodeId": "e4_m4_exploration02",
+        "Type": "Encounter"
+      },
+      "e4_m4_exploration03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m4_exploration03",
+        "NextNodeIds": [
+          "e4_m4_resource01",
+          "e4_m4_battle14"
+        ],
+        "PreviousNodeId": "e4_m4_battle13",
+        "Type": "Opportunity"
+      },
+      "e4_m4_resource01": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e4_m4_resource01",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e4_m4_exploration03",
+        "Type": "Resource"
+      },
+      "e4_m4_battle14": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e4_m4_battle14",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e4_m4_exploration03",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e4_m4"
+  },
+  "e4_m5": {
+    "Nodes": {
+      "e4_m5_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e4_m5_story01",
+        "NextNodeIds": [
+          "e4_m5_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e4_m5_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m5_battle01",
+        "NextNodeIds": [
+          "e4_m5_battle02"
+        ],
+        "PreviousNodeId": "e4_m5_story01",
+        "Type": "Encounter"
+      },
+      "e4_m5_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m5_battle02",
+        "NextNodeIds": [
+          "e4_m5_battle03"
+        ],
+        "PreviousNodeId": "e4_m5_battle01",
+        "Type": "Encounter"
+      },
+      "e4_m5_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m5_battle03",
+        "NextNodeIds": [
+          "e4_m5_story02"
+        ],
+        "PreviousNodeId": "e4_m5_battle02",
+        "Type": "Encounter"
+      },
+      "e4_m5_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m5_story02",
+        "NextNodeIds": [
+          "e4_m5_exploration01"
+        ],
+        "PreviousNodeId": "e4_m5_battle03",
+        "Type": "Story"
+      },
+      "e4_m5_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m5_exploration01",
+        "NextNodeIds": [
+          "e4_m5_resource01",
+          "e4_m5_battle04",
+          "e4_m5_battle07"
+        ],
+        "PreviousNodeId": "e4_m5_story02",
+        "Type": "Opportunity"
+      },
+      "e4_m5_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m5_resource01",
+        "NextNodeIds": [
+          "e4_m5_battle04"
+        ],
+        "PreviousNodeId": "e4_m5_exploration01",
+        "Type": "Resource"
+      },
+      "e4_m5_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m5_battle04",
+        "NextNodeIds": [
+          "e4_m5_battle05"
+        ],
+        "PreviousNodeId": "e4_m5_exploration01",
+        "Type": "Encounter"
+      },
+      "e4_m5_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m5_battle05",
+        "NextNodeIds": [
+          "e4_m5_battle06"
+        ],
+        "PreviousNodeId": "e4_m5_battle04",
+        "Type": "Encounter"
+      },
+      "e4_m5_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m5_battle06",
+        "NextNodeIds": [
+          "e4_m5_exploration02"
+        ],
+        "PreviousNodeId": "e4_m5_battle05",
+        "Type": "Encounter"
+      },
+      "e4_m5_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m5_battle07",
+        "NextNodeIds": [
+          "e4_m5_battle08"
+        ],
+        "PreviousNodeId": "e4_m5_exploration01",
+        "Type": "Encounter"
+      },
+      "e4_m5_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m5_battle08",
+        "NextNodeIds": [
+          "e4_m5_story03"
+        ],
+        "PreviousNodeId": "e4_m5_battle07",
+        "Type": "Encounter"
+      },
+      "e4_m5_story03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m5_story03",
+        "NextNodeIds": [
+          "e4_m5_battle09"
+        ],
+        "PreviousNodeId": "e4_m5_battle08",
+        "Type": "Story"
+      },
+      "e4_m5_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m5_battle09",
+        "NextNodeIds": [
+          "e4_m5_exploration02"
+        ],
+        "PreviousNodeId": "e4_m5_story03",
+        "Type": "Encounter"
+      },
+      "e4_m5_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m5_exploration02",
+        "NextNodeIds": [
+          "e4_m5_battle10",
+          "e4_m5_resource02"
+        ],
+        "PreviousNodeId": "e4_m5_battle06",
+        "Type": "Opportunity"
+      },
+      "e4_m5_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m5_resource02",
+        "NextNodeIds": [
+          "e4_m5_battle10"
+        ],
+        "PreviousNodeId": "e4_m5_exploration02",
+        "Type": "Resource"
+      },
+      "e4_m5_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m5_battle10",
+        "NextNodeIds": [
+          "e4_m5_story04"
+        ],
+        "PreviousNodeId": "e4_m5_exploration02",
+        "Type": "Encounter"
+      },
+      "e4_m5_story04": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e4_m5_story04",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e4_m5_battle10",
+        "Type": "Story"
+      }
+    },
+    "id": "e4_m5"
+  },
+  "e4_m6": {
+    "Nodes": {
+      "e4_m6_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e4_m6_story01",
+        "NextNodeIds": [
+          "e4_m6_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e4_m6_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m6_battle01",
+        "NextNodeIds": [
+          "e4_m6_battle02"
+        ],
+        "PreviousNodeId": "e4_m6_story01",
+        "Type": "Encounter"
+      },
+      "e4_m6_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m6_battle02",
+        "NextNodeIds": [
+          "e4_m6_exploration01"
+        ],
+        "PreviousNodeId": "e4_m6_battle01",
+        "Type": "Encounter"
+      },
+      "e4_m6_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m6_exploration01",
+        "NextNodeIds": [
+          "e4_m6_battle03",
+          "e4_m6_battle06",
+          "e4_m6_resource01"
+        ],
+        "PreviousNodeId": "e4_m6_battle02",
+        "Type": "Opportunity"
+      },
+      "e4_m6_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m6_resource01",
+        "NextNodeIds": [
+          "e4_m6_battle03"
+        ],
+        "PreviousNodeId": "e4_m6_exploration01",
+        "Type": "Resource"
+      },
+      "e4_m6_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m6_battle03",
+        "NextNodeIds": [
+          "e4_m6_battle04"
+        ],
+        "PreviousNodeId": "e4_m6_exploration01",
+        "Type": "Encounter"
+      },
+      "e4_m6_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m6_battle04",
+        "NextNodeIds": [
+          "e4_m6_battle05"
+        ],
+        "PreviousNodeId": "e4_m6_battle03",
+        "Type": "Encounter"
+      },
+      "e4_m6_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m6_battle05",
+        "NextNodeIds": [
+          "e4_m6_exploration02"
+        ],
+        "PreviousNodeId": "e4_m6_battle04",
+        "Type": "Encounter"
+      },
+      "e4_m6_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m6_battle06",
+        "NextNodeIds": [
+          "e4_m6_battle07"
+        ],
+        "PreviousNodeId": "e4_m6_exploration01",
+        "Type": "Encounter"
+      },
+      "e4_m6_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m6_battle07",
+        "NextNodeIds": [
+          "e4_m6_battle08"
+        ],
+        "PreviousNodeId": "e4_m6_battle06",
+        "Type": "Encounter"
+      },
+      "e4_m6_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m6_battle08",
+        "NextNodeIds": [
+          "e4_m6_exploration02"
+        ],
+        "PreviousNodeId": "e4_m6_battle07",
+        "Type": "Encounter"
+      },
+      "e4_m6_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m6_exploration02",
+        "NextNodeIds": [
+          "e4_m6_resource02",
+          "e4_m6_battle09"
+        ],
+        "PreviousNodeId": "e4_m6_battle05",
+        "Type": "Opportunity"
+      },
+      "e4_m6_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m6_resource02",
+        "NextNodeIds": [
+          "e4_m6_battle10"
+        ],
+        "PreviousNodeId": "e4_m6_exploration02",
+        "Type": "Resource"
+      },
+      "e4_m6_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m6_battle09",
+        "NextNodeIds": [
+          "e4_m6_battle10"
+        ],
+        "PreviousNodeId": "e4_m6_exploration02",
+        "Type": "Encounter"
+      },
+      "e4_m6_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e4_m6_battle10",
+        "NextNodeIds": [
+          "e4_m6_battle11"
+        ],
+        "PreviousNodeId": "e4_m6_resource02",
+        "Type": "Encounter"
+      },
+      "e4_m6_battle11": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e4_m6_battle11",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e4_m6_battle10",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e4_m6"
+  },
+  "e5_m1": {
+    "Nodes": {
+      "e5_m1_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e5_m1_story01",
+        "NextNodeIds": [
+          "e5_m1_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e5_m1_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m1_battle01",
+        "NextNodeIds": [
+          "e5_m1_battle02"
+        ],
+        "PreviousNodeId": "e5_m1_story01",
+        "Type": "Encounter"
+      },
+      "e5_m1_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m1_battle02",
+        "NextNodeIds": [
+          "e5_m1_exploration01"
+        ],
+        "PreviousNodeId": "e5_m1_battle01",
+        "Type": "Encounter"
+      },
+      "e5_m1_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m1_exploration01",
+        "NextNodeIds": [
+          "e5_m1_battle03",
+          "e5_m1_battle06"
+        ],
+        "PreviousNodeId": "e5_m1_battle02",
+        "Type": "Opportunity"
+      },
+      "e5_m1_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m1_battle03",
+        "NextNodeIds": [
+          "e5_m1_battle04"
+        ],
+        "PreviousNodeId": "e5_m1_exploration01",
+        "Type": "Encounter"
+      },
+      "e5_m1_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m1_battle04",
+        "NextNodeIds": [
+          "e5_m1_resource01"
+        ],
+        "PreviousNodeId": "e5_m1_battle03",
+        "Type": "Encounter"
+      },
+      "e5_m1_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m1_resource01",
+        "NextNodeIds": [
+          "e5_m1_battle05"
+        ],
+        "PreviousNodeId": "e5_m1_battle04",
+        "Type": "Resource"
+      },
+      "e5_m1_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m1_battle05",
+        "NextNodeIds": [
+          "e5_m1_battle08"
+        ],
+        "PreviousNodeId": "e5_m1_resource01",
+        "Type": "Encounter"
+      },
+      "e5_m1_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m1_battle06",
+        "NextNodeIds": [
+          "e5_m1_story02"
+        ],
+        "PreviousNodeId": "e5_m1_exploration01",
+        "Type": "Encounter"
+      },
+      "e5_m1_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m1_story02",
+        "NextNodeIds": [
+          "e5_m1_battle07"
+        ],
+        "PreviousNodeId": "e5_m1_battle06",
+        "Type": "Story"
+      },
+      "e5_m1_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m1_battle07",
+        "NextNodeIds": [
+          "e5_m1_battle08"
+        ],
+        "PreviousNodeId": "e5_m1_story02",
+        "Type": "Encounter"
+      },
+      "e5_m1_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m1_battle08",
+        "NextNodeIds": [
+          "e5_m1_battle09"
+        ],
+        "PreviousNodeId": "e5_m1_battle05",
+        "Type": "Encounter"
+      },
+      "e5_m1_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m1_battle09",
+        "NextNodeIds": [
+          "e5_m1_resource02"
+        ],
+        "PreviousNodeId": "e5_m1_battle08",
+        "Type": "Encounter"
+      },
+      "e5_m1_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m1_resource02",
+        "NextNodeIds": [
+          "e5_m1_exploration02"
+        ],
+        "PreviousNodeId": "e5_m1_battle09",
+        "Type": "Resource"
+      },
+      "e5_m1_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m1_exploration02",
+        "NextNodeIds": [
+          "e5_m1_story03",
+          "e5_m1_battle10"
+        ],
+        "PreviousNodeId": "e5_m1_resource02",
+        "Type": "Opportunity"
+      },
+      "e5_m1_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m1_battle10",
+        "NextNodeIds": [
+          "e5_m1_story03"
+        ],
+        "PreviousNodeId": "e5_m1_exploration02",
+        "Type": "Encounter"
+      },
+      "e5_m1_story03": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e5_m1_story03",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e5_m1_exploration02",
+        "Type": "Story"
+      }
+    },
+    "id": "e5_m1"
+  },
+  "e5_m2": {
+    "Nodes": {
+      "e5_m2_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e5_m2_story01",
+        "NextNodeIds": [
+          "e5_m2_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e5_m2_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m2_battle01",
+        "NextNodeIds": [
+          "e5_m2_exploration01"
+        ],
+        "PreviousNodeId": "e5_m2_story01",
+        "Type": "Encounter"
+      },
+      "e5_m2_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m2_exploration01",
+        "NextNodeIds": [
+          "e5_m2_battle02",
+          "e5_m2_battle04"
+        ],
+        "PreviousNodeId": "e5_m2_battle01",
+        "Type": "Opportunity"
+      },
+      "e5_m2_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m2_battle02",
+        "NextNodeIds": [
+          "e5_m2_battle03"
+        ],
+        "PreviousNodeId": "e5_m2_exploration01",
+        "Type": "Encounter"
+      },
+      "e5_m2_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m2_battle03",
+        "NextNodeIds": [
+          "e5_m2_story02"
+        ],
+        "PreviousNodeId": "e5_m2_battle02",
+        "Type": "Encounter"
+      },
+      "e5_m2_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m2_battle04",
+        "NextNodeIds": [
+          "e5_m2_story02"
+        ],
+        "PreviousNodeId": "e5_m2_exploration01",
+        "Type": "Encounter"
+      },
+      "e5_m2_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m2_story02",
+        "NextNodeIds": [
+          "e5_m2_battle05"
+        ],
+        "PreviousNodeId": "e5_m2_battle03",
+        "Type": "Story"
+      },
+      "e5_m2_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m2_battle05",
+        "NextNodeIds": [
+          "e5_m2_exploration02"
+        ],
+        "PreviousNodeId": "e5_m2_story02",
+        "Type": "Encounter"
+      },
+      "e5_m2_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m2_exploration02",
+        "NextNodeIds": [
+          "e5_m2_battle06",
+          "e5_m2_battle08",
+          "e5_m2_battle10"
+        ],
+        "PreviousNodeId": "e5_m2_battle05",
+        "Type": "Opportunity"
+      },
+      "e5_m2_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m2_battle06",
+        "NextNodeIds": [
+          "e5_m2_resource01"
+        ],
+        "PreviousNodeId": "e5_m2_exploration02",
+        "Type": "Encounter"
+      },
+      "e5_m2_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m2_resource01",
+        "NextNodeIds": [
+          "e5_m2_battle07"
+        ],
+        "PreviousNodeId": "e5_m2_battle06",
+        "Type": "Resource"
+      },
+      "e5_m2_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m2_battle07",
+        "NextNodeIds": [
+          "e5_m2_exploration03"
+        ],
+        "PreviousNodeId": "e5_m2_resource01",
+        "Type": "Encounter"
+      },
+      "e5_m2_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m2_battle08",
+        "NextNodeIds": [
+          "e5_m2_battle09"
+        ],
+        "PreviousNodeId": "e5_m2_exploration02",
+        "Type": "Encounter"
+      },
+      "e5_m2_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m2_battle09",
+        "NextNodeIds": [
+          "e5_m2_exploration03"
+        ],
+        "PreviousNodeId": "e5_m2_battle08",
+        "Type": "Encounter"
+      },
+      "e5_m2_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m2_battle10",
+        "NextNodeIds": [
+          "e5_m2_resource02"
+        ],
+        "PreviousNodeId": "e5_m2_exploration02",
+        "Type": "Encounter"
+      },
+      "e5_m2_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m2_resource02",
+        "NextNodeIds": [
+          "e5_m2_battle11"
+        ],
+        "PreviousNodeId": "e5_m2_battle10",
+        "Type": "Resource"
+      },
+      "e5_m2_battle11": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m2_battle11",
+        "NextNodeIds": [
+          "e5_m2_exploration03"
+        ],
+        "PreviousNodeId": "e5_m2_resource02",
+        "Type": "Encounter"
+      },
+      "e5_m2_exploration03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m2_exploration03",
+        "NextNodeIds": [
+          "e5_m2_battle12"
+        ],
+        "PreviousNodeId": "e5_m2_battle07",
+        "Type": "Opportunity"
+      },
+      "e5_m2_battle12": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e5_m2_battle12",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e5_m2_exploration03",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e5_m2"
+  },
+  "e5_m3": {
+    "Nodes": {
+      "e5_m3_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e5_m3_story01",
+        "NextNodeIds": [
+          "e5_m3_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e5_m3_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m3_battle01",
+        "NextNodeIds": [
+          "e5_m3_battle02"
+        ],
+        "PreviousNodeId": "e5_m3_story01",
+        "Type": "Encounter"
+      },
+      "e5_m3_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m3_battle02",
+        "NextNodeIds": [
+          "e5_m3_exploration01"
+        ],
+        "PreviousNodeId": "e5_m3_battle01",
+        "Type": "Encounter"
+      },
+      "e5_m3_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m3_exploration01",
+        "NextNodeIds": [
+          "e5_m3_battle03",
+          "e5_m3_battle05"
+        ],
+        "PreviousNodeId": "e5_m3_battle02",
+        "Type": "Opportunity"
+      },
+      "e5_m3_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m3_battle03",
+        "NextNodeIds": [
+          "e5_m3_battle04"
+        ],
+        "PreviousNodeId": "e5_m3_exploration01",
+        "Type": "Encounter"
+      },
+      "e5_m3_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m3_battle04",
+        "NextNodeIds": [
+          "e5_m3_exploration02"
+        ],
+        "PreviousNodeId": "e5_m3_battle03",
+        "Type": "Encounter"
+      },
+      "e5_m3_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m3_battle05",
+        "NextNodeIds": [
+          "e5_m3_resource01"
+        ],
+        "PreviousNodeId": "e5_m3_exploration01",
+        "Type": "Encounter"
+      },
+      "e5_m3_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m3_resource01",
+        "NextNodeIds": [
+          "e5_m3_battle06"
+        ],
+        "PreviousNodeId": "e5_m3_battle05",
+        "Type": "Resource"
+      },
+      "e5_m3_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m3_battle06",
+        "NextNodeIds": [
+          "e5_m3_exploration02"
+        ],
+        "PreviousNodeId": "e5_m3_resource01",
+        "Type": "Encounter"
+      },
+      "e5_m3_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m3_exploration02",
+        "NextNodeIds": [
+          "e5_m3_story02",
+          "e5_m3_battle08"
+        ],
+        "PreviousNodeId": "e5_m3_battle04",
+        "Type": "Opportunity"
+      },
+      "e5_m3_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m3_story02",
+        "NextNodeIds": [
+          "e5_m3_battle07"
+        ],
+        "PreviousNodeId": "e5_m3_exploration02",
+        "Type": "Story"
+      },
+      "e5_m3_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m3_battle07",
+        "NextNodeIds": [
+          "e5_m3_resource02"
+        ],
+        "PreviousNodeId": "e5_m3_story02",
+        "Type": "Encounter"
+      },
+      "e5_m3_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m3_resource02",
+        "NextNodeIds": [
+          "e5_m3_battle10"
+        ],
+        "PreviousNodeId": "e5_m3_battle07",
+        "Type": "Resource"
+      },
+      "e5_m3_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m3_battle08",
+        "NextNodeIds": [
+          "e5_m3_battle09"
+        ],
+        "PreviousNodeId": "e5_m3_exploration02",
+        "Type": "Encounter"
+      },
+      "e5_m3_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m3_battle09",
+        "NextNodeIds": [
+          "e5_m3_battle10"
+        ],
+        "PreviousNodeId": "e5_m3_battle08",
+        "Type": "Encounter"
+      },
+      "e5_m3_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m3_battle10",
+        "NextNodeIds": [
+          "e5_m3_battle11"
+        ],
+        "PreviousNodeId": "e5_m3_resource02",
+        "Type": "Encounter"
+      },
+      "e5_m3_battle11": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e5_m3_battle11",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e5_m3_battle10",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e5_m3"
+  },
+  "e5_m4": {
+    "Nodes": {
+      "e5_m4_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e5_m4_story01",
+        "NextNodeIds": [
+          "e5_m4_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e5_m4_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m4_battle01",
+        "NextNodeIds": [
+          "e5_m4_exploration01"
+        ],
+        "PreviousNodeId": "e5_m4_story01",
+        "Type": "Encounter"
+      },
+      "e5_m4_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m4_exploration01",
+        "NextNodeIds": [
+          "e5_m4_battle02",
+          "e5_m4_battle04"
+        ],
+        "PreviousNodeId": "e5_m4_battle01",
+        "Type": "Opportunity"
+      },
+      "e5_m4_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m4_battle02",
+        "NextNodeIds": [
+          "e5_m4_battle03"
+        ],
+        "PreviousNodeId": "e5_m4_exploration01",
+        "Type": "Encounter"
+      },
+      "e5_m4_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m4_battle03",
+        "NextNodeIds": [
+          "e5_m4_exploration02"
+        ],
+        "PreviousNodeId": "e5_m4_battle02",
+        "Type": "Encounter"
+      },
+      "e5_m4_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m4_battle04",
+        "NextNodeIds": [
+          "e5_m4_resource01"
+        ],
+        "PreviousNodeId": "e5_m4_exploration01",
+        "Type": "Encounter"
+      },
+      "e5_m4_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m4_resource01",
+        "NextNodeIds": [
+          "e5_m4_battle05"
+        ],
+        "PreviousNodeId": "e5_m4_battle04",
+        "Type": "Resource"
+      },
+      "e5_m4_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m4_battle05",
+        "NextNodeIds": [
+          "e5_m4_exploration02"
+        ],
+        "PreviousNodeId": "e5_m4_resource01",
+        "Type": "Encounter"
+      },
+      "e5_m4_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m4_exploration02",
+        "NextNodeIds": [
+          "e5_m4_story03",
+          "e5_m4_battle06"
+        ],
+        "PreviousNodeId": "e5_m4_battle03",
+        "Type": "Opportunity"
+      },
+      "e5_m4_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m4_battle06",
+        "NextNodeIds": [
+          "e5_m4_story02"
+        ],
+        "PreviousNodeId": "e5_m4_exploration02",
+        "Type": "Encounter"
+      },
+      "e5_m4_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m4_story02",
+        "NextNodeIds": [
+          "e5_m4_battle07"
+        ],
+        "PreviousNodeId": "e5_m4_battle06",
+        "Type": "Story"
+      },
+      "e5_m4_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m4_battle07",
+        "NextNodeIds": [
+          "e5_m4_exploration03"
+        ],
+        "PreviousNodeId": "e5_m4_story02",
+        "Type": "Encounter"
+      },
+      "e5_m4_story03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m4_story03",
+        "NextNodeIds": [
+          "e5_m4_battle08"
+        ],
+        "PreviousNodeId": "e5_m4_exploration02",
+        "Type": "Story"
+      },
+      "e5_m4_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m4_battle08",
+        "NextNodeIds": [
+          "e5_m4_battle09"
+        ],
+        "PreviousNodeId": "e5_m4_story03",
+        "Type": "Encounter"
+      },
+      "e5_m4_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m4_battle09",
+        "NextNodeIds": [
+          "e5_m4_exploration03"
+        ],
+        "PreviousNodeId": "e5_m4_battle08",
+        "Type": "Encounter"
+      },
+      "e5_m4_exploration03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m4_exploration03",
+        "NextNodeIds": [
+          "e5_m4_battle10",
+          "e5_m4_battle12"
+        ],
+        "PreviousNodeId": "e5_m4_battle07",
+        "Type": "Opportunity"
+      },
+      "e5_m4_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m4_battle10",
+        "NextNodeIds": [
+          "e5_m4_battle11"
+        ],
+        "PreviousNodeId": "e5_m4_exploration03",
+        "Type": "Encounter"
+      },
+      "e5_m4_battle11": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m4_battle11",
+        "NextNodeIds": [
+          "e5_m4_battle13"
+        ],
+        "PreviousNodeId": "e5_m4_battle10",
+        "Type": "Encounter"
+      },
+      "e5_m4_battle12": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m4_battle12",
+        "NextNodeIds": [
+          "e5_m4_resource02"
+        ],
+        "PreviousNodeId": "e5_m4_exploration03",
+        "Type": "Encounter"
+      },
+      "e5_m4_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m4_resource02",
+        "NextNodeIds": [
+          "e5_m4_battle13"
+        ],
+        "PreviousNodeId": "e5_m4_battle12",
+        "Type": "Resource"
+      },
+      "e5_m4_battle13": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e5_m4_battle13",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e5_m4_battle11",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e5_m4"
+  },
+  "e5_m5": {
+    "Nodes": {
+      "e5_m5_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e5_m5_story01",
+        "NextNodeIds": [
+          "e5_m5_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e5_m5_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m5_battle01",
+        "NextNodeIds": [
+          "e5_m5_exploration01"
+        ],
+        "PreviousNodeId": "e5_m5_story01",
+        "Type": "Encounter"
+      },
+      "e5_m5_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m5_exploration01",
+        "NextNodeIds": [
+          "e5_m5_battle02",
+          "e5_m5_battle04"
+        ],
+        "PreviousNodeId": "e5_m5_battle01",
+        "Type": "Opportunity"
+      },
+      "e5_m5_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m5_battle02",
+        "NextNodeIds": [
+          "e5_m5_battle03"
+        ],
+        "PreviousNodeId": "e5_m5_exploration01",
+        "Type": "Encounter"
+      },
+      "e5_m5_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m5_battle03",
+        "NextNodeIds": [
+          "e5_m5_exploration02"
+        ],
+        "PreviousNodeId": "e5_m5_battle02",
+        "Type": "Encounter"
+      },
+      "e5_m5_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m5_battle04",
+        "NextNodeIds": [
+          "e5_m5_resource01"
+        ],
+        "PreviousNodeId": "e5_m5_exploration01",
+        "Type": "Encounter"
+      },
+      "e5_m5_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m5_resource01",
+        "NextNodeIds": [
+          "e5_m5_exploration02"
+        ],
+        "PreviousNodeId": "e5_m5_battle04",
+        "Type": "Resource"
+      },
+      "e5_m5_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m5_exploration02",
+        "NextNodeIds": [
+          "e5_m5_battle08",
+          "e5_m5_story02"
+        ],
+        "PreviousNodeId": "e5_m5_battle03",
+        "Type": "Opportunity"
+      },
+      "e5_m5_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m5_story02",
+        "NextNodeIds": [
+          "e5_m5_battle05"
+        ],
+        "PreviousNodeId": "e5_m5_exploration02",
+        "Type": "Story"
+      },
+      "e5_m5_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m5_battle05",
+        "NextNodeIds": [
+          "e5_m5_battle06"
+        ],
+        "PreviousNodeId": "e5_m5_story02",
+        "Type": "Encounter"
+      },
+      "e5_m5_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m5_battle06",
+        "NextNodeIds": [
+          "e5_m5_resource02"
+        ],
+        "PreviousNodeId": "e5_m5_battle05",
+        "Type": "Encounter"
+      },
+      "e5_m5_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m5_resource02",
+        "NextNodeIds": [
+          "e5_m5_battle07"
+        ],
+        "PreviousNodeId": "e5_m5_battle06",
+        "Type": "Resource"
+      },
+      "e5_m5_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m5_battle07",
+        "NextNodeIds": [
+          "e5_m5_exploration03"
+        ],
+        "PreviousNodeId": "e5_m5_resource02",
+        "Type": "Encounter"
+      },
+      "e5_m5_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m5_battle08",
+        "NextNodeIds": [
+          "e5_m5_battle09"
+        ],
+        "PreviousNodeId": "e5_m5_exploration02",
+        "Type": "Encounter"
+      },
+      "e5_m5_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m5_battle09",
+        "NextNodeIds": [
+          "e5_m5_story03"
+        ],
+        "PreviousNodeId": "e5_m5_battle08",
+        "Type": "Encounter"
+      },
+      "e5_m5_story03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m5_story03",
+        "NextNodeIds": [
+          "e5_m5_battle10"
+        ],
+        "PreviousNodeId": "e5_m5_battle09",
+        "Type": "Story"
+      },
+      "e5_m5_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m5_battle10",
+        "NextNodeIds": [
+          "e5_m5_exploration03"
+        ],
+        "PreviousNodeId": "e5_m5_story03",
+        "Type": "Encounter"
+      },
+      "e5_m5_exploration03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m5_exploration03",
+        "NextNodeIds": [
+          "e5_m5_battle11"
+        ],
+        "PreviousNodeId": "e5_m5_battle07",
+        "Type": "Opportunity"
+      },
+      "e5_m5_battle11": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m5_battle11",
+        "NextNodeIds": [
+          "e5_m5_battle12"
+        ],
+        "PreviousNodeId": "e5_m5_exploration03",
+        "Type": "Encounter"
+      },
+      "e5_m5_battle12": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e5_m5_battle12",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e5_m5_battle11",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e5_m5"
+  },
+  "e5_m6": {
+    "Nodes": {
+      "e5_m6_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e5_m6_story01",
+        "NextNodeIds": [
+          "e5_m6_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e5_m6_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m6_battle01",
+        "NextNodeIds": [
+          "e5_m6_exploration01"
+        ],
+        "PreviousNodeId": "e5_m6_story01",
+        "Type": "Encounter"
+      },
+      "e5_m6_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m6_exploration01",
+        "NextNodeIds": [
+          "e5_m6_battle02",
+          "e5_m6_battle05"
+        ],
+        "PreviousNodeId": "e5_m6_battle01",
+        "Type": "Opportunity"
+      },
+      "e5_m6_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m6_battle02",
+        "NextNodeIds": [
+          "e5_m6_battle03"
+        ],
+        "PreviousNodeId": "e5_m6_exploration01",
+        "Type": "Encounter"
+      },
+      "e5_m6_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m6_battle03",
+        "NextNodeIds": [
+          "e5_m6_story02"
+        ],
+        "PreviousNodeId": "e5_m6_battle02",
+        "Type": "Encounter"
+      },
+      "e5_m6_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m6_story02",
+        "NextNodeIds": [
+          "e5_m6_battle04"
+        ],
+        "PreviousNodeId": "e5_m6_battle03",
+        "Type": "Story"
+      },
+      "e5_m6_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m6_battle04",
+        "NextNodeIds": [
+          "e5_m6_exploration02"
+        ],
+        "PreviousNodeId": "e5_m6_story02",
+        "Type": "Encounter"
+      },
+      "e5_m6_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m6_battle05",
+        "NextNodeIds": [
+          "e5_m6_story03"
+        ],
+        "PreviousNodeId": "e5_m6_exploration01",
+        "Type": "Encounter"
+      },
+      "e5_m6_story03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m6_story03",
+        "NextNodeIds": [
+          "e5_m6_battle06"
+        ],
+        "PreviousNodeId": "e5_m6_battle05",
+        "Type": "Story"
+      },
+      "e5_m6_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m6_battle06",
+        "NextNodeIds": [
+          "e5_m6_resource01"
+        ],
+        "PreviousNodeId": "e5_m6_story03",
+        "Type": "Encounter"
+      },
+      "e5_m6_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m6_resource01",
+        "NextNodeIds": [
+          "e5_m6_exploration02"
+        ],
+        "PreviousNodeId": "e5_m6_battle06",
+        "Type": "Resource"
+      },
+      "e5_m6_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m6_exploration02",
+        "NextNodeIds": [
+          "e5_m6_battle07",
+          "e5_m6_battle09"
+        ],
+        "PreviousNodeId": "e5_m6_battle04",
+        "Type": "Opportunity"
+      },
+      "e5_m6_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m6_battle07",
+        "NextNodeIds": [
+          "e5_m6_story04"
+        ],
+        "PreviousNodeId": "e5_m6_exploration02",
+        "Type": "Encounter"
+      },
+      "e5_m6_story04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m6_story04",
+        "NextNodeIds": [
+          "e5_m6_battle08"
+        ],
+        "PreviousNodeId": "e5_m6_battle07",
+        "Type": "Story"
+      },
+      "e5_m6_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m6_battle08",
+        "NextNodeIds": [
+          "e5_m6_exploration03"
+        ],
+        "PreviousNodeId": "e5_m6_story04",
+        "Type": "Encounter"
+      },
+      "e5_m6_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m6_battle09",
+        "NextNodeIds": [
+          "e5_m6_story05"
+        ],
+        "PreviousNodeId": "e5_m6_exploration02",
+        "Type": "Encounter"
+      },
+      "e5_m6_story05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m6_story05",
+        "NextNodeIds": [
+          "e5_m6_resource02"
+        ],
+        "PreviousNodeId": "e5_m6_battle09",
+        "Type": "Story"
+      },
+      "e5_m6_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m6_resource02",
+        "NextNodeIds": [
+          "e5_m6_battle10"
+        ],
+        "PreviousNodeId": "e5_m6_story05",
+        "Type": "Resource"
+      },
+      "e5_m6_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m6_battle10",
+        "NextNodeIds": [
+          "e5_m6_exploration03"
+        ],
+        "PreviousNodeId": "e5_m6_resource02",
+        "Type": "Encounter"
+      },
+      "e5_m6_exploration03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m6_exploration03",
+        "NextNodeIds": [
+          "e5_m6_battle11"
+        ],
+        "PreviousNodeId": "e5_m6_battle08",
+        "Type": "Opportunity"
+      },
+      "e5_m6_battle11": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e5_m6_battle11",
+        "NextNodeIds": [
+          "e5_m6_battle12"
+        ],
+        "PreviousNodeId": "e5_m6_exploration03",
+        "Type": "Encounter"
+      },
+      "e5_m6_battle12": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e5_m6_battle12",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e5_m6_battle11",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e5_m6"
+  },
+  "e6_m1": {
+    "Nodes": {
+      "e6_m1_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e6_m1_story01",
+        "NextNodeIds": [
+          "e6_m1_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e6_m1_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m1_battle01",
+        "NextNodeIds": [
+          "e6_m1_battle02"
+        ],
+        "PreviousNodeId": "e6_m1_story01",
+        "Type": "Encounter"
+      },
+      "e6_m1_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m1_battle02",
+        "NextNodeIds": [
+          "e6_m1_exploration01"
+        ],
+        "PreviousNodeId": "e6_m1_battle01",
+        "Type": "Encounter"
+      },
+      "e6_m1_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m1_exploration01",
+        "NextNodeIds": [
+          "e6_m1_battle03",
+          "e6_m1_story03",
+          "e6_m1_battle08"
+        ],
+        "PreviousNodeId": "e6_m1_battle02",
+        "Type": "Opportunity"
+      },
+      "e6_m1_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m1_battle03",
+        "NextNodeIds": [
+          "e6_m1_story02"
+        ],
+        "PreviousNodeId": "e6_m1_exploration01",
+        "Type": "Encounter"
+      },
+      "e6_m1_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m1_story02",
+        "NextNodeIds": [
+          "e6_m1_battle04"
+        ],
+        "PreviousNodeId": "e6_m1_battle03",
+        "Type": "Story"
+      },
+      "e6_m1_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m1_battle04",
+        "NextNodeIds": [
+          "e6_m1_battle05"
+        ],
+        "PreviousNodeId": "e6_m1_story02",
+        "Type": "Encounter"
+      },
+      "e6_m1_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m1_battle05",
+        "NextNodeIds": [
+          "e6_m1_battle06"
+        ],
+        "PreviousNodeId": "e6_m1_battle04",
+        "Type": "Encounter"
+      },
+      "e6_m1_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m1_battle06",
+        "NextNodeIds": [
+          "e6_m1_exploration02"
+        ],
+        "PreviousNodeId": "e6_m1_battle05",
+        "Type": "Encounter"
+      },
+      "e6_m1_story03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m1_story03",
+        "NextNodeIds": [
+          "e6_m1_battle07"
+        ],
+        "PreviousNodeId": "e6_m1_exploration01",
+        "Type": "Story"
+      },
+      "e6_m1_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m1_battle07",
+        "NextNodeIds": [
+          "e6_m1_resource01"
+        ],
+        "PreviousNodeId": "e6_m1_story03",
+        "Type": "Encounter"
+      },
+      "e6_m1_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m1_resource01",
+        "NextNodeIds": [
+          "e6_m1_battle05"
+        ],
+        "PreviousNodeId": "e6_m1_battle07",
+        "Type": "Resource"
+      },
+      "e6_m1_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m1_battle08",
+        "NextNodeIds": [
+          "e6_m1_battle09"
+        ],
+        "PreviousNodeId": "e6_m1_exploration01",
+        "Type": "Encounter"
+      },
+      "e6_m1_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m1_battle09",
+        "NextNodeIds": [
+          "e6_m1_story04"
+        ],
+        "PreviousNodeId": "e6_m1_battle08",
+        "Type": "Encounter"
+      },
+      "e6_m1_story04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m1_story04",
+        "NextNodeIds": [
+          "e6_m1_battle10"
+        ],
+        "PreviousNodeId": "e6_m1_battle09",
+        "Type": "Story"
+      },
+      "e6_m1_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m1_battle10",
+        "NextNodeIds": [
+          "e6_m1_resource02"
+        ],
+        "PreviousNodeId": "e6_m1_story04",
+        "Type": "Encounter"
+      },
+      "e6_m1_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m1_resource02",
+        "NextNodeIds": [
+          "e6_m1_battle11"
+        ],
+        "PreviousNodeId": "e6_m1_battle10",
+        "Type": "Resource"
+      },
+      "e6_m1_battle11": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m1_battle11",
+        "NextNodeIds": [
+          "e6_m1_exploration02"
+        ],
+        "PreviousNodeId": "e6_m1_resource02",
+        "Type": "Encounter"
+      },
+      "e6_m1_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m1_exploration02",
+        "NextNodeIds": [
+          "e6_m1_battle12",
+          "e6_m1_battle13"
+        ],
+        "PreviousNodeId": "e6_m1_battle06",
+        "Type": "Opportunity"
+      },
+      "e6_m1_battle12": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m1_battle12",
+        "NextNodeIds": [
+          "e6_m1_story05"
+        ],
+        "PreviousNodeId": "e6_m1_exploration02",
+        "Type": "Encounter"
+      },
+      "e6_m1_battle13": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m1_battle13",
+        "NextNodeIds": [
+          "e6_m1_story05"
+        ],
+        "PreviousNodeId": "e6_m1_exploration02",
+        "Type": "Encounter"
+      },
+      "e6_m1_story05": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e6_m1_story05",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e6_m1_battle12",
+        "Type": "Story"
+      }
+    },
+    "id": "e6_m1"
+  },
+  "e6_m2": {
+    "Nodes": {
+      "e6_m2_battle01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e6_m2_battle01",
+        "NextNodeIds": [
+          "e6_m2_exploration01"
+        ],
+        "Type": "Encounter"
+      },
+      "e6_m2_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m2_exploration01",
+        "NextNodeIds": [
+          "e6_m2_battle02",
+          "e6_m2_resource01",
+          "e6_m2_battle05"
+        ],
+        "PreviousNodeId": "e6_m2_battle01",
+        "Type": "Opportunity"
+      },
+      "e6_m2_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m2_battle02",
+        "NextNodeIds": [
+          "e6_m2_battle03"
+        ],
+        "PreviousNodeId": "e6_m2_exploration01",
+        "Type": "Encounter"
+      },
+      "e6_m2_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m2_battle03",
+        "NextNodeIds": [
+          "e6_m2_story01"
+        ],
+        "PreviousNodeId": "e6_m2_battle02",
+        "Type": "Encounter"
+      },
+      "e6_m2_story01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m2_story01",
+        "NextNodeIds": [
+          "e6_m2_battle04"
+        ],
+        "PreviousNodeId": "e6_m2_battle03",
+        "Type": "Story"
+      },
+      "e6_m2_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m2_battle04",
+        "NextNodeIds": [
+          "e6_m2_battle08"
+        ],
+        "PreviousNodeId": "e6_m2_story01",
+        "Type": "Encounter"
+      },
+      "e6_m2_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m2_resource01",
+        "NextNodeIds": [
+          "e6_m2_battle05"
+        ],
+        "PreviousNodeId": "e6_m2_exploration01",
+        "Type": "Resource"
+      },
+      "e6_m2_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m2_battle05",
+        "NextNodeIds": [
+          "e6_m2_battle06"
+        ],
+        "PreviousNodeId": "e6_m2_exploration01",
+        "Type": "Encounter"
+      },
+      "e6_m2_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m2_battle06",
+        "NextNodeIds": [
+          "e6_m2_exploration02"
+        ],
+        "PreviousNodeId": "e6_m2_battle05",
+        "Type": "Encounter"
+      },
+      "e6_m2_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m2_exploration02",
+        "NextNodeIds": [
+          "e6_m2_battle07"
+        ],
+        "PreviousNodeId": "e6_m2_battle06",
+        "Type": "Opportunity"
+      },
+      "e6_m2_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m2_battle07",
+        "NextNodeIds": [
+          "e6_m2_battle08"
+        ],
+        "PreviousNodeId": "e6_m2_exploration02",
+        "Type": "Encounter"
+      },
+      "e6_m2_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m2_battle08",
+        "NextNodeIds": [
+          "e6_m2_exploration03"
+        ],
+        "PreviousNodeId": "e6_m2_battle04",
+        "Type": "Encounter"
+      },
+      "e6_m2_exploration03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m2_exploration03",
+        "NextNodeIds": [
+          "e6_m2_resource02",
+          "e6_m2_battle10"
+        ],
+        "PreviousNodeId": "e6_m2_battle08",
+        "Type": "Opportunity"
+      },
+      "e6_m2_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m2_resource02",
+        "NextNodeIds": [
+          "e6_m2_battle09"
+        ],
+        "PreviousNodeId": "e6_m2_exploration03",
+        "Type": "Resource"
+      },
+      "e6_m2_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m2_battle09",
+        "NextNodeIds": [
+          "e6_m2_story02"
+        ],
+        "PreviousNodeId": "e6_m2_resource02",
+        "Type": "Encounter"
+      },
+      "e6_m2_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m2_battle10",
+        "NextNodeIds": [
+          "e6_m2_battle11"
+        ],
+        "PreviousNodeId": "e6_m2_exploration03",
+        "Type": "Encounter"
+      },
+      "e6_m2_battle11": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m2_battle11",
+        "NextNodeIds": [
+          "e6_m2_battle09"
+        ],
+        "PreviousNodeId": "e6_m2_battle10",
+        "Type": "Encounter"
+      },
+      "e6_m2_story02": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e6_m2_story02",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e6_m2_battle09",
+        "Type": "Story"
+      }
+    },
+    "id": "e6_m2"
+  },
+  "e6_m3": {
+    "Nodes": {
+      "e6_m3_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e6_m3_story01",
+        "NextNodeIds": [
+          "e6_m3_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e6_m3_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m3_battle01",
+        "NextNodeIds": [
+          "e6_m3_exploration01"
+        ],
+        "PreviousNodeId": "e6_m3_story01",
+        "Type": "Encounter"
+      },
+      "e6_m3_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m3_exploration01",
+        "NextNodeIds": [
+          "e6_m3_battle02",
+          "e6_m3_battle07"
+        ],
+        "PreviousNodeId": "e6_m3_battle01",
+        "Type": "Opportunity"
+      },
+      "e6_m3_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m3_battle02",
+        "NextNodeIds": [
+          "e6_m3_battle03"
+        ],
+        "PreviousNodeId": "e6_m3_exploration01",
+        "Type": "Encounter"
+      },
+      "e6_m3_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m3_battle03",
+        "NextNodeIds": [
+          "e6_m3_exploration02"
+        ],
+        "PreviousNodeId": "e6_m3_battle02",
+        "Type": "Encounter"
+      },
+      "e6_m3_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m3_exploration02",
+        "NextNodeIds": [
+          "e6_m3_battle04",
+          "e6_m3_battle06"
+        ],
+        "PreviousNodeId": "e6_m3_battle03",
+        "Type": "Opportunity"
+      },
+      "e6_m3_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m3_battle04",
+        "NextNodeIds": [
+          "e6_m3_resource02"
+        ],
+        "PreviousNodeId": "e6_m3_exploration02",
+        "Type": "Encounter"
+      },
+      "e6_m3_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m3_resource02",
+        "NextNodeIds": [
+          "e6_m3_story02"
+        ],
+        "PreviousNodeId": "e6_m3_battle04",
+        "Type": "Resource"
+      },
+      "e6_m3_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m3_story02",
+        "NextNodeIds": [
+          "e6_m3_battle05"
+        ],
+        "PreviousNodeId": "e6_m3_resource02",
+        "Type": "Story"
+      },
+      "e6_m3_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m3_battle05",
+        "NextNodeIds": [
+          "e6_m3_battle11"
+        ],
+        "PreviousNodeId": "e6_m3_story02",
+        "Type": "Encounter"
+      },
+      "e6_m3_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m3_battle06",
+        "NextNodeIds": [
+          "e6_m3_story03"
+        ],
+        "PreviousNodeId": "e6_m3_exploration02",
+        "Type": "Encounter"
+      },
+      "e6_m3_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m3_battle07",
+        "NextNodeIds": [
+          "e6_m3_battle08"
+        ],
+        "PreviousNodeId": "e6_m3_exploration01",
+        "Type": "Encounter"
+      },
+      "e6_m3_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m3_battle08",
+        "NextNodeIds": [
+          "e6_m3_exploration03"
+        ],
+        "PreviousNodeId": "e6_m3_battle07",
+        "Type": "Encounter"
+      },
+      "e6_m3_exploration03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m3_exploration03",
+        "NextNodeIds": [
+          "e6_m3_battle09",
+          "e6_m3_resource01"
+        ],
+        "PreviousNodeId": "e6_m3_battle08",
+        "Type": "Opportunity"
+      },
+      "e6_m3_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m3_battle09",
+        "NextNodeIds": [
+          "e6_m3_story03"
+        ],
+        "PreviousNodeId": "e6_m3_exploration03",
+        "Type": "Encounter"
+      },
+      "e6_m3_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m3_resource01",
+        "NextNodeIds": [
+          "e6_m3_battle09"
+        ],
+        "PreviousNodeId": "e6_m3_exploration03",
+        "Type": "Resource"
+      },
+      "e6_m3_story03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m3_story03",
+        "NextNodeIds": [
+          "e6_m3_battle10"
+        ],
+        "PreviousNodeId": "e6_m3_battle06",
+        "Type": "Story"
+      },
+      "e6_m3_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m3_battle10",
+        "NextNodeIds": [
+          "e6_m3_battle11"
+        ],
+        "PreviousNodeId": "e6_m3_story03",
+        "Type": "Encounter"
+      },
+      "e6_m3_battle11": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m3_battle11",
+        "NextNodeIds": [
+          "e6_m3_story04"
+        ],
+        "PreviousNodeId": "e6_m3_battle05",
+        "Type": "Encounter"
+      },
+      "e6_m3_story04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m3_story04",
+        "NextNodeIds": [
+          "e6_m3_battle12"
+        ],
+        "PreviousNodeId": "e6_m3_battle11",
+        "Type": "Story"
+      },
+      "e6_m3_battle12": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e6_m3_battle12",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e6_m3_story04",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e6_m3"
+  },
+  "e6_m4": {
+    "Nodes": {
+      "e6_m4_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e6_m4_story01",
+        "NextNodeIds": [
+          "e6_m4_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e6_m4_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m4_battle01",
+        "NextNodeIds": [
+          "e6_m4_exploration01"
+        ],
+        "PreviousNodeId": "e6_m4_story01",
+        "Type": "Encounter"
+      },
+      "e6_m4_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m4_exploration01",
+        "NextNodeIds": [
+          "e6_m4_battle02",
+          "e6_m4_battle05",
+          "e6_m4_battle07"
+        ],
+        "PreviousNodeId": "e6_m4_battle01",
+        "Type": "Opportunity"
+      },
+      "e6_m4_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m4_battle02",
+        "NextNodeIds": [
+          "e6_m4_battle03"
+        ],
+        "PreviousNodeId": "e6_m4_exploration01",
+        "Type": "Encounter"
+      },
+      "e6_m4_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m4_battle03",
+        "NextNodeIds": [
+          "e6_m4_resource01"
+        ],
+        "PreviousNodeId": "e6_m4_battle02",
+        "Type": "Encounter"
+      },
+      "e6_m4_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m4_resource01",
+        "NextNodeIds": [
+          "e6_m4_battle04"
+        ],
+        "PreviousNodeId": "e6_m4_battle03",
+        "Type": "Resource"
+      },
+      "e6_m4_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m4_battle04",
+        "NextNodeIds": [
+          "e6_m4_story02"
+        ],
+        "PreviousNodeId": "e6_m4_resource01",
+        "Type": "Encounter"
+      },
+      "e6_m4_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m4_story02",
+        "NextNodeIds": [
+          "e6_m4_battle09"
+        ],
+        "PreviousNodeId": "e6_m4_battle04",
+        "Type": "Story"
+      },
+      "e6_m4_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m4_battle05",
+        "NextNodeIds": [
+          "e6_m4_battle06"
+        ],
+        "PreviousNodeId": "e6_m4_exploration01",
+        "Type": "Encounter"
+      },
+      "e6_m4_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m4_battle06",
+        "NextNodeIds": [
+          "e6_m4_story02"
+        ],
+        "PreviousNodeId": "e6_m4_battle05",
+        "Type": "Encounter"
+      },
+      "e6_m4_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m4_battle07",
+        "NextNodeIds": [
+          "e6_m4_story03"
+        ],
+        "PreviousNodeId": "e6_m4_exploration01",
+        "Type": "Encounter"
+      },
+      "e6_m4_story03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m4_story03",
+        "NextNodeIds": [
+          "e6_m4_battle08"
+        ],
+        "PreviousNodeId": "e6_m4_battle07",
+        "Type": "Story"
+      },
+      "e6_m4_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m4_battle08",
+        "NextNodeIds": [
+          "e6_m4_battle09"
+        ],
+        "PreviousNodeId": "e6_m4_story03",
+        "Type": "Encounter"
+      },
+      "e6_m4_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m4_battle09",
+        "NextNodeIds": [
+          "e6_m4_exploration02"
+        ],
+        "PreviousNodeId": "e6_m4_story02",
+        "Type": "Encounter"
+      },
+      "e6_m4_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m4_exploration02",
+        "NextNodeIds": [
+          "e6_m4_resource02",
+          "e6_m4_battle11"
+        ],
+        "PreviousNodeId": "e6_m4_battle09",
+        "Type": "Opportunity"
+      },
+      "e6_m4_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m4_resource02",
+        "NextNodeIds": [
+          "e6_m4_battle10"
+        ],
+        "PreviousNodeId": "e6_m4_exploration02",
+        "Type": "Resource"
+      },
+      "e6_m4_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m4_battle10",
+        "NextNodeIds": [
+          "e6_m4_battle13"
+        ],
+        "PreviousNodeId": "e6_m4_resource02",
+        "Type": "Encounter"
+      },
+      "e6_m4_battle11": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m4_battle11",
+        "NextNodeIds": [
+          "e6_m4_battle12"
+        ],
+        "PreviousNodeId": "e6_m4_exploration02",
+        "Type": "Encounter"
+      },
+      "e6_m4_battle12": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m4_battle12",
+        "NextNodeIds": [
+          "e6_m4_battle13"
+        ],
+        "PreviousNodeId": "e6_m4_battle11",
+        "Type": "Encounter"
+      },
+      "e6_m4_battle13": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e6_m4_battle13",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e6_m4_battle10",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e6_m4"
+  },
+  "e6_m5": {
+    "Nodes": {
+      "e6_m5_battle01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e6_m5_battle01",
+        "NextNodeIds": [
+          "e6_m5_exploration01"
+        ],
+        "Type": "Encounter"
+      },
+      "e6_m5_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m5_exploration01",
+        "NextNodeIds": [
+          "e6_m5_battle02",
+          "e6_m5_battle06"
+        ],
+        "PreviousNodeId": "e6_m5_battle01",
+        "Type": "Opportunity"
+      },
+      "e6_m5_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m5_battle02",
+        "NextNodeIds": [
+          "e6_m5_battle03"
+        ],
+        "PreviousNodeId": "e6_m5_exploration01",
+        "Type": "Encounter"
+      },
+      "e6_m5_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m5_battle03",
+        "NextNodeIds": [
+          "e6_m5_exploration02"
+        ],
+        "PreviousNodeId": "e6_m5_battle02",
+        "Type": "Encounter"
+      },
+      "e6_m5_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m5_exploration02",
+        "NextNodeIds": [
+          "e6_m5_battle04",
+          "e6_m5_resource01"
+        ],
+        "PreviousNodeId": "e6_m5_battle03",
+        "Type": "Opportunity"
+      },
+      "e6_m5_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m5_battle04",
+        "NextNodeIds": [
+          "e6_m5_battle05"
+        ],
+        "PreviousNodeId": "e6_m5_exploration02",
+        "Type": "Encounter"
+      },
+      "e6_m5_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m5_resource01",
+        "NextNodeIds": [
+          "e6_m5_battle04"
+        ],
+        "PreviousNodeId": "e6_m5_exploration02",
+        "Type": "Resource"
+      },
+      "e6_m5_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m5_battle05",
+        "NextNodeIds": [
+          "e6_m5_battle10"
+        ],
+        "PreviousNodeId": "e6_m5_battle04",
+        "Type": "Encounter"
+      },
+      "e6_m5_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m5_battle06",
+        "NextNodeIds": [
+          "e6_m5_battle07"
+        ],
+        "PreviousNodeId": "e6_m5_exploration01",
+        "Type": "Encounter"
+      },
+      "e6_m5_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m5_battle07",
+        "NextNodeIds": [
+          "e6_m5_battle08"
+        ],
+        "PreviousNodeId": "e6_m5_battle06",
+        "Type": "Encounter"
+      },
+      "e6_m5_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m5_battle08",
+        "NextNodeIds": [
+          "e6_m5_exploration03"
+        ],
+        "PreviousNodeId": "e6_m5_battle07",
+        "Type": "Encounter"
+      },
+      "e6_m5_exploration03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m5_exploration03",
+        "NextNodeIds": [
+          "e6_m5_battle09"
+        ],
+        "PreviousNodeId": "e6_m5_battle08",
+        "Type": "Opportunity"
+      },
+      "e6_m5_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m5_battle09",
+        "NextNodeIds": [
+          "e6_m5_resource02"
+        ],
+        "PreviousNodeId": "e6_m5_exploration03",
+        "Type": "Encounter"
+      },
+      "e6_m5_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m5_resource02",
+        "NextNodeIds": [
+          "e6_m5_battle10"
+        ],
+        "PreviousNodeId": "e6_m5_battle09",
+        "Type": "Resource"
+      },
+      "e6_m5_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m5_battle10",
+        "NextNodeIds": [
+          "e6_m5_exploration04"
+        ],
+        "PreviousNodeId": "e6_m5_battle05",
+        "Type": "Encounter"
+      },
+      "e6_m5_exploration04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m5_exploration04",
+        "NextNodeIds": [
+          "e6_m5_battle11"
+        ],
+        "PreviousNodeId": "e6_m5_battle10",
+        "Type": "Opportunity"
+      },
+      "e6_m5_battle11": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e6_m5_battle11",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e6_m5_exploration04",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e6_m5"
+  },
+  "e6_m6": {
+    "Nodes": {
+      "e6_m6_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e6_m6_story01",
+        "NextNodeIds": [
+          "e6_m6_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e6_m6_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_battle01",
+        "NextNodeIds": [
+          "e6_m6_battle02"
+        ],
+        "PreviousNodeId": "e6_m6_story01",
+        "Type": "Encounter"
+      },
+      "e6_m6_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_battle02",
+        "NextNodeIds": [
+          "e6_m6_resource01"
+        ],
+        "PreviousNodeId": "e6_m6_battle01",
+        "Type": "Encounter"
+      },
+      "e6_m6_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_resource01",
+        "NextNodeIds": [
+          "e6_m6_exploration01"
+        ],
+        "PreviousNodeId": "e6_m6_battle02",
+        "Type": "Resource"
+      },
+      "e6_m6_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_exploration01",
+        "NextNodeIds": [
+          "e6_m6_story02",
+          "e6_m6_battle06",
+          "e6_m6_battle10"
+        ],
+        "PreviousNodeId": "e6_m6_resource01",
+        "Type": "Opportunity"
+      },
+      "e6_m6_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_story02",
+        "NextNodeIds": [
+          "e6_m6_battle03"
+        ],
+        "PreviousNodeId": "e6_m6_exploration01",
+        "Type": "Story"
+      },
+      "e6_m6_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_battle03",
+        "NextNodeIds": [
+          "e6_m6_battle04"
+        ],
+        "PreviousNodeId": "e6_m6_story02",
+        "Type": "Encounter"
+      },
+      "e6_m6_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_battle04",
+        "NextNodeIds": [
+          "e6_m6_exploration02"
+        ],
+        "PreviousNodeId": "e6_m6_battle03",
+        "Type": "Encounter"
+      },
+      "e6_m6_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_exploration02",
+        "NextNodeIds": [
+          "e6_m6_battle05"
+        ],
+        "PreviousNodeId": "e6_m6_battle04",
+        "Type": "Opportunity"
+      },
+      "e6_m6_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_battle05",
+        "NextNodeIds": [
+          "e6_m6_resource02"
+        ],
+        "PreviousNodeId": "e6_m6_exploration02",
+        "Type": "Encounter"
+      },
+      "e6_m6_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_battle06",
+        "NextNodeIds": [
+          "e6_m6_exploration03"
+        ],
+        "PreviousNodeId": "e6_m6_exploration01",
+        "Type": "Encounter"
+      },
+      "e6_m6_exploration03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_exploration03",
+        "NextNodeIds": [
+          "e6_m6_story03",
+          "e6_m6_battle07",
+          "e6_m6_battle09"
+        ],
+        "PreviousNodeId": "e6_m6_battle06",
+        "Type": "Opportunity"
+      },
+      "e6_m6_story03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_story03",
+        "NextNodeIds": [
+          "e6_m6_battle04"
+        ],
+        "PreviousNodeId": "e6_m6_exploration03",
+        "Type": "Story"
+      },
+      "e6_m6_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_battle07",
+        "NextNodeIds": [
+          "e6_m6_battle08"
+        ],
+        "PreviousNodeId": "e6_m6_exploration03",
+        "Type": "Encounter"
+      },
+      "e6_m6_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_battle08",
+        "NextNodeIds": [
+          "e6_m6_story04"
+        ],
+        "PreviousNodeId": "e6_m6_battle07",
+        "Type": "Encounter"
+      },
+      "e6_m6_story04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_story04",
+        "NextNodeIds": [
+          "e6_m6_resource02"
+        ],
+        "PreviousNodeId": "e6_m6_battle08",
+        "Type": "Story"
+      },
+      "e6_m6_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_battle09",
+        "NextNodeIds": [
+          "e6_m6_story06"
+        ],
+        "PreviousNodeId": "e6_m6_exploration03",
+        "Type": "Encounter"
+      },
+      "e6_m6_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_battle10",
+        "NextNodeIds": [
+          "e6_m6_story05"
+        ],
+        "PreviousNodeId": "e6_m6_exploration01",
+        "Type": "Encounter"
+      },
+      "e6_m6_story05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_story05",
+        "NextNodeIds": [
+          "e6_m6_battle11"
+        ],
+        "PreviousNodeId": "e6_m6_battle10",
+        "Type": "Story"
+      },
+      "e6_m6_battle11": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_battle11",
+        "NextNodeIds": [
+          "e6_m6_story06"
+        ],
+        "PreviousNodeId": "e6_m6_story05",
+        "Type": "Encounter"
+      },
+      "e6_m6_story06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_story06",
+        "NextNodeIds": [
+          "e6_m6_battle12"
+        ],
+        "PreviousNodeId": "e6_m6_battle09",
+        "Type": "Story"
+      },
+      "e6_m6_battle12": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_battle12",
+        "NextNodeIds": [
+          "e6_m6_resource02"
+        ],
+        "PreviousNodeId": "e6_m6_story06",
+        "Type": "Encounter"
+      },
+      "e6_m6_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_resource02",
+        "NextNodeIds": [
+          "e6_m6_battle13"
+        ],
+        "PreviousNodeId": "e6_m6_battle05",
+        "Type": "Resource"
+      },
+      "e6_m6_battle13": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_battle13",
+        "NextNodeIds": [
+          "e6_m6_battle14"
+        ],
+        "PreviousNodeId": "e6_m6_resource02",
+        "Type": "Encounter"
+      },
+      "e6_m6_battle14": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e6_m6_battle14",
+        "NextNodeIds": [
+          "e6_m6_battle15"
+        ],
+        "PreviousNodeId": "e6_m6_battle13",
+        "Type": "Encounter"
+      },
+      "e6_m6_battle15": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e6_m6_battle15",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e6_m6_battle14",
+        "Type": "Encounter"
+      }
+    },
+    "id": "e6_m6"
+  },
+  "e7_m1": {
+    "Nodes": {
+      "e7_m1_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e7_m1_story01",
+        "NextNodeIds": [
+          "e7_m1_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e7_m1_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m1_battle01",
+        "NextNodeIds": [
+          "e7_m1_battle02"
+        ],
+        "PreviousNodeId": "e7_m1_story01",
+        "Type": "Encounter"
+      },
+      "e7_m1_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m1_battle02",
+        "NextNodeIds": [
+          "e7_m1_exploration01"
+        ],
+        "PreviousNodeId": "e7_m1_battle01",
+        "Type": "Encounter"
+      },
+      "e7_m1_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m1_exploration01",
+        "NextNodeIds": [
+          "e7_m1_battle03",
+          "e7_m1_battle07"
+        ],
+        "PreviousNodeId": "e7_m1_battle02",
+        "Type": "Opportunity"
+      },
+      "e7_m1_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m1_battle03",
+        "NextNodeIds": [
+          "e7_m1_battle04"
+        ],
+        "PreviousNodeId": "e7_m1_exploration01",
+        "Type": "Encounter"
+      },
+      "e7_m1_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m1_battle04",
+        "NextNodeIds": [
+          "e7_m1_exploration02"
+        ],
+        "PreviousNodeId": "e7_m1_battle03",
+        "Type": "Encounter"
+      },
+      "e7_m1_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m1_exploration02",
+        "NextNodeIds": [
+          "e7_m1_battle05",
+          "e7_m1_resource01"
+        ],
+        "PreviousNodeId": "e7_m1_battle04",
+        "Type": "Opportunity"
+      },
+      "e7_m1_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m1_battle05",
+        "NextNodeIds": [
+          "e7_m1_story02"
+        ],
+        "PreviousNodeId": "e7_m1_exploration02",
+        "Type": "Encounter"
+      },
+      "e7_m1_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m1_resource01",
+        "NextNodeIds": [
+          "e7_m1_battle05"
+        ],
+        "PreviousNodeId": "e7_m1_exploration02",
+        "Type": "Resource"
+      },
+      "e7_m1_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m1_story02",
+        "NextNodeIds": [
+          "e7_m1_battle06"
+        ],
+        "PreviousNodeId": "e7_m1_battle05",
+        "Type": "Story"
+      },
+      "e7_m1_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m1_battle06",
+        "NextNodeIds": [
+          "e7_m1_battle11"
+        ],
+        "PreviousNodeId": "e7_m1_story02",
+        "Type": "Encounter"
+      },
+      "e7_m1_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m1_battle07",
+        "NextNodeIds": [
+          "e7_m1_battle08"
+        ],
+        "PreviousNodeId": "e7_m1_exploration01",
+        "Type": "Encounter"
+      },
+      "e7_m1_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m1_battle08",
+        "NextNodeIds": [
+          "e7_m1_battle09"
+        ],
+        "PreviousNodeId": "e7_m1_battle07",
+        "Type": "Encounter"
+      },
+      "e7_m1_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m1_battle09",
+        "NextNodeIds": [
+          "e7_m1_story03"
+        ],
+        "PreviousNodeId": "e7_m1_battle08",
+        "Type": "Encounter"
+      },
+      "e7_m1_story03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m1_story03",
+        "NextNodeIds": [
+          "e7_m1_exploration03"
+        ],
+        "PreviousNodeId": "e7_m1_battle09",
+        "Type": "Story"
+      },
+      "e7_m1_exploration03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m1_exploration03",
+        "NextNodeIds": [
+          "e7_m1_battle10",
+          "e7_m1_resource02"
+        ],
+        "PreviousNodeId": "e7_m1_story03",
+        "Type": "Opportunity"
+      },
+      "e7_m1_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m1_battle10",
+        "NextNodeIds": [
+          "e7_m1_battle11"
+        ],
+        "PreviousNodeId": "e7_m1_exploration03",
+        "Type": "Encounter"
+      },
+      "e7_m1_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m1_resource02",
+        "NextNodeIds": [
+          "e7_m1_battle10"
+        ],
+        "PreviousNodeId": "e7_m1_exploration03",
+        "Type": "Resource"
+      },
+      "e7_m1_battle11": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m1_battle11",
+        "NextNodeIds": [
+          "e7_m1_battle12"
+        ],
+        "PreviousNodeId": "e7_m1_battle06",
+        "Type": "Encounter"
+      },
+      "e7_m1_battle12": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m1_battle12",
+        "NextNodeIds": [
+          "e7_m1_story04"
+        ],
+        "PreviousNodeId": "e7_m1_battle11",
+        "Type": "Encounter"
+      },
+      "e7_m1_story04": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e7_m1_story04",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e7_m1_battle12",
+        "Type": "Story"
+      }
+    },
+    "id": "e7_m1"
+  },
+  "e7_m2": {
+    "Nodes": {
+      "e7_m2_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e7_m2_story01",
+        "NextNodeIds": [
+          "e7_m2_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e7_m2_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m2_battle01",
+        "NextNodeIds": [
+          "e7_m2_battle02"
+        ],
+        "PreviousNodeId": "e7_m2_story01",
+        "Type": "Encounter"
+      },
+      "e7_m2_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m2_battle02",
+        "NextNodeIds": [
+          "e7_m2_exploration01"
+        ],
+        "PreviousNodeId": "e7_m2_battle01",
+        "Type": "Encounter"
+      },
+      "e7_m2_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m2_exploration01",
+        "NextNodeIds": [
+          "e7_m2_battle03",
+          "e7_m2_battle08",
+          "e7_m2_resource02"
+        ],
+        "PreviousNodeId": "e7_m2_battle02",
+        "Type": "Opportunity"
+      },
+      "e7_m2_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m2_battle03",
+        "NextNodeIds": [
+          "e7_m2_battle04"
+        ],
+        "PreviousNodeId": "e7_m2_exploration01",
+        "Type": "Encounter"
+      },
+      "e7_m2_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m2_battle04",
+        "NextNodeIds": [
+          "e7_m2_story02"
+        ],
+        "PreviousNodeId": "e7_m2_battle03",
+        "Type": "Encounter"
+      },
+      "e7_m2_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m2_story02",
+        "NextNodeIds": [
+          "e7_m2_exploration02"
+        ],
+        "PreviousNodeId": "e7_m2_battle04",
+        "Type": "Story"
+      },
+      "e7_m2_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m2_exploration02",
+        "NextNodeIds": [
+          "e7_m2_battle05",
+          "e7_m2_battle06"
+        ],
+        "PreviousNodeId": "e7_m2_story02",
+        "Type": "Opportunity"
+      },
+      "e7_m2_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m2_battle05",
+        "NextNodeIds": [
+          "e7_m2_resource01"
+        ],
+        "PreviousNodeId": "e7_m2_exploration02",
+        "Type": "Encounter"
+      },
+      "e7_m2_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m2_resource01",
+        "NextNodeIds": [
+          "e7_m2_battle07"
+        ],
+        "PreviousNodeId": "e7_m2_battle05",
+        "Type": "Resource"
+      },
+      "e7_m2_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m2_battle06",
+        "NextNodeIds": [
+          "e7_m2_battle07"
+        ],
+        "PreviousNodeId": "e7_m2_exploration02",
+        "Type": "Encounter"
+      },
+      "e7_m2_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m2_battle07",
+        "NextNodeIds": [
+          "e7_m2_battle12"
+        ],
+        "PreviousNodeId": "e7_m2_resource01",
+        "Type": "Encounter"
+      },
+      "e7_m2_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m2_battle08",
+        "NextNodeIds": [
+          "e7_m2_battle09"
+        ],
+        "PreviousNodeId": "e7_m2_exploration01",
+        "Type": "Encounter"
+      },
+      "e7_m2_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m2_resource02",
+        "NextNodeIds": [
+          "e7_m2_battle08"
+        ],
+        "PreviousNodeId": "e7_m2_exploration01",
+        "Type": "Resource"
+      },
+      "e7_m2_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m2_battle09",
+        "NextNodeIds": [
+          "e7_m2_story03"
+        ],
+        "PreviousNodeId": "e7_m2_battle08",
+        "Type": "Encounter"
+      },
+      "e7_m2_story03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m2_story03",
+        "NextNodeIds": [
+          "e7_m2_battle10"
+        ],
+        "PreviousNodeId": "e7_m2_battle09",
+        "Type": "Story"
+      },
+      "e7_m2_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m2_battle10",
+        "NextNodeIds": [
+          "e7_m2_battle11"
+        ],
+        "PreviousNodeId": "e7_m2_story03",
+        "Type": "Encounter"
+      },
+      "e7_m2_battle11": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m2_battle11",
+        "NextNodeIds": [
+          "e7_m2_battle12"
+        ],
+        "PreviousNodeId": "e7_m2_battle10",
+        "Type": "Encounter"
+      },
+      "e7_m2_battle12": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m2_battle12",
+        "NextNodeIds": [
+          "e7_m2_battle13"
+        ],
+        "PreviousNodeId": "e7_m2_battle07",
+        "Type": "Encounter"
+      },
+      "e7_m2_battle13": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m2_battle13",
+        "NextNodeIds": [
+          "e7_m2_story04"
+        ],
+        "PreviousNodeId": "e7_m2_battle12",
+        "Type": "Encounter"
+      },
+      "e7_m2_story04": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e7_m2_story04",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e7_m2_battle13",
+        "Type": "Story"
+      }
+    },
+    "id": "e7_m2"
+  },
+  "e7_m3": {
+    "Nodes": {
+      "e7_m3_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e7_m3_story01",
+        "NextNodeIds": [
+          "e7_m3_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e7_m3_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_battle01",
+        "NextNodeIds": [
+          "e7_m3_exploration01"
+        ],
+        "PreviousNodeId": "e7_m3_story01",
+        "Type": "Encounter"
+      },
+      "e7_m3_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_exploration01",
+        "NextNodeIds": [
+          "e7_m3_battle02",
+          "e7_m3_battle08"
+        ],
+        "PreviousNodeId": "e7_m3_battle01",
+        "Type": "Opportunity"
+      },
+      "e7_m3_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_battle02",
+        "NextNodeIds": [
+          "e7_m3_battle03"
+        ],
+        "PreviousNodeId": "e7_m3_exploration01",
+        "Type": "Encounter"
+      },
+      "e7_m3_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_battle03",
+        "NextNodeIds": [
+          "e7_m3_battle04"
+        ],
+        "PreviousNodeId": "e7_m3_battle02",
+        "Type": "Encounter"
+      },
+      "e7_m3_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_battle04",
+        "NextNodeIds": [
+          "e7_m3_story02"
+        ],
+        "PreviousNodeId": "e7_m3_battle03",
+        "Type": "Encounter"
+      },
+      "e7_m3_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_story02",
+        "NextNodeIds": [
+          "e7_m3_battle05"
+        ],
+        "PreviousNodeId": "e7_m3_battle04",
+        "Type": "Story"
+      },
+      "e7_m3_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_battle05",
+        "NextNodeIds": [
+          "e7_m3_exploration02"
+        ],
+        "PreviousNodeId": "e7_m3_story02",
+        "Type": "Encounter"
+      },
+      "e7_m3_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_exploration02",
+        "NextNodeIds": [
+          "e7_m3_resource01",
+          "e7_m3_battle06"
+        ],
+        "PreviousNodeId": "e7_m3_battle05",
+        "Type": "Opportunity"
+      },
+      "e7_m3_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_resource01",
+        "NextNodeIds": [
+          "e7_m3_battle06"
+        ],
+        "PreviousNodeId": "e7_m3_exploration02",
+        "Type": "Resource"
+      },
+      "e7_m3_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_battle06",
+        "NextNodeIds": [
+          "e7_m3_battle07"
+        ],
+        "PreviousNodeId": "e7_m3_exploration02",
+        "Type": "Encounter"
+      },
+      "e7_m3_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_battle07",
+        "NextNodeIds": [
+          "e7_m3_battle13"
+        ],
+        "PreviousNodeId": "e7_m3_battle06",
+        "Type": "Encounter"
+      },
+      "e7_m3_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_battle08",
+        "NextNodeIds": [
+          "e7_m3_battle09"
+        ],
+        "PreviousNodeId": "e7_m3_exploration01",
+        "Type": "Encounter"
+      },
+      "e7_m3_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_battle09",
+        "NextNodeIds": [
+          "e7_m3_exploration03"
+        ],
+        "PreviousNodeId": "e7_m3_battle08",
+        "Type": "Encounter"
+      },
+      "e7_m3_exploration03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_exploration03",
+        "NextNodeIds": [
+          "e7_m3_resource02",
+          "e7_m3_battle10"
+        ],
+        "PreviousNodeId": "e7_m3_battle09",
+        "Type": "Opportunity"
+      },
+      "e7_m3_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_resource02",
+        "NextNodeIds": [
+          "e7_m3_battle10"
+        ],
+        "PreviousNodeId": "e7_m3_exploration03",
+        "Type": "Resource"
+      },
+      "e7_m3_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_battle10",
+        "NextNodeIds": [
+          "e7_m3_story03"
+        ],
+        "PreviousNodeId": "e7_m3_exploration03",
+        "Type": "Encounter"
+      },
+      "e7_m3_story03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_story03",
+        "NextNodeIds": [
+          "e7_m3_battle11"
+        ],
+        "PreviousNodeId": "e7_m3_battle10",
+        "Type": "Story"
+      },
+      "e7_m3_battle11": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_battle11",
+        "NextNodeIds": [
+          "e7_m3_battle12"
+        ],
+        "PreviousNodeId": "e7_m3_story03",
+        "Type": "Encounter"
+      },
+      "e7_m3_battle12": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_battle12",
+        "NextNodeIds": [
+          "e7_m3_battle13"
+        ],
+        "PreviousNodeId": "e7_m3_battle11",
+        "Type": "Encounter"
+      },
+      "e7_m3_battle13": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_battle13",
+        "NextNodeIds": [
+          "e7_m3_story04"
+        ],
+        "PreviousNodeId": "e7_m3_battle07",
+        "Type": "Encounter"
+      },
+      "e7_m3_story04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_story04",
+        "NextNodeIds": [
+          "e7_m3_battle14"
+        ],
+        "PreviousNodeId": "e7_m3_battle13",
+        "Type": "Story"
+      },
+      "e7_m3_battle14": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m3_battle14",
+        "NextNodeIds": [
+          "e7_m3_story05"
+        ],
+        "PreviousNodeId": "e7_m3_story04",
+        "Type": "Encounter"
+      },
+      "e7_m3_story05": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e7_m3_story05",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e7_m3_battle14",
+        "Type": "Story"
+      }
+    },
+    "id": "e7_m3"
+  },
+  "e7_m4": {
+    "Nodes": {
+      "e7_m4_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e7_m4_story01",
+        "NextNodeIds": [
+          "e7_m4_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e7_m4_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m4_battle01",
+        "NextNodeIds": [
+          "e7_m4_battle02"
+        ],
+        "PreviousNodeId": "e7_m4_story01",
+        "Type": "Encounter"
+      },
+      "e7_m4_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m4_battle02",
+        "NextNodeIds": [
+          "e7_m4_exploration01"
+        ],
+        "PreviousNodeId": "e7_m4_battle01",
+        "Type": "Encounter"
+      },
+      "e7_m4_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m4_exploration01",
+        "NextNodeIds": [
+          "e7_m4_resource01",
+          "e7_m4_battle06"
+        ],
+        "PreviousNodeId": "e7_m4_battle02",
+        "Type": "Opportunity"
+      },
+      "e7_m4_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m4_resource01",
+        "NextNodeIds": [
+          "e7_m4_battle03"
+        ],
+        "PreviousNodeId": "e7_m4_exploration01",
+        "Type": "Resource"
+      },
+      "e7_m4_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m4_battle03",
+        "NextNodeIds": [
+          "e7_m4_battle04"
+        ],
+        "PreviousNodeId": "e7_m4_resource01",
+        "Type": "Encounter"
+      },
+      "e7_m4_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m4_battle04",
+        "NextNodeIds": [
+          "e7_m4_battle05"
+        ],
+        "PreviousNodeId": "e7_m4_battle03",
+        "Type": "Encounter"
+      },
+      "e7_m4_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m4_battle05",
+        "NextNodeIds": [
+          "e7_m4_battle09"
+        ],
+        "PreviousNodeId": "e7_m4_battle04",
+        "Type": "Encounter"
+      },
+      "e7_m4_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m4_battle06",
+        "NextNodeIds": [
+          "e7_m4_battle07"
+        ],
+        "PreviousNodeId": "e7_m4_exploration01",
+        "Type": "Encounter"
+      },
+      "e7_m4_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m4_battle07",
+        "NextNodeIds": [
+          "e7_m4_battle08"
+        ],
+        "PreviousNodeId": "e7_m4_battle06",
+        "Type": "Encounter"
+      },
+      "e7_m4_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m4_battle08",
+        "NextNodeIds": [
+          "e7_m4_battle09"
+        ],
+        "PreviousNodeId": "e7_m4_battle07",
+        "Type": "Encounter"
+      },
+      "e7_m4_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m4_battle09",
+        "NextNodeIds": [
+          "e7_m4_story02"
+        ],
+        "PreviousNodeId": "e7_m4_battle05",
+        "Type": "Encounter"
+      },
+      "e7_m4_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m4_story02",
+        "NextNodeIds": [
+          "e7_m4_battle10"
+        ],
+        "PreviousNodeId": "e7_m4_battle09",
+        "Type": "Story"
+      },
+      "e7_m4_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m4_battle10",
+        "NextNodeIds": [
+          "e7_m4_exploration02"
+        ],
+        "PreviousNodeId": "e7_m4_story02",
+        "Type": "Encounter"
+      },
+      "e7_m4_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m4_exploration02",
+        "NextNodeIds": [
+          "e7_m4_battle11",
+          "e7_m4_resource02"
+        ],
+        "PreviousNodeId": "e7_m4_battle10",
+        "Type": "Opportunity"
+      },
+      "e7_m4_battle11": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m4_battle11",
+        "NextNodeIds": [
+          "e7_m4_story03"
+        ],
+        "PreviousNodeId": "e7_m4_exploration02",
+        "Type": "Encounter"
+      },
+      "e7_m4_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m4_resource02",
+        "NextNodeIds": [
+          "e7_m4_battle11"
+        ],
+        "PreviousNodeId": "e7_m4_exploration02",
+        "Type": "Resource"
+      },
+      "e7_m4_story03": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e7_m4_story03",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e7_m4_battle11",
+        "Type": "Story"
+      }
+    },
+    "id": "e7_m4"
+  },
+  "e7_m5": {
+    "Nodes": {
+      "e7_m5_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e7_m5_story01",
+        "NextNodeIds": [
+          "e7_m5_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e7_m5_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m5_battle01",
+        "NextNodeIds": [
+          "e7_m5_battle02"
+        ],
+        "PreviousNodeId": "e7_m5_story01",
+        "Type": "Encounter"
+      },
+      "e7_m5_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m5_battle02",
+        "NextNodeIds": [
+          "e7_m5_exploration01"
+        ],
+        "PreviousNodeId": "e7_m5_battle01",
+        "Type": "Encounter"
+      },
+      "e7_m5_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m5_exploration01",
+        "NextNodeIds": [
+          "e7_m5_resource01",
+          "e7_m5_battle03"
+        ],
+        "PreviousNodeId": "e7_m5_battle02",
+        "Type": "Opportunity"
+      },
+      "e7_m5_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m5_resource01",
+        "NextNodeIds": [
+          "e7_m5_battle04"
+        ],
+        "PreviousNodeId": "e7_m5_exploration01",
+        "Type": "Resource"
+      },
+      "e7_m5_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m5_battle03",
+        "NextNodeIds": [
+          "e7_m5_battle04"
+        ],
+        "PreviousNodeId": "e7_m5_exploration01",
+        "Type": "Encounter"
+      },
+      "e7_m5_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m5_battle04",
+        "NextNodeIds": [
+          "e7_m5_battle05"
+        ],
+        "PreviousNodeId": "e7_m5_resource01",
+        "Type": "Encounter"
+      },
+      "e7_m5_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m5_battle05",
+        "NextNodeIds": [
+          "e7_m5_exploration02"
+        ],
+        "PreviousNodeId": "e7_m5_battle04",
+        "Type": "Encounter"
+      },
+      "e7_m5_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m5_exploration02",
+        "NextNodeIds": [
+          "e7_m5_resource02",
+          "e7_m5_battle06"
+        ],
+        "PreviousNodeId": "e7_m5_battle05",
+        "Type": "Opportunity"
+      },
+      "e7_m5_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m5_resource02",
+        "NextNodeIds": [
+          "e7_m5_battle07"
+        ],
+        "PreviousNodeId": "e7_m5_exploration02",
+        "Type": "Resource"
+      },
+      "e7_m5_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m5_battle06",
+        "NextNodeIds": [
+          "e7_m5_battle07"
+        ],
+        "PreviousNodeId": "e7_m5_exploration02",
+        "Type": "Encounter"
+      },
+      "e7_m5_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m5_battle07",
+        "NextNodeIds": [
+          "e7_m5_battle08"
+        ],
+        "PreviousNodeId": "e7_m5_resource02",
+        "Type": "Encounter"
+      },
+      "e7_m5_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m5_battle08",
+        "NextNodeIds": [
+          "e7_m5_exploration03"
+        ],
+        "PreviousNodeId": "e7_m5_battle07",
+        "Type": "Encounter"
+      },
+      "e7_m5_exploration03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m5_exploration03",
+        "NextNodeIds": [
+          "e7_m5_story02",
+          "e7_m5_battle09"
+        ],
+        "PreviousNodeId": "e7_m5_battle08",
+        "Type": "Opportunity"
+      },
+      "e7_m5_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m5_battle09",
+        "NextNodeIds": [
+          "e7_m5_story02"
+        ],
+        "PreviousNodeId": "e7_m5_exploration03",
+        "Type": "Encounter"
+      },
+      "e7_m5_story02": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e7_m5_story02",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e7_m5_exploration03",
+        "Type": "Story"
+      }
+    },
+    "id": "e7_m5"
+  },
+  "e7_m6": {
+    "Nodes": {
+      "e7_m6_story01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e7_m6_story01",
+        "NextNodeIds": [
+          "e7_m6_battle01"
+        ],
+        "Type": "Story"
+      },
+      "e7_m6_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m6_battle01",
+        "NextNodeIds": [
+          "e7_m6_battle02"
+        ],
+        "PreviousNodeId": "e7_m6_story01",
+        "Type": "Encounter"
+      },
+      "e7_m6_battle02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m6_battle02",
+        "NextNodeIds": [
+          "e7_m6_story02"
+        ],
+        "PreviousNodeId": "e7_m6_battle01",
+        "Type": "Encounter"
+      },
+      "e7_m6_story02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m6_story02",
+        "NextNodeIds": [
+          "e7_m6_battle03"
+        ],
+        "PreviousNodeId": "e7_m6_battle02",
+        "Type": "Story"
+      },
+      "e7_m6_battle03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m6_battle03",
+        "NextNodeIds": [
+          "e7_m6_exploration01"
+        ],
+        "PreviousNodeId": "e7_m6_story02",
+        "Type": "Encounter"
+      },
+      "e7_m6_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m6_exploration01",
+        "NextNodeIds": [
+          "e7_m6_battle04",
+          "e7_m6_battle07"
+        ],
+        "PreviousNodeId": "e7_m6_battle03",
+        "Type": "Opportunity"
+      },
+      "e7_m6_battle04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m6_battle04",
+        "NextNodeIds": [
+          "e7_m6_story03"
+        ],
+        "PreviousNodeId": "e7_m6_exploration01",
+        "Type": "Encounter"
+      },
+      "e7_m6_story03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m6_story03",
+        "NextNodeIds": [
+          "e7_m6_resource01"
+        ],
+        "PreviousNodeId": "e7_m6_battle04",
+        "Type": "Story"
+      },
+      "e7_m6_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m6_resource01",
+        "NextNodeIds": [
+          "e7_m6_battle05"
+        ],
+        "PreviousNodeId": "e7_m6_story03",
+        "Type": "Resource"
+      },
+      "e7_m6_battle05": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m6_battle05",
+        "NextNodeIds": [
+          "e7_m6_battle06"
+        ],
+        "PreviousNodeId": "e7_m6_resource01",
+        "Type": "Encounter"
+      },
+      "e7_m6_battle06": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m6_battle06",
+        "NextNodeIds": [
+          "e7_m6_battle10"
+        ],
+        "PreviousNodeId": "e7_m6_battle05",
+        "Type": "Encounter"
+      },
+      "e7_m6_battle07": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m6_battle07",
+        "NextNodeIds": [
+          "e7_m6_battle08"
+        ],
+        "PreviousNodeId": "e7_m6_exploration01",
+        "Type": "Encounter"
+      },
+      "e7_m6_battle08": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m6_battle08",
+        "NextNodeIds": [
+          "e7_m6_story04"
+        ],
+        "PreviousNodeId": "e7_m6_battle07",
+        "Type": "Encounter"
+      },
+      "e7_m6_story04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m6_story04",
+        "NextNodeIds": [
+          "e7_m6_resource02"
+        ],
+        "PreviousNodeId": "e7_m6_battle08",
+        "Type": "Story"
+      },
+      "e7_m6_resource02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m6_resource02",
+        "NextNodeIds": [
+          "e7_m6_battle09"
+        ],
+        "PreviousNodeId": "e7_m6_story04",
+        "Type": "Resource"
+      },
+      "e7_m6_battle09": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m6_battle09",
+        "NextNodeIds": [
+          "e7_m6_battle10"
+        ],
+        "PreviousNodeId": "e7_m6_resource02",
+        "Type": "Encounter"
+      },
+      "e7_m6_battle10": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m6_battle10",
+        "NextNodeIds": [
+          "e7_m6_battle11"
+        ],
+        "PreviousNodeId": "e7_m6_battle06",
+        "Type": "Encounter"
+      },
+      "e7_m6_battle11": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m6_battle11",
+        "NextNodeIds": [
+          "e7_m6_exploration02"
+        ],
+        "PreviousNodeId": "e7_m6_battle10",
+        "Type": "Encounter"
+      },
+      "e7_m6_exploration02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m6_exploration02",
+        "NextNodeIds": [
+          "e7_m6_battle12"
+        ],
+        "PreviousNodeId": "e7_m6_battle11",
+        "Type": "Opportunity"
+      },
+      "e7_m6_battle12": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e7_m6_battle12",
+        "NextNodeIds": [
+          "e7_m6_story05"
+        ],
+        "PreviousNodeId": "e7_m6_exploration02",
+        "Type": "Encounter"
+      },
+      "e7_m6_story05": {
+        "StartNode": false,
+        "EndNode": true,
+        "NodeId": "e7_m6_story05",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e7_m6_battle12",
+        "Type": "Story"
+      }
+    },
+    "id": "e7_m6"
+  },
+  "e8_m1": {
+    "Nodes": {
+      "e8_m1_story01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m1_story01",
+        "NextNodeIds": [],
+        "Type": "Story"
+      },
+      "e8_m1_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m1_battle01",
+        "NextNodeIds": [],
+        "Type": "Encounter"
+      },
+      "e8_m1_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m1_exploration01",
+        "NextNodeIds": [],
+        "Type": "Opportunity"
+      },
+      "e8_m1_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m1_resource01",
+        "NextNodeIds": [],
+        "Type": "Resource"
+      }
+    },
+    "id": "e8_m1"
+  },
+  "e8_m2": {
+    "Nodes": {
+      "e8_m2_story01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m2_story01",
+        "NextNodeIds": [],
+        "Type": "Story"
+      },
+      "e8_m2_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m2_battle01",
+        "NextNodeIds": [],
+        "Type": "Encounter"
+      },
+      "e8_m2_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m2_exploration01",
+        "NextNodeIds": [],
+        "Type": "Opportunity"
+      },
+      "e8_m2_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m2_resource01",
+        "NextNodeIds": [],
+        "Type": "Resource"
+      }
+    },
+    "id": "e8_m2"
+  },
+  "e8_m3": {
+    "Nodes": {
+      "e8_m3_story01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m3_story01",
+        "NextNodeIds": [],
+        "Type": "Story"
+      },
+      "e8_m3_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m3_battle01",
+        "NextNodeIds": [],
+        "Type": "Encounter"
+      },
+      "e8_m3_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m3_exploration01",
+        "NextNodeIds": [],
+        "Type": "Opportunity"
+      },
+      "e8_m3_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m3_resource01",
+        "NextNodeIds": [],
+        "Type": "Resource"
+      }
+    },
+    "id": "e8_m3"
+  },
+  "e8_m4": {
+    "Nodes": {
+      "e8_m4_story01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m4_story01",
+        "NextNodeIds": [],
+        "Type": "Story"
+      },
+      "e8_m4_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m4_battle01",
+        "NextNodeIds": [],
+        "Type": "Encounter"
+      },
+      "e8_m4_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m4_exploration01",
+        "NextNodeIds": [],
+        "Type": "Opportunity"
+      },
+      "e8_m4_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m4_resource01",
+        "NextNodeIds": [],
+        "Type": "Resource"
+      }
+    },
+    "id": "e8_m4"
+  },
+  "e8_m5": {
+    "Nodes": {
+      "e8_m5_story01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m5_story01",
+        "NextNodeIds": [],
+        "Type": "Story"
+      },
+      "e8_m5_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m5_battle01",
+        "NextNodeIds": [],
+        "Type": "Encounter"
+      },
+      "e8_m5_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m5_exploration01",
+        "NextNodeIds": [],
+        "Type": "Opportunity"
+      },
+      "e8_m5_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m5_resource01",
+        "NextNodeIds": [],
+        "Type": "Resource"
+      }
+    },
+    "id": "e8_m5"
+  },
+  "e8_m6": {
+    "Nodes": {
+      "e8_m6_story01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m6_story01",
+        "NextNodeIds": [],
+        "Type": "Story"
+      },
+      "e8_m6_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m6_battle01",
+        "NextNodeIds": [],
+        "Type": "Encounter"
+      },
+      "e8_m6_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m6_exploration01",
+        "NextNodeIds": [],
+        "Type": "Opportunity"
+      },
+      "e8_m6_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e8_m6_resource01",
+        "NextNodeIds": [],
+        "Type": "Resource"
+      }
+    },
+    "id": "e8_m6"
+  },
+  "e0_m1": {
+    "Nodes": {
+      "e0_m1_desert_01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e0_m1_desert_01",
+        "NextNodeIds": [
+          "e0_m1_desert_02"
+        ],
+        "Type": "Encounter"
+      },
+      "e0_m1_desert_02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e0_m1_desert_02",
+        "NextNodeIds": [
+          "e0_m1_desert_03"
+        ],
+        "PreviousNodeId": "e0_m1_desert_01",
+        "Type": "Encounter"
+      },
+      "e0_m1_desert_03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e0_m1_desert_03",
+        "NextNodeIds": [
+          "e0_m1_desert_04"
+        ],
+        "PreviousNodeId": "e0_m1_desert_02",
+        "Type": "Encounter"
+      },
+      "e0_m1_desert_04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e0_m1_desert_04",
+        "NextNodeIds": [
+          "e0_m1_end"
+        ],
+        "PreviousNodeId": "e0_m1_desert_03",
+        "Type": "Encounter"
+      },
+      "e0_m1_end": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e0_m1_end",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e0_m1_desert_04",
+        "Type": 5
+      }
+    },
+    "id": "e0_m1"
+  },
+  "e0_m2": {
+    "Nodes": {
+      "e0_m1_ice_01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e0_m1_ice_01",
+        "NextNodeIds": [
+          "e0_m1_ice_02"
+        ],
+        "Type": "Encounter"
+      },
+      "e0_m1_ice_02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e0_m1_ice_02",
+        "NextNodeIds": [
+          "e0_m1_ice_03"
+        ],
+        "PreviousNodeId": "e0_m1_ice_01",
+        "Type": "Encounter"
+      },
+      "e0_m1_ice_03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e0_m1_ice_03",
+        "NextNodeIds": [
+          "e0_m1_ice_04"
+        ],
+        "PreviousNodeId": "e0_m1_ice_02",
+        "Type": "Encounter"
+      },
+      "e0_m1_ice_04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e0_m1_ice_04",
+        "NextNodeIds": [
+          "e0_m2_end"
+        ],
+        "PreviousNodeId": "e0_m1_ice_03",
+        "Type": "Encounter"
+      },
+      "e0_m2_end": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e0_m2_end",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e0_m1_ice_04",
+        "Type": 5
+      }
+    },
+    "id": "e0_m2"
+  },
+  "e0_m3": {
+    "Nodes": {
+      "e0_m3_forest_01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e0_m3_forest_01",
+        "NextNodeIds": [
+          "e0_m3_forest_02"
+        ],
+        "Type": "Encounter"
+      },
+      "e0_m3_forest_02": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e0_m3_forest_02",
+        "NextNodeIds": [
+          "e0_m3_forest_03"
+        ],
+        "PreviousNodeId": "e0_m3_forest_01",
+        "Type": "Encounter"
+      },
+      "e0_m3_forest_03": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e0_m3_forest_03",
+        "NextNodeIds": [
+          "e0_m3_forest_04"
+        ],
+        "PreviousNodeId": "e0_m3_forest_02",
+        "Type": "Encounter"
+      },
+      "e0_m3_forest_04": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e0_m3_forest_04",
+        "NextNodeIds": [
+          "e0_m3_end"
+        ],
+        "PreviousNodeId": "e0_m3_forest_03",
+        "Type": "Encounter"
+      },
+      "e0_m3_end": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e0_m3_end",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e0_m3_forest_04",
+        "Type": 5
+      }
+    },
+    "id": "e0_m3"
+  },
+  "e0_m4": {
+    "Nodes": {
+      "e0_m1_borg_01": {
+        "StartNode": true,
+        "EndNode": false,
+        "NodeId": "e0_m1_borg_01",
+        "NextNodeIds": [
+          "e0_m4_end"
+        ],
+        "Type": "Encounter"
+      },
+      "e0_m4_end": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "e0_m4_end",
+        "NextNodeIds": [],
+        "PreviousNodeId": "e0_m1_borg_01",
+        "Type": 5
+      }
+    },
+    "id": "e0_m4"
+  },
+  "eX_m1": {
+    "Nodes": {
+      "eX_m1_story01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "eX_m1_story01",
+        "NextNodeIds": [],
+        "Type": "Story"
+      },
+      "eX_m1_battle01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "eX_m1_battle01",
+        "NextNodeIds": [],
+        "Type": "Encounter"
+      },
+      "eX_m1_exploration01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "eX_m1_exploration01",
+        "NextNodeIds": [],
+        "Type": "Opportunity"
+      },
+      "eX_m1_resource01": {
+        "StartNode": false,
+        "EndNode": false,
+        "NodeId": "eX_m1_resource01",
+        "NextNodeIds": [],
+        "Type": "Resource"
+      }
+    },
+    "id": "eX_m1"
+  }
+}

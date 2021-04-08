@@ -1,0 +1,315 @@
+{
+  "defense buff small": {
+    "battleDuration": 1,
+    "battleModifierID": "defense +25",
+    "bonusCharacterPower": 0.0,
+    "endNodeID": "e1_m1_battle01",
+    "effectIcon": "ico_defense",
+    "id": "defense buff small"
+  },
+  "morale debuff small": {
+    "battleDuration": 1,
+    "battleModifierID": "morales",
+    "bonusCharacterPower": 0.0,
+    "endNodeID": "e1_m1_battle02",
+    "effectIcon": "ico_morale",
+    "id": "morale debuff small"
+  },
+  "storm weather": {
+    "battleDuration": 1,
+    "battleModifierID": "sandstorm",
+    "bonusCharacterPower": 0.0,
+    "endNodeID": "e1_m1_battle05",
+    "effectIcon": "ico_defenseDebuff",
+    "id": "storm weather"
+  },
+  "martok ally": {
+    "battleDuration": 1,
+    "bonusCharacterPower": 0.5,
+    "endNodeID": "e1_m1_battle05",
+    "effectIcon": "ico_ally",
+    "bonusCharacterID": "Picard",
+    "id": "martok ally"
+  },
+  "Attack Up": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_attackUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_AttackUp",
+    "id": "Attack Up"
+  },
+  "Defense Up": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_defenseUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_DefenseUp",
+    "id": "Defense Up"
+  },
+  "Speed Up": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_speedUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_SpeedUp",
+    "id": "Speed Up"
+  },
+  "Tech Up": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_techUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_TechUp",
+    "id": "Tech Up"
+  },
+  "Crit Up": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_critUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_CritUp",
+    "id": "Crit Up"
+  },
+  "Crit Damage Up": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_critDamageUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_CritDamageUp",
+    "id": "Crit Damage Up"
+  },
+  "Glancing Up": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_glancingUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_GlancingUp",
+    "id": "Glancing Up"
+  },
+  "Glancing Damage Up": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_glancingDamageUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_GlancingDamageUp",
+    "id": "Glancing Damage Up"
+  },
+  "Resolve Up": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_resolveUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_ResolveUp",
+    "id": "Resolve Up"
+  },
+  "Morale Up": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_moraleUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_MoraleUp",
+    "id": "Morale Up"
+  },
+  "Attack Down": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_attackDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_AttackDown",
+    "id": "Attack Down"
+  },
+  "Defense Down": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_defenseDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_DefenseDown",
+    "id": "Defense Down"
+  },
+  "Speed Down Ally": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_speedDownAlly",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_SpeedDownAlly",
+    "id": "Speed Down Ally"
+  },
+  "Speed Down": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_speedDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_SpeedDown",
+    "id": "Speed Down"
+  },
+  "Tech Down": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_techDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_TechDown",
+    "id": "Tech Down"
+  },
+  "Crit Down": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_critDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_CritDown",
+    "id": "Crit Down"
+  },
+  "Crit Damage Down": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_critDamageDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_CritDamageDown",
+    "id": "Crit Damage Down"
+  },
+  "Glancing Down": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_glancingDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_GlancingDown",
+    "id": "Glancing Down"
+  },
+  "Glancing Damage Down": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_glancingDamageDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_GlancingDamageDown",
+    "id": "Glancing Damage Down"
+  },
+  "Resolve Down": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_resolveDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_ResolveDown",
+    "id": "Resolve Down"
+  },
+  "Morale Down": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_moraleDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_MoraleDown",
+    "id": "Morale Down"
+  },
+  "Morale Down Tutorial": {
+    "battleDuration": 1,
+    "battleModifierID": "battleModifier_enemyMorale-3",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_MoraleDown",
+    "id": "Morale Down Tutorial"
+  },
+  "Attack Down Ally": {
+    "battleDuration": 1,
+    "battleModifierID": "exploration_attackDownAlly",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_AttackDown",
+    "id": "Attack Down Ally"
+  },
+  "Kirk Ally E2M4 Easy": {
+    "battleDuration": 1,
+    "bonusCharacterPower": 6.77,
+    "endNodeID": "e2_m4_battle06",
+    "effectIcon": "ico_ally",
+    "bonusCharacterID": "Kirk",
+    "id": "Kirk Ally E2M4 Easy"
+  },
+  "Kirk Ally E2M5 Easy": {
+    "battleDuration": 5,
+    "bonusCharacterPower": 8.22,
+    "endNodeID": "e2_m5_battle07",
+    "effectIcon": "ico_ally",
+    "bonusCharacterID": "Kirk",
+    "id": "Kirk Ally E2M5 Easy"
+  },
+  "Gorn Ally E2M6 Easy": {
+    "battleDuration": 2,
+    "bonusCharacterPower": 8.94,
+    "endNodeID": "e2_m6_battle06",
+    "effectIcon": "ico_ally",
+    "bonusCharacterID": "GenGorn01",
+    "id": "Gorn Ally E2M6 Easy"
+  },
+  "Janeway Ally E5M3 Easy": {
+    "battleDuration": 3,
+    "bonusCharacterPower": 37.2,
+    "endNodeID": "e5_m3_battle11",
+    "effectIcon": "ico_ally",
+    "bonusCharacterID": "Janeway",
+    "id": "Janeway Ally E5M3 Easy"
+  },
+  "Sisko Ally E6M2 Easy": {
+    "battleDuration": 8,
+    "bonusCharacterPower": 51.74,
+    "endNodeID": "e6_m2_battle09",
+    "effectIcon": "ico_ally",
+    "bonusCharacterID": "Sisko",
+    "id": "Sisko Ally E6M2 Easy"
+  },
+  "Kirk Ally E2M4 Hard": {
+    "battleDuration": 1,
+    "bonusCharacterPower": 67.3,
+    "endNodeID": "e2_m4_battle06",
+    "effectIcon": "ico_ally",
+    "bonusCharacterID": "Kirk",
+    "id": "Kirk Ally E2M4 Hard"
+  },
+  "Kirk Ally E2M5 Hard": {
+    "battleDuration": 5,
+    "bonusCharacterPower": 68.98,
+    "endNodeID": "e2_m5_battle07",
+    "effectIcon": "ico_ally",
+    "bonusCharacterID": "Kirk",
+    "id": "Kirk Ally E2M5 Hard"
+  },
+  "Gorn Ally E2M6 Hard": {
+    "battleDuration": 2,
+    "bonusCharacterPower": 68.98,
+    "endNodeID": "e2_m6_battle06",
+    "effectIcon": "ico_ally",
+    "bonusCharacterID": "GenGorn01",
+    "id": "Gorn Ally E2M6 Hard"
+  },
+  "Janeway Ally E5M3 Hard": {
+    "battleDuration": 3,
+    "bonusCharacterPower": 91.16,
+    "endNodeID": "e5_m3_battle11",
+    "effectIcon": "ico_ally",
+    "bonusCharacterID": "Janeway",
+    "id": "Janeway Ally E5M3 Hard"
+  },
+  "Sisko Ally E6M2 Hard": {
+    "battleDuration": 8,
+    "bonusCharacterPower": 100.13,
+    "endNodeID": "e6_m2_battle09",
+    "effectIcon": "ico_ally",
+    "bonusCharacterID": "Sisko",
+    "id": "Sisko Ally E6M2 Hard"
+  },
+  "Kirk Ally E2M4 Doom": {
+    "battleDuration": 1,
+    "bonusCharacterPower": 113.58,
+    "endNodeID": "e2_m4_battle06",
+    "effectIcon": "ico_ally",
+    "bonusCharacterID": "Kirk",
+    "id": "Kirk Ally E2M4 Doom"
+  },
+  "Kirk Ally E2M5 Doom": {
+    "battleDuration": 5,
+    "bonusCharacterPower": 115.07,
+    "endNodeID": "e2_m5_battle07",
+    "effectIcon": "ico_ally",
+    "bonusCharacterID": "Kirk",
+    "id": "Kirk Ally E2M5 Doom"
+  },
+  "Gorn Ally E2M6 Doom": {
+    "battleDuration": 2,
+    "bonusCharacterPower": 116.55,
+    "endNodeID": "e2_m6_battle06",
+    "effectIcon": "ico_ally",
+    "bonusCharacterID": "GenGorn01",
+    "id": "Gorn Ally E2M6 Doom"
+  },
+  "Janeway Ally E5M3 Doom": {
+    "battleDuration": 3,
+    "bonusCharacterPower": 133.84,
+    "endNodeID": "e5_m3_battle11",
+    "effectIcon": "ico_ally",
+    "bonusCharacterID": "Janeway",
+    "id": "Janeway Ally E5M3 Doom"
+  },
+  "Sisko Ally E6M2 Doom": {
+    "battleDuration": 8,
+    "bonusCharacterPower": 139.33,
+    "endNodeID": "e6_m2_battle09",
+    "effectIcon": "ico_ally",
+    "bonusCharacterID": "Sisko",
+    "id": "Sisko Ally E6M2 Doom"
+  }
+}

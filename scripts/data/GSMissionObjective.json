@@ -1,0 +1,158 @@
+{
+  "e1_m1_start": {
+    "ObjectiveLoc": "Data_GSMissionObjective_e1_m1_start",
+    "id": "e1_m1_start"
+  },
+  "e1_m1_encounter03": {
+    "ObjectiveLoc": "Data_GSMissionObjective_e1_m1_encounter03",
+    "id": "e1_m1_encounter03"
+  },
+  "e1_m1_story03": {
+    "ObjectiveLoc": "Data_GSMissionObjective_e1_m1_story03",
+    "id": "e1_m1_story03"
+  },
+  "episode 1 mission 1": {
+    "ObjectiveLoc": "Data_MissionObjective_e1_m1_Name",
+    "id": "episode 1 mission 1"
+  },
+  "episode 1 mission 2": {
+    "ObjectiveLoc": "Data_MissionObjective_e1_m2_Name",
+    "id": "episode 1 mission 2"
+  },
+  "episode 1 mission 3": {
+    "ObjectiveLoc": "Data_MissionObjective_e1_m3_Name",
+    "id": "episode 1 mission 3"
+  },
+  "episode 1 mission 4": {
+    "ObjectiveLoc": "Data_MissionObjective_e1_m4_Name",
+    "id": "episode 1 mission 4"
+  },
+  "episode 1 mission 5": {
+    "ObjectiveLoc": "Data_MissionObjective_e1_m5_Name",
+    "id": "episode 1 mission 5"
+  },
+  "episode 1 mission 6": {
+    "ObjectiveLoc": "Data_MissionObjective_e1_m6_Name",
+    "id": "episode 1 mission 6"
+  },
+  "episode 2 mission 1": {
+    "ObjectiveLoc": "Data_MissionObjective_e2_m1_Name",
+    "id": "episode 2 mission 1"
+  },
+  "episode 2 mission 2": {
+    "ObjectiveLoc": "Data_MissionObjective_e2_m2_Name",
+    "id": "episode 2 mission 2"
+  },
+  "episode 2 mission 3": {
+    "ObjectiveLoc": "Data_MissionObjective_e2_m3_Name",
+    "id": "episode 2 mission 3"
+  },
+  "episode 2 mission 4": {
+    "ObjectiveLoc": "Data_MissionObjective_e2_m4_Name",
+    "id": "episode 2 mission 4"
+  },
+  "episode 2 mission 5": {
+    "ObjectiveLoc": "Data_MissionObjective_e2_m5_Name",
+    "id": "episode 2 mission 5"
+  },
+  "episode 2 mission 6": {
+    "ObjectiveLoc": "Data_MissionObjective_e2_m6_Name",
+    "id": "episode 2 mission 6"
+  },
+  "episode 3 mission 1": {
+    "ObjectiveLoc": "Data_MissionObjective_e3_m1_Name",
+    "id": "episode 3 mission 1"
+  },
+  "episode 3 mission 2": {
+    "ObjectiveLoc": "Data_MissionObjective_e3_m2_Name",
+    "id": "episode 3 mission 2"
+  },
+  "episode 3 mission 3": {
+    "ObjectiveLoc": "Data_MissionObjective_e3_m3_Name",
+    "id": "episode 3 mission 3"
+  },
+  "episode 3 mission 4": {
+    "ObjectiveLoc": "Data_MissionObjective_e3_m4_Name",
+    "id": "episode 3 mission 4"
+  },
+  "episode 3 mission 5": {
+    "ObjectiveLoc": "Data_MissionObjective_e3_m5_Name",
+    "id": "episode 3 mission 5"
+  },
+  "episode 3 mission 6": {
+    "ObjectiveLoc": "Data_MissionObjective_e3_m6_Name",
+    "id": "episode 3 mission 6"
+  },
+  "episode 4 mission 1": {
+    "ObjectiveLoc": "Data_MissionObjective_e4_m1_Name",
+    "id": "episode 4 mission 1"
+  },
+  "episode 4 mission 2": {
+    "ObjectiveLoc": "Data_MissionObjective_e4_m2_Name",
+    "id": "episode 4 mission 2"
+  },
+  "episode 4 mission 3": {
+    "ObjectiveLoc": "Data_MissionObjective_e4_m3_Name",
+    "id": "episode 4 mission 3"
+  },
+  "episode 4 mission 4": {
+    "ObjectiveLoc": "Data_MissionObjective_e4_m4_Name",
+    "id": "episode 4 mission 4"
+  },
+  "episode 4 mission 5": {
+    "ObjectiveLoc": "Data_MissionObjective_e4_m5_Name",
+    "id": "episode 4 mission 5"
+  },
+  "episode 4 mission 6": {
+    "ObjectiveLoc": "Data_MissionObjective_e4_m6_Name",
+    "id": "episode 4 mission 6"
+  },
+  "episode 5 mission 1": {
+    "ObjectiveLoc": "Data_MissionObjective_e5_m1_Name",
+    "id": "episode 5 mission 1"
+  },
+  "episode 5 mission 2": {
+    "ObjectiveLoc": "Data_MissionObjective_e5_m2_Name",
+    "id": "episode 5 mission 2"
+  },
+  "episode 5 mission 3": {
+    "ObjectiveLoc": "Data_MissionObjective_e5_m3_Name",
+    "id": "episode 5 mission 3"
+  },
+  "episode 5 mission 4": {
+    "ObjectiveLoc": "Data_MissionObjective_e5_m4_Name",
+    "id": "episode 5 mission 4"
+  },
+  "episode 5 mission 5": {
+    "ObjectiveLoc": "Data_MissionObjective_e5_m5_Name",
+    "id": "episode 5 mission 5"
+  },
+  "episode 5 mission 6": {
+    "ObjectiveLoc": "Data_MissionObjective_e5_m6_Name",
+    "id": "episode 5 mission 6"
+  },
+  "episode 6 mission 1": {
+    "ObjectiveLoc": "Data_MissionObjective_e6_m1_Name",
+    "id": "episode 6 mission 1"
+  },
+  "episode 6 mission 2": {
+    "ObjectiveLoc": "Data_MissionObjective_e6_m2_Name",
+    "id": "episode 6 mission 2"
+  },
+  "episode 6 mission 3": {
+    "ObjectiveLoc": "Data_MissionObjective_e6_m3_Name",
+    "id": "episode 6 mission 3"
+  },
+  "episode 6 mission 4": {
+    "ObjectiveLoc": "Data_MissionObjective_e6_m4_Name",
+    "id": "episode 6 mission 4"
+  },
+  "episode 6 mission 5": {
+    "ObjectiveLoc": "Data_MissionObjective_e6_m5_Name",
+    "id": "episode 6 mission 5"
+  },
+  "episode 6 mission 6": {
+    "ObjectiveLoc": "Data_MissionObjective_e6_m6_Name",
+    "id": "episode 6 mission 6"
+  }
+}
