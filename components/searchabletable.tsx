@@ -7,9 +7,9 @@ import { useStateWithStorage } from '../utils/storage';
 import * as SearchString from 'search-string';
 
 const filterTypeOptions = [
-    { key : '0', value : 'Exact', text : 'Exact match only' },
-    { key : '1', value : 'Whole word', text : 'Whole word only' },
-    { key : '2', value : 'Any match', text : 'Match any text' }
+	{ key: '0', value: 'Exact', text: 'Exact match only' },
+	{ key: '1', value: 'Whole word', text: 'Whole word only' },
+	{ key: '2', value: 'Any match', text: 'Match any text' }
 ];
 
 const pagingOptions = [
@@ -33,7 +33,7 @@ type SearchableTableProps = {
 	config: ITableConfigRow[];
 	renderTableRow: (row: any, idx?: number) => JSX.Element;
 	filterRow: (crew: any, filter: any, filterType?: string) => boolean;
-    showFilterOptions: boolean;
+	showFilterOptions: boolean;
 };
 
 export const SearchableTable = (props: SearchableTableProps) => {
@@ -42,18 +42,21 @@ export const SearchableTable = (props: SearchableTableProps) => {
 
 	// Ignore stored searchFilter if search parameter found
 	let defaultSearch = '', useAndStoreDefault = false;
-	/*let urlParams = new URLSearchParams(window.location.search);
-	if (urlParams.has('search')) {
-		defaultSearch = urlParams.get('search');
-		useAndStoreDefault = true;
-	}*/
 
-	const [searchFilter, setSearchFilter] = useStateWithStorage(tableId+'searchFilter', defaultSearch, {useAndStoreDefault});
-	const [filterType, setFilterType] = useStateWithStorage(tableId+'filterType', 'Any match');
-	const [column, setColumn] = useStateWithStorage(tableId+'column', null);
-	const [direction, setDirection] = useStateWithStorage(tableId+'direction', null);
-	const [pagination_rows, setPaginationRows] = useStateWithStorage(tableId+'paginationRows', 10);
-	const [pagination_page, setPaginationPage] = useStateWithStorage(tableId+'paginationPage', 1);
+	if (typeof window !== "undefined") {
+		let urlParams = new URLSearchParams(window.location.search);
+		if (urlParams.has('search')) {
+			defaultSearch = urlParams.get('search');
+			useAndStoreDefault = true;
+		}
+	}
+
+	const [searchFilter, setSearchFilter] = useStateWithStorage(tableId + 'searchFilter', defaultSearch, { useAndStoreDefault });
+	const [filterType, setFilterType] = useStateWithStorage(tableId + 'filterType', 'Any match');
+	const [column, setColumn] = useStateWithStorage(tableId + 'column', null);
+	const [direction, setDirection] = useStateWithStorage(tableId + 'direction', null);
+	const [pagination_rows, setPaginationRows] = useStateWithStorage(tableId + 'paginationRows', 10);
+	const [pagination_page, setPaginationPage] = useStateWithStorage(tableId + 'paginationPage', 1);
 
 	// We only sort here to store requested column and direction in state
 	//	Actual sorting of full dataset will occur on next render before filtering and pagination
@@ -63,15 +66,15 @@ export const SearchableTable = (props: SearchableTableProps) => {
 			direction: direction
 		};
 
-		if(pseudocolumns) {
-			if(pseudocolumns.includes(column)) {
+		if (pseudocolumns) {
+			if (pseudocolumns.includes(column)) {
 				sortConfig.field = column;
 			} else {
 				sortConfig.direction = null;
 			}
 			sortConfig.rotateFields = pseudocolumns;
 		} else {
-			if(clickedColumn !== column) {
+			if (clickedColumn !== column) {
 				// sort rarity and skills descending first by default
 				sortConfig.direction = 'ascending';
 			}
@@ -99,7 +102,7 @@ export const SearchableTable = (props: SearchableTableProps) => {
 						sorted={((cell.pseudocolumns && cell.pseudocolumns.includes(column)) || (column === cell.column)) ? direction : null}
 						onClick={() => handleSort(cell.column, cell.pseudocolumns)}
 					>
-						{cell.title}{cell.pseudocolumns?.includes(column) && <><br/><small>{column}</small></>}
+						{cell.title}{cell.pseudocolumns?.includes(column) && <><br /><small>{column}</small></>}
 					</Table.HeaderCell>
 				))}
 			</Table.Row>
@@ -144,19 +147,19 @@ export const SearchableTable = (props: SearchableTableProps) => {
 				placeholder="Search..."
 				value={searchFilter}
 				onChange={(e, { value }) => onChangeFilter(value)}>
-					<input />
-					<Icon name='search' />
-					<Button icon onClick={() => onChangeFilter('')} >
-						<Icon name='delete' />
-					</Button>
+				<input />
+				<Icon name='search' />
+				<Button icon onClick={() => onChangeFilter('')} >
+					<Icon name='delete' />
+				</Button>
 			</Input>
 
 			{props.showFilterOptions && (
 				<span style={{ paddingLeft: '2em' }}>
 					<Dropdown inline
-								options={filterTypeOptions}
-								value={filterType}
-								onChange={(event, {value}) => setFilterType(value as number)}
+						options={filterTypeOptions}
+						value={filterType}
+						onChange={(event, { value }) => setFilterType(value as number)}
 					/>
 				</span>
 			)}
@@ -177,13 +180,13 @@ export const SearchableTable = (props: SearchableTableProps) => {
 								activePage={activePage}
 								onPageChange={(event, { activePage }) => setPaginationPage(activePage as number)}
 							/>
-							<span style={{ paddingLeft: '2em'}}>
+							<span style={{ paddingLeft: '2em' }}>
 								Rows per page:{' '}
 								<Dropdown
 									inline
 									options={pagingOptions}
 									value={pagination_rows}
-									onChange={(event, {value}) => {
+									onChange={(event, { value }) => {
 										setPaginationPage(1);
 										setPaginationRows(value as number);
 									}}
