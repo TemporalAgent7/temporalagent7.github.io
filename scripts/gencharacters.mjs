@@ -111,6 +111,7 @@ function getStatValue(type, value, modifier, gearStatChange = 0, accessoryStatCh
 	let finalPowerValue = ((finalValue - baseStatValue.MinValue) / num) * baseStatValue.PowerWeight;
 
 	baseValue = Math.floor(baseValue * 100) / 100;
+	finalPowerValue = Math.floor(finalPowerValue);
 
 	return { baseValue, finalValue, finalPowerValue };
 }
@@ -169,7 +170,38 @@ function generateCharactersJson() {
 					'Speed',
 					characters[cr].Speed,
 					getRankModifiers(characters[cr].Rarity, 9).SpeedModifier * getLevelModifiers(characters[cr].Rarity, 99).SpeedModifier
-				).baseValue
+				).baseValue,
+				MaxTotalPower:
+					getStatValue('GlancingChance', characters[cr].GlancingChance, 1).finalPowerValue +
+					getStatValue('GlancingDamage', characters[cr].GlancingDamage, 1).finalPowerValue +
+					getStatValue('CritChance', characters[cr].CritChance, 1).finalPowerValue +
+					getStatValue('CritDamage', characters[cr].CritDamage, 1).finalPowerValue +
+					getStatValue('Resolve', characters[cr].Resolve, 1).finalPowerValue +
+					getStatValue(
+						'MaxHealth',
+						characters[cr].Health,
+						getRankModifiers(characters[cr].Rarity, 9).HealthModifier * getLevelModifiers(characters[cr].Rarity, 99).HealthModifier
+					).finalPowerValue +
+					getStatValue(
+						'Defense',
+						characters[cr].Defense,
+						getRankModifiers(characters[cr].Rarity, 9).DefenseModifier * getLevelModifiers(characters[cr].Rarity, 99).DefenseModifier
+					).finalPowerValue +
+					getStatValue(
+						'Attack',
+						characters[cr].Attack,
+						getRankModifiers(characters[cr].Rarity, 9).AttackModifier * getLevelModifiers(characters[cr].Rarity, 99).AttackModifier
+					).finalPowerValue +
+					getStatValue(
+						'Tech',
+						characters[cr].Tech,
+						getRankModifiers(characters[cr].Rarity, 9).TechModifier * getLevelModifiers(characters[cr].Rarity, 99).TechModifier
+					).finalPowerValue +
+					getStatValue(
+						'Speed',
+						characters[cr].Speed,
+						getRankModifiers(characters[cr].Rarity, 9).SpeedModifier * getLevelModifiers(characters[cr].Rarity, 99).SpeedModifier
+					).finalPowerValue
 			};
 
 			// TODO: accessories and gears further boost stats

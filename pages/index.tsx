@@ -15,10 +15,11 @@ import { getAllPosts } from '../utils/wiki';
 const tableConfig: ITableConfigRow[] = [
   { width: 3, column: 'name', title: 'Character', pseudocolumns: ['name', 'role'] },
   { width: 1, column: 'computed_rarity', title: 'Rarity' },
-  { width: 1, column: 'MaxHealth', title: 'MaxHealth' },
-  { width: 1, column: 'MaxDefense', title: 'MaxDefense' },
-  { width: 1, column: 'MaxAttack', title: 'MaxAttack' },
-  { width: 1, column: 'MaxTech', title: 'MaxTech' }
+  { width: 1, column: 'MaxHealth', title: 'Max Health' },
+  { width: 1, column: 'MaxDefense', title: 'Max Defense' },
+  { width: 1, column: 'MaxAttack', title: 'Max Attack' },
+  { width: 1, column: 'MaxTech', title: 'Max Tech' },
+  { width: 1, column: 'MaxTotalPower', title: 'Max Total Power' },
 ];
 
 const renderTableRow = (character: any, onClick) => {
@@ -56,6 +57,9 @@ const renderTableRow = (character: any, onClick) => {
     </Table.Cell>
     <Table.Cell textAlign='center'>
       {character.MaxTech}
+    </Table.Cell>
+    <Table.Cell textAlign='center'>
+      {character.MaxTotalPower}
     </Table.Cell>
   </Table.Row>)
 }
