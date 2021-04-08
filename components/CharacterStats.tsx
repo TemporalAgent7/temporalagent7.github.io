@@ -8,9 +8,9 @@ const ItemSkillDisplay = ({ skill, isBridge }) => {
 	return <Item>
 		{skill.img && <Item.Image size='tiny' src={`/assets/${skill.img}.png`} />}
 		<Item.Content>
-			<Item.Header as='a'>{skill.name} {isBridge && " (Bridge Skill)"} - Level {skill.level} {skill.isPassive ? ' (passive)' : ''}</Item.Header>
+			<Item.Header as='a'>{skill.locName} {isBridge && " (Bridge Skill)"} - Level {skill.level} {skill.isPassive ? ' (passive)' : ''}</Item.Header>
 			<Item.Description>
-				<span dangerouslySetInnerHTML={{ __html: skill.description }} />
+				<span dangerouslySetInnerHTML={{ __html: skill.locDescription }} />
 				<p><b>Effects: </b>{effects.map(entry => `${entry.effect} (${entry.fraction}x)`).join(', ')}</p>
 				{hasCasterEffect && <p><b>Caster effect: </b>{skill.casterEffect.effect} ({skill.casterEffect.fraction}x)</p>}
 				<p><b>Target:</b> {skill.targetState} {skill.targetType} {skill.isSingleTarget ? ' (single)' : skill.isMultiRandom ? ' (multi)' : ' (multi random'} <b>Cooldown:</b> {skill.cooldown} ({skill.startingCooldown} start)</p>
@@ -25,7 +25,7 @@ const SkillDisplay = ({ skills, isBridge }) => {
 
 const CharacterStats = ({ character }) => {
 	return <>
-		<Header as='h4'><span dangerouslySetInnerHTML={{ __html: character.description }} /></Header>
+		<Header as='h4'><span dangerouslySetInnerHTML={{ __html: character.locDescription }} /></Header>
 		<p><b>Role:</b> <img src={`/assets/Class_${character.role}.png`} style={{ filter: "invert(1)", height: "1em", display: "inline" }} /> {character.role}</p>
 		<p><b>Bridge stations:</b> {character.bridgeStations.join(', ')}</p>
 		<p><b>Tags:</b> {character.tags.join(', ')}</p>

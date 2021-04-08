@@ -1,5 +1,5 @@
 import { writeFileSync, existsSync } from 'fs';
-import { formatAsHtml, loadJson, L } from './utils.mjs';
+import { loadJson } from './utils.mjs';
 
 function generateEpisodesJson() {
 	const episodes = loadJson('GSEpisodes');
@@ -16,8 +16,8 @@ function generateEpisodesJson() {
 		if (episodes[ep].Difficulty === 'Easy') {
 			let episode = {
 				id: episodes[ep].EpisodeId,
-				name: L(episodes[ep].Name),
-				identifier: L(episodes[ep].EpisodeIdentifierLoc),
+				name: episodes[ep].Name,
+				identifier: episodes[ep].EpisodeIdentifierLoc,
 				backgroundImage: episodes[ep].BackgroundImage.substring(0, episodes[ep].BackgroundImage.indexOf(':'))
 			};
 
@@ -26,8 +26,8 @@ function generateEpisodesJson() {
 				if (missions[ms].EpisodeId === episode.id) {
 					let mission = {
 						id: missions[ms].MissionId,
-						name: L(missions[ms].Name),
-						description: formatAsHtml(L(missions[ms].Description)),
+						name: missions[ms].Name,
+						description: missions[ms].Description,
 						difficulty: missions[ms].Difficulty,
 						suggestedPower: missions[ms].SuggestedPower,
 						unlockReq: missions[ms].UnlockReq,
@@ -35,7 +35,7 @@ function generateEpisodesJson() {
 					};
 
 					if (missionsObjective[mission.id]) {
-						mission.objective = formatAsHtml(L(missionsObjective[mission.id].ObjectiveLoc));
+						mission.objective = missionsObjective[mission.id].ObjectiveLoc;
 					}
 
                     // Rewards
@@ -68,7 +68,7 @@ function generateEpisodesJson() {
                             for (const ne in nodeEncounter) {
                                 if (nodeEncounter[ne].NodeId === nodeId) {
                                     mission.nodes[nodeId].encounter = {
-                                        description: formatAsHtml(L(nodeEncounter[ne].LocDescription)),
+                                        description: nodeEncounter[ne].LocDescription,
                                         preBattleStory: nodeEncounter[ne].PreBattleStory,
                                         postBattleStory: nodeEncounter[ne].PostBattleStoryId, // TODO: cutscene dialogue from pre/post battle stories?
                                         previewImage: nodeEncounter[ne].PreviewImage
@@ -80,8 +80,8 @@ function generateEpisodesJson() {
                             for (const csd in cutSceneDialogue) {
                                 if (cutSceneDialogue[csd].StoryID === nodeId) {
                                     mission.nodes[nodeId].cutSceneDialogue.push({
-                                        dialogueBody: formatAsHtml(L(cutSceneDialogue[csd].DialogueBody)),
-                                        dialogueHeader: cutSceneDialogue[csd].DialogueHeader ? formatAsHtml(L(cutSceneDialogue[csd].DialogueHeader)) : '',
+                                        dialogueBody: cutSceneDialogue[csd].DialogueBody,
+                                        dialogueHeader: cutSceneDialogue[csd].DialogueHeader,
                                         leftCharacterId: cutSceneDialogue[csd].LeftCharacterId,
                                         rightCharacterId: cutSceneDialogue[csd].RightCharacterId,
                                         dialoguePosition: cutSceneDialogue[csd].DialoguePosition

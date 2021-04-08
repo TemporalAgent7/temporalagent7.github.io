@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import React from 'react';
-import { Header, Image, Item, Table, Rating, Modal, Button, Icon } from 'semantic-ui-react';
+import { Header, Image, Table, Rating, Modal, Button, Icon } from 'semantic-ui-react';
 
 import { SearchableTable, ITableConfigRow } from '../components/searchabletable';
 import FixedMenuLayout from '../components/FixedMenuLayout';
@@ -33,7 +33,7 @@ const renderTableRow = (character: any, onClick) => {
 					<img width={48} src={`/assets/${character.icon}.png`} />
 				</div>
 				<div style={{ gridArea: 'stats' }}>
-					<span style={{ fontWeight: 'bolder', fontSize: '1.25em' }}>{character.name}</span>
+					<span style={{ fontWeight: 'bolder', fontSize: '1.25em' }}>{character.locName}</span>
 				</div>
 				<div style={{ gridArea: 'description' }}>
 					{character.role}
@@ -91,7 +91,7 @@ const CharacterList = ({ characters, allPosts }) => {
 				onClose={() => setOpen(false)}
 				onOpen={() => setOpen(true)}
 			>
-				<Modal.Header>{selectedCharacter.name} ({selectedCharacter.rarity})</Modal.Header>
+				<Modal.Header>{selectedCharacter.locName} ({selectedCharacter.locRarity})</Modal.Header>
 				<Modal.Content image scrolling>
 					<Image size='medium' src={`/assets/${selectedCharacter.icon}.png`} wrapped />
 					<Modal.Description>

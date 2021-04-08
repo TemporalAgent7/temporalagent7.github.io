@@ -9,12 +9,12 @@ import { getMissionsStaticProps } from '../utils/ssr';
 const EpisodeDisplay = ({ episode }) => {
 	let missions = episode.missions.filter(m => m.difficulty == 'Easy');
 	return <div>
-		<Header as="h2">{episode.identifier} - {episode.name}</Header>
+		<Header as="h2">{episode.locIdentifier} - {episode.locName}</Header>
 		<Image size='medium' src={`/assets/${episode.backgroundImage}.png`} />
 		{missions.map(mission => <div key={mission.id}>
-			<Header as="h3">{mission.name}</Header>
-			<p>{mission.objective}</p>
-			<p dangerouslySetInnerHTML={{ __html: mission.description }} />
+			<Header as="h3">{mission.locName}</Header>
+			<p>{mission.locObjective}</p>
+			<p dangerouslySetInnerHTML={{ __html: mission.locDescription }} />
 		</div>)}
 	</div>;
 }

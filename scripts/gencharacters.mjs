@@ -1,5 +1,5 @@
 import { writeFileSync, existsSync } from 'fs';
-import { formatAsHtml, loadJson, L } from './utils.mjs';
+import { loadJson } from './utils.mjs';
 
 // ======== Skills
 const skills = loadJson('GSSkill');
@@ -9,8 +9,8 @@ function getSkill(id) {
 	for (const entry of Object.values(skills)) {
 		if (entry.id.id === id) {
 			let skillEntry = {
-				name: L(entry.name),
-				description: formatAsHtml(L(entry.description)),
+				name: entry.name,
+				description: entry.description,
 				level: entry.level,
 				hidden: entry.hidden,
 				cooldown: entry.cooldown,
@@ -117,6 +117,24 @@ function getStatValue(type, value, modifier, gearStatChange = 0, accessoryStatCh
 }
 
 // ======== Characters
+function computeRarity(rarity) {
+	switch (rarity) {
+		case "Common":
+			return 1;
+		case "Rare":
+			return 2;
+		case "VeryRare":
+			return 3;
+		case "Epic":
+			return 4;
+		case "Legendary":
+			return 5;
+	}
+
+	console.warn(`Unknown rarity ${rarity}`);
+	return 1;
+}
+
 function generateCharactersJson() {
 	const characters = loadJson('GSCharacter');
 
@@ -125,9 +143,12 @@ function generateCharactersJson() {
 		if (characters[cr].Type != 'Disabled') {
 			let crew = {
 				id: characters[cr].id,
-				name: L(characters[cr].Name),
-				description: formatAsHtml(L(characters[cr].Description)),
+				// These get localized during SSR
+				name: characters[cr].Name,
+				description: characters[cr].Description,
+
 				rarity: characters[cr].Rarity,
+				computed_rarity: computeRarity(characters[cr].Rarity),
 				role: characters[cr].Role,
 				tags: characters[cr].Tags,
 				bridgeStations: characters[cr].BridgeStations,

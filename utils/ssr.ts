@@ -1,31 +1,44 @@
+// Code in this file is intended to run during the SSR build phase, not on the client!
+
 import { promises as fs } from 'fs';
 import path from 'path';
 
 // TODO: used for the menu, should be in _app probably
 import { getAllPosts } from './wiki';
 
+async function getTranslationTable(lang: string) {
+	const dataDirectory = path.join(process.cwd(), 'data');
+	const fileContents = await fs.readFile(path.join(dataDirectory, `lang_${lang}.json`), 'utf8');
+	return JSON.parse(fileContents);
+}
+
 export async function getCharactersStaticProps() {
 	const dataDirectory = path.join(process.cwd(), 'data');
 	const fileContents = await fs.readFile(path.join(dataDirectory, 'characters.json'), 'utf8');
 
 	let characters = JSON.parse(fileContents);
+
+	// TODO: i18n integration (once next export supports it)
+	const translationTable = await getTranslationTable("en_us");
+
+	// Localize strings
+	const localizeSkills = (skillArrays) => {
+		for (let skills of skillArrays) {
+			for (let skill of skills) {
+				skill.locName = translationTable[skill.name];
+				skill.locDescription = translationTable[skill.description];
+			}
+		}
+	};
+
 	characters.forEach((character: any) => {
-		switch (character.rarity) {
-			case "Common":
-				character.computed_rarity = 1;
-				break;
-			case "Rare":
-				character.computed_rarity = 2;
-				break;
-			case "VeryRare":
-				character.computed_rarity = 3;
-				break;
-			case "Epic":
-				character.computed_rarity = 4;
-				break;
-			case "Legendary":
-				character.computed_rarity = 5;
-				break;
+		character.locName = translationTable[character.name];
+		character.locDescription = translationTable[character.description];
+		character.locRarity = translationTable[`Common_Rarity_${character.rarity}`];
+
+		localizeSkills(Object.values(character.skills));
+		if (character.bridgeSkill) {
+			localizeSkills(Object.values(character.bridgeSkill));
 		}
 	});
 
@@ -37,6 +50,33 @@ export async function getMissionsStaticProps() {
 	const fileContents = await fs.readFile(path.join(dataDirectory, 'episodes.json'), 'utf8');
 
 	let episodes = JSON.parse(fileContents);
+
+	// TODO: i18n integration (once next export supports it)
+	const translationTable = await getTranslationTable("en_us");
+
+	// Localize strings
+	episodes.forEach((episode: any) => {
+		episode.locName = translationTable[episode.name];
+		episode.locIdentifier = translationTable[episode.identifier];
+
+		episode.missions.forEach((mission: any) => {
+			mission.locName = translationTable[mission.name];
+			mission.locDescription = translationTable[mission.description];
+			mission.locObjective = translationTable[mission.objective];
+
+			for (const nodeId in mission.nodes) {
+				if ( mission.nodes[nodeId].encounter) {
+					mission.nodes[nodeId].encounter.locDescription = translationTable[mission.nodes[nodeId].encounter.description];
+				}
+
+				mission.nodes[nodeId].cutSceneDialogue.forEach((cutSceneDialogue: any) => {
+					cutSceneDialogue.locDialogueBody = translationTable[cutSceneDialogue.dialogueBody];
+					// null explicitly because undefined cannot be JSON serialized
+					cutSceneDialogue.locDialogueHeader = cutSceneDialogue.dialogueHeader ? translationTable[cutSceneDialogue.dialogueHeader] : null;
+				});
+			}
+		});
+	});
 
 	return { episodes, allPosts: getAllPosts(['title', 'slug']) };
 }

@@ -16,7 +16,7 @@ export function characterMatchesSearchFilter(character: any, filters: any[], fil
 			// text search only
 			for (let segment of filter.textSegments) {
 				let segmentResult =
-					matchesFilter(character.name, segment.text) ||
+					matchesFilter(character.locName, segment.text) ||
 					character.tags.some(t => matchesFilter(t, segment.text)) ||
 					character.bridgeStations.some(t => matchesFilter(t, segment.text));
 				meetsAllConditions = meetsAllConditions && (segment.negated ? !segmentResult : segmentResult);
@@ -26,7 +26,7 @@ export function characterMatchesSearchFilter(character: any, filters: any[], fil
 			for (let condition of filter.conditionArray) {
 				let conditionResult = true;
 				if (condition.keyword === 'name') {
-					conditionResult = matchesFilter(character.name, condition.value);
+					conditionResult = matchesFilter(character.locName, condition.value);
 				} else if (condition.keyword === 'tag') {
 					conditionResult = character.tags.some(t => matchesFilter(t, condition.value));
 				} else if (condition.keyword === 'rarity') {
@@ -46,7 +46,7 @@ export function characterMatchesSearchFilter(character: any, filters: any[], fil
 
 			for (let segment of filter.textSegments) {
 				let segmentResult =
-					matchesFilter(character.name, segment.text) ||
+					matchesFilter(character.locName, segment.text) ||
 					character.tags.some(t => matchesFilter(t, segment.text));
 				meetsAllConditions = meetsAllConditions && (segment.negated ? !segmentResult : segmentResult);
 			}
