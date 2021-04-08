@@ -3,7 +3,9 @@ import path from 'path';
 
 import Head from 'next/head';
 import React from 'react';
-import { Header, Image, Item, Table, Rating, Modal, Button, Icon, Statistic } from 'semantic-ui-react';
+import { Header, Image } from 'semantic-ui-react';
+
+import { getAllPosts } from '../utils/wiki';
 
 import FixedMenuLayout from '../components/FixedMenuLayout';
 
@@ -20,7 +22,7 @@ const EpisodeDisplay = ({ episode }) => {
     </div>;
 }
 
-const MissionPage = ({ episodes }) => {
+const MissionPage = ({ episodes, allPosts }) => {
     return (
         <div>
             <Head>
@@ -28,7 +30,7 @@ const MissionPage = ({ episodes }) => {
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
-            <FixedMenuLayout>
+            <FixedMenuLayout allPosts={allPosts}>
                 <Header as='h1'>Star Trek: Legends Episodes and Missions</Header>
                 <p>This is a work in progress, check <a href="https://github.com/TemporalAgent7/LegendsDataCore">GitHub</a> for updates!</p>
 
@@ -45,5 +47,5 @@ export async function getStaticProps() {
 
     let episodes = JSON.parse(fileContents);
 
-    return { props: { episodes } };
+    return { props: { episodes, allPosts: getAllPosts(['title', 'slug']) } };
 }

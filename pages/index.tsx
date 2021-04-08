@@ -9,6 +9,9 @@ import { SearchableTable, ITableConfigRow } from '../components/searchabletable'
 
 import FixedMenuLayout from '../components/FixedMenuLayout';
 
+// TODO: used for the menu, should be in _app probably
+import { getAllPosts } from '../utils/wiki';
+
 const tableConfig: ITableConfigRow[] = [
   { width: 3, column: 'name', title: 'Character', pseudocolumns: ['name', 'role'] },
   { width: 1, column: 'computed_rarity', title: 'Rarity' },
@@ -141,7 +144,7 @@ const SkillDisplay = ({ skills, isBridge }) => {
   return skills.map((skill) => <ItemSkillDisplay isBridge={isBridge} skill={skill} key={skill.level} />);
 }
 
-const Home = ({ characters }) => {
+const Home = ({ characters, allPosts }) => {
   const [open, setOpen] = React.useState(false);
   const [selectedCharacter, setSelectedCharacter] = React.useState(undefined);
 
@@ -152,7 +155,7 @@ const Home = ({ characters }) => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <FixedMenuLayout>
+      <FixedMenuLayout allPosts={allPosts}>
         <Header as='h1'>Star Trek: Legends Character List</Header>
         <p>This is a work in progress, check <a href="https://github.com/TemporalAgent7/LegendsDataCore">GitHub</a> for updates!</p>
 
@@ -286,5 +289,5 @@ export async function getStaticProps() {
     }
   });
 
-  return { props: { characters } };
+  return { props: { characters, allPosts: getAllPosts(['title', 'slug']) } };
 }
