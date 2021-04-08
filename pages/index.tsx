@@ -184,7 +184,7 @@ const Home = ({ characters, allPosts }) => {
 
           <Modal.Description>
             <Header as='h4'><span dangerouslySetInnerHTML={{ __html: selectedCharacter.description }} /></Header>
-            <p><b>Role:</b> {selectedCharacter.role}</p>
+            <p><b>Role:</b> <img src={`/assets/Class_${selectedCharacter.role}.png`} style={{ filter: "invert(1)", height: "1em", display: "inline" }} /> {selectedCharacter.role}</p>
             <p><b>Bridge stations:</b> {selectedCharacter.bridgeStations.join(', ')}</p>
             <p><b>Tags:</b> {selectedCharacter.tags.join(', ')}</p>
 
