@@ -76,12 +76,50 @@ function getLevelModifiers(rarity, level) {
 	};
 }
 
+// ======== Stat calculations
+const baseStat = loadJson('GSBaseStat');
+const EPSILON = Math.pow(2, -52);
+
+function clamp01(value) {
+	return value < 0 ? 0 : value > 1 ? 1 : value;
+}
+
+function lerpUnclamped(a, b, t) {
+	if (t < 0 || t > 1) {
+		return a + Math.abs(b - a) * t;
+	}
+
+	return (b - a) * clamp01(t) + a;
+}
+
+function getStatValue(type, value, modifier, gearStatChange = 0, accessoryStatChange = 0) {
+	let baseStatValue = baseStat[type];
+	if (!baseStatValue) {
+		return 1;
+	}
+
+	let baseValue = lerpUnclamped(baseStatValue.MinValue, baseStatValue.MaxValue, value) * modifier;
+
+	let finalValue = baseValue + gearStatChange + accessoryStatChange;
+	finalValue = Math.max(finalValue, type == 'MaxHealth' ? 1 : 0);
+
+	let num = baseStatValue.MaxValue - baseStatValue.MinValue;
+	if (Math.abs(num) < Number.EPSILON) {
+		return 1;
+	}
+
+	let finalPowerValue = ((finalValue - baseStatValue.MinValue) / num) * baseStatValue.PowerWeight;
+
+	baseValue = Math.floor(baseValue * 100) / 100;
+
+	return { baseValue, finalValue, finalPowerValue };
+}
+
 // ======== Characters
 function generateCharactersJson() {
 	const characters = loadJson('GSCharacter');
 
 	let allcrew = [];
-
 	for (const cr in characters) {
 		if (characters[cr].Type != 'Disabled') {
 			let crew = {
@@ -95,38 +133,43 @@ function generateCharactersJson() {
 				icon: characters[cr].Icon,
 
 				// Stats
-				Health: characters[cr].Health,
-				Defense: characters[cr].Defense,
-				Attack: characters[cr].Attack,
-				Tech: characters[cr].Tech,
-				Speed: characters[cr].Speed,
-				GlancingChance: characters[cr].GlancingChance,
-				GlancingDamage: characters[cr].GlancingDamage,
-				CritChance: characters[cr].CritChance,
-				CritDamage: characters[cr].CritDamage,
-				Resolve: characters[cr].Resolve,
+				Health: getStatValue('MaxHealth', characters[cr].Health, 1).baseValue,
+				Defense: getStatValue('Defense', characters[cr].Defense, 1).baseValue,
+				Attack: getStatValue('Attack', characters[cr].Attack, 1).baseValue,
+				Tech: getStatValue('Tech', characters[cr].Tech, 1).baseValue,
+				Speed: getStatValue('Speed', characters[cr].Speed, 1).baseValue,
+				GlancingChance: getStatValue('GlancingChance', characters[cr].GlancingChance, 1).baseValue,
+				GlancingDamage: getStatValue('GlancingDamage', characters[cr].GlancingDamage, 1).baseValue,
+				CritChance: getStatValue('CritChance', characters[cr].CritChance, 1).baseValue,
+				CritDamage: getStatValue('CritDamage', characters[cr].CritDamage, 1).baseValue,
+				Resolve: getStatValue('Resolve', characters[cr].Resolve, 1).baseValue,
 
 				// Maxed Stats
-				MaxHealth:
-					characters[cr].Health *
-					getRankModifiers(characters[cr].Rarity, 9).HealthModifier *
-					getLevelModifiers(characters[cr].Rarity, 99).HealthModifier,
-				MaxDefense:
-					characters[cr].Defense *
-					getRankModifiers(characters[cr].Rarity, 9).DefenseModifier *
-					getLevelModifiers(characters[cr].Rarity, 99).DefenseModifier,
-				MaxAttack:
-					characters[cr].Attack *
-					getRankModifiers(characters[cr].Rarity, 9).AttackModifier *
-					getLevelModifiers(characters[cr].Rarity, 99).AttackModifier,
-				MaxTech:
-					characters[cr].Tech *
-					getRankModifiers(characters[cr].Rarity, 9).TechModifier *
-					getLevelModifiers(characters[cr].Rarity, 99).TechModifier,
-				MaxSpeed:
-					characters[cr].Speed *
-					getRankModifiers(characters[cr].Rarity, 9).SpeedModifier *
-					getLevelModifiers(characters[cr].Rarity, 99).SpeedModifier
+				MaxHealth: getStatValue(
+					'MaxHealth',
+					characters[cr].Health,
+					getRankModifiers(characters[cr].Rarity, 9).HealthModifier * getLevelModifiers(characters[cr].Rarity, 99).HealthModifier
+				).baseValue,
+				MaxDefense: getStatValue(
+					'Defense',
+					characters[cr].Defense,
+					getRankModifiers(characters[cr].Rarity, 9).DefenseModifier * getLevelModifiers(characters[cr].Rarity, 99).DefenseModifier
+				).baseValue,
+				MaxAttack: getStatValue(
+					'Attack',
+					characters[cr].Attack,
+					getRankModifiers(characters[cr].Rarity, 9).AttackModifier * getLevelModifiers(characters[cr].Rarity, 99).AttackModifier
+				).baseValue,
+				MaxTech: getStatValue(
+					'Tech',
+					characters[cr].Tech,
+					getRankModifiers(characters[cr].Rarity, 9).TechModifier * getLevelModifiers(characters[cr].Rarity, 99).TechModifier
+				).baseValue,
+				MaxSpeed: getStatValue(
+					'Speed',
+					characters[cr].Speed,
+					getRankModifiers(characters[cr].Rarity, 9).SpeedModifier * getLevelModifiers(characters[cr].Rarity, 99).SpeedModifier
+				).baseValue
 			};
 
 			// TODO: accessories and gears further boost stats
@@ -143,7 +186,7 @@ function generateCharactersJson() {
 				crew.skills[skillId] = getSkill(skillId);
 				for (let skillEntry of crew.skills[skillId]) {
 					if (skillEntry.img) {
-						if (!existsSync(`assets/${skillEntry.img}.png`)) {
+						if (!existsSync(new URL(`../public/assets/${skillEntry.img}.png`, import.meta.url))) {
 							console.warn(`Missing icon for skill '${skillEntry.img}' ('${crew.name}')`);
 						}
 					}
@@ -152,13 +195,13 @@ function generateCharactersJson() {
 
 			allcrew.push(crew);
 
-			if (!existsSync(`assets/${crew.icon}.png`)) {
+			if (!existsSync(new URL(`../public/assets/${crew.icon}.png`, import.meta.url))) {
 				console.warn(`Missing icon for '${crew.name}'`);
 			}
 		}
 	}
 
-	writeFileSync('characters.json', JSON.stringify(allcrew));
+	writeFileSync(new URL(`../data/characters.json`, import.meta.url), JSON.stringify(allcrew));
 }
 
 export { generateCharactersJson };

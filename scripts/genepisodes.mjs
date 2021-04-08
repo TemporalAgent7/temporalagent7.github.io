@@ -97,13 +97,13 @@ function generateEpisodesJson() {
 
 			allepisodes.push(episode);
 
-			if (!existsSync(`assets/${episode.backgroundImage}.png`)) {
+			if (!existsSync(new URL(`../public/assets/${episode.backgroundImage}.png`, import.meta.url))) {
 				console.warn(`Missing background image for episode '${episode.name}'`);
 			}
 		}
 	}
 
-	writeFileSync('episodes.json', JSON.stringify(allepisodes));
+	writeFileSync(new URL(`../data/episodes.json`, import.meta.url), JSON.stringify(allepisodes));
 }
 
 export { generateEpisodesJson };

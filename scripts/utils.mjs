@@ -7,7 +7,7 @@ function formatAsHtml(input) {
 }
 
 function loadJson(name) {
-    return JSON.parse(fs.readFileSync(new URL(`../data/${name}.json`, import.meta.url)));
+    return JSON.parse(fs.readFileSync(new URL(`./data/${name}.json`, import.meta.url)));
 }
 
 const loc = loadJson('localization');

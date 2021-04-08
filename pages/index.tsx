@@ -46,16 +46,16 @@ const renderTableRow = (character: any, onClick) => {
       <Rating rating={character.computed_rarity} maxRating={character.computed_rarity} size='large' disabled />
     </Table.Cell>
     <Table.Cell textAlign='center'>
-      {Math.round(character.MaxHealth * 100) / 100}
+      {character.MaxHealth}
     </Table.Cell>
     <Table.Cell textAlign='center'>
-      {Math.round(character.MaxDefense * 100) / 100}
+      {character.MaxDefense}
     </Table.Cell>
     <Table.Cell textAlign='center'>
-      {Math.round(character.MaxAttack * 100) / 100}
+      {character.MaxAttack}
     </Table.Cell>
     <Table.Cell textAlign='center'>
-      {Math.round(character.MaxTech * 100) / 100}
+      {character.MaxTech}
     </Table.Cell>
   </Table.Row>)
 }
@@ -186,28 +186,24 @@ const Home = ({ characters, allPosts }) => {
 
             <Statistic.Group size={"small"}>
               <Statistic>
-                <Statistic.Value>{selectedCharacter.GlancingChance}</Statistic.Value>
-                <Statistic.Label>Glancing Chance</Statistic.Label>
+                <Statistic.Value>{Math.floor(selectedCharacter.GlancingChance*100)}%</Statistic.Value>
+                <Statistic.Label><img src="/assets/Icon_GlancePercent.png" style={{ filter: "invert(1)", height: "1em", display: "inline" }} /> Glancing Chance</Statistic.Label>
               </Statistic>
               <Statistic>
-                <Statistic.Value>{selectedCharacter.GlancingDamage}</Statistic.Value>
-                <Statistic.Label>Glancing Damage</Statistic.Label>
+                <Statistic.Value>{Math.floor(selectedCharacter.GlancingDamage*100)}%</Statistic.Value>
+                <Statistic.Label><img src="/assets/Icon_Glance.png" style={{ filter: "invert(1)", height: "1em", display: "inline" }} /> Glancing Damage</Statistic.Label>
               </Statistic>
               <Statistic>
-                <Statistic.Value>{selectedCharacter.CritChance}</Statistic.Value>
-                <Statistic.Label>Crit Chance</Statistic.Label>
+                <Statistic.Value>{Math.floor(selectedCharacter.CritChance*100)}%</Statistic.Value>
+                <Statistic.Label><img src="/assets/Icon_CritPercent.png" style={{ filter: "invert(1)", height: "1em", display: "inline" }} /> Crit Chance</Statistic.Label>
               </Statistic>
               <Statistic>
-                <Statistic.Value>{selectedCharacter.CritDamage}</Statistic.Value>
-                <Statistic.Label>Crit Damage</Statistic.Label>
+                <Statistic.Value>{Math.floor(selectedCharacter.CritDamage*100)}%</Statistic.Value>
+                <Statistic.Label><img src="/assets/Icon_Crit.png" style={{ filter: "invert(1)", height: "1em", display: "inline" }} /> Crit Damage</Statistic.Label>
               </Statistic>
               <Statistic>
-                <Statistic.Value>{selectedCharacter.Resolve}</Statistic.Value>
-                <Statistic.Label>Resolve</Statistic.Label>
-              </Statistic>
-              <Statistic>
-                <Statistic.Value>{selectedCharacter.Speed}</Statistic.Value>
-                <Statistic.Label>Speed</Statistic.Label>
+                <Statistic.Value>{Math.floor(selectedCharacter.Resolve*100)}%</Statistic.Value>
+                <Statistic.Label><img src="/assets/Icon_Resolve.png" style={{ filter: "invert(1)", height: "1em", display: "inline" }} /> Resolve</Statistic.Label>
               </Statistic>
             </Statistic.Group>
 
@@ -225,22 +221,27 @@ const Home = ({ characters, allPosts }) => {
                 <Table.Row>
                   <Table.Cell><img src="/assets/IconCharStat_Health.png" style={{ filter: "invert(1)", height: "1em", display: "inline" }} /> Health</Table.Cell>
                   <Table.Cell>{selectedCharacter.Health}</Table.Cell>
-                  <Table.Cell>{Math.round(selectedCharacter.MaxHealth * 100) / 100}</Table.Cell>
+                  <Table.Cell>{selectedCharacter.MaxHealth}</Table.Cell>
                 </Table.Row>
                 <Table.Row>
                   <Table.Cell><img src="/assets/IconCharStat_Defense.png" style={{ filter: "invert(1)", height: "1em", display: "inline" }} /> Defense</Table.Cell>
                   <Table.Cell>{selectedCharacter.Defense}</Table.Cell>
-                  <Table.Cell>{Math.round(selectedCharacter.MaxDefense * 100) / 100}</Table.Cell>
+                  <Table.Cell>{selectedCharacter.MaxDefense}</Table.Cell>
                 </Table.Row>
                 <Table.Row>
                   <Table.Cell><img src="/assets/IconCharStat_Attack.png" style={{ filter: "invert(1)", height: "1em", display: "inline" }} /> Attack</Table.Cell>
                   <Table.Cell>{selectedCharacter.Attack}</Table.Cell>
-                  <Table.Cell>{Math.round(selectedCharacter.MaxAttack * 100) / 100}</Table.Cell>
+                  <Table.Cell>{selectedCharacter.MaxAttack}</Table.Cell>
                 </Table.Row>
                 <Table.Row>
                   <Table.Cell><img src="/assets/IconCharStat_Tech.png" style={{ filter: "invert(1)", height: "1em", display: "inline" }} /> Tech</Table.Cell>
                   <Table.Cell>{selectedCharacter.Tech}</Table.Cell>
-                  <Table.Cell>{Math.round(selectedCharacter.MaxTech * 100) / 100}</Table.Cell>
+                  <Table.Cell>{selectedCharacter.MaxTech}</Table.Cell>
+                </Table.Row>
+                <Table.Row>
+                  <Table.Cell><img src="/assets/IconCharStat_Speed.png" style={{ filter: "invert(1)", height: "1em", display: "inline" }} /> Speed</Table.Cell>
+                  <Table.Cell>{selectedCharacter.Speed}</Table.Cell>
+                  <Table.Cell>{selectedCharacter.MaxSpeed}</Table.Cell>
                 </Table.Row>
               </Table.Body>
             </Table>
