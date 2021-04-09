@@ -22,4 +22,26 @@ function L(key) {
 	}
 }
 
-export { formatAsHtml, loadJson, L };
+function mapDifficulty(difficulty) {
+	if (difficulty.toLowerCase() == 'doom') {
+		return 'UI_Common_Difficulty_Expert';
+	} else if (difficulty.toLowerCase() == 'hard') {
+		return 'UI_Common_Difficulty_Advanced';
+	} else if (difficulty.toLowerCase() == 'easy') {
+		return 'UI_Common_Difficulty_Normal';
+	} else {
+		console.warn(`Unknown difficulty '${difficulty}'`);
+		return 'UI_Common_Difficulty_Normal';
+	}
+}
+
+function formatRewardList(rewards) {
+    let result = [];
+    for (let name in rewards) {
+        result.push(`${name} x${rewards[name]}`);
+    }
+
+    return result.join(', ');
+}
+
+export { formatAsHtml, loadJson, L, mapDifficulty, formatRewardList };
