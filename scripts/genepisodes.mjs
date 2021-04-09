@@ -10,6 +10,8 @@ function generateEpisodesJson() {
     const nodeEncounter = loadJson('GSNodeEncounter');
     const cutSceneDialogue = loadJson('GSCutSceneDialogue');
 
+    //TODO: UI_Cutscene_Episode6_Text8
+
 	let allepisodes = [];
 	for (const ep in episodes) {
 		// Load only the easy difficulty, others have the same values

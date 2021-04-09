@@ -85,6 +85,7 @@ public class DeserializeData
         convertBytesToJson("GSRank");
         convertBytesToJson("GSRarity");
         convertBytesToJson("GSReplayRewards");
+        convertBytesToJson("GSShuttlecraft");
         convertBytesToJson("GSSkill");
         convertBytesToJson("GSSkillUpgrade");
     }

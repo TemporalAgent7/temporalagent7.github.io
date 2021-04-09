@@ -1,0 +1,2261 @@
+{
+  "test ep 1 m 1 easy": {
+    "m_Difficulty": "Easy",
+    "m_EpisodeNumber": 1,
+    "m_RouteNumber": 1,
+    "m_UnlockMission": {
+      "id": "episode 1 mission 4",
+      "difficulty": "Easy"
+    },
+    "m_Duration": "00:10:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 318,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 100,
+        "Player XP": 100
+      },
+      "FirstAmount": 100,
+      "Dilithium": 0,
+      "Latinum": 100,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Biomimetic Gel": 1
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 1 m 1 easy"
+  },
+  "test ep 1 m 2 easy": {
+    "m_Difficulty": "Easy",
+    "m_EpisodeNumber": 1,
+    "m_RouteNumber": 2,
+    "m_UnlockMission": {
+      "id": "episode 1 mission 5",
+      "difficulty": "Easy"
+    },
+    "m_Duration": "00:20:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 402,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 200,
+        "Player XP": 200
+      },
+      "FirstAmount": 200,
+      "Dilithium": 0,
+      "Latinum": 200,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Biomimetic Gel": 1
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 1 m 2 easy"
+  },
+  "test ep 1 m 3 easy": {
+    "m_Difficulty": "Easy",
+    "m_EpisodeNumber": 1,
+    "m_RouteNumber": 3,
+    "m_UnlockMission": {
+      "id": "episode 1 mission 6",
+      "difficulty": "Easy"
+    },
+    "m_Duration": "00:30:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 480,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 350,
+        "Player XP": 350
+      },
+      "FirstAmount": 350,
+      "Dilithium": 0,
+      "Latinum": 350,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Biomimetic Gel": 1
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 1 m 3 easy"
+  },
+  "test ep 2 m 1 easy": {
+    "m_Difficulty": "Easy",
+    "m_EpisodeNumber": 2,
+    "m_RouteNumber": 4,
+    "m_UnlockMission": {
+      "id": "episode 2 mission 1",
+      "difficulty": "Easy"
+    },
+    "m_Duration": "00:40:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 640,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 500,
+        "Player XP": 500,
+        "Trellium-D": 1
+      },
+      "FirstAmount": 500,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Biomimetic Gel": 1
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 2 m 1 easy"
+  },
+  "test ep 2 m 2 easy": {
+    "m_Difficulty": "Easy",
+    "m_EpisodeNumber": 2,
+    "m_RouteNumber": 5,
+    "m_UnlockMission": {
+      "id": "episode 2 mission 3",
+      "difficulty": "Easy"
+    },
+    "m_Duration": "00:50:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 972,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 800,
+        "Player XP": 800,
+        "Xenylon": 1
+      },
+      "FirstAmount": 800,
+      "Dilithium": 0,
+      "Latinum": 800,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Biomimetic Gel": 1
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 2 m 2 easy"
+  },
+  "test ep 2 m 3 easy": {
+    "m_Difficulty": "Easy",
+    "m_EpisodeNumber": 2,
+    "m_RouteNumber": 6,
+    "m_UnlockMission": {
+      "id": "episode 2 mission 6",
+      "difficulty": "Easy"
+    },
+    "m_Duration": "01:00:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 1412,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1000,
+        "Player XP": 1000,
+        "Antiproton": 1
+      },
+      "FirstAmount": 1000,
+      "Dilithium": 0,
+      "Latinum": 1000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Biomimetic Gel": 1
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 2 m 3 easy"
+  },
+  "test ep 3 m 1 easy": {
+    "m_Difficulty": "Easy",
+    "m_EpisodeNumber": 3,
+    "m_RouteNumber": 7,
+    "m_UnlockMission": {
+      "id": "episode 3 mission 1",
+      "difficulty": "Easy"
+    },
+    "m_Duration": "01:10:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 1520,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1200,
+        "Player XP": 1200,
+        "Trellium-D": 2
+      },
+      "FirstAmount": 1200,
+      "Dilithium": 0,
+      "Latinum": 1200,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Biomimetic Gel": 1,
+        "Proto Command 01": 1
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 3 m 1 easy"
+  },
+  "test ep 3 m 2 easy": {
+    "m_Difficulty": "Easy",
+    "m_EpisodeNumber": 3,
+    "m_RouteNumber": 8,
+    "m_UnlockMission": {
+      "id": "episode 3 mission 3",
+      "difficulty": "Easy"
+    },
+    "m_Duration": "01:20:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 1960,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1400,
+        "Player XP": 1400,
+        "Xenylon": 2
+      },
+      "FirstAmount": 1400,
+      "Dilithium": 0,
+      "Latinum": 1400,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Biomimetic Gel": 1,
+        "Proto Science 01": 1
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 3 m 2 easy"
+  },
+  "test ep 3 m 3 easy": {
+    "m_Difficulty": "Easy",
+    "m_EpisodeNumber": 3,
+    "m_RouteNumber": 9,
+    "m_UnlockMission": {
+      "id": "episode 3 mission 6",
+      "difficulty": "Easy"
+    },
+    "m_Duration": "01:30:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 2416,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1600,
+        "Player XP": 1600,
+        "Antiproton": 2
+      },
+      "FirstAmount": 1600,
+      "Dilithium": 0,
+      "Latinum": 1600,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Biomimetic Gel": 1,
+        "Proto Engineer 01": 1
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 3 m 3 easy"
+  },
+  "test ep 4 m 1 easy": {
+    "m_Difficulty": "Easy",
+    "m_EpisodeNumber": 4,
+    "m_RouteNumber": 10,
+    "m_UnlockMission": {
+      "id": "episode 4 mission 1",
+      "difficulty": "Easy"
+    },
+    "m_Duration": "01:40:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 2680,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1800,
+        "Player XP": 1800,
+        "Trellium-D": 3
+      },
+      "FirstAmount": 1800,
+      "Dilithium": 0,
+      "Latinum": 1800,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Biomimetic Gel": 1,
+        "Proto Security 01": 1
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 4 m 1 easy"
+  },
+  "test ep 4 m 2 easy": {
+    "m_Difficulty": "Easy",
+    "m_EpisodeNumber": 4,
+    "m_RouteNumber": 11,
+    "m_UnlockMission": {
+      "id": "episode 4 mission 3",
+      "difficulty": "Easy"
+    },
+    "m_Duration": "01:50:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 3068,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 2000,
+        "Player XP": 2000,
+        "Xenylon": 3
+      },
+      "FirstAmount": 2000,
+      "Dilithium": 0,
+      "Latinum": 2000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Biomimetic Gel": 1,
+        "Proto Medical 01": 1
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 4 m 2 easy"
+  },
+  "test ep 4 m 3 easy": {
+    "m_Difficulty": "Easy",
+    "m_EpisodeNumber": 4,
+    "m_RouteNumber": 12,
+    "m_UnlockMission": {
+      "id": "episode 4 mission 6",
+      "difficulty": "Easy"
+    },
+    "m_Duration": "02:00:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 3724,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 2250,
+        "Player XP": 2250,
+        "Antiproton": 3
+      },
+      "FirstAmount": 2250,
+      "Dilithium": 0,
+      "Latinum": 2250,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Biomimetic Gel": 1,
+        "Shards Basic": 10
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 4 m 3 easy"
+  },
+  "test ep 5 m 1 easy": {
+    "m_Difficulty": "Easy",
+    "m_EpisodeNumber": 5,
+    "m_RouteNumber": 13,
+    "m_UnlockMission": {
+      "id": "episode 5 mission 1",
+      "difficulty": "Easy"
+    },
+    "m_Duration": "02:10:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 3856,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 2500,
+        "Player XP": 2500,
+        "Trellium-D": 4
+      },
+      "FirstAmount": 2500,
+      "Dilithium": 0,
+      "Latinum": 2500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Biomimetic Gel": 1,
+        "Proto Command 01": 1
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 5 m 1 easy"
+  },
+  "test ep 5 m 2 easy": {
+    "m_Difficulty": "Easy",
+    "m_EpisodeNumber": 5,
+    "m_RouteNumber": 14,
+    "m_UnlockMission": {
+      "id": "episode 5 mission 3",
+      "difficulty": "Easy"
+    },
+    "m_Duration": "02:20:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 4112,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 2750,
+        "Player XP": 2750,
+        "Xenylon": 4
+      },
+      "FirstAmount": 2750,
+      "Dilithium": 0,
+      "Latinum": 2750,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Biomimetic Gel": 1,
+        "Proto Science 01": 1
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 5 m 2 easy"
+  },
+  "test ep 5 m 3 easy": {
+    "m_Difficulty": "Easy",
+    "m_EpisodeNumber": 5,
+    "m_RouteNumber": 15,
+    "m_UnlockMission": {
+      "id": "episode 5 mission 6",
+      "difficulty": "Easy"
+    },
+    "m_Duration": "02:30:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 4636,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 3000,
+        "Player XP": 3000,
+        "Antiproton": 4
+      },
+      "FirstAmount": 3000,
+      "Dilithium": 0,
+      "Latinum": 3000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Biomimetic Gel": 1,
+        "Proto Engineer 01": 1
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 5 m 3 easy"
+  },
+  "test ep 6 m 1 easy": {
+    "m_Difficulty": "Easy",
+    "m_EpisodeNumber": 6,
+    "m_RouteNumber": 16,
+    "m_UnlockMission": {
+      "id": "episode 6 mission 1",
+      "difficulty": "Easy"
+    },
+    "m_Duration": "02:40:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 4768,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 3250,
+        "Player XP": 3250,
+        "Trellium-D": 5
+      },
+      "FirstAmount": 3250,
+      "Dilithium": 0,
+      "Latinum": 3250,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Biomimetic Gel": 1,
+        "Proto Security 01": 1
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 6 m 1 easy"
+  },
+  "test ep 6 m 2 easy": {
+    "m_Difficulty": "Easy",
+    "m_EpisodeNumber": 6,
+    "m_RouteNumber": 17,
+    "m_UnlockMission": {
+      "id": "episode 6 mission 3",
+      "difficulty": "Easy"
+    },
+    "m_Duration": "02:50:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 5056,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 3500,
+        "Player XP": 3500,
+        "Xenylon": 5
+      },
+      "FirstAmount": 3500,
+      "Dilithium": 0,
+      "Latinum": 3500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Biomimetic Gel": 1,
+        "Proto Medical 01": 1
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 6 m 2 easy"
+  },
+  "test ep 6 m 3 easy": {
+    "m_Difficulty": "Easy",
+    "m_EpisodeNumber": 6,
+    "m_RouteNumber": 18,
+    "m_UnlockMission": {
+      "id": "episode 6 mission 6",
+      "difficulty": "Easy"
+    },
+    "m_Duration": "03:00:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 5520,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 3750,
+        "Player XP": 3750,
+        "Antiproton": 5
+      },
+      "FirstAmount": 3750,
+      "Dilithium": 0,
+      "Latinum": 3750,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Biomimetic Gel": 1,
+        "Shards Basic": 15
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 6 m 3 easy"
+  },
+  "test ep 1 m 1 hard": {
+    "m_Difficulty": "Hard",
+    "m_EpisodeNumber": 1,
+    "m_RouteNumber": 19,
+    "m_UnlockMission": {
+      "id": "episode 1 mission 1",
+      "difficulty": "Hard"
+    },
+    "m_Duration": "03:10:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 5676,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 4250,
+        "Player XP": 4250,
+        "Trellium-D": 6
+      },
+      "FirstAmount": 4250,
+      "Dilithium": 0,
+      "Latinum": 4250,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Rare Bio-Gel": 1,
+        "Proto Command 01": 2
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 1 m 1 hard"
+  },
+  "test ep 1 m 2 hard": {
+    "m_Difficulty": "Hard",
+    "m_EpisodeNumber": 1,
+    "m_RouteNumber": 20,
+    "m_UnlockMission": {
+      "id": "episode 1 mission 3",
+      "difficulty": "Hard"
+    },
+    "m_Duration": "03:20:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 5676,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 4500,
+        "Player XP": 4500,
+        "Xenylon": 6
+      },
+      "FirstAmount": 4500,
+      "Dilithium": 0,
+      "Latinum": 4500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Rare Bio-Gel": 1,
+        "Proto Science 01": 2
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 1 m 2 hard"
+  },
+  "test ep 1 m 3 hard": {
+    "m_Difficulty": "Hard",
+    "m_EpisodeNumber": 1,
+    "m_RouteNumber": 21,
+    "m_UnlockMission": {
+      "id": "episode 1 mission 6",
+      "difficulty": "Hard"
+    },
+    "m_Duration": "03:30:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 5828,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 4750,
+        "Player XP": 4750,
+        "Antiproton": 6
+      },
+      "FirstAmount": 4750,
+      "Dilithium": 0,
+      "Latinum": 4750,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Rare Bio-Gel": 1,
+        "Proto Engineer 01": 2
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 1 m 3 hard"
+  },
+  "test ep 2 m 1 hard": {
+    "m_Difficulty": "Hard",
+    "m_EpisodeNumber": 2,
+    "m_RouteNumber": 22,
+    "m_UnlockMission": {
+      "id": "episode 2 mission 1",
+      "difficulty": "Hard"
+    },
+    "m_Duration": "03:40:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 5828,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 5000,
+        "Player XP": 5000,
+        "Trellium-D": 7
+      },
+      "FirstAmount": 5000,
+      "Dilithium": 0,
+      "Latinum": 5000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Rare Bio-Gel": 1,
+        "Proto Security 01": 2
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 2 m 1 hard"
+  },
+  "test ep 2 m 2 hard": {
+    "m_Difficulty": "Hard",
+    "m_EpisodeNumber": 2,
+    "m_RouteNumber": 23,
+    "m_UnlockMission": {
+      "id": "episode 2 mission 3",
+      "difficulty": "Hard"
+    },
+    "m_Duration": "03:50:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 5988,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 5250,
+        "Player XP": 5250,
+        "Xenylon": 7
+      },
+      "FirstAmount": 5250,
+      "Dilithium": 0,
+      "Latinum": 5250,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Rare Bio-Gel": 1,
+        "Proto Medical 01": 2
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 2 m 2 hard"
+  },
+  "test ep 2 m 3 hard": {
+    "m_Difficulty": "Hard",
+    "m_EpisodeNumber": 2,
+    "m_RouteNumber": 24,
+    "m_UnlockMission": {
+      "id": "episode 2 mission 6",
+      "difficulty": "Hard"
+    },
+    "m_Duration": "04:00:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 6452,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 5750,
+        "Player XP": 5750,
+        "Antiproton": 7
+      },
+      "FirstAmount": 5750,
+      "Dilithium": 0,
+      "Latinum": 5750,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Rare Bio-Gel": 1,
+        "Shards Basic": 20
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 2 m 3 hard"
+  },
+  "test ep 3 m 1 hard": {
+    "m_Difficulty": "Hard",
+    "m_EpisodeNumber": 3,
+    "m_RouteNumber": 25,
+    "m_UnlockMission": {
+      "id": "episode 3 mission 1",
+      "difficulty": "Hard"
+    },
+    "m_Duration": "04:10:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 6452,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 6000,
+        "Player XP": 6000,
+        "Trellium-D": 9
+      },
+      "FirstAmount": 6000,
+      "Dilithium": 0,
+      "Latinum": 6000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Rare Bio-Gel": 1,
+        "Proto Command 01": 2
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 3 m 1 hard"
+  },
+  "test ep 3 m 2 hard": {
+    "m_Difficulty": "Hard",
+    "m_EpisodeNumber": 3,
+    "m_RouteNumber": 26,
+    "m_UnlockMission": {
+      "id": "episode 3 mission 3",
+      "difficulty": "Hard"
+    },
+    "m_Duration": "04:20:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 6760,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 6250,
+        "Player XP": 6250,
+        "Xenylon": 9
+      },
+      "FirstAmount": 6250,
+      "Dilithium": 0,
+      "Latinum": 6250,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Rare Bio-Gel": 1,
+        "Proto Science 01": 2
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 3 m 2 hard"
+  },
+  "test ep 3 m 3 hard": {
+    "m_Difficulty": "Hard",
+    "m_EpisodeNumber": 3,
+    "m_RouteNumber": 27,
+    "m_UnlockMission": {
+      "id": "episode 3 mission 6",
+      "difficulty": "Hard"
+    },
+    "m_Duration": "04:30:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 7228,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 6500,
+        "Player XP": 6500,
+        "Antiproton": 9
+      },
+      "FirstAmount": 6500,
+      "Dilithium": 0,
+      "Latinum": 6500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Rare Bio-Gel": 1,
+        "Proto Engineer 01": 2
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 3 m 3 hard"
+  },
+  "test ep 4 m 1 hard": {
+    "m_Difficulty": "Hard",
+    "m_EpisodeNumber": 4,
+    "m_RouteNumber": 28,
+    "m_UnlockMission": {
+      "id": "episode 4 mission 1",
+      "difficulty": "Hard"
+    },
+    "m_Duration": "04:40:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 7380,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 6750,
+        "Player XP": 6750,
+        "Trellium-D": 10
+      },
+      "FirstAmount": 6750,
+      "Dilithium": 0,
+      "Latinum": 6750,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Rare Bio-Gel": 1,
+        "Proto Security 01": 2
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 4 m 1 hard"
+  },
+  "test ep 4 m 2 hard": {
+    "m_Difficulty": "Hard",
+    "m_EpisodeNumber": 4,
+    "m_RouteNumber": 29,
+    "m_UnlockMission": {
+      "id": "episode 4 mission 3",
+      "difficulty": "Hard"
+    },
+    "m_Duration": "04:50:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 7536,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 7000,
+        "Player XP": 7000,
+        "Xenylon": 10
+      },
+      "FirstAmount": 7000,
+      "Dilithium": 0,
+      "Latinum": 7000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Rare Bio-Gel": 1,
+        "Proto Medical 01": 2
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 4 m 2 hard"
+  },
+  "test ep 4 m 3 hard": {
+    "m_Difficulty": "Hard",
+    "m_EpisodeNumber": 4,
+    "m_RouteNumber": 30,
+    "m_UnlockMission": {
+      "id": "episode 4 mission 6",
+      "difficulty": "Hard"
+    },
+    "m_Duration": "05:00:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 8000,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 7500,
+        "Player XP": 7500,
+        "Antiproton": 10
+      },
+      "FirstAmount": 7500,
+      "Dilithium": 0,
+      "Latinum": 7500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Rare Bio-Gel": 1,
+        "Shards Basic": 25
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 4 m 3 hard"
+  },
+  "test ep 5 m 1 hard": {
+    "m_Difficulty": "Hard",
+    "m_EpisodeNumber": 5,
+    "m_RouteNumber": 31,
+    "m_UnlockMission": {
+      "id": "episode 5 mission 1",
+      "difficulty": "Hard"
+    },
+    "m_Duration": "05:10:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 8000,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 8000,
+        "Player XP": 8000,
+        "Trellium-D": 12
+      },
+      "FirstAmount": 8000,
+      "Dilithium": 0,
+      "Latinum": 8000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Rare Bio-Gel": 1,
+        "Proto Command 01": 2
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 5 m 1 hard"
+  },
+  "test ep 5 m 2 hard": {
+    "m_Difficulty": "Hard",
+    "m_EpisodeNumber": 5,
+    "m_RouteNumber": 32,
+    "m_UnlockMission": {
+      "id": "episode 5 mission 3",
+      "difficulty": "Hard"
+    },
+    "m_Duration": "05:20:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 8376,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 8500,
+        "Player XP": 8500,
+        "Xenylon": 12
+      },
+      "FirstAmount": 8500,
+      "Dilithium": 0,
+      "Latinum": 8500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Rare Bio-Gel": 1,
+        "Proto Science 01": 2
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 5 m 2 hard"
+  },
+  "test ep 5 m 3 hard": {
+    "m_Difficulty": "Hard",
+    "m_EpisodeNumber": 5,
+    "m_RouteNumber": 33,
+    "m_UnlockMission": {
+      "id": "episode 5 mission 6",
+      "difficulty": "Hard"
+    },
+    "m_Duration": "05:30:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 8560,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 9000,
+        "Player XP": 9000,
+        "Antiproton": 12
+      },
+      "FirstAmount": 9000,
+      "Dilithium": 0,
+      "Latinum": 9000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Rare Bio-Gel": 1,
+        "Proto Engineer 01": 2
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 5 m 3 hard"
+  },
+  "test ep 6 m 1 hard": {
+    "m_Difficulty": "Hard",
+    "m_EpisodeNumber": 6,
+    "m_RouteNumber": 34,
+    "m_UnlockMission": {
+      "id": "episode 6 mission 1",
+      "difficulty": "Hard"
+    },
+    "m_Duration": "05:40:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 8744,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 9400,
+        "Player XP": 9400,
+        "Trellium-D": 14
+      },
+      "FirstAmount": 9400,
+      "Dilithium": 0,
+      "Latinum": 9400,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Rare Bio-Gel": 1,
+        "Proto Security 01": 2
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 6 m 1 hard"
+  },
+  "test ep 6 m 2 hard": {
+    "m_Difficulty": "Hard",
+    "m_EpisodeNumber": 6,
+    "m_RouteNumber": 35,
+    "m_UnlockMission": {
+      "id": "episode 6 mission 3",
+      "difficulty": "Hard"
+    },
+    "m_Duration": "05:50:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 8932,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 9800,
+        "Player XP": 9800,
+        "Xenylon": 14
+      },
+      "FirstAmount": 9800,
+      "Dilithium": 0,
+      "Latinum": 9800,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Rare Bio-Gel": 1,
+        "Proto Medical 01": 2
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 6 m 2 hard"
+  },
+  "test ep 6 m 3 hard": {
+    "m_Difficulty": "Hard",
+    "m_EpisodeNumber": 6,
+    "m_RouteNumber": 36,
+    "m_UnlockMission": {
+      "id": "episode 6 mission 6",
+      "difficulty": "Hard"
+    },
+    "m_Duration": "06:00:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 9116,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 10200,
+        "Player XP": 10200,
+        "Antiproton": 14
+      },
+      "FirstAmount": 10200,
+      "Dilithium": 0,
+      "Latinum": 10200,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Rare Bio-Gel": 1,
+        "Shards Basic": 30
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 6 m 3 hard"
+  },
+  "test ep 1 m 1 doom": {
+    "m_Difficulty": "Doom",
+    "m_EpisodeNumber": 1,
+    "m_RouteNumber": 37,
+    "m_UnlockMission": {
+      "id": "episode 1 mission 1",
+      "difficulty": "Doom"
+    },
+    "m_Duration": "06:10:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 9300,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 10500,
+        "Player XP": 10500,
+        "Trellium-D": 16
+      },
+      "FirstAmount": 10500,
+      "Dilithium": 0,
+      "Latinum": 10500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 1,
+        "Proto Command 01": 3
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 1 m 1 doom"
+  },
+  "test ep 1 m 2 doom": {
+    "m_Difficulty": "Doom",
+    "m_EpisodeNumber": 1,
+    "m_RouteNumber": 38,
+    "m_UnlockMission": {
+      "id": "episode 1 mission 3",
+      "difficulty": "Doom"
+    },
+    "m_Duration": "06:20:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 9300,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 10900,
+        "Player XP": 10900,
+        "Xenylon": 16
+      },
+      "FirstAmount": 10900,
+      "Dilithium": 0,
+      "Latinum": 10900,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 1,
+        "Proto Science 01": 3
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 1 m 2 doom"
+  },
+  "test ep 1 m 3 doom": {
+    "m_Difficulty": "Doom",
+    "m_EpisodeNumber": 1,
+    "m_RouteNumber": 39,
+    "m_UnlockMission": {
+      "id": "episode 1 mission 6",
+      "difficulty": "Doom"
+    },
+    "m_Duration": "06:30:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 9300,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 11300,
+        "Player XP": 11300,
+        "Antiproton": 16
+      },
+      "FirstAmount": 11300,
+      "Dilithium": 0,
+      "Latinum": 11300,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 1,
+        "Proto Engineer 01": 3
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 1 m 3 doom"
+  },
+  "test ep 2 m 1 doom": {
+    "m_Difficulty": "Doom",
+    "m_EpisodeNumber": 2,
+    "m_RouteNumber": 40,
+    "m_UnlockMission": {
+      "id": "episode 2 mission 1",
+      "difficulty": "Doom"
+    },
+    "m_Duration": "06:40:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 9300,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 11700,
+        "Player XP": 11700,
+        "Trellium-D": 18
+      },
+      "FirstAmount": 11700,
+      "Dilithium": 0,
+      "Latinum": 11700,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 1,
+        "Proto Security 01": 3
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 2 m 1 doom"
+  },
+  "test ep 2 m 2 doom": {
+    "m_Difficulty": "Doom",
+    "m_EpisodeNumber": 2,
+    "m_RouteNumber": 41,
+    "m_UnlockMission": {
+      "id": "episode 2 mission 3",
+      "difficulty": "Doom"
+    },
+    "m_Duration": "06:50:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 9484,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 12100,
+        "Player XP": 12100,
+        "Xenylon": 18
+      },
+      "FirstAmount": 12100,
+      "Dilithium": 0,
+      "Latinum": 12100,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 1,
+        "Proto Medical 01": 3
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 2 m 2 doom"
+  },
+  "test ep 2 m 3 doom": {
+    "m_Difficulty": "Doom",
+    "m_EpisodeNumber": 2,
+    "m_RouteNumber": 42,
+    "m_UnlockMission": {
+      "id": "episode 2 mission 6",
+      "difficulty": "Doom"
+    },
+    "m_Duration": "07:00:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 9672,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 12500,
+        "Player XP": 12500,
+        "Antiproton": 18
+      },
+      "FirstAmount": 12500,
+      "Dilithium": 0,
+      "Latinum": 12500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 1,
+        "Shards Basic": 35
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 2 m 3 doom"
+  },
+  "test ep 3 m 1 doom": {
+    "m_Difficulty": "Doom",
+    "m_EpisodeNumber": 3,
+    "m_RouteNumber": 43,
+    "m_UnlockMission": {
+      "id": "episode 3 mission 1",
+      "difficulty": "Doom"
+    },
+    "m_Duration": "07:10:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 9672,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 13000,
+        "Player XP": 13000,
+        "Trellium-D": 20
+      },
+      "FirstAmount": 13000,
+      "Dilithium": 0,
+      "Latinum": 13000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 1,
+        "Proto Command 01": 3
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 3 m 1 doom"
+  },
+  "test ep 3 m 2 doom": {
+    "m_Difficulty": "Doom",
+    "m_EpisodeNumber": 3,
+    "m_RouteNumber": 44,
+    "m_UnlockMission": {
+      "id": "episode 3 mission 3",
+      "difficulty": "Doom"
+    },
+    "m_Duration": "07:20:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 9856,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 13500,
+        "Player XP": 13500,
+        "Xenylon": 20
+      },
+      "FirstAmount": 13500,
+      "Dilithium": 0,
+      "Latinum": 13500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 1,
+        "Proto Science 01": 3
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 3 m 2 doom"
+  },
+  "test ep 3 m 3 doom": {
+    "m_Difficulty": "Doom",
+    "m_EpisodeNumber": 3,
+    "m_RouteNumber": 45,
+    "m_UnlockMission": {
+      "id": "episode 3 mission 6",
+      "difficulty": "Doom"
+    },
+    "m_Duration": "07:30:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 10040,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 14000,
+        "Player XP": 14000,
+        "Antiproton": 20
+      },
+      "FirstAmount": 14000,
+      "Dilithium": 0,
+      "Latinum": 14000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 1,
+        "Proto Engineer 01": 3
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 3 m 3 doom"
+  },
+  "test ep 4 m 1 doom": {
+    "m_Difficulty": "Doom",
+    "m_EpisodeNumber": 4,
+    "m_RouteNumber": 46,
+    "m_UnlockMission": {
+      "id": "episode 4 mission 1",
+      "difficulty": "Doom"
+    },
+    "m_Duration": "07:40:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 10040,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 14500,
+        "Player XP": 14500,
+        "Trellium-D": 21
+      },
+      "FirstAmount": 14500,
+      "Dilithium": 0,
+      "Latinum": 14500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 1,
+        "Proto Security 01": 3
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 4 m 1 doom"
+  },
+  "test ep 4 m 2 doom": {
+    "m_Difficulty": "Doom",
+    "m_EpisodeNumber": 4,
+    "m_RouteNumber": 47,
+    "m_UnlockMission": {
+      "id": "episode 4 mission 3",
+      "difficulty": "Doom"
+    },
+    "m_Duration": "07:50:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 10224,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 15000,
+        "Player XP": 15000,
+        "Xenylon": 21
+      },
+      "FirstAmount": 15000,
+      "Dilithium": 0,
+      "Latinum": 15000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 1,
+        "Proto Medical 01": 3
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 4 m 2 doom"
+  },
+  "test ep 4 m 3 doom": {
+    "m_Difficulty": "Doom",
+    "m_EpisodeNumber": 4,
+    "m_RouteNumber": 48,
+    "m_UnlockMission": {
+      "id": "episode 4 mission 6",
+      "difficulty": "Doom"
+    },
+    "m_Duration": "08:00:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 10408,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 15500,
+        "Player XP": 15500,
+        "Antiproton": 21
+      },
+      "FirstAmount": 15500,
+      "Dilithium": 0,
+      "Latinum": 15500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 1,
+        "Shards Basic": 40
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 4 m 3 doom"
+  },
+  "test ep 5 m 1 doom": {
+    "m_Difficulty": "Doom",
+    "m_EpisodeNumber": 5,
+    "m_RouteNumber": 49,
+    "m_UnlockMission": {
+      "id": "episode 5 mission 1",
+      "difficulty": "Doom"
+    },
+    "m_Duration": "08:10:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 10596,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 16000,
+        "Player XP": 16000,
+        "Trellium-D": 23
+      },
+      "FirstAmount": 16000,
+      "Dilithium": 0,
+      "Latinum": 16000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 1,
+        "Proto Command 01": 3
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 5 m 1 doom"
+  },
+  "test ep 5 m 2 doom": {
+    "m_Difficulty": "Doom",
+    "m_EpisodeNumber": 5,
+    "m_RouteNumber": 50,
+    "m_UnlockMission": {
+      "id": "episode 5 mission 3",
+      "difficulty": "Doom"
+    },
+    "m_Duration": "08:20:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 10596,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 16500,
+        "Player XP": 16500,
+        "Xenylon": 23
+      },
+      "FirstAmount": 16500,
+      "Dilithium": 0,
+      "Latinum": 16500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 1,
+        "Proto Science 01": 3
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 5 m 2 doom"
+  },
+  "test ep 5 m 3 doom": {
+    "m_Difficulty": "Doom",
+    "m_EpisodeNumber": 5,
+    "m_RouteNumber": 51,
+    "m_UnlockMission": {
+      "id": "episode 5 mission 6",
+      "difficulty": "Doom"
+    },
+    "m_Duration": "08:30:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 10968,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 17000,
+        "Player XP": 17000,
+        "Antiproton": 23
+      },
+      "FirstAmount": 17000,
+      "Dilithium": 0,
+      "Latinum": 17000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 1,
+        "Proto Engineer 01": 3
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 5 m 3 doom"
+  },
+  "test ep 6 m 1 doom": {
+    "m_Difficulty": "Doom",
+    "m_EpisodeNumber": 6,
+    "m_RouteNumber": 52,
+    "m_UnlockMission": {
+      "id": "episode 6 mission 1",
+      "difficulty": "Doom"
+    },
+    "m_Duration": "08:40:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 10968,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 18000,
+        "Player XP": 18000,
+        "Trellium-D": 25
+      },
+      "FirstAmount": 18000,
+      "Dilithium": 0,
+      "Latinum": 18000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 1,
+        "Proto Security 01": 3
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 6 m 1 doom"
+  },
+  "test ep 6 m 2 doom": {
+    "m_Difficulty": "Doom",
+    "m_EpisodeNumber": 6,
+    "m_RouteNumber": 53,
+    "m_UnlockMission": {
+      "id": "episode 6 mission 3",
+      "difficulty": "Doom"
+    },
+    "m_Duration": "08:50:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 11148,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 19000,
+        "Player XP": 19000,
+        "Xenylon": 25
+      },
+      "FirstAmount": 19000,
+      "Dilithium": 0,
+      "Latinum": 19000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 1,
+        "Proto Medical 01": 3
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 6 m 2 doom"
+  },
+  "test ep 6 m 3 doom": {
+    "m_Difficulty": "Doom",
+    "m_EpisodeNumber": 6,
+    "m_RouteNumber": 54,
+    "m_UnlockMission": {
+      "id": "episode 6 mission 6",
+      "difficulty": "Doom"
+    },
+    "m_Duration": "09:00:00",
+    "m_BaseJackpotChance": 0.05,
+    "m_MaxJackpotChancePower": 11336,
+    "m_BaseReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 20000,
+        "Player XP": 20000,
+        "Antiproton": 25
+      },
+      "FirstAmount": 20000,
+      "Dilithium": 0,
+      "Latinum": 20000,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "m_JackpotReward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 1,
+        "Shards Basic": 50
+      },
+      "FirstAmount": 1,
+      "Dilithium": 0,
+      "Latinum": 0,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": "test ep 6 m 3 doom"
+  }
+}
