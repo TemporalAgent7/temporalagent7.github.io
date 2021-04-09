@@ -10,4 +10,16 @@ function loadJson(name) {
     return JSON.parse(fs.readFileSync(new URL(`./data/${name}.json`, import.meta.url)));
 }
 
-export { formatAsHtml, loadJson };
+const loc = loadJson('lang_en_us');
+
+function L(key) {
+	const entry = loc.List.find((entry) => entry.key === key);
+	if (!entry) {
+		console.warn(`No localization entry '${key}`);
+		return '';
+	} else {
+		return entry.value;
+	}
+}
+
+export { formatAsHtml, loadJson, L };
