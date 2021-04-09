@@ -11,6 +11,9 @@ const FixedMenuLayout = ({ children, allPosts }) => {
 					<Menu.Item as='a' header onClick={() => router.push('/')}>
 						<Image size='mini' src='/assets/MainHUD_Heroes.png' style={{ marginRight: '1.5em' }} /> Characters
 					</Menu.Item>
+					<Menu.Item as='a' onClick={() => router.push('/items')}>
+						Items
+					</Menu.Item>
 					<Menu.Item as='a' onClick={() => router.push('/missions')}>
 						Missions
 					</Menu.Item>

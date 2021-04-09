@@ -80,3 +80,29 @@ export async function getMissionsStaticProps() {
 
 	return { episodes, allPosts: getAllPosts(['title', 'slug']) };
 }
+
+export async function getItemsStaticProps() {
+	const dataDirectory = path.join(process.cwd(), 'data');
+	const fileContents = await fs.readFile(path.join(dataDirectory, 'items.json'), 'utf8');
+
+	let items = JSON.parse(fileContents);
+
+	// TODO: i18n integration (once next export supports it)
+	const translationTable = await getTranslationTable("en_us");
+
+	// Localize strings
+	items.forEach((item: any) => {
+		item.locName = translationTable[item.name];
+		item.locDescription = translationTable[item.description];
+
+		// TODO: generic localization with parameters?
+		if (item.category == "BiomimeticGel") {
+			item.locDescription = item.locDescription.replace('{0}', item.DataBiomimeticGel.Xp);
+		}
+	});
+
+	// Do a simple initial sort
+	items = items.sort((a,b) => a.locName.localeCompare(b.locName));
+
+	return { items, allPosts: getAllPosts(['title', 'slug']) };
+}

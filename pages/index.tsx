@@ -7,10 +7,10 @@ import FixedMenuLayout from '../components/FixedMenuLayout';
 import CharacterStats from '../components/CharacterStats';
 
 import { getCharactersStaticProps } from '../utils/ssr';
-import { characterMatchesSearchFilter } from '../utils/character';
+import { characterMatchesSearchFilter } from '../utils/filtering';
 
 const tableConfig: ITableConfigRow[] = [
-	{ width: 3, column: 'name', title: 'Character', pseudocolumns: ['name', 'role'] },
+	{ width: 3, column: 'locName', title: 'Character', pseudocolumns: ['locName', 'role'] },
 	{ width: 1, column: 'computed_rarity', title: 'Rarity' },
 	{ width: 1, column: 'MaxHealth', title: 'Max Health' },
 	{ width: 1, column: 'MaxDefense', title: 'Max Defense' },
