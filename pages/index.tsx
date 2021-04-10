@@ -17,6 +17,7 @@ const tableConfig: ITableConfigRow[] = [
 	{ width: 1, column: 'MaxAttack', title: 'Max Attack' },
 	{ width: 1, column: 'MaxTech', title: 'Max Tech' },
 	{ width: 1, column: 'MaxTotalPower', title: 'Max Total Power' },
+	{ width: 1, column: 'Speed', title: 'Speed' },
 ];
 
 const renderTableRow = (character: any, onClick) => {
@@ -57,6 +58,9 @@ const renderTableRow = (character: any, onClick) => {
 		</Table.Cell>
 		<Table.Cell textAlign='center'>
 			{character.MaxTotalPower}
+		</Table.Cell>
+		<Table.Cell textAlign='center'>
+			{character.Speed}
 		</Table.Cell>
 	</Table.Row>)
 }
