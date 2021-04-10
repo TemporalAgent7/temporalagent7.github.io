@@ -7,6 +7,7 @@ import { generateStatModMarkdown } from './mdstatmod.mjs';
 import { generateShuttlesMarkdown } from './mdshuttles.mjs';
 import { generateParticlesMarkdown } from './mdparticles.mjs';
 import { generateGearsMarkdown } from './mdgears.mjs';
+import { generateMiscMarkdown } from './mdmisc.mjs';
 
 if (process.argv.length !== 3) {
 	console.error('Requires one argument (markdown or json)!');
@@ -19,6 +20,7 @@ if (process.argv[2] == "markdown") {
 	generateShuttlesMarkdown();
 	generateParticlesMarkdown();
 	generateGearsMarkdown();
+	generateMiscMarkdown();
 } else if (process.argv[2] == "json") {
 	generateCharactersJson();
 	generateEpisodesJson();

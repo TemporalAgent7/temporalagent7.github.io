@@ -53,7 +53,7 @@ const FixedMenuLayout = ({ children, allPosts }) => {
 					</List>
 					<p style={{ fontSize: '0.75em' }}>
 						Note: Assets and some text elements like names and descriptions are owned by Tilting Point or their licensors. This project is
-						not associated with nor endorsed by Tilting Point or ViacomCBS.
+						not associated with nor endorsed by Tilting Point, Emerald City Games, or ViacomCBS.
 					</p>
 				</Container>
 			</Segment>
