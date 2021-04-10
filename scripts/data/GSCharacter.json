@@ -350,6 +350,47 @@
     "id": "DreamlessB_Boss",
     "RankupTokenId": "DreamlessB_Boss"
   },
+  "DreamlessC_MegaBoss": {
+    "Name": "Common_DreamlessB_Boss",
+    "Description": "Data_Character_DreamlessB_Boss_description",
+    "Rarity": "Legendary",
+    "Role": "Command",
+    "Type": "Disabled",
+    "Tags": [
+      "Dreamless"
+    ],
+    "SkillIDs": [
+      "dreamlessC_attack",
+      "dreamlessC_skill1",
+      "dreamlessC_skill2",
+      "dreamlessC_skill3"
+    ],
+    "Health": 0.9,
+    "Defense": 0.5,
+    "Attack": 0.45,
+    "Tech": 0.45,
+    "Speed": 0.2,
+    "GlancingChance": 0.5,
+    "GlancingDamage": 0.5,
+    "CritChance": 0.5,
+    "CritDamage": 0.5,
+    "Resolve": 0.5,
+    "ModelMenuPrefabName": "DreamlessC_MegaBoss_Menu_Model",
+    "ModelBattlePrefabName": "DreamlessC_MegaBoss_Battle_Model",
+    "MirrorModelBattlePrefabName": "DreamlessC_MegaBoss_Battle_Mirror_Model",
+    "BattleAnimTreeName": "DreamlessC_MegaBoss_BattleAnimTree",
+    "MenuAnimTreeName": "DreamlessC_MegaBoss_MenuAnimTree",
+    "BridgeStations": [
+      "None"
+    ],
+    "AIProfile": "default-smart",
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
+    "Icon": "DreamlessC_MegaBoss_Portrait",
+    "RarityIcon": "Token_Legendary",
+    "id": "DreamlessC_MegaBoss",
+    "RankupTokenId": "DreamlessC_MegaBoss"
+  },
   "Dukat": {
     "Name": "Common_GulDukat",
     "Description": "Data_Character_Dukat_description",
@@ -2100,8 +2141,8 @@
       "Conn"
     ],
     "AIProfile": "default-smart",
-    "DailyTokenVisible": true,
-    "DailyTokenWeight": 100,
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
     "Icon": "PicardOld_Portrait",
     "RarityIcon": "Token_Legendary",
     "id": "PicardOld",
@@ -3047,8 +3088,8 @@
       "Tactical"
     ],
     "AIProfile": "default-smart",
-    "DailyTokenVisible": true,
-    "DailyTokenWeight": 100,
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
     "Icon": "Torchbearer_Portrait",
     "RarityIcon": "Token_Rare",
     "id": "Torchbearer",
@@ -3091,8 +3132,8 @@
       "Operations"
     ],
     "AIProfile": "default-smart",
-    "DailyTokenVisible": true,
-    "DailyTokenWeight": 100,
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
     "Icon": "Stamets_Portrait",
     "RarityIcon": "Token_VeryRare",
     "id": "Stamets",
@@ -3134,8 +3175,8 @@
       "Tactical"
     ],
     "AIProfile": "default-smart",
-    "DailyTokenVisible": true,
-    "DailyTokenWeight": 100,
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
     "Icon": "Elnor_Portrait",
     "RarityIcon": "Token_VeryRare",
     "id": "Elnor",
@@ -3178,8 +3219,8 @@
       "Science"
     ],
     "AIProfile": "default-smart",
-    "DailyTokenVisible": true,
-    "DailyTokenWeight": 100,
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
     "Icon": "Tilly_Portrait",
     "RarityIcon": "Token_Rare",
     "id": "Tilly",
@@ -3224,8 +3265,8 @@
       "Captain"
     ],
     "AIProfile": "default-smart",
-    "DailyTokenVisible": true,
-    "DailyTokenWeight": 100,
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
     "Icon": "Troi_Portrait",
     "RarityIcon": "Token_VeryRare",
     "id": "Troi",
@@ -3269,8 +3310,8 @@
       "Conn"
     ],
     "AIProfile": "default-smart",
-    "DailyTokenVisible": true,
-    "DailyTokenWeight": 100,
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
     "Icon": "Chekov_Portrait",
     "RarityIcon": "Token_Rare",
     "id": "Chekov",
@@ -3314,8 +3355,8 @@
       "Operations"
     ],
     "AIProfile": "default-smart",
-    "DailyTokenVisible": true,
-    "DailyTokenWeight": 100,
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
     "Icon": "Tuvok_Portrait",
     "RarityIcon": "Token_Epic",
     "id": "Tuvok",
@@ -3357,8 +3398,8 @@
       "Tactical"
     ],
     "AIProfile": "default-smart",
-    "DailyTokenVisible": true,
-    "DailyTokenWeight": 100,
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
     "Icon": "Chang_Portrait",
     "RarityIcon": "Token_Epic",
     "id": "Chang",
@@ -3401,11 +3442,55 @@
       "Conn"
     ],
     "AIProfile": "default-smart",
-    "DailyTokenVisible": true,
-    "DailyTokenWeight": 100,
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
     "Icon": "Garak_Portrait",
     "RarityIcon": "Token_Legendary",
     "id": "Garak",
     "RankupTokenId": "Garak"
+  },
+  "PicardDixon": {
+    "Name": "Common_PicardDixon",
+    "Description": "Data_Character_PicardDixon_description",
+    "Rarity": "Legendary",
+    "Role": "Command",
+    "Type": "Disabled",
+    "Tags": [
+      "Human",
+      "Starfleet"
+    ],
+    "SkillIDs": [
+      "picarddixon_attack",
+      "picarddixon_skill1",
+      "picarddixon_skill2",
+      "picarddixon_skill3"
+    ],
+    "BridgeSkill": "picarddixon_bridge",
+    "Health": 0.52,
+    "Defense": 0.38,
+    "Attack": 0.72,
+    "Tech": 0.32,
+    "Speed": 0.56,
+    "GlancingChance": 0.33,
+    "GlancingDamage": 0.27,
+    "CritChance": 0.6,
+    "CritDamage": 0.4,
+    "Resolve": 0.9,
+    "ModelMenuPrefabName": "PicardDixon_Menu_Model",
+    "ModelBattlePrefabName": "PicardDixon_Battle_Model",
+    "MirrorModelBattlePrefabName": "PicardDixon_Battle_Mirror_Model",
+    "BattleAnimTreeName": "PicardDixon_BattleAnimTree",
+    "MenuAnimTreeName": "PicardDixon_MenuAnimTree",
+    "BridgeStations": [
+      "Captain",
+      "Conn"
+    ],
+    "AIProfile": "default-smart",
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
+    "Icon": "PicardDixon_Portrait",
+    "RarityIcon": "Token_Legendary",
+    "id": "PicardDixon",
+    "RankupTokenId": "PicardDixon"
   }
 }

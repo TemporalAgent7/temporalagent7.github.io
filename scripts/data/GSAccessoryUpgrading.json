@@ -1,5 +1,5 @@
 {
-  "f1b4a4b5-151c-453a-905e-e9e7c220e70f": {
+  "a8b1ec29-803a-4dc5-827f-3631083b2479": {
     "stringId": "NexusPower_UpgradeCost_Common_Lvl1",
     "Rarity": "Common",
     "Level": 1,
@@ -32,7 +32,7 @@
       "level": 1
     }
   },
-  "a1bf823a-9a58-40d5-87d9-a7f3c19b306a": {
+  "bb1715c6-a18e-497d-9654-a78fa2ffd305": {
     "stringId": "NexusPower_UpgradeCost_Common_Lvl2",
     "Rarity": "Common",
     "Level": 2,
@@ -65,7 +65,7 @@
       "level": 2
     }
   },
-  "f13020a9-57b3-4d7d-b325-e592375dd54a": {
+  "247d0eb9-0fe3-47e5-92fa-0eb06e564696": {
     "stringId": "NexusPower_UpgradeCost_Common_Lvl3",
     "Rarity": "Common",
     "Level": 3,
@@ -98,7 +98,7 @@
       "level": 3
     }
   },
-  "89125ee9-eabd-4e46-86c8-9f4b101f1f82": {
+  "073084b6-bfbb-4505-86b1-e1bbda1aeec9": {
     "stringId": "NexusPower_UpgradeCost_Common_Lvl4",
     "Rarity": "Common",
     "Level": 4,
@@ -131,7 +131,7 @@
       "level": 4
     }
   },
-  "dbe5581d-ae59-40c4-9557-d0c3db75b1ce": {
+  "80e58621-a5e3-405b-acf4-b43bdd7fa0ee": {
     "stringId": "NexusPower_UpgradeCost_Common_Lvl5",
     "Rarity": "Common",
     "Level": 5,
@@ -164,7 +164,7 @@
       "level": 5
     }
   },
-  "20189201-cede-4b38-9675-5516d170b7ac": {
+  "b24e2fa6-ee2c-46d9-ac5e-c0a21c850d73": {
     "stringId": "NexusPower_UpgradeCost_Rare_Lvl1",
     "Rarity": "Rare",
     "Level": 1,
@@ -197,7 +197,7 @@
       "level": 1
     }
   },
-  "284d3e29-267d-4bfe-ba4c-8e59ec2bf4eb": {
+  "dd9c4c93-1f43-4a47-b7da-a83f85ab5ab4": {
     "stringId": "NexusPower_UpgradeCost_Rare_Lvl2",
     "Rarity": "Rare",
     "Level": 2,
@@ -230,7 +230,7 @@
       "level": 2
     }
   },
-  "178e362e-45e3-44e8-b71e-60286be260c5": {
+  "2be43280-849b-4d06-94ae-8de5da753c7a": {
     "stringId": "NexusPower_UpgradeCost_Rare_Lvl3",
     "Rarity": "Rare",
     "Level": 3,
@@ -263,7 +263,7 @@
       "level": 3
     }
   },
-  "b09af707-8cdb-4868-bcf4-c071f832f509": {
+  "12759346-82c3-4e41-aef9-76cf4ebaf5d0": {
     "stringId": "NexusPower_UpgradeCost_Rare_Lvl4",
     "Rarity": "Rare",
     "Level": 4,
@@ -296,7 +296,7 @@
       "level": 4
     }
   },
-  "49668f41-c1d8-49f7-a666-433da9876f46": {
+  "4c73dba6-5a0f-4353-83df-214e47d0d4ff": {
     "stringId": "NexusPower_UpgradeCost_Rare_Lvl5",
     "Rarity": "Rare",
     "Level": 5,
@@ -329,7 +329,7 @@
       "level": 5
     }
   },
-  "7ab1bb68-6ce5-4be2-8fb7-1e553785109c": {
+  "ba09d93d-a72b-4dd2-acd5-310496a132d6": {
     "stringId": "NexusPower_UpgradeCost_VeryRare_Lvl1",
     "Rarity": "VeryRare",
     "Level": 1,
@@ -362,7 +362,7 @@
       "level": 1
     }
   },
-  "dc059d72-d8a7-4e7f-b442-38f2e42f1f52": {
+  "9c7f85b9-c45d-4dc7-bccb-29350789569c": {
     "stringId": "NexusPower_UpgradeCost_VeryRare_Lvl2",
     "Rarity": "VeryRare",
     "Level": 2,
@@ -395,7 +395,7 @@
       "level": 2
     }
   },
-  "52bd060c-2498-4f44-932f-77c679b8c907": {
+  "bb4af770-ac3e-40d8-b206-2c41957ff1ae": {
     "stringId": "NexusPower_UpgradeCost_VeryRare_Lvl3",
     "Rarity": "VeryRare",
     "Level": 3,
@@ -428,7 +428,7 @@
       "level": 3
     }
   },
-  "d46b0f9e-b92c-4d31-a372-d66c31dfb61f": {
+  "ed7b7f94-b523-4fbb-9d5d-6d23872d1ce5": {
     "stringId": "NexusPower_UpgradeCost_VeryRare_Lvl4",
     "Rarity": "VeryRare",
     "Level": 4,
@@ -461,7 +461,7 @@
       "level": 4
     }
   },
-  "19d820dd-e521-42d7-87ea-5ebefc8e8dad": {
+  "2d1871ed-251d-45c2-bd7f-d0fe316bebd8": {
     "stringId": "NexusPower_UpgradeCost_VeryRare_Lvl5",
     "Rarity": "VeryRare",
     "Level": 5,
@@ -494,7 +494,7 @@
       "level": 5
     }
   },
-  "0da0b152-316a-425c-a387-815b3de35592": {
+  "97203399-c8e9-4dcd-984c-6d4448840ff2": {
     "stringId": "NexusPower_UpgradeCost_Epic_Lvl1",
     "Rarity": "Epic",
     "Level": 1,
@@ -527,7 +527,7 @@
       "level": 1
     }
   },
-  "8868e651-a988-4bb4-8c98-6e8ad33e2446": {
+  "88b0d136-3698-424d-9c8e-4dfef1035cb4": {
     "stringId": "NexusPower_UpgradeCost_Epic_Lvl2",
     "Rarity": "Epic",
     "Level": 2,
@@ -560,7 +560,7 @@
       "level": 2
     }
   },
-  "acffb2d0-bb05-452e-9e9b-de658f9a7323": {
+  "ce53a09d-78d1-4f4d-a942-d304ae7a4c07": {
     "stringId": "NexusPower_UpgradeCost_Epic_Lvl3",
     "Rarity": "Epic",
     "Level": 3,
@@ -593,7 +593,7 @@
       "level": 3
     }
   },
-  "464c3a08-69aa-4495-822a-fcf07c3c5264": {
+  "7729409c-a85a-47d2-b3c7-d7b66d391cbc": {
     "stringId": "NexusPower_UpgradeCost_Epic_Lvl4",
     "Rarity": "Epic",
     "Level": 4,
@@ -626,7 +626,7 @@
       "level": 4
     }
   },
-  "10aee65e-205e-4170-a059-a1f3b3579934": {
+  "0f19c43d-558e-40b7-a2a0-7c14aa0021db": {
     "stringId": "NexusPower_UpgradeCost_Epic_Lvl5",
     "Rarity": "Epic",
     "Level": 5,
@@ -659,7 +659,7 @@
       "level": 5
     }
   },
-  "fa12affa-e3ee-4082-b545-9135bf323e7c": {
+  "62db3782-94b9-47ce-909e-0d83557e99db": {
     "stringId": "NexusPower_UpgradeCost_Legendary_Lvl1",
     "Rarity": "Legendary",
     "Level": 1,
@@ -692,7 +692,7 @@
       "level": 1
     }
   },
-  "d3fce18e-8f04-473f-9e91-58e2c4775f76": {
+  "3a4b52a5-f6e9-4a9c-8335-9e563a213105": {
     "stringId": "NexusPower_UpgradeCost_Legendary_Lvl2",
     "Rarity": "Legendary",
     "Level": 2,
@@ -725,7 +725,7 @@
       "level": 2
     }
   },
-  "d9a52bb1-b583-4b32-8550-399c67614bb6": {
+  "ba4fb3ae-cd87-4757-b24d-616b8e0384fe": {
     "stringId": "NexusPower_UpgradeCost_Legendary_Lvl3",
     "Rarity": "Legendary",
     "Level": 3,
@@ -758,7 +758,7 @@
       "level": 3
     }
   },
-  "150a9e0a-6e41-41c6-87b3-2b4f0fd56948": {
+  "33173d86-57ed-494c-9386-df2a193a0970": {
     "stringId": "NexusPower_UpgradeCost_Legendary_Lvl4",
     "Rarity": "Legendary",
     "Level": 4,
@@ -791,7 +791,7 @@
       "level": 4
     }
   },
-  "46618f70-7d50-45fb-a6ba-25df87dc3936": {
+  "dfd0cae2-18b0-483f-b485-f6e24710884d": {
     "stringId": "NexusPower_UpgradeCost_Legendary_Lvl5",
     "Rarity": "Legendary",
     "Level": 5,

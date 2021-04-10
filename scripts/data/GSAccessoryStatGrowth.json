@@ -1,5 +1,5 @@
 {
-  "7f62880e-20e1-46b2-99dd-5ca59570b8eb": {
+  "ccfb90bf-cdae-4167-aaba-f6abec869626": {
     "stringId": "NexusPower_StatBoost_Common_attack_Lvl1",
     "Rarity": "Common",
     "Level": 1,
@@ -11,7 +11,7 @@
       "stat": "Attack"
     }
   },
-  "a1cf5673-4ac3-4f9c-bc70-db4a356d7dbc": {
+  "9c22e340-e197-4a7b-b331-c6f5a1f4d410": {
     "stringId": "NexusPower_StatBoost_Common_attack_Lvl2",
     "Rarity": "Common",
     "Level": 2,
@@ -23,7 +23,7 @@
       "stat": "Attack"
     }
   },
-  "45522b3b-0ada-4cfa-821d-9de57c6826da": {
+  "209602d7-1343-4424-ac16-6d841ec13456": {
     "stringId": "NexusPower_StatBoost_Common_attack_Lvl3",
     "Rarity": "Common",
     "Level": 3,
@@ -35,7 +35,7 @@
       "stat": "Attack"
     }
   },
-  "97ae48b7-afdb-4905-9cb2-db1130d39744": {
+  "c8f33679-a5fa-4ab7-bc3e-fe8680d81970": {
     "stringId": "NexusPower_StatBoost_Common_attack_Lvl4",
     "Rarity": "Common",
     "Level": 4,
@@ -47,7 +47,7 @@
       "stat": "Attack"
     }
   },
-  "397914e3-eae0-4b16-81cf-6a85b59db2fd": {
+  "26b0ae43-0b94-43cf-b9f3-e0a4b693813a": {
     "stringId": "NexusPower_StatBoost_Common_attack_Lvl5",
     "Rarity": "Common",
     "Level": 5,
@@ -59,7 +59,7 @@
       "stat": "Attack"
     }
   },
-  "24851c2e-db18-4a7e-8e33-af1325106809": {
+  "3ca09b73-f287-4bae-bded-272ebccef631": {
     "stringId": "NexusPower_StatBoost_Rare_attack_Lvl1",
     "Rarity": "Rare",
     "Level": 1,
@@ -71,7 +71,7 @@
       "stat": "Attack"
     }
   },
-  "31f6b268-e07e-478f-a034-2db7c234da3d": {
+  "adaf2693-8133-4e72-8fb6-79816ec4ba5a": {
     "stringId": "NexusPower_StatBoost_Rare_attack_Lvl2",
     "Rarity": "Rare",
     "Level": 2,
@@ -83,7 +83,7 @@
       "stat": "Attack"
     }
   },
-  "8e494931-0ad5-429a-8e19-252312c483d5": {
+  "1bf3a938-fd43-4be0-9766-f45b7ae21a71": {
     "stringId": "NexusPower_StatBoost_Rare_attack_Lvl3",
     "Rarity": "Rare",
     "Level": 3,
@@ -95,7 +95,7 @@
       "stat": "Attack"
     }
   },
-  "f420c2bd-960c-4de4-81e9-f0e3c0f0e26c": {
+  "d0817d85-ec58-4829-9551-ce1da266072e": {
     "stringId": "NexusPower_StatBoost_Rare_attack_Lvl4",
     "Rarity": "Rare",
     "Level": 4,
@@ -107,7 +107,7 @@
       "stat": "Attack"
     }
   },
-  "cacfac8b-4b78-4b83-9a74-1a630b8ae4d9": {
+  "38721fc0-f37f-4509-b52d-96f48cf60db5": {
     "stringId": "NexusPower_StatBoost_Rare_attack_Lvl5",
     "Rarity": "Rare",
     "Level": 5,
@@ -119,7 +119,7 @@
       "stat": "Attack"
     }
   },
-  "afa9bc16-39cb-4fd9-8a2c-44c4cf379857": {
+  "7898eafe-5538-4a26-b160-f00f0d9f3019": {
     "stringId": "NexusPower_StatBoost_VeryRare_attack_Lvl1",
     "Rarity": "VeryRare",
     "Level": 1,
@@ -131,7 +131,7 @@
       "stat": "Attack"
     }
   },
-  "a662795b-cdaa-4d71-be8f-47384f4717cc": {
+  "75bca41f-cd35-471f-9fea-7a8a448f6f4a": {
     "stringId": "NexusPower_StatBoost_VeryRare_attack_Lvl2",
     "Rarity": "VeryRare",
     "Level": 2,
@@ -143,7 +143,7 @@
       "stat": "Attack"
     }
   },
-  "e3435448-6cf0-48ef-9a7d-6054e5268284": {
+  "0f31310f-d224-43a4-9219-7645f2843ed5": {
     "stringId": "NexusPower_StatBoost_VeryRare_attack_Lvl3",
     "Rarity": "VeryRare",
     "Level": 3,
@@ -155,7 +155,7 @@
       "stat": "Attack"
     }
   },
-  "e4e76c41-b0d9-4a13-8d4f-459d82dcdc4d": {
+  "297431a9-79fe-4ab6-8540-a1146da46d8f": {
     "stringId": "NexusPower_StatBoost_VeryRare_attack_Lvl4",
     "Rarity": "VeryRare",
     "Level": 4,
@@ -167,7 +167,7 @@
       "stat": "Attack"
     }
   },
-  "246f17aa-d35e-4e53-be30-e0675eb5c64d": {
+  "0e23d732-23b1-4106-9572-e85c676618e5": {
     "stringId": "NexusPower_StatBoost_VeryRare_attack_Lvl5",
     "Rarity": "VeryRare",
     "Level": 5,
@@ -179,7 +179,7 @@
       "stat": "Attack"
     }
   },
-  "c94639eb-7df8-42ad-a8a5-9b68b8089953": {
+  "5abd885d-3e46-480e-843a-46cd8109dc86": {
     "stringId": "NexusPower_StatBoost_Epic_attack_Lvl1",
     "Rarity": "Epic",
     "Level": 1,
@@ -191,7 +191,7 @@
       "stat": "Attack"
     }
   },
-  "c5f9fd1d-c774-45ec-bb85-a52ab21f65ca": {
+  "4370f3f9-5ac5-45cd-97a9-6499c834eef2": {
     "stringId": "NexusPower_StatBoost_Epic_attack_Lvl2",
     "Rarity": "Epic",
     "Level": 2,
@@ -203,7 +203,7 @@
       "stat": "Attack"
     }
   },
-  "82fbd207-211c-4ab0-b32a-058a90e03695": {
+  "5e4389ea-ce99-4f3a-beed-8dbc539bd3f3": {
     "stringId": "NexusPower_StatBoost_Epic_attack_Lvl3",
     "Rarity": "Epic",
     "Level": 3,
@@ -215,7 +215,7 @@
       "stat": "Attack"
     }
   },
-  "840ce142-6db1-4a7a-bb75-b67b761b633e": {
+  "325b3d14-d7e5-4094-ae84-a64ff5df11bf": {
     "stringId": "NexusPower_StatBoost_Epic_attack_Lvl4",
     "Rarity": "Epic",
     "Level": 4,
@@ -227,7 +227,7 @@
       "stat": "Attack"
     }
   },
-  "ede866c6-ed71-4aa9-88cb-1e09da33a131": {
+  "995e5889-937c-44b2-b496-db50fd03f454": {
     "stringId": "NexusPower_StatBoost_Epic_attack_Lvl5",
     "Rarity": "Epic",
     "Level": 5,
@@ -239,7 +239,7 @@
       "stat": "Attack"
     }
   },
-  "b5f274d4-4022-4d41-b399-75d5eeb98f6c": {
+  "026c16a2-7c4d-4ae5-b4bf-0fc01da84c83": {
     "stringId": "NexusPower_StatBoost_Legendary_attack_Lvl1",
     "Rarity": "Legendary",
     "Level": 1,
@@ -251,7 +251,7 @@
       "stat": "Attack"
     }
   },
-  "865e4772-0c5c-4c87-b13a-99000e43d647": {
+  "087cacc0-47db-4bd4-966b-bf3db48d86c0": {
     "stringId": "NexusPower_StatBoost_Legendary_attack_Lvl2",
     "Rarity": "Legendary",
     "Level": 2,
@@ -263,7 +263,7 @@
       "stat": "Attack"
     }
   },
-  "c62bd37d-1a77-4b36-9219-31c7ec39a290": {
+  "2cfdc342-9bc5-4a5b-a37e-f85c70eda836": {
     "stringId": "NexusPower_StatBoost_Legendary_attack_Lvl3",
     "Rarity": "Legendary",
     "Level": 3,
@@ -275,7 +275,7 @@
       "stat": "Attack"
     }
   },
-  "e3f5bc68-34a4-42a8-96d1-b927eb73d953": {
+  "9641a351-f8ff-416c-9721-ffdf588a6ebd": {
     "stringId": "NexusPower_StatBoost_Legendary_attack_Lvl4",
     "Rarity": "Legendary",
     "Level": 4,
@@ -287,7 +287,7 @@
       "stat": "Attack"
     }
   },
-  "4411997c-b633-4141-93a3-9a4389f7e011": {
+  "d8b30ad2-57d2-4299-b12d-1f1b1df55f3d": {
     "stringId": "NexusPower_StatBoost_Legendary_attack_Lvl5",
     "Rarity": "Legendary",
     "Level": 5,
@@ -299,7 +299,7 @@
       "stat": "Attack"
     }
   },
-  "2e8a6b46-dcdf-45c6-a988-aa698edb5e6a": {
+  "d345f517-8e54-4524-b16e-8e543329b10f": {
     "stringId": "NexusPower_StatBoost_Common_critChance_Lvl1",
     "Rarity": "Common",
     "Level": 1,
@@ -311,7 +311,7 @@
       "stat": "CritChance"
     }
   },
-  "fe65d089-5ef4-4db2-881a-aabf0a4185ee": {
+  "be588cd3-4716-4c0a-b7cb-0e948b81b8b7": {
     "stringId": "NexusPower_StatBoost_Common_critChance_Lvl2",
     "Rarity": "Common",
     "Level": 2,
@@ -323,7 +323,7 @@
       "stat": "CritChance"
     }
   },
-  "9fac665f-07c1-42fb-a5aa-acd387235ffe": {
+  "b7e70f0b-d859-4d0c-a1a4-4be5f22bf95f": {
     "stringId": "NexusPower_StatBoost_Common_critChance_Lvl3",
     "Rarity": "Common",
     "Level": 3,
@@ -335,7 +335,7 @@
       "stat": "CritChance"
     }
   },
-  "c3a4cdab-c9f8-4e0a-971f-627e364889ce": {
+  "14a3fd13-5ad2-4433-903e-0b3390109230": {
     "stringId": "NexusPower_StatBoost_Common_critChance_Lvl4",
     "Rarity": "Common",
     "Level": 4,
@@ -347,7 +347,7 @@
       "stat": "CritChance"
     }
   },
-  "38519094-15af-403f-86e4-1d6142add879": {
+  "c2fce53e-8154-4703-9bc1-ffa8e5737cd1": {
     "stringId": "NexusPower_StatBoost_Common_critChance_Lvl5",
     "Rarity": "Common",
     "Level": 5,
@@ -359,7 +359,7 @@
       "stat": "CritChance"
     }
   },
-  "1bf5d801-9ba9-4b39-b614-bbb0b3d6cde8": {
+  "1ce85f13-9c95-4613-99cf-6b63c2cc9af9": {
     "stringId": "NexusPower_StatBoost_Rare_critChance_Lvl1",
     "Rarity": "Rare",
     "Level": 1,
@@ -371,7 +371,7 @@
       "stat": "CritChance"
     }
   },
-  "240cdcfc-0796-4017-996b-cef69ab67327": {
+  "31f14f47-caf5-4b0d-83b2-2bdcd4778f2c": {
     "stringId": "NexusPower_StatBoost_Rare_critChance_Lvl2",
     "Rarity": "Rare",
     "Level": 2,
@@ -383,7 +383,7 @@
       "stat": "CritChance"
     }
   },
-  "ced8419b-b777-4386-9cd3-47b5dfdf2deb": {
+  "1bb38d4c-375e-4690-913d-25d55bb07837": {
     "stringId": "NexusPower_StatBoost_Rare_critChance_Lvl3",
     "Rarity": "Rare",
     "Level": 3,
@@ -395,7 +395,7 @@
       "stat": "CritChance"
     }
   },
-  "94418cfd-cb06-496a-b257-34363296298f": {
+  "4041d258-28b2-4d80-a2a4-c38cb1edd4ac": {
     "stringId": "NexusPower_StatBoost_Rare_critChance_Lvl4",
     "Rarity": "Rare",
     "Level": 4,
@@ -407,7 +407,7 @@
       "stat": "CritChance"
     }
   },
-  "522d3094-8adc-4cf1-9cbf-1e3fda5acec0": {
+  "41e2e9a0-08d7-4cec-853b-99af68f2241e": {
     "stringId": "NexusPower_StatBoost_Rare_critChance_Lvl5",
     "Rarity": "Rare",
     "Level": 5,
@@ -419,7 +419,7 @@
       "stat": "CritChance"
     }
   },
-  "aeebe61b-36c4-4750-9ee3-423915b80c97": {
+  "1bd17b22-0022-4785-b4c4-e3f23653c40c": {
     "stringId": "NexusPower_StatBoost_VeryRare_critChance_Lvl1",
     "Rarity": "VeryRare",
     "Level": 1,
@@ -431,7 +431,7 @@
       "stat": "CritChance"
     }
   },
-  "efbc1901-2a7d-4474-90d2-f0d33753cd6b": {
+  "d0f4ab44-2a9f-4928-bf18-2504b8edce66": {
     "stringId": "NexusPower_StatBoost_VeryRare_critChance_Lvl2",
     "Rarity": "VeryRare",
     "Level": 2,
@@ -443,7 +443,7 @@
       "stat": "CritChance"
     }
   },
-  "020b5ded-f496-4e7f-9be8-028d285c7d29": {
+  "acdd8a26-a327-4463-9bae-c4a8b62a2c20": {
     "stringId": "NexusPower_StatBoost_VeryRare_critChance_Lvl3",
     "Rarity": "VeryRare",
     "Level": 3,
@@ -455,7 +455,7 @@
       "stat": "CritChance"
     }
   },
-  "3927bdc0-46ea-4557-adc2-15ae32c6609c": {
+  "686221fd-0367-45cf-9ecf-e0bcd99f2a80": {
     "stringId": "NexusPower_StatBoost_VeryRare_critChance_Lvl4",
     "Rarity": "VeryRare",
     "Level": 4,
@@ -467,7 +467,7 @@
       "stat": "CritChance"
     }
   },
-  "758bdc98-db86-45b7-9784-239aeefee079": {
+  "069d0b18-0a9d-4195-a2be-11339175a695": {
     "stringId": "NexusPower_StatBoost_VeryRare_critChance_Lvl5",
     "Rarity": "VeryRare",
     "Level": 5,
@@ -479,7 +479,7 @@
       "stat": "CritChance"
     }
   },
-  "b6e0e843-9255-4297-87f9-c310f622e78d": {
+  "fbeff4c7-e242-4f2c-81cf-8b874462c1fb": {
     "stringId": "NexusPower_StatBoost_Epic_critChance_Lvl1",
     "Rarity": "Epic",
     "Level": 1,
@@ -491,7 +491,7 @@
       "stat": "CritChance"
     }
   },
-  "0d4cbb6d-71c2-4d9e-8019-e3ca39596d44": {
+  "a3404308-f426-4a5f-b7dc-67358eb90bbc": {
     "stringId": "NexusPower_StatBoost_Epic_critChance_Lvl2",
     "Rarity": "Epic",
     "Level": 2,
@@ -503,7 +503,7 @@
       "stat": "CritChance"
     }
   },
-  "697bc938-85f4-4a42-ae80-26defa7db1d5": {
+  "03e72b19-7f39-4aa7-9133-d7f103366a0a": {
     "stringId": "NexusPower_StatBoost_Epic_critChance_Lvl3",
     "Rarity": "Epic",
     "Level": 3,
@@ -515,7 +515,7 @@
       "stat": "CritChance"
     }
   },
-  "22852bc5-899f-4f6c-98b6-a2ef7803b0e8": {
+  "d9bd5f73-9784-459a-a8b1-245e339dd1cd": {
     "stringId": "NexusPower_StatBoost_Epic_critChance_Lvl4",
     "Rarity": "Epic",
     "Level": 4,
@@ -527,7 +527,7 @@
       "stat": "CritChance"
     }
   },
-  "a8246c27-909b-4080-8c28-30aa388b42a8": {
+  "f133cf13-df1f-445b-bbc4-da648dc39bbe": {
     "stringId": "NexusPower_StatBoost_Epic_critChance_Lvl5",
     "Rarity": "Epic",
     "Level": 5,
@@ -539,7 +539,7 @@
       "stat": "CritChance"
     }
   },
-  "4dd2e3ef-6755-4a1f-aeb7-3bcf3fe28f44": {
+  "8c928a5e-fa1a-41ce-be8e-54d3abab0a72": {
     "stringId": "NexusPower_StatBoost_Legendary_critChance_Lvl1",
     "Rarity": "Legendary",
     "Level": 1,
@@ -551,7 +551,7 @@
       "stat": "CritChance"
     }
   },
-  "2cdc7d2b-748b-4a8e-9971-63e4bd0e8d5d": {
+  "fda037f0-c199-406c-8029-c296e5b1fb6d": {
     "stringId": "NexusPower_StatBoost_Legendary_critChance_Lvl2",
     "Rarity": "Legendary",
     "Level": 2,
@@ -563,7 +563,7 @@
       "stat": "CritChance"
     }
   },
-  "198eb618-541e-48b3-aa44-78dd95d00e26": {
+  "ace5af75-5cc2-412f-897b-662eaf2affc6": {
     "stringId": "NexusPower_StatBoost_Legendary_critChance_Lvl3",
     "Rarity": "Legendary",
     "Level": 3,
@@ -575,7 +575,7 @@
       "stat": "CritChance"
     }
   },
-  "bd89fbc8-6fa5-4887-9342-526feeebcbcf": {
+  "afdc7683-988c-4c78-8a12-a983f090831e": {
     "stringId": "NexusPower_StatBoost_Legendary_critChance_Lvl4",
     "Rarity": "Legendary",
     "Level": 4,
@@ -587,7 +587,7 @@
       "stat": "CritChance"
     }
   },
-  "9963cfeb-cfbb-4939-a0ab-3a2c6b1eaab0": {
+  "6b602161-e745-46c9-928f-5fcded1a5954": {
     "stringId": "NexusPower_StatBoost_Legendary_critChance_Lvl5",
     "Rarity": "Legendary",
     "Level": 5,
@@ -599,7 +599,7 @@
       "stat": "CritChance"
     }
   },
-  "b7ec0c35-39e4-47bb-ab10-f46591d082bd": {
+  "c75364dd-fbe3-4809-be09-3a5bc4a3ab8d": {
     "stringId": "NexusPower_StatBoost_Common_critDamage_Lvl1",
     "Rarity": "Common",
     "Level": 1,
@@ -611,7 +611,7 @@
       "stat": "CritDamage"
     }
   },
-  "aae1151f-6073-4794-85f7-8aef32993634": {
+  "e9d09968-8520-43c0-ba3f-c0a71a12af4d": {
     "stringId": "NexusPower_StatBoost_Common_critDamage_Lvl2",
     "Rarity": "Common",
     "Level": 2,
@@ -623,7 +623,7 @@
       "stat": "CritDamage"
     }
   },
-  "8e6179aa-3c3a-4da8-893a-b838f17243fa": {
+  "026a0229-5749-40ea-8afc-6ea7d0b2a752": {
     "stringId": "NexusPower_StatBoost_Common_critDamage_Lvl3",
     "Rarity": "Common",
     "Level": 3,
@@ -635,7 +635,7 @@
       "stat": "CritDamage"
     }
   },
-  "a04502de-f702-439a-8d76-cf97d16dda18": {
+  "6c99de37-5040-4361-aa2c-2f3e77b2ef8c": {
     "stringId": "NexusPower_StatBoost_Common_critDamage_Lvl4",
     "Rarity": "Common",
     "Level": 4,
@@ -647,7 +647,7 @@
       "stat": "CritDamage"
     }
   },
-  "d78ceb66-8fc0-4404-9adc-b921f6fd7335": {
+  "8a04fce7-d72f-4607-8dc1-2a09abcb7dc6": {
     "stringId": "NexusPower_StatBoost_Common_critDamage_Lvl5",
     "Rarity": "Common",
     "Level": 5,
@@ -659,7 +659,7 @@
       "stat": "CritDamage"
     }
   },
-  "51e02599-518e-4883-bd8d-67da229c3a4d": {
+  "fd28aa02-6fda-4748-986f-7224ecf752a7": {
     "stringId": "NexusPower_StatBoost_Rare_critDamage_Lvl1",
     "Rarity": "Rare",
     "Level": 1,
@@ -671,7 +671,7 @@
       "stat": "CritDamage"
     }
   },
-  "f9eb9c9a-85c8-4d11-988d-090e217697a5": {
+  "9d5f6b26-ad12-4d5c-bf39-38616fb19ff8": {
     "stringId": "NexusPower_StatBoost_Rare_critDamage_Lvl2",
     "Rarity": "Rare",
     "Level": 2,
@@ -683,7 +683,7 @@
       "stat": "CritDamage"
     }
   },
-  "a4aed1f3-fdab-4171-9cbf-df6fc6278c55": {
+  "59835b9e-2fde-4e4e-b77b-92619a707a72": {
     "stringId": "NexusPower_StatBoost_Rare_critDamage_Lvl3",
     "Rarity": "Rare",
     "Level": 3,
@@ -695,7 +695,7 @@
       "stat": "CritDamage"
     }
   },
-  "79ef8f23-e67a-46e9-848f-27477ac716dd": {
+  "f12ba41b-d115-4fb2-9dda-fc1171e464f9": {
     "stringId": "NexusPower_StatBoost_Rare_critDamage_Lvl4",
     "Rarity": "Rare",
     "Level": 4,
@@ -707,7 +707,7 @@
       "stat": "CritDamage"
     }
   },
-  "b4599c2d-b1e6-4ef8-905a-7bd8273633dc": {
+  "ae1d2e4f-c7f1-4e9e-8343-3607c6432700": {
     "stringId": "NexusPower_StatBoost_Rare_critDamage_Lvl5",
     "Rarity": "Rare",
     "Level": 5,
@@ -719,7 +719,7 @@
       "stat": "CritDamage"
     }
   },
-  "6ed21c92-d153-498e-a8da-b143c44a1fc4": {
+  "63e14ca3-62ab-48b5-b6dd-7179f1f6ee8a": {
     "stringId": "NexusPower_StatBoost_VeryRare_critDamage_Lvl1",
     "Rarity": "VeryRare",
     "Level": 1,
@@ -731,7 +731,7 @@
       "stat": "CritDamage"
     }
   },
-  "ec558259-c824-4b5c-b185-36c7848df77c": {
+  "40dddabc-82f8-4029-950c-d3415bdd4afc": {
     "stringId": "NexusPower_StatBoost_VeryRare_critDamage_Lvl2",
     "Rarity": "VeryRare",
     "Level": 2,
@@ -743,7 +743,7 @@
       "stat": "CritDamage"
     }
   },
-  "bd3bb28d-fa15-4a9e-a631-d6b0c8457d6d": {
+  "e79a3e1d-f06d-4927-8a6e-59c8672c10b3": {
     "stringId": "NexusPower_StatBoost_VeryRare_critDamage_Lvl3",
     "Rarity": "VeryRare",
     "Level": 3,
@@ -755,7 +755,7 @@
       "stat": "CritDamage"
     }
   },
-  "9af81382-aa69-40a3-99c0-084d4c9c54b2": {
+  "4141f455-d22a-4d12-96ee-32f5f5cf06db": {
     "stringId": "NexusPower_StatBoost_VeryRare_critDamage_Lvl4",
     "Rarity": "VeryRare",
     "Level": 4,
@@ -767,7 +767,7 @@
       "stat": "CritDamage"
     }
   },
-  "816b5750-a24d-4daf-a1cb-c974e80e023c": {
+  "87993bb9-7c6a-45b3-a908-3ed465efbd22": {
     "stringId": "NexusPower_StatBoost_VeryRare_critDamage_Lvl5",
     "Rarity": "VeryRare",
     "Level": 5,
@@ -779,7 +779,7 @@
       "stat": "CritDamage"
     }
   },
-  "5222fc70-97cb-4665-b6c4-96738ce418be": {
+  "530ed713-bbea-4db8-b827-a9c3d1f77569": {
     "stringId": "NexusPower_StatBoost_Epic_critDamage_Lvl1",
     "Rarity": "Epic",
     "Level": 1,
@@ -791,7 +791,7 @@
       "stat": "CritDamage"
     }
   },
-  "0cfdd5b1-0088-4625-9f91-66aaff47cefd": {
+  "4b44bde6-7cbc-4abe-9eb7-a95d42611f7a": {
     "stringId": "NexusPower_StatBoost_Epic_critDamage_Lvl2",
     "Rarity": "Epic",
     "Level": 2,
@@ -803,7 +803,7 @@
       "stat": "CritDamage"
     }
   },
-  "8efc38af-6b88-4f6e-89cc-4e8a16fe9382": {
+  "1b35ef18-0d34-428d-a0c3-ab7b74134e1b": {
     "stringId": "NexusPower_StatBoost_Epic_critDamage_Lvl3",
     "Rarity": "Epic",
     "Level": 3,
@@ -815,7 +815,7 @@
       "stat": "CritDamage"
     }
   },
-  "88ad89c2-eab6-428e-ac42-b3110848f695": {
+  "fa1636f8-ef44-4f04-b749-96b30fd8d6b4": {
     "stringId": "NexusPower_StatBoost_Epic_critDamage_Lvl4",
     "Rarity": "Epic",
     "Level": 4,
@@ -827,7 +827,7 @@
       "stat": "CritDamage"
     }
   },
-  "02a7d29a-d45a-4cc2-841b-4ea5d7c0880d": {
+  "94de2f7f-5ada-4259-adf8-f9f72ec3eed3": {
     "stringId": "NexusPower_StatBoost_Epic_critDamage_Lvl5",
     "Rarity": "Epic",
     "Level": 5,
@@ -839,7 +839,7 @@
       "stat": "CritDamage"
     }
   },
-  "bb78082e-aab8-48cf-87f5-e6b4347e7856": {
+  "877341aa-01ad-4daa-876a-e4950654a285": {
     "stringId": "NexusPower_StatBoost_Legendary_critDamage_Lvl1",
     "Rarity": "Legendary",
     "Level": 1,
@@ -851,7 +851,7 @@
       "stat": "CritDamage"
     }
   },
-  "6edc7afd-853e-4508-b499-198761451b43": {
+  "2a46c623-0aa2-4f01-bfd4-df8e7d069dc5": {
     "stringId": "NexusPower_StatBoost_Legendary_critDamage_Lvl2",
     "Rarity": "Legendary",
     "Level": 2,
@@ -863,7 +863,7 @@
       "stat": "CritDamage"
     }
   },
-  "b5f2ce98-e3af-4581-afe8-358f7f29cf33": {
+  "e51b62e2-21f7-4bc8-8328-7f99ce667c65": {
     "stringId": "NexusPower_StatBoost_Legendary_critDamage_Lvl3",
     "Rarity": "Legendary",
     "Level": 3,
@@ -875,7 +875,7 @@
       "stat": "CritDamage"
     }
   },
-  "153d81b8-85fd-410d-b196-54f667d1ce43": {
+  "c186923d-edb3-4c31-9da5-71f328af9223": {
     "stringId": "NexusPower_StatBoost_Legendary_critDamage_Lvl4",
     "Rarity": "Legendary",
     "Level": 4,
@@ -887,7 +887,7 @@
       "stat": "CritDamage"
     }
   },
-  "5a77ff6d-ba67-40ef-922d-9ca5f9b73325": {
+  "8fb45779-403e-46a2-8ec0-1da4487d9857": {
     "stringId": "NexusPower_StatBoost_Legendary_critDamage_Lvl5",
     "Rarity": "Legendary",
     "Level": 5,
@@ -899,7 +899,7 @@
       "stat": "CritDamage"
     }
   },
-  "755a11da-643a-4e4f-8817-a2514e9fbc2a": {
+  "dc74c2b0-6923-4943-b6c8-cbb5ecd106d3": {
     "stringId": "NexusPower_StatBoost_Common_defense_Lvl1",
     "Rarity": "Common",
     "Level": 1,
@@ -911,7 +911,7 @@
       "stat": "Defense"
     }
   },
-  "bf0bb8f8-83d1-4223-bd76-263a2de4f09b": {
+  "9052bc8b-1f66-45b2-b063-03359b18834d": {
     "stringId": "NexusPower_StatBoost_Common_defense_Lvl2",
     "Rarity": "Common",
     "Level": 2,
@@ -923,7 +923,7 @@
       "stat": "Defense"
     }
   },
-  "7839d142-b3b5-4370-80cd-d3fa531be5f7": {
+  "885ceb30-6e13-41e9-9a8c-8a3c0c611f8f": {
     "stringId": "NexusPower_StatBoost_Common_defense_Lvl3",
     "Rarity": "Common",
     "Level": 3,
@@ -935,7 +935,7 @@
       "stat": "Defense"
     }
   },
-  "fc6ab94b-f429-480a-9c55-9549d48ec6a2": {
+  "fd9265d3-8663-4594-916d-f6b40b16a6c5": {
     "stringId": "NexusPower_StatBoost_Common_defense_Lvl4",
     "Rarity": "Common",
     "Level": 4,
@@ -947,7 +947,7 @@
       "stat": "Defense"
     }
   },
-  "e33bcc19-c6d9-46a2-b272-5d924b5b2eef": {
+  "cd72fe0e-bf0a-4695-bec4-96a96e794d80": {
     "stringId": "NexusPower_StatBoost_Common_defense_Lvl5",
     "Rarity": "Common",
     "Level": 5,
@@ -959,7 +959,7 @@
       "stat": "Defense"
     }
   },
-  "7bc5b176-6730-4ec4-82c9-a660b64d68a1": {
+  "d643c863-3f54-4592-965e-8c0d2fa680df": {
     "stringId": "NexusPower_StatBoost_Rare_defense_Lvl1",
     "Rarity": "Rare",
     "Level": 1,
@@ -971,7 +971,7 @@
       "stat": "Defense"
     }
   },
-  "700d9d65-c406-41ed-a567-b903e43f4a2d": {
+  "78677610-d8cb-4328-9b34-52bb86e9f5a8": {
     "stringId": "NexusPower_StatBoost_Rare_defense_Lvl2",
     "Rarity": "Rare",
     "Level": 2,
@@ -983,7 +983,7 @@
       "stat": "Defense"
     }
   },
-  "dcf8de33-456a-46ac-be1e-0117fbfff619": {
+  "154d07f0-c608-432f-a265-3dc73854db79": {
     "stringId": "NexusPower_StatBoost_Rare_defense_Lvl3",
     "Rarity": "Rare",
     "Level": 3,
@@ -995,7 +995,7 @@
       "stat": "Defense"
     }
   },
-  "538764ba-63fd-4a44-a4e5-71a9d29b1f3b": {
+  "d0d6ab4b-24a2-4592-b564-dad4ebde045c": {
     "stringId": "NexusPower_StatBoost_Rare_defense_Lvl4",
     "Rarity": "Rare",
     "Level": 4,
@@ -1007,7 +1007,7 @@
       "stat": "Defense"
     }
   },
-  "568c7c5f-5665-4465-806f-12a3713b41fb": {
+  "4e916575-b5ce-440e-a257-a55a1e052682": {
     "stringId": "NexusPower_StatBoost_Rare_defense_Lvl5",
     "Rarity": "Rare",
     "Level": 5,
@@ -1019,7 +1019,7 @@
       "stat": "Defense"
     }
   },
-  "049eb8af-a78a-4950-a44a-bbbcbed35559": {
+  "35c13cbe-a8fa-4ada-9372-7fdd6b7b274a": {
     "stringId": "NexusPower_StatBoost_VeryRare_defense_Lvl1",
     "Rarity": "VeryRare",
     "Level": 1,
@@ -1031,7 +1031,7 @@
       "stat": "Defense"
     }
   },
-  "f36267f8-e654-4fc7-b1bf-6a753a7acc35": {
+  "c045b7ab-d85f-48aa-9348-f2aa66c76171": {
     "stringId": "NexusPower_StatBoost_VeryRare_defense_Lvl2",
     "Rarity": "VeryRare",
     "Level": 2,
@@ -1043,7 +1043,7 @@
       "stat": "Defense"
     }
   },
-  "024a5316-9379-4d86-8d9a-fb568c5cb4c0": {
+  "ce03c30c-5016-4005-980e-ff319f2a8b79": {
     "stringId": "NexusPower_StatBoost_VeryRare_defense_Lvl3",
     "Rarity": "VeryRare",
     "Level": 3,
@@ -1055,7 +1055,7 @@
       "stat": "Defense"
     }
   },
-  "864b8ded-d781-4e48-ac0c-fa37f50f1b47": {
+  "d797b2df-5b75-4720-8e49-92c1181ddb77": {
     "stringId": "NexusPower_StatBoost_VeryRare_defense_Lvl4",
     "Rarity": "VeryRare",
     "Level": 4,
@@ -1067,7 +1067,7 @@
       "stat": "Defense"
     }
   },
-  "43eb7365-7ac8-445c-9f42-517c4ba71ee3": {
+  "92f0604a-39db-4c12-8faa-196c67c9d79e": {
     "stringId": "NexusPower_StatBoost_VeryRare_defense_Lvl5",
     "Rarity": "VeryRare",
     "Level": 5,
@@ -1079,7 +1079,7 @@
       "stat": "Defense"
     }
   },
-  "8880043e-a2fb-45fd-a81c-fecc7f93bfa7": {
+  "e0478eed-fbfd-4bea-8e65-82348c2f56e8": {
     "stringId": "NexusPower_StatBoost_Epic_defense_Lvl1",
     "Rarity": "Epic",
     "Level": 1,
@@ -1091,7 +1091,7 @@
       "stat": "Defense"
     }
   },
-  "40a8ee7a-37af-4ed9-bf45-14b73d379745": {
+  "c9ad9bc9-cc85-471a-8046-20fc9701bc57": {
     "stringId": "NexusPower_StatBoost_Epic_defense_Lvl2",
     "Rarity": "Epic",
     "Level": 2,
@@ -1103,7 +1103,7 @@
       "stat": "Defense"
     }
   },
-  "949c1fa9-0454-420b-a5bb-6df9c1f6dd59": {
+  "01017093-9954-480a-8ef0-2582d1472145": {
     "stringId": "NexusPower_StatBoost_Epic_defense_Lvl3",
     "Rarity": "Epic",
     "Level": 3,
@@ -1115,7 +1115,7 @@
       "stat": "Defense"
     }
   },
-  "16a50c8b-c0b1-4009-b731-f0d93ce033d1": {
+  "c9c67286-f791-4a57-a957-45f496312cc2": {
     "stringId": "NexusPower_StatBoost_Epic_defense_Lvl4",
     "Rarity": "Epic",
     "Level": 4,
@@ -1127,7 +1127,7 @@
       "stat": "Defense"
     }
   },
-  "8d520d00-40c8-4cf0-8340-73befb06df29": {
+  "58168d98-92f4-4d0d-ac80-128aae26e5bc": {
     "stringId": "NexusPower_StatBoost_Epic_defense_Lvl5",
     "Rarity": "Epic",
     "Level": 5,
@@ -1139,7 +1139,7 @@
       "stat": "Defense"
     }
   },
-  "7a4dfb9e-a099-4079-9846-8852513237c7": {
+  "a9b50649-3030-43de-bd7c-1edf372d2c36": {
     "stringId": "NexusPower_StatBoost_Legendary_defense_Lvl1",
     "Rarity": "Legendary",
     "Level": 1,
@@ -1151,7 +1151,7 @@
       "stat": "Defense"
     }
   },
-  "c979f044-4ee4-48fc-b8fb-41ac89851bd0": {
+  "45dc30db-5d17-4394-8fc9-b587e30e7229": {
     "stringId": "NexusPower_StatBoost_Legendary_defense_Lvl2",
     "Rarity": "Legendary",
     "Level": 2,
@@ -1163,7 +1163,7 @@
       "stat": "Defense"
     }
   },
-  "99fb7e44-7c10-4ab5-8608-eed12e4a45fb": {
+  "9fe02f08-77a4-4c80-8f0c-9e6124c9bd54": {
     "stringId": "NexusPower_StatBoost_Legendary_defense_Lvl3",
     "Rarity": "Legendary",
     "Level": 3,
@@ -1175,7 +1175,7 @@
       "stat": "Defense"
     }
   },
-  "515dba87-6a92-4d85-b5ea-8f099731a135": {
+  "b8affd07-0561-4972-96ee-04d1983d4d55": {
     "stringId": "NexusPower_StatBoost_Legendary_defense_Lvl4",
     "Rarity": "Legendary",
     "Level": 4,
@@ -1187,7 +1187,7 @@
       "stat": "Defense"
     }
   },
-  "2f7b9916-82fa-46b1-8079-0698a358c165": {
+  "1db01273-5223-4d17-8041-9b5323f3ce43": {
     "stringId": "NexusPower_StatBoost_Legendary_defense_Lvl5",
     "Rarity": "Legendary",
     "Level": 5,
@@ -1199,7 +1199,7 @@
       "stat": "Defense"
     }
   },
-  "283467ca-d11c-4200-82c6-7c1949e45b5b": {
+  "d3c5782f-3861-4c45-888e-0970da5c9477": {
     "stringId": "NexusPower_StatBoost_Common_glancingChance_Lvl1",
     "Rarity": "Common",
     "Level": 1,
@@ -1211,7 +1211,7 @@
       "stat": "GlancingChance"
     }
   },
-  "fbf3a3ec-0d70-4de0-b22c-e03a7bf1950a": {
+  "8f3c8a66-cd5f-4b19-89b7-ce8d76e454c9": {
     "stringId": "NexusPower_StatBoost_Common_glancingChance_Lvl2",
     "Rarity": "Common",
     "Level": 2,
@@ -1223,7 +1223,7 @@
       "stat": "GlancingChance"
     }
   },
-  "5e7b5fc9-88d0-4502-ad4b-f442c68f8168": {
+  "0586f145-1ca3-4a0d-a56b-33654b51c258": {
     "stringId": "NexusPower_StatBoost_Common_glancingChance_Lvl3",
     "Rarity": "Common",
     "Level": 3,
@@ -1235,7 +1235,7 @@
       "stat": "GlancingChance"
     }
   },
-  "c1fac5db-4bf6-48d4-abf1-ff28f3707666": {
+  "bc75d36f-7760-4ee3-b087-da6cc1f15515": {
     "stringId": "NexusPower_StatBoost_Common_glancingChance_Lvl4",
     "Rarity": "Common",
     "Level": 4,
@@ -1247,7 +1247,7 @@
       "stat": "GlancingChance"
     }
   },
-  "39197485-7415-4ed8-8870-9150286926e0": {
+  "4cbf20e8-678d-401e-9094-bc10396043b3": {
     "stringId": "NexusPower_StatBoost_Common_glancingChance_Lvl5",
     "Rarity": "Common",
     "Level": 5,
@@ -1259,7 +1259,7 @@
       "stat": "GlancingChance"
     }
   },
-  "59c879d1-dded-4092-a855-56541597eae9": {
+  "ee204ac0-5b95-484c-a330-d8366c602980": {
     "stringId": "NexusPower_StatBoost_Rare_glancingChance_Lvl1",
     "Rarity": "Rare",
     "Level": 1,
@@ -1271,7 +1271,7 @@
       "stat": "GlancingChance"
     }
   },
-  "9bfe4614-6656-46a5-aee5-236208905644": {
+  "ed086134-d475-43b5-8b9d-211099960c79": {
     "stringId": "NexusPower_StatBoost_Rare_glancingChance_Lvl2",
     "Rarity": "Rare",
     "Level": 2,
@@ -1283,7 +1283,7 @@
       "stat": "GlancingChance"
     }
   },
-  "e8d2149f-1fdb-4f4d-abdc-e016fa3aab80": {
+  "54e64106-ead4-426f-9538-e727b1475a4e": {
     "stringId": "NexusPower_StatBoost_Rare_glancingChance_Lvl3",
     "Rarity": "Rare",
     "Level": 3,
@@ -1295,7 +1295,7 @@
       "stat": "GlancingChance"
     }
   },
-  "d6c7cb7d-b14a-4994-ace7-be14abfa700f": {
+  "14545947-0e37-4ad9-8549-35e5c0a254dd": {
     "stringId": "NexusPower_StatBoost_Rare_glancingChance_Lvl4",
     "Rarity": "Rare",
     "Level": 4,
@@ -1307,7 +1307,7 @@
       "stat": "GlancingChance"
     }
   },
-  "e01247f4-1ead-44b8-bb60-16c7b8d27c76": {
+  "634ce2f8-bf7c-4a51-8417-bc80be609194": {
     "stringId": "NexusPower_StatBoost_Rare_glancingChance_Lvl5",
     "Rarity": "Rare",
     "Level": 5,
@@ -1319,7 +1319,7 @@
       "stat": "GlancingChance"
     }
   },
-  "0c294b71-cd61-47a5-9ac3-27a6b670c8d5": {
+  "c41ad7f7-c1bf-4883-ba63-8e50c1dcbec1": {
     "stringId": "NexusPower_StatBoost_VeryRare_glancingChance_Lvl1",
     "Rarity": "VeryRare",
     "Level": 1,
@@ -1331,7 +1331,7 @@
       "stat": "GlancingChance"
     }
   },
-  "e2e7440b-0ecc-40a0-bf88-a4c153e13755": {
+  "8bc3bb9d-1683-42af-935a-82875b5856d9": {
     "stringId": "NexusPower_StatBoost_VeryRare_glancingChance_Lvl2",
     "Rarity": "VeryRare",
     "Level": 2,
@@ -1343,7 +1343,7 @@
       "stat": "GlancingChance"
     }
   },
-  "e9f830f6-de53-4c8a-a733-e043bea1ea9e": {
+  "2c5cb3e6-0376-48c9-8299-919efd942340": {
     "stringId": "NexusPower_StatBoost_VeryRare_glancingChance_Lvl3",
     "Rarity": "VeryRare",
     "Level": 3,
@@ -1355,7 +1355,7 @@
       "stat": "GlancingChance"
     }
   },
-  "0cdbe32b-a555-4eb4-a203-89ecd8e5d720": {
+  "0e379d01-b193-4fe1-b85b-c4cec4af98a7": {
     "stringId": "NexusPower_StatBoost_VeryRare_glancingChance_Lvl4",
     "Rarity": "VeryRare",
     "Level": 4,
@@ -1367,7 +1367,7 @@
       "stat": "GlancingChance"
     }
   },
-  "cb78f843-11c9-4fad-b418-ff7a3a1f5cbb": {
+  "8c1615a7-7c24-48d7-bd26-8703765ed3c5": {
     "stringId": "NexusPower_StatBoost_VeryRare_glancingChance_Lvl5",
     "Rarity": "VeryRare",
     "Level": 5,
@@ -1379,7 +1379,7 @@
       "stat": "GlancingChance"
     }
   },
-  "d24bc9b3-1cf4-4e44-8e6b-95c8cb2ba21c": {
+  "c0ef3c12-df5b-458d-8e73-369a4bb17c58": {
     "stringId": "NexusPower_StatBoost_Epic_glancingChance_Lvl1",
     "Rarity": "Epic",
     "Level": 1,
@@ -1391,7 +1391,7 @@
       "stat": "GlancingChance"
     }
   },
-  "325e75af-afa8-4d45-bc33-abd32cd9c2dd": {
+  "0239440f-213b-4741-9f1a-71a7c26ccf7a": {
     "stringId": "NexusPower_StatBoost_Epic_glancingChance_Lvl2",
     "Rarity": "Epic",
     "Level": 2,
@@ -1403,7 +1403,7 @@
       "stat": "GlancingChance"
     }
   },
-  "54c67b14-dc0b-45da-ac7c-811be5d2d07b": {
+  "cde0c810-3f74-494c-b66f-bb1bcf78cd85": {
     "stringId": "NexusPower_StatBoost_Epic_glancingChance_Lvl3",
     "Rarity": "Epic",
     "Level": 3,
@@ -1415,7 +1415,7 @@
       "stat": "GlancingChance"
     }
   },
-  "e7a523de-c04c-4bb7-9167-54a0a1f28011": {
+  "adad6a67-afd2-4fb8-8642-caeb08ad1560": {
     "stringId": "NexusPower_StatBoost_Epic_glancingChance_Lvl4",
     "Rarity": "Epic",
     "Level": 4,
@@ -1427,7 +1427,7 @@
       "stat": "GlancingChance"
     }
   },
-  "0aaf2faf-0765-426a-9119-ef6915b3d275": {
+  "7d239165-ea58-4558-a8c8-7f11d55d4a0e": {
     "stringId": "NexusPower_StatBoost_Epic_glancingChance_Lvl5",
     "Rarity": "Epic",
     "Level": 5,
@@ -1439,7 +1439,7 @@
       "stat": "GlancingChance"
     }
   },
-  "ce5df808-7944-4415-ba9c-935981781cd6": {
+  "6adc4650-7161-440e-b309-0584121a80ef": {
     "stringId": "NexusPower_StatBoost_Legendary_glancingChance_Lvl1",
     "Rarity": "Legendary",
     "Level": 1,
@@ -1451,7 +1451,7 @@
       "stat": "GlancingChance"
     }
   },
-  "6af82b8b-6632-4b12-a128-0d812975d12d": {
+  "bda13e3e-3836-4bee-ac63-99987e0ea454": {
     "stringId": "NexusPower_StatBoost_Legendary_glancingChance_Lvl2",
     "Rarity": "Legendary",
     "Level": 2,
@@ -1463,7 +1463,7 @@
       "stat": "GlancingChance"
     }
   },
-  "4fd5a0ef-08fb-4b5f-876e-15613eedfada": {
+  "b79a9f69-818d-4cf4-a417-ead66a3bbd8e": {
     "stringId": "NexusPower_StatBoost_Legendary_glancingChance_Lvl3",
     "Rarity": "Legendary",
     "Level": 3,
@@ -1475,7 +1475,7 @@
       "stat": "GlancingChance"
     }
   },
-  "f55781a5-99e2-4690-81db-915d491b7fbc": {
+  "f438944a-6930-4bf9-886f-474e45397364": {
     "stringId": "NexusPower_StatBoost_Legendary_glancingChance_Lvl4",
     "Rarity": "Legendary",
     "Level": 4,
@@ -1487,7 +1487,7 @@
       "stat": "GlancingChance"
     }
   },
-  "21e596a7-1350-4beb-82b6-554892060704": {
+  "98497d97-289d-4a84-8068-4fb78575a348": {
     "stringId": "NexusPower_StatBoost_Legendary_glancingChance_Lvl5",
     "Rarity": "Legendary",
     "Level": 5,
@@ -1499,7 +1499,7 @@
       "stat": "GlancingChance"
     }
   },
-  "79a606b0-fad4-4f1a-b625-5c33a4b6c24d": {
+  "4895fec2-5676-41b4-9496-153da99f5e19": {
     "stringId": "NexusPower_StatBoost_Common_glancingDamage_Lvl1",
     "Rarity": "Common",
     "Level": 1,
@@ -1511,7 +1511,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "0ed55136-da4a-41be-8f4c-574943f67624": {
+  "88f5b58a-77a0-45bb-97f7-5ff399944a49": {
     "stringId": "NexusPower_StatBoost_Common_glancingDamage_Lvl2",
     "Rarity": "Common",
     "Level": 2,
@@ -1523,7 +1523,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "a47e9d80-fac1-4484-86fd-65815fc6ba8f": {
+  "7b12bc39-3d92-491e-9db4-decdf66fa3bb": {
     "stringId": "NexusPower_StatBoost_Common_glancingDamage_Lvl3",
     "Rarity": "Common",
     "Level": 3,
@@ -1535,7 +1535,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "4fe25ea4-0561-44c8-a5b0-53d5adfd0af4": {
+  "5650cd43-fc47-46f3-9841-a7f287b1db26": {
     "stringId": "NexusPower_StatBoost_Common_glancingDamage_Lvl4",
     "Rarity": "Common",
     "Level": 4,
@@ -1547,7 +1547,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "2d990982-7ff9-4149-9e15-d4a157cf7f54": {
+  "25705f23-723b-4552-92da-656e20043eb9": {
     "stringId": "NexusPower_StatBoost_Common_glancingDamage_Lvl5",
     "Rarity": "Common",
     "Level": 5,
@@ -1559,7 +1559,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "d5954b0d-b016-4ce1-b4f0-b97b5ea31f2e": {
+  "f774d9cc-eb94-4cd1-a5a6-0b49603abb96": {
     "stringId": "NexusPower_StatBoost_Rare_glancingDamage_Lvl1",
     "Rarity": "Rare",
     "Level": 1,
@@ -1571,7 +1571,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "a85abf9f-ba0f-4849-9f81-400d4ce53aa9": {
+  "d057b669-77e2-4f16-893e-d1a8860bfe7c": {
     "stringId": "NexusPower_StatBoost_Rare_glancingDamage_Lvl2",
     "Rarity": "Rare",
     "Level": 2,
@@ -1583,7 +1583,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "f570bd6e-bfd3-4c60-8c6d-ee8723f065df": {
+  "5e7b242e-091c-4a3f-93b2-af11fccf1f2e": {
     "stringId": "NexusPower_StatBoost_Rare_glancingDamage_Lvl3",
     "Rarity": "Rare",
     "Level": 3,
@@ -1595,7 +1595,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "a83e5477-4ba5-4659-9f9a-002fa72699c9": {
+  "8361fd8b-4eb9-4d4b-bbc4-ee0e000ebd7d": {
     "stringId": "NexusPower_StatBoost_Rare_glancingDamage_Lvl4",
     "Rarity": "Rare",
     "Level": 4,
@@ -1607,7 +1607,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "d6b904d8-e226-43d3-ae07-e7d823c4c886": {
+  "17e69176-9401-4114-a8f0-ae2ca1247950": {
     "stringId": "NexusPower_StatBoost_Rare_glancingDamage_Lvl5",
     "Rarity": "Rare",
     "Level": 5,
@@ -1619,7 +1619,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "62e2a241-1c58-4c45-9c24-70f82a55bb90": {
+  "c7be64f1-2ba1-4413-af59-ec6eb0a39426": {
     "stringId": "NexusPower_StatBoost_VeryRare_glancingDamage_Lvl1",
     "Rarity": "VeryRare",
     "Level": 1,
@@ -1631,7 +1631,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "bb7b0d5f-fce3-4199-b772-9bd5be456e9f": {
+  "938383dc-7499-40c6-8b91-1371381718ae": {
     "stringId": "NexusPower_StatBoost_VeryRare_glancingDamage_Lvl2",
     "Rarity": "VeryRare",
     "Level": 2,
@@ -1643,7 +1643,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "94e357b4-1fb5-48a1-bec4-b510b5626aee": {
+  "a1fd622e-eff9-4037-b5a2-caabb0bf7c1b": {
     "stringId": "NexusPower_StatBoost_VeryRare_glancingDamage_Lvl3",
     "Rarity": "VeryRare",
     "Level": 3,
@@ -1655,7 +1655,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "730a2007-6830-478a-948f-9f4087325ea0": {
+  "5622b1b1-9793-46f3-9f51-b8d31da962ef": {
     "stringId": "NexusPower_StatBoost_VeryRare_glancingDamage_Lvl4",
     "Rarity": "VeryRare",
     "Level": 4,
@@ -1667,7 +1667,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "9e105318-7295-4c01-93e4-0c3a2f0ad318": {
+  "c11076b8-ed8b-4cba-afbe-f58f91dc2194": {
     "stringId": "NexusPower_StatBoost_VeryRare_glancingDamage_Lvl5",
     "Rarity": "VeryRare",
     "Level": 5,
@@ -1679,7 +1679,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "14d982a2-c070-45db-8794-84d9e29623ed": {
+  "21768b1e-449f-41bf-8209-cfe0a7f47413": {
     "stringId": "NexusPower_StatBoost_Epic_glancingDamage_Lvl1",
     "Rarity": "Epic",
     "Level": 1,
@@ -1691,7 +1691,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "d2c8aab2-83c5-4f4f-b90c-b2c21f6a1c17": {
+  "9585d663-87ee-4a2c-959f-9df07040905d": {
     "stringId": "NexusPower_StatBoost_Epic_glancingDamage_Lvl2",
     "Rarity": "Epic",
     "Level": 2,
@@ -1703,7 +1703,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "4c97a702-22aa-4103-8362-caac8302f554": {
+  "ccf58f95-ab4e-43db-ad14-c536c395e46d": {
     "stringId": "NexusPower_StatBoost_Epic_glancingDamage_Lvl3",
     "Rarity": "Epic",
     "Level": 3,
@@ -1715,7 +1715,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "efa1be48-7f7b-4663-bba3-99314d57d3cc": {
+  "a0c45ddd-005f-4f0b-a19c-2ff08bca5874": {
     "stringId": "NexusPower_StatBoost_Epic_glancingDamage_Lvl4",
     "Rarity": "Epic",
     "Level": 4,
@@ -1727,7 +1727,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "02c09f3d-dd18-4cb3-80c5-bcce8accaeea": {
+  "6a5badea-1a69-4d56-9e19-159bd5336813": {
     "stringId": "NexusPower_StatBoost_Epic_glancingDamage_Lvl5",
     "Rarity": "Epic",
     "Level": 5,
@@ -1739,7 +1739,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "5339946c-4936-4707-a2df-471e75013c95": {
+  "2c49d4f2-2110-415f-bc81-bfb9afffe75e": {
     "stringId": "NexusPower_StatBoost_Legendary_glancingDamage_Lvl1",
     "Rarity": "Legendary",
     "Level": 1,
@@ -1751,7 +1751,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "39471ba2-896d-4e68-accf-39319f78c86b": {
+  "aa4c0634-1894-4d64-a5c4-e7adac5b5c1a": {
     "stringId": "NexusPower_StatBoost_Legendary_glancingDamage_Lvl2",
     "Rarity": "Legendary",
     "Level": 2,
@@ -1763,7 +1763,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "3efeef60-2d33-4ab7-9fd1-c7a9ce1ce151": {
+  "74a47fcc-eca4-4529-b728-0a4007435b8f": {
     "stringId": "NexusPower_StatBoost_Legendary_glancingDamage_Lvl3",
     "Rarity": "Legendary",
     "Level": 3,
@@ -1775,7 +1775,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "e4a667ae-88c6-4da2-bb47-4a7bc6f17179": {
+  "0353001b-efa6-4d6a-9fe9-3e2d983ac319": {
     "stringId": "NexusPower_StatBoost_Legendary_glancingDamage_Lvl4",
     "Rarity": "Legendary",
     "Level": 4,
@@ -1787,7 +1787,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "9f336c16-0121-4f68-9477-c6267ef2b1b7": {
+  "eaa9c467-36aa-4c80-84ea-499b67bd9b2e": {
     "stringId": "NexusPower_StatBoost_Legendary_glancingDamage_Lvl5",
     "Rarity": "Legendary",
     "Level": 5,
@@ -1799,7 +1799,7 @@
       "stat": "GlancingDamage"
     }
   },
-  "4bfb4ebc-196a-41f4-88b1-d7f4e0a920ac": {
+  "855e0fc9-ebc7-4a67-b128-9343c91957d7": {
     "stringId": "NexusPower_StatBoost_Common_health_Lvl1",
     "Rarity": "Common",
     "Level": 1,
@@ -1811,7 +1811,7 @@
       "stat": "Health"
     }
   },
-  "378704f2-38de-4a68-a29a-25adfd133fef": {
+  "f117f7da-9d65-4d23-a997-9358b5cce5aa": {
     "stringId": "NexusPower_StatBoost_Common_health_Lvl2",
     "Rarity": "Common",
     "Level": 2,
@@ -1823,7 +1823,7 @@
       "stat": "Health"
     }
   },
-  "422f952e-a987-4397-bbe9-aec6459c495a": {
+  "c14978ee-0c1d-4fc9-8b1e-344a2a9b35a5": {
     "stringId": "NexusPower_StatBoost_Common_health_Lvl3",
     "Rarity": "Common",
     "Level": 3,
@@ -1835,7 +1835,7 @@
       "stat": "Health"
     }
   },
-  "ba3e4a08-ea93-43dc-bbaa-fa165ca65370": {
+  "e0651b28-004e-4f26-b860-6d57943df036": {
     "stringId": "NexusPower_StatBoost_Common_health_Lvl4",
     "Rarity": "Common",
     "Level": 4,
@@ -1847,7 +1847,7 @@
       "stat": "Health"
     }
   },
-  "5b59f5ef-4e1b-4bc3-9e32-826be2f5ab86": {
+  "0cd19ee6-6c7b-467d-bdb2-69f5f46faa5b": {
     "stringId": "NexusPower_StatBoost_Common_health_Lvl5",
     "Rarity": "Common",
     "Level": 5,
@@ -1859,7 +1859,7 @@
       "stat": "Health"
     }
   },
-  "79c49f45-10c8-41ac-b7e4-df465eac3eb8": {
+  "298dbd6d-93f5-4451-a6c2-7981d75706fd": {
     "stringId": "NexusPower_StatBoost_Rare_health_Lvl1",
     "Rarity": "Rare",
     "Level": 1,
@@ -1871,7 +1871,7 @@
       "stat": "Health"
     }
   },
-  "4fd7a8b3-7f8c-4c30-966f-fee2e1d94bb5": {
+  "b6605d29-b7e8-41d7-ac16-9d449ec41363": {
     "stringId": "NexusPower_StatBoost_Rare_health_Lvl2",
     "Rarity": "Rare",
     "Level": 2,
@@ -1883,7 +1883,7 @@
       "stat": "Health"
     }
   },
-  "916958b1-d44b-4d1e-ae89-cb6b628547e0": {
+  "2947fcf5-0357-4b9d-8647-89abaf4f3159": {
     "stringId": "NexusPower_StatBoost_Rare_health_Lvl3",
     "Rarity": "Rare",
     "Level": 3,
@@ -1895,7 +1895,7 @@
       "stat": "Health"
     }
   },
-  "60ae14ae-5140-456c-8eb4-fd9dbd0680f4": {
+  "ffcc6eab-3c63-42fa-a3ae-13e1a7a54775": {
     "stringId": "NexusPower_StatBoost_Rare_health_Lvl4",
     "Rarity": "Rare",
     "Level": 4,
@@ -1907,7 +1907,7 @@
       "stat": "Health"
     }
   },
-  "f0ba1078-5135-4395-afa7-719bf3fbbf16": {
+  "069388ac-f58e-4269-bc30-5b2df0ce73fd": {
     "stringId": "NexusPower_StatBoost_Rare_health_Lvl5",
     "Rarity": "Rare",
     "Level": 5,
@@ -1919,7 +1919,7 @@
       "stat": "Health"
     }
   },
-  "51a54808-f117-461b-b81f-99f63cf84ed8": {
+  "a14072c8-1a20-415e-90ae-01a22fcad480": {
     "stringId": "NexusPower_StatBoost_VeryRare_health_Lvl1",
     "Rarity": "VeryRare",
     "Level": 1,
@@ -1931,7 +1931,7 @@
       "stat": "Health"
     }
   },
-  "31af42e1-c705-48d2-b930-b193a3de91f4": {
+  "1b02bfef-fe69-41d5-858f-ca195b9cfae7": {
     "stringId": "NexusPower_StatBoost_VeryRare_health_Lvl2",
     "Rarity": "VeryRare",
     "Level": 2,
@@ -1943,7 +1943,7 @@
       "stat": "Health"
     }
   },
-  "9f11da57-90c2-458d-9cfd-aa6f89526ce2": {
+  "4345b4e1-1546-4973-9b68-aa1b094d6a52": {
     "stringId": "NexusPower_StatBoost_VeryRare_health_Lvl3",
     "Rarity": "VeryRare",
     "Level": 3,
@@ -1955,7 +1955,7 @@
       "stat": "Health"
     }
   },
-  "0419f93c-ae0f-42c2-9549-62c28cafcd72": {
+  "a79be3cd-81da-4e6a-8a23-5b25bf4fd1bb": {
     "stringId": "NexusPower_StatBoost_VeryRare_health_Lvl4",
     "Rarity": "VeryRare",
     "Level": 4,
@@ -1967,7 +1967,7 @@
       "stat": "Health"
     }
   },
-  "f7ef3068-3520-41ee-b608-24e1c119c270": {
+  "e1e42163-cde5-4689-bc52-f14190e818e1": {
     "stringId": "NexusPower_StatBoost_VeryRare_health_Lvl5",
     "Rarity": "VeryRare",
     "Level": 5,
@@ -1979,7 +1979,7 @@
       "stat": "Health"
     }
   },
-  "0f758192-2017-4f74-862e-df72cce8f0cf": {
+  "4a59658a-c7b6-4bdc-9d64-816eb4ffb417": {
     "stringId": "NexusPower_StatBoost_Epic_health_Lvl1",
     "Rarity": "Epic",
     "Level": 1,
@@ -1991,7 +1991,7 @@
       "stat": "Health"
     }
   },
-  "5fbb8d03-a428-4ab7-a60c-76add02c7e26": {
+  "2f430355-61e2-4fcb-a4c4-2e1342b8a6df": {
     "stringId": "NexusPower_StatBoost_Epic_health_Lvl2",
     "Rarity": "Epic",
     "Level": 2,
@@ -2003,7 +2003,7 @@
       "stat": "Health"
     }
   },
-  "b16bb68e-3be0-4eda-8b0e-7f9859e9a460": {
+  "2caa2350-b67b-46a4-8931-08fa12e088fa": {
     "stringId": "NexusPower_StatBoost_Epic_health_Lvl3",
     "Rarity": "Epic",
     "Level": 3,
@@ -2015,7 +2015,7 @@
       "stat": "Health"
     }
   },
-  "3d373867-22a8-489a-ba2b-ad46ade15096": {
+  "d6137c98-bd6a-45fd-be13-7902e01e0b9e": {
     "stringId": "NexusPower_StatBoost_Epic_health_Lvl4",
     "Rarity": "Epic",
     "Level": 4,
@@ -2027,7 +2027,7 @@
       "stat": "Health"
     }
   },
-  "20885914-61ba-457f-aa02-e97539ae90c0": {
+  "79dd56aa-a109-4b44-89c1-c7d7a62f98b6": {
     "stringId": "NexusPower_StatBoost_Epic_health_Lvl5",
     "Rarity": "Epic",
     "Level": 5,
@@ -2039,7 +2039,7 @@
       "stat": "Health"
     }
   },
-  "ab2eaf7a-f38a-4eba-840d-c53585f71177": {
+  "4a936f03-e028-4de6-a0f9-5bf66e6e0dab": {
     "stringId": "NexusPower_StatBoost_Legendary_health_Lvl1",
     "Rarity": "Legendary",
     "Level": 1,
@@ -2051,7 +2051,7 @@
       "stat": "Health"
     }
   },
-  "dcc53ada-9cb4-4b0e-8d0e-da41be248ddb": {
+  "4b0745f0-cbd6-4126-ae69-975827350b66": {
     "stringId": "NexusPower_StatBoost_Legendary_health_Lvl2",
     "Rarity": "Legendary",
     "Level": 2,
@@ -2063,7 +2063,7 @@
       "stat": "Health"
     }
   },
-  "e1298eda-7147-4d40-ac9f-1f41c17b71a4": {
+  "9c18fa64-65b4-4104-95a0-9986f51f51db": {
     "stringId": "NexusPower_StatBoost_Legendary_health_Lvl3",
     "Rarity": "Legendary",
     "Level": 3,
@@ -2075,7 +2075,7 @@
       "stat": "Health"
     }
   },
-  "8b45c4e0-c930-452b-9022-fd7f493ec8ca": {
+  "6a280c8c-40f9-427b-bfd3-b8daf06e5e9f": {
     "stringId": "NexusPower_StatBoost_Legendary_health_Lvl4",
     "Rarity": "Legendary",
     "Level": 4,
@@ -2087,7 +2087,7 @@
       "stat": "Health"
     }
   },
-  "5099f1d1-9603-488e-b37c-8f71fe749936": {
+  "9e67aa97-a3fb-4772-9240-3e29c9e6d181": {
     "stringId": "NexusPower_StatBoost_Legendary_health_Lvl5",
     "Rarity": "Legendary",
     "Level": 5,
@@ -2099,7 +2099,7 @@
       "stat": "Health"
     }
   },
-  "2c9ba81c-5ebf-4b5c-8ddc-d13d312082ee": {
+  "c9adbdbf-24e7-47e1-80f0-5c35994d3384": {
     "stringId": "NexusPower_StatBoost_Common_resolve_Lvl1",
     "Rarity": "Common",
     "Level": 1,
@@ -2111,7 +2111,7 @@
       "stat": "Resolve"
     }
   },
-  "dde584e0-88c0-4bab-91ac-4cf996cb35ed": {
+  "2916fa4e-b2f2-40ed-b452-2f5da9c41f58": {
     "stringId": "NexusPower_StatBoost_Common_resolve_Lvl2",
     "Rarity": "Common",
     "Level": 2,
@@ -2123,7 +2123,7 @@
       "stat": "Resolve"
     }
   },
-  "cba85847-8d96-4c74-b721-bbc789b0cfdf": {
+  "eb93b42a-a144-468e-be9a-536547bdc3a1": {
     "stringId": "NexusPower_StatBoost_Common_resolve_Lvl3",
     "Rarity": "Common",
     "Level": 3,
@@ -2135,7 +2135,7 @@
       "stat": "Resolve"
     }
   },
-  "f87321d3-351d-4d33-8e2c-18b7765480da": {
+  "476959b1-718d-4dad-9294-1e6f69db5c10": {
     "stringId": "NexusPower_StatBoost_Common_resolve_Lvl4",
     "Rarity": "Common",
     "Level": 4,
@@ -2147,7 +2147,7 @@
       "stat": "Resolve"
     }
   },
-  "48113a88-3cdc-419c-8e9b-705b7458b6d2": {
+  "25655e87-7704-4ed2-9953-9fbe72efc57c": {
     "stringId": "NexusPower_StatBoost_Common_resolve_Lvl5",
     "Rarity": "Common",
     "Level": 5,
@@ -2159,7 +2159,7 @@
       "stat": "Resolve"
     }
   },
-  "2085ede6-a17f-4462-9a5d-234d74f4b935": {
+  "3bd90e73-5a2a-4772-ac0d-21bdae5676be": {
     "stringId": "NexusPower_StatBoost_Rare_resolve_Lvl1",
     "Rarity": "Rare",
     "Level": 1,
@@ -2171,7 +2171,7 @@
       "stat": "Resolve"
     }
   },
-  "10bd0217-7e48-4821-80b4-4d328bb374e1": {
+  "f0558d24-ca88-4230-aaef-8d8b722b3b90": {
     "stringId": "NexusPower_StatBoost_Rare_resolve_Lvl2",
     "Rarity": "Rare",
     "Level": 2,
@@ -2183,7 +2183,7 @@
       "stat": "Resolve"
     }
   },
-  "ad5bdea9-5cbe-4d8f-bfae-54e3cd7a7b38": {
+  "89dcb63c-d0f5-4763-b50c-d6041427c837": {
     "stringId": "NexusPower_StatBoost_Rare_resolve_Lvl3",
     "Rarity": "Rare",
     "Level": 3,
@@ -2195,7 +2195,7 @@
       "stat": "Resolve"
     }
   },
-  "0ecaae0e-8b21-4143-b76a-e22c27afb059": {
+  "e6a5c98c-fa58-42ba-b0ff-d0989df33884": {
     "stringId": "NexusPower_StatBoost_Rare_resolve_Lvl4",
     "Rarity": "Rare",
     "Level": 4,
@@ -2207,7 +2207,7 @@
       "stat": "Resolve"
     }
   },
-  "89f93672-ebb9-4ffc-9bd2-a37f6c9815d9": {
+  "b0945829-90c6-4e85-89c2-7bafcb6fae5d": {
     "stringId": "NexusPower_StatBoost_Rare_resolve_Lvl5",
     "Rarity": "Rare",
     "Level": 5,
@@ -2219,7 +2219,7 @@
       "stat": "Resolve"
     }
   },
-  "26997e6a-aa48-4f60-bcfd-9c4f58835350": {
+  "7bbf0be1-7766-4463-ad98-ef5b8050b678": {
     "stringId": "NexusPower_StatBoost_VeryRare_resolve_Lvl1",
     "Rarity": "VeryRare",
     "Level": 1,
@@ -2231,7 +2231,7 @@
       "stat": "Resolve"
     }
   },
-  "cdb8ac97-0068-4a0f-9079-27a12d22d4b1": {
+  "c25063ac-6ebc-4c5a-8996-b178113443ca": {
     "stringId": "NexusPower_StatBoost_VeryRare_resolve_Lvl2",
     "Rarity": "VeryRare",
     "Level": 2,
@@ -2243,7 +2243,7 @@
       "stat": "Resolve"
     }
   },
-  "d38e1a1e-c004-49f8-9e3e-647b9c67b9db": {
+  "d146de76-c64d-4cc1-9ec5-8debd8c73710": {
     "stringId": "NexusPower_StatBoost_VeryRare_resolve_Lvl3",
     "Rarity": "VeryRare",
     "Level": 3,
@@ -2255,7 +2255,7 @@
       "stat": "Resolve"
     }
   },
-  "fdaee498-60e8-4936-afbb-5f19f10041f6": {
+  "1f207401-935b-43f2-9233-238fde9f0d69": {
     "stringId": "NexusPower_StatBoost_VeryRare_resolve_Lvl4",
     "Rarity": "VeryRare",
     "Level": 4,
@@ -2267,7 +2267,7 @@
       "stat": "Resolve"
     }
   },
-  "606d56c1-ffc4-413d-a367-4824d4ce4567": {
+  "3c647651-fbd9-45df-8939-3eac540397b8": {
     "stringId": "NexusPower_StatBoost_VeryRare_resolve_Lvl5",
     "Rarity": "VeryRare",
     "Level": 5,
@@ -2279,7 +2279,7 @@
       "stat": "Resolve"
     }
   },
-  "f36c1dc4-beb3-431d-97f3-e2edb4aab47b": {
+  "32f3feab-0d8b-4707-bf39-c3fed171ecef": {
     "stringId": "NexusPower_StatBoost_Epic_resolve_Lvl1",
     "Rarity": "Epic",
     "Level": 1,
@@ -2291,7 +2291,7 @@
       "stat": "Resolve"
     }
   },
-  "e6bad543-aa9f-434a-9e7d-f8a464bef27b": {
+  "d30b06ea-eb44-4d5c-a72e-d13b004b9b15": {
     "stringId": "NexusPower_StatBoost_Epic_resolve_Lvl2",
     "Rarity": "Epic",
     "Level": 2,
@@ -2303,7 +2303,7 @@
       "stat": "Resolve"
     }
   },
-  "12f05970-6e5c-44a9-978d-c9b14298336f": {
+  "54c2fa65-1aba-4a77-9bea-ff963a4b3ad5": {
     "stringId": "NexusPower_StatBoost_Epic_resolve_Lvl3",
     "Rarity": "Epic",
     "Level": 3,
@@ -2315,7 +2315,7 @@
       "stat": "Resolve"
     }
   },
-  "8e7872ff-021b-41e7-806c-e1f295eccef8": {
+  "4597a526-8915-4e55-b3ae-716e7430e32b": {
     "stringId": "NexusPower_StatBoost_Epic_resolve_Lvl4",
     "Rarity": "Epic",
     "Level": 4,
@@ -2327,7 +2327,7 @@
       "stat": "Resolve"
     }
   },
-  "067feb2e-3470-4d43-83da-8eff91a1c5a2": {
+  "740359ec-9165-48f9-a009-dda4c5faa6ad": {
     "stringId": "NexusPower_StatBoost_Epic_resolve_Lvl5",
     "Rarity": "Epic",
     "Level": 5,
@@ -2339,7 +2339,7 @@
       "stat": "Resolve"
     }
   },
-  "49ed9b41-3ba0-45b2-8c67-950217f2ef5f": {
+  "d6ab5416-42b8-4854-8eb3-5eaf1e2d47d6": {
     "stringId": "NexusPower_StatBoost_Legendary_resolve_Lvl1",
     "Rarity": "Legendary",
     "Level": 1,
@@ -2351,7 +2351,7 @@
       "stat": "Resolve"
     }
   },
-  "e54257db-3eed-4502-936f-dd8628f43d50": {
+  "f90f941b-9be4-4088-970d-11fc1d690863": {
     "stringId": "NexusPower_StatBoost_Legendary_resolve_Lvl2",
     "Rarity": "Legendary",
     "Level": 2,
@@ -2363,7 +2363,7 @@
       "stat": "Resolve"
     }
   },
-  "a80a3973-ddb8-4a4d-ac8b-f648988a3717": {
+  "f006ae13-229e-48b6-a722-ff64560c31e0": {
     "stringId": "NexusPower_StatBoost_Legendary_resolve_Lvl3",
     "Rarity": "Legendary",
     "Level": 3,
@@ -2375,7 +2375,7 @@
       "stat": "Resolve"
     }
   },
-  "67c0d81a-f491-4c7d-9f29-c0611cc2e63a": {
+  "14680a91-971e-4a6c-9646-b1db5e9429d5": {
     "stringId": "NexusPower_StatBoost_Legendary_resolve_Lvl4",
     "Rarity": "Legendary",
     "Level": 4,
@@ -2387,7 +2387,7 @@
       "stat": "Resolve"
     }
   },
-  "aa445565-b791-4866-9c0b-380ec08adb52": {
+  "638d023e-3cd3-476f-abfc-b9c67f3f80b8": {
     "stringId": "NexusPower_StatBoost_Legendary_resolve_Lvl5",
     "Rarity": "Legendary",
     "Level": 5,
@@ -2399,7 +2399,7 @@
       "stat": "Resolve"
     }
   },
-  "6d3cc17c-5930-4236-b692-df6f86c56878": {
+  "efbbe003-eb4c-45b7-8cc8-762a8f038245": {
     "stringId": "NexusPower_StatBoost_Common_tech_Lvl1",
     "Rarity": "Common",
     "Level": 1,
@@ -2411,7 +2411,7 @@
       "stat": "Tech"
     }
   },
-  "ffe5f923-539e-45b3-afe7-da38b9d48a5e": {
+  "5510f1d1-6cf9-4c3f-a748-a6a614792530": {
     "stringId": "NexusPower_StatBoost_Common_tech_Lvl2",
     "Rarity": "Common",
     "Level": 2,
@@ -2423,7 +2423,7 @@
       "stat": "Tech"
     }
   },
-  "5f7b39d5-a551-4728-be1b-ac86f9a6fefd": {
+  "e6b53e34-fa55-4035-aa91-c45bb4e0f543": {
     "stringId": "NexusPower_StatBoost_Common_tech_Lvl3",
     "Rarity": "Common",
     "Level": 3,
@@ -2435,7 +2435,7 @@
       "stat": "Tech"
     }
   },
-  "59c576f8-882e-4b1d-88e3-e63d4471bac3": {
+  "9c318dcd-c142-459c-a0fa-0bb91f9e19b6": {
     "stringId": "NexusPower_StatBoost_Common_tech_Lvl4",
     "Rarity": "Common",
     "Level": 4,
@@ -2447,7 +2447,7 @@
       "stat": "Tech"
     }
   },
-  "c0d9abbf-0e5a-404e-ae64-de1d00482207": {
+  "a9d125d8-6f7e-4467-8ecc-a5dc61a2700e": {
     "stringId": "NexusPower_StatBoost_Common_tech_Lvl5",
     "Rarity": "Common",
     "Level": 5,
@@ -2459,7 +2459,7 @@
       "stat": "Tech"
     }
   },
-  "8e6977b4-a444-4384-b95f-61fece0529e1": {
+  "1b0dd4db-f10d-4cfa-ba5f-fad4c25e613a": {
     "stringId": "NexusPower_StatBoost_Rare_tech_Lvl1",
     "Rarity": "Rare",
     "Level": 1,
@@ -2471,7 +2471,7 @@
       "stat": "Tech"
     }
   },
-  "77e76171-acdb-4b99-9bdf-0114b28add68": {
+  "c5119202-1b90-412c-b14d-db8a11714562": {
     "stringId": "NexusPower_StatBoost_Rare_tech_Lvl2",
     "Rarity": "Rare",
     "Level": 2,
@@ -2483,7 +2483,7 @@
       "stat": "Tech"
     }
   },
-  "0dd462e3-1adf-4793-a1fb-1b60538a3a53": {
+  "91f474ea-b85e-4642-b466-bbb220e853a8": {
     "stringId": "NexusPower_StatBoost_Rare_tech_Lvl3",
     "Rarity": "Rare",
     "Level": 3,
@@ -2495,7 +2495,7 @@
       "stat": "Tech"
     }
   },
-  "2cb26e3a-7be3-49df-8651-6317df1d5b7a": {
+  "99a274b9-fc9e-475f-a0e0-2ba805d70c1c": {
     "stringId": "NexusPower_StatBoost_Rare_tech_Lvl4",
     "Rarity": "Rare",
     "Level": 4,
@@ -2507,7 +2507,7 @@
       "stat": "Tech"
     }
   },
-  "f03e635f-7d33-40a7-9aba-4d1b6939ae36": {
+  "a14fd899-5590-4676-9213-0cfd10b9df44": {
     "stringId": "NexusPower_StatBoost_Rare_tech_Lvl5",
     "Rarity": "Rare",
     "Level": 5,
@@ -2519,7 +2519,7 @@
       "stat": "Tech"
     }
   },
-  "f3666956-b723-4920-8712-392fb0f78f06": {
+  "fe3d3d1b-a688-487d-b6f5-0cda2c1b5f8c": {
     "stringId": "NexusPower_StatBoost_VeryRare_tech_Lvl1",
     "Rarity": "VeryRare",
     "Level": 1,
@@ -2531,7 +2531,7 @@
       "stat": "Tech"
     }
   },
-  "29a4fd44-fc93-47f1-a403-8e443bd00821": {
+  "a29c8000-37c1-4f7a-8489-f21baccf2132": {
     "stringId": "NexusPower_StatBoost_VeryRare_tech_Lvl2",
     "Rarity": "VeryRare",
     "Level": 2,
@@ -2543,7 +2543,7 @@
       "stat": "Tech"
     }
   },
-  "ca582d4e-a6f7-488d-ab66-7c0a442f25f6": {
+  "8cb9b82b-85cb-4f22-ad5f-e64d139f6d43": {
     "stringId": "NexusPower_StatBoost_VeryRare_tech_Lvl3",
     "Rarity": "VeryRare",
     "Level": 3,
@@ -2555,7 +2555,7 @@
       "stat": "Tech"
     }
   },
-  "259e40f7-f476-49ad-937b-cfa4911fa3de": {
+  "0bec3091-e475-467a-9477-e2d97657de72": {
     "stringId": "NexusPower_StatBoost_VeryRare_tech_Lvl4",
     "Rarity": "VeryRare",
     "Level": 4,
@@ -2567,7 +2567,7 @@
       "stat": "Tech"
     }
   },
-  "3125d0da-d263-4806-a164-3c6aa10e6d4e": {
+  "195ef327-0400-4399-9f00-c72dfe8f1ca9": {
     "stringId": "NexusPower_StatBoost_VeryRare_tech_Lvl5",
     "Rarity": "VeryRare",
     "Level": 5,
@@ -2579,7 +2579,7 @@
       "stat": "Tech"
     }
   },
-  "d7976bfb-19e8-4eab-9c0f-c4c089c8cf0a": {
+  "609b9a69-72ad-4f47-a949-215afd6c6a1e": {
     "stringId": "NexusPower_StatBoost_Epic_tech_Lvl1",
     "Rarity": "Epic",
     "Level": 1,
@@ -2591,7 +2591,7 @@
       "stat": "Tech"
     }
   },
-  "2f8a5abb-5a6c-4468-9941-83039f0ccc1f": {
+  "11d73143-802c-481f-9d0c-5404334f80f5": {
     "stringId": "NexusPower_StatBoost_Epic_tech_Lvl2",
     "Rarity": "Epic",
     "Level": 2,
@@ -2603,7 +2603,7 @@
       "stat": "Tech"
     }
   },
-  "a9f8ea65-a398-4d1b-9cc2-dc1af8bc7742": {
+  "af5918d9-e3be-4791-ab09-aacba3208d32": {
     "stringId": "NexusPower_StatBoost_Epic_tech_Lvl3",
     "Rarity": "Epic",
     "Level": 3,
@@ -2615,7 +2615,7 @@
       "stat": "Tech"
     }
   },
-  "37211a05-0b7e-4fce-a6c5-49bd08d73ff5": {
+  "2edf762c-af02-4a7d-814a-8bc569dec5da": {
     "stringId": "NexusPower_StatBoost_Epic_tech_Lvl4",
     "Rarity": "Epic",
     "Level": 4,
@@ -2627,7 +2627,7 @@
       "stat": "Tech"
     }
   },
-  "8d50e936-5535-4729-8136-a7eb4558f86b": {
+  "c0e125fd-eef2-44c9-aa2e-41959f288a0f": {
     "stringId": "NexusPower_StatBoost_Epic_tech_Lvl5",
     "Rarity": "Epic",
     "Level": 5,
@@ -2639,7 +2639,7 @@
       "stat": "Tech"
     }
   },
-  "08b007ef-bb1b-4466-bbc3-043a3dd0e42a": {
+  "04bef04b-8899-4fc8-bf38-643f49de21f9": {
     "stringId": "NexusPower_StatBoost_Legendary_tech_Lvl1",
     "Rarity": "Legendary",
     "Level": 1,
@@ -2651,7 +2651,7 @@
       "stat": "Tech"
     }
   },
-  "2aced7bf-7e5a-4dd6-b458-03ac7758a41b": {
+  "105278b2-f0fd-4406-9024-769e928a4fe0": {
     "stringId": "NexusPower_StatBoost_Legendary_tech_Lvl2",
     "Rarity": "Legendary",
     "Level": 2,
@@ -2663,7 +2663,7 @@
       "stat": "Tech"
     }
   },
-  "1ed269ce-76fc-4fb5-b57b-99272af3e612": {
+  "28f18be2-e857-4cb9-9df8-3224d5fc8983": {
     "stringId": "NexusPower_StatBoost_Legendary_tech_Lvl3",
     "Rarity": "Legendary",
     "Level": 3,
@@ -2675,7 +2675,7 @@
       "stat": "Tech"
     }
   },
-  "1dba7e1f-6f98-4289-be6e-23d86679a195": {
+  "adf245d8-9e8c-47c0-a736-d083dd521873": {
     "stringId": "NexusPower_StatBoost_Legendary_tech_Lvl4",
     "Rarity": "Legendary",
     "Level": 4,
@@ -2687,7 +2687,7 @@
       "stat": "Tech"
     }
   },
-  "37e1d311-05c5-4d94-b208-0e1dc6ac6885": {
+  "daa211f1-3a5c-4256-b829-ce316a09f11d": {
     "stringId": "NexusPower_StatBoost_Legendary_tech_Lvl5",
     "Rarity": "Legendary",
     "Level": 5,
