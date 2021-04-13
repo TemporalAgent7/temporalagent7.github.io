@@ -60,7 +60,7 @@ const MissionCanvasDisplay = ({ nodes, onNodeSelected }) => {
 	let curY = 400;
 
 	let translateX = (x: number) => curX * 0.05 + ((x - minX) * curX) / (origX * 1.3);
-	let translateY = (y: number) => curY * 0.05 + ((y - minY) * curY) / (origY * 1.3);
+	let translateY = (y: number) => curY * 0.05 + ((origY - y + minY) * curY) / (origY * 1.3);
 
 	let nodePositions = new Map<string, NodePosition>();
 	nodes.forEach((node) => {
