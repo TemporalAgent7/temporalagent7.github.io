@@ -74,6 +74,17 @@ export async function getMissionsStaticProps() {
 					// null explicitly because undefined cannot be JSON serialized
 					cutSceneDialogue.locDialogueHeader = cutSceneDialogue.dialogueHeader ? translationTable[cutSceneDialogue.dialogueHeader] : null;
 				});
+
+				mission.nodes[nodeId].exploration.forEach((exploration: any) => {
+					exploration.locObjectNameLoc = translationTable[exploration.objectNameLoc];
+					// TODO: multiple entries per exploration node?
+					exploration.locReactionDialogueId = exploration.reactionDialogueId ? translationTable[`Data_GSCutSceneDialogue_${exploration.reactionDialogueId}_01`] : "";
+					// null explicitly because undefined cannot be JSON serialized
+					exploration.locHeaderLoc = exploration.headerLoc ? translationTable[exploration.headerLoc] : "";
+
+					exploration.locResultHeaderLoc = exploration.resultHeaderLoc ? translationTable[exploration.resultHeaderLoc] : "";
+					exploration.locResultDescLoc = exploration.resultDescLoc ? translationTable[exploration.resultDescLoc] : "";
+				});
 			}
 		});
 	});
