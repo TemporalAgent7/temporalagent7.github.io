@@ -10,15 +10,6 @@ import { getMissionsStaticProps } from '../utils/ssr';
 
 const NODE_IMAGE_SIZE = 48;
 
-const formatRewardList = (rewards) => {
-	let result = [];
-	for (let name in rewards) {
-		result.push(`${name} x${rewards[name]}`);
-	}
-
-	return result.join(', ');
-};
-
 const MapNodeImage = ({ x, y, onClicked, selected }) => {
 	const [image] = useImage(`/assets/MapNode.png`);
 	const [imageSelected] = useImage(`/assets/MapNode_Complete.png`);
@@ -30,6 +21,7 @@ const MapNodeImage = ({ x, y, onClicked, selected }) => {
 			height={NODE_IMAGE_SIZE}
 			image={selected ? imageSelected : image}
 			onClick={() => onClicked()}
+			onTouchStart={() => onClicked()}
 		/>
 	);
 };
