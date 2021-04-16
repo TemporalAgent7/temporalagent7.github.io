@@ -164,6 +164,17 @@ const MissionNodeDisplay = ({ node }) => {
 				</>
 			)}
 
+			{node.battle.Easy && (<>
+				<Header as='h4'>Battle cover (extra shields)</Header>
+				<ul>
+					{Object.keys(node.battle).map((dif) => (
+						<li key={dif}>
+							<b>{dif}</b>: {node.battle[dif].baseCoverHealth} health for indices {node.battle[dif].coverSlotIndices.join(', ')}
+						</li>
+					))}
+				</ul>
+			</>)}
+
 			<List divided relaxed>
 				{node.exploration.map((exp) => (
 					<List.Item key={exp.difficulty + exp.index}>

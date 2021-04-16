@@ -4,6 +4,7 @@ import { loadJson, formatRewardList } from './utils.mjs';
 function generateEpisodesJson() {
 	const episodes = loadJson('GSEpisodes');
 	const missions = loadJson('GSMissions');
+	const battles = loadJson('GSBattle');
 	const missionsObjective = loadJson('GSMissionObjective');
 	const missionsRewards = loadJson('GSMissionRewards');
 	const missionsNodes = loadJson('GSMissionNodes');
@@ -82,7 +83,6 @@ function generateEpisodesJson() {
 						mission.nodes = missionsNodes[mission.nodesAsset].Nodes;
 
 						for (const nodeId in mission.nodes) {
-							//TODO: BaseCoverHealth and CoverSlotIndices from GSBattle
 							//TODO: enemy composition GSBattleEnemy
 
 							for (const ne in nodeEncounter) {
@@ -113,7 +113,6 @@ function generateEpisodesJson() {
 							mission.nodes[nodeId].first_reward = {};
 							mission.nodes[nodeId].replay_reward = {};
 
-							// TODO: merge difficulties together for better display
 							mission.nodes[nodeId].exploration = [];
 							for (const nex in nodeExploration) {
 								if (nodeExploration[nex].NodeId === nodeId) {
@@ -183,6 +182,17 @@ function generateEpisodesJson() {
 								console.warn(`Couldn't find position for mission node '${nodeId}'`);
 							} else {
 								mission.nodes[nodeId].position = pos.pos;
+							}
+
+							// Battles
+							mission.nodes[nodeId].battle = {};
+							for (const battleid in battles) {
+								if (battles[battleid].id.id === nodeId) {
+									mission.nodes[nodeId].battle[battles[battleid].id.difficulty] = {
+										baseCoverHealth: battles[battleid].BaseCoverHealth,
+										coverSlotIndices: battles[battleid].CoverSlotIndices
+									}
+								}
 							}
 						}
 					}
