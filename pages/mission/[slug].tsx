@@ -231,16 +231,20 @@ const MissionNodeDisplay = ({ node }) => {
 
 const MissionDisplay = ({ mission }) => {
 	const [selected, setSelected] = useState<string>(Object.keys(mission.nodes)[0]);
-	const router = useRouter();
 
 	return (
 		<div>
 			<p dangerouslySetInnerHTML={{ __html: mission.locObjective }} />
 			<p dangerouslySetInnerHTML={{ __html: mission.locDescription }} />
-			<p>
-				<b>Suggested power: </b>
-				{mission.suggestedPower}
-			</p>
+
+			<Header as='h4'>Suggested power</Header>
+			<ul>
+				{Object.keys(mission.suggestedPower).map((dif) => (
+					<li key={dif}>
+						<b>{dif}</b>: {mission.suggestedPower[dif]}
+					</li>
+				))}
+			</ul>
 
 			<Header as='h3'>Rewards</Header>
 

@@ -9,7 +9,6 @@ import { getMissionsStaticProps } from '../utils/ssr';
 
 const EpisodeDisplay = ({ episode }) => {
 	const router = useRouter();
-	let missions = episode.missions.filter((m) => m.difficulty == 'Easy');
 	return (
 		<Segment>
 			<Grid columns='equal' divided>
@@ -21,7 +20,7 @@ const EpisodeDisplay = ({ episode }) => {
 				</Grid.Column>
 				<Grid.Column width={11}>
 					<List divided relaxed>
-						{missions.map((mission) => (
+						{episode.missions.map((mission) => (
 							<List.Item key={mission.id}>
 								<List.Content>
 									<List.Header as='a' onClick={() => router.push(`/mission/${mission.nodesAsset}`)}>{mission.locName}</List.Header>

@@ -30,15 +30,23 @@ function generateEpisodesJson() {
 			episode.missions = [];
 			for (const ms in missions) {
 				if (missions[ms].EpisodeId === episode.id) {
+					let alreadyAdded = episode.missions.find(m => m.id == missions[ms].MissionId);
+					if (alreadyAdded) {
+						// This is another difficulty of an already added mission
+						alreadyAdded.suggestedPower[missions[ms].Difficulty] = missions[ms].SuggestedPower;
+						continue;
+					}
+
 					let mission = {
 						id: missions[ms].MissionId,
 						name: missions[ms].Name,
 						description: missions[ms].Description,
-						difficulty: missions[ms].Difficulty,
-						suggestedPower: missions[ms].SuggestedPower,
+						suggestedPower: {},
 						unlockReq: missions[ms].UnlockReq,
 						nodesAsset: missions[ms].NodesAsset
 					};
+
+					mission.suggestedPower[missions[ms].Difficulty] = missions[ms].SuggestedPower;
 
 					if (missionsObjective[mission.id]) {
 						mission.objective = missionsObjective[mission.id].ObjectiveLoc;
