@@ -2,6 +2,7 @@ import { generateCharactersJson } from './gencharacters.mjs';
 import { generateEpisodesJson } from './genepisodes.mjs';
 import { generateLocalizationJson } from './localization.mjs';
 import { generateItemsJson } from './genitems.mjs';
+import { generateLevelsJson } from './genlevels.mjs';
 import { generatePvPMarkdown } from './mdpvp.mjs';
 import { generateStatModMarkdown } from './mdstatmod.mjs';
 import { generateShuttlesMarkdown } from './mdshuttles.mjs';
@@ -26,6 +27,7 @@ if (process.argv[2] == "markdown") {
 	generateEpisodesJson();
 	generateLocalizationJson();
 	generateItemsJson();
+	generateLevelsJson();
 } else {
 	console.error('Requires one argument (markdown or json)!');
 	process.exit(1);
