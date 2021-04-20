@@ -101,7 +101,7 @@ function getStatValue(type, value, modifier, gearStatChange = 0, accessoryStatCh
 	let baseValue = lerpUnclamped(baseStatValue.MinValue, baseStatValue.MaxValue, value) * modifier;
 
 	// TODO: Understand how these are actually supposed to be calculated!
-	baseValue = value * modifier;
+	//baseValue = value * modifier;
 
 	let finalValue = baseValue + gearStatChange + accessoryStatChange;
 	finalValue = Math.max(finalValue, type == 'MaxHealth' ? 1 : 0);
