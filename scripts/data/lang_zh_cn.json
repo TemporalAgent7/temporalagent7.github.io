@@ -1,12 +1,12 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": "0"
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -1649100671315775696
+    "m_FileID": 1,
+    "m_PathID": "1277"
   },
   "m_Name": "lang_zh_cn",
   "List": [
@@ -203,7 +203,7 @@
       "value": "招募30名船员"
     },
     {
-      "key": "Achievements_GameCenter_Desc_02",
+      "key": "Achievements_GameCenter_Desc_03",
       "value": "招募60名船员"
     },
     {
@@ -21480,11 +21480,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill1_description_level1",
-      "value": "<color=#01e2ff>扫描</color>2名随机敌人。"
+      "value": "<color=#01e2ff>眩晕</color>3回合，并且<color=#01e2ff>-1士气</color>（<color=#01e2ff>无视掩护</color>）。"
     },
     {
       "key": "Data_Skill_Spock_Skill1_description_level2",
-      "value": "<color=#01e2ff>扫描</color>所有敌人。"
+      "value": "<color=#01e2ff>眩晕</color>3回合，并且<color=#01e2ff>-2士气</color>（<color=#01e2ff>无视掩护</color>）。"
     },
     {
       "key": "Data_Skill_Spock_Skill1_displayName",
@@ -21492,11 +21492,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill2_description_level1",
-      "value": "<color=#01e2ff>眩晕</color>3回合，并且<color=#01e2ff>-1士气</color>（<color=#01e2ff>无视掩护</color>）。"
+      "value": "使1名敌人<color=#01e2ff>-1士气</color>。使自己<color=#01e2ff>+1士气</color>。"
     },
     {
       "key": "Data_Skill_Spock_Skill2_description_level2",
-      "value": "<color=#01e2ff>眩晕</color>3回合，并且<color=#01e2ff>-2士气</color>（<color=#01e2ff>无视掩护</color>）。"
+      "value": "使1名敌人<color=#01e2ff>-2士气</color>。使自己<color=#01e2ff>+2士气</color>。"
     },
     {
       "key": "Data_Skill_Spock_Skill2_displayName",
@@ -21504,11 +21504,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill3_description_level1",
-      "value": "使1名敌人<color=#01e2ff>-1士气</color>。使自己<color=#01e2ff>+1士气</color>。"
+      "value": "<color=#01e2ff>扫描</color>2名随机敌人。"
     },
     {
       "key": "Data_Skill_Spock_Skill3_description_level2",
-      "value": "使1名敌人<color=#01e2ff>-2士气</color>。使自己<color=#01e2ff>+2士气</color>。"
+      "value": "<color=#01e2ff>扫描</color>所有敌人。"
     },
     {
       "key": "Data_Skill_Spock_Skill3_displayName",
@@ -23683,6 +23683,22 @@
       "value": "克林贡"
     },
     {
+      "key": "Events_Faction_FedVsBorg_Desc",
+      "value": "联邦与博格人一较高下！"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Main",
+      "value": "联邦与博格人一较高下！"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Post",
+      "value": "此活动已结束。"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Pre",
+      "value": "活动即将开始！请稍后回来！"
+    },
+    {
       "key": "Events_FactionEvent_CardBorg_Desc",
       "value": "卡达西人与博格人一较高下！活动结束时，积分最多的阵营将给予社群特殊奖励！"
     },
@@ -25325,6 +25341,14 @@
     {
       "key": "options_analytics_toggle_on",
       "value": "分析打开"
+    },
+    {
+      "key": "Options_Hoftixing_Toggle_Off",
+      "value": "关键更新关闭"
+    },
+    {
+      "key": "Options_Hoftixing_Toggle_On",
+      "value": "关键更新打开"
     },
     {
       "key": "options_pvp_title",
@@ -28927,6 +28951,10 @@
       "value": "打开：{0}"
     },
     {
+      "key": "UI_Operations_RefreshesIn",
+      "value": "刷新倒计时："
+    },
+    {
       "key": "UI_Options_AudioSettings",
       "value": "音频设置"
     },
@@ -30214,5 +30242,6 @@
       "key": "UIFX_MoraleCombo",
       "value": "士气连击"
     }
-  ]
+  ],
+  "_PathID": "1459"
 }

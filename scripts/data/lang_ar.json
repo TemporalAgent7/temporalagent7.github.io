@@ -1,12 +1,12 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": "0"
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -1649100671315775696
+    "m_FileID": 1,
+    "m_PathID": "1277"
   },
   "m_Name": "lang_ar",
   "List": [
@@ -203,7 +203,7 @@
       "value": "تم تجنيد 30 طاقمًا."
     },
     {
-      "key": "Achievements_GameCenter_Desc_02",
+      "key": "Achievements_GameCenter_Desc_03",
       "value": "تم تجنيد 60 طاقمًا."
     },
     {
@@ -21480,11 +21480,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill1_description_level1",
-      "value": "يمكنك إجراء المسح الضوئي لعدوين عشوائيين."
+      "value": "يمكنك استخدام الصعق لعدد 3 أدوار مع خفضالروح المعنوية بمقدار -1 (مع تجاهل التغطية)."
     },
     {
       "key": "Data_Skill_Spock_Skill1_description_level2",
-      "value": "يمكنك إجراء المسح الضوئي لجميع الحلفاء."
+      "value": "يمكنك استخدام الصعق لعدد 3 أدوار وخفضالروح المعنوية بمقدار -1 (مع تجاهل التغطية)."
     },
     {
       "key": "Data_Skill_Spock_Skill1_displayName",
@@ -21492,11 +21492,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill2_description_level1",
-      "value": "يمكنك استخدام الصعق لعدد 3 أدوار مع خفضالروح المعنوية بمقدار -1 (مع تجاهل التغطية)."
+      "value": "يمكنك خفض الروح المعنوية بمقدار -1 لعدو واحد. يمكنك يمكنك زيادة الروح المعنوية بمقدار +1 على الذات."
     },
     {
       "key": "Data_Skill_Spock_Skill2_description_level2",
-      "value": "يمكنك استخدام الصعق لعدد 3 أدوار وخفضالروح المعنوية بمقدار -1 (مع تجاهل التغطية)."
+      "value": "يمكنك خفض الروح المعنوية بمقدار -2 لعدو واحد. يمكنك يمكنك زيادة الروح المعنوية بمقدار +2 على الذات."
     },
     {
       "key": "Data_Skill_Spock_Skill2_displayName",
@@ -21504,11 +21504,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill3_description_level1",
-      "value": "يمكنك خفض الروح المعنوية بمقدار -1 لعدو واحد. يمكنك يمكنك زيادة الروح المعنوية بمقدار +1 على الذات."
+      "value": "يمكنك إجراء المسح الضوئي لعدوين عشوائيين."
     },
     {
       "key": "Data_Skill_Spock_Skill3_description_level2",
-      "value": "يمكنك خفض الروح المعنوية بمقدار -2 لعدو واحد. يمكنك يمكنك زيادة الروح المعنوية بمقدار +2 على الذات."
+      "value": "يمكنك إجراء المسح الضوئي لجميع الحلفاء."
     },
     {
       "key": "Data_Skill_Spock_Skill3_displayName",
@@ -23683,6 +23683,22 @@
       "value": "الكلينجون"
     },
     {
+      "key": "Events_Faction_FedVsBorg_Desc",
+      "value": "الاتحاد في مواجهة البورج!"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Main",
+      "value": "الاتحاد في مواجهة البورج!"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Post",
+      "value": "انتهى هذا الحدث"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Pre",
+      "value": "سيبدأ هذا الحدث قريبًا! أعد التحقق في وقت لاحق للعب!"
+    },
+    {
       "key": "Events_FactionEvent_CardBorg_Desc",
       "value": "الكارداسيان في مواجهة البورج! ستمنح الفصيلة التي تربح أكبر عدد من النقاط في نهاية الفعالية المجتمع مكافأة خاصة!"
     },
@@ -25325,6 +25341,14 @@
     {
       "key": "options_analytics_toggle_on",
       "value": "تشغيل التحليلات"
+    },
+    {
+      "key": "Options_Hoftixing_Toggle_Off",
+      "value": "التحديثات الهامة معطلة"
+    },
+    {
+      "key": "Options_Hoftixing_Toggle_On",
+      "value": "التحديثات الهامة قيد التشغيل"
     },
     {
       "key": "options_pvp_title",
@@ -28927,6 +28951,10 @@
       "value": "فتح: {0}"
     },
     {
+      "key": "UI_Operations_RefreshesIn",
+      "value": "يتم تحديثها في:"
+    },
+    {
       "key": "UI_Options_AudioSettings",
       "value": "إعدادات الصوت"
     },
@@ -30214,5 +30242,6 @@
       "key": "UIFX_MoraleCombo",
       "value": "مجموعة ضربات الروح المعنوية"
     }
-  ]
+  ],
+  "_PathID": "1447"
 }

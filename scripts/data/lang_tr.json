@@ -1,12 +1,12 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": "0"
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -1649100671315775696
+    "m_FileID": 1,
+    "m_PathID": "1277"
   },
   "m_Name": "lang_tr",
   "List": [
@@ -200,11 +200,11 @@
     },
     {
       "key": "Achievements_GameCenter_Desc_02",
-      "value": "60 Mürettebat alındı"
+      "value": "30 Mürettebat alındı"
     },
     {
-      "key": "Achievements_GameCenter_Desc_02",
-      "value": "30 Mürettebat alındı"
+      "key": "Achievements_GameCenter_Desc_03",
+      "value": "60 Mürettebat alındı"
     },
     {
       "key": "Achievements_GameCenter_Desc_04",
@@ -21476,11 +21476,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill1_description_level1",
-      "value": "Rastgele 2 düşmana <color=#01e2ff>Tarama</color> uygula."
+      "value": "3 tur boyunca <color=#01e2ff>Sersemlet</color> ve <color=#01e2ff>-1 Moral</color> uygula (<color=#01e2ff>Örtünmeyi Yok Sayar</color>)."
     },
     {
       "key": "Data_Skill_Spock_Skill1_description_level2",
-      "value": "Tüm düşmanlara <color=#01e2ff>Tarama</color> uygula."
+      "value": "3 tur boyunca <color=#01e2ff>Sersemlet</color> ve <color=#01e2ff>-2 Moral</color> uygula (<color=#01e2ff>Örtünmeyi Yok Sayar</color>)."
     },
     {
       "key": "Data_Skill_Spock_Skill1_displayName",
@@ -21488,11 +21488,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill2_description_level1",
-      "value": "3 tur boyunca <color=#01e2ff>Sersemlet</color> ve <color=#01e2ff>-1 Moral</color> uygula (<color=#01e2ff>Örtünmeyi Yok Sayar</color>)."
+      "value": "1 düşmana <color=#01e2ff>-1 Moral</color> uygula. Kendine <color=#01e2ff>+1 Moral</color> uygula."
     },
     {
       "key": "Data_Skill_Spock_Skill2_description_level2",
-      "value": "3 tur boyunca <color=#01e2ff>Sersemlet</color> ve <color=#01e2ff>-2 Moral</color> uygula (<color=#01e2ff>Örtünmeyi Yok Sayar</color>)."
+      "value": "1 düşmana <color=#01e2ff>-2 Moral</color> uygula. Kendine <color=#01e2ff>+2 Moral</color> uygula."
     },
     {
       "key": "Data_Skill_Spock_Skill2_displayName",
@@ -21500,11 +21500,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill3_description_level1",
-      "value": "1 düşmana <color=#01e2ff>-1 Moral</color> uygula. Kendine <color=#01e2ff>+1 Moral</color> uygula."
+      "value": "Rastgele 2 düşmana <color=#01e2ff>Tarama</color> uygula."
     },
     {
       "key": "Data_Skill_Spock_Skill3_description_level2",
-      "value": "1 düşmana <color=#01e2ff>-2 Moral</color> uygula. Kendine <color=#01e2ff>+2 Moral</color> uygula."
+      "value": "Tüm düşmanlara <color=#01e2ff>Tarama</color> uygula."
     },
     {
       "key": "Data_Skill_Spock_Skill3_displayName",
@@ -23679,6 +23679,22 @@
       "value": "Klingon"
     },
     {
+      "key": "Events_Faction_FedVsBorg_Desc",
+      "value": "Federasyon, Borglarla karşı karşıya geliyor!"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Main",
+      "value": "Federasyon, Borglarla karşı karşıya geliyor!"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Post",
+      "value": "Bu etkinlik bitti"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Pre",
+      "value": "Bu etkinlik yakında başlıyor! Oynamak için daha sonra tekrar kontrol et!"
+    },
+    {
       "key": "Events_FactionEvent_CardBorg_Desc",
       "value": "Kardasyalılar, Borglarla karşı karşıya geliyor! Etkinliğin sonunda en fazla puanı kazanan fraksiyon, topluluğa özel bir ödül kazandıracak!"
     },
@@ -25321,6 +25337,14 @@
     {
       "key": "options_analytics_toggle_on",
       "value": "ANALİZ AÇIK"
+    },
+    {
+      "key": "Options_Hoftixing_Toggle_Off",
+      "value": "KRITIK GÜNCELLEMELERI KAPALI"
+    },
+    {
+      "key": "Options_Hoftixing_Toggle_On",
+      "value": "KRITIK GÜNCELLEMELERI AÇIK"
     },
     {
       "key": "options_pvp_title",
@@ -28923,6 +28947,10 @@
       "value": "Aç: {0}"
     },
     {
+      "key": "UI_Operations_RefreshesIn",
+      "value": "YENİLENMESİNE KALAN:"
+    },
+    {
       "key": "UI_Options_AudioSettings",
       "value": "Ses Ayarları"
     },
@@ -30210,5 +30238,6 @@
       "key": "UIFX_MoraleCombo",
       "value": "Moral Kombosu"
     }
-  ]
+  ],
+  "_PathID": "1458"
 }

@@ -1,12 +1,12 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": "0"
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -1649100671315775696
+    "m_FileID": 1,
+    "m_PathID": "1277"
   },
   "m_Name": "lang_zh_tw",
   "List": [
@@ -203,7 +203,7 @@
       "value": "招募 30 名船員。"
     },
     {
-      "key": "Achievements_GameCenter_Desc_02",
+      "key": "Achievements_GameCenter_Desc_03",
       "value": "招募 60 名船員。"
     },
     {
@@ -21480,11 +21480,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill1_description_level1",
-      "value": "<color=#01e2ff>掃描</color> 2 名隨機敵人。"
+      "value": "<color=#01e2ff>擊暈</color>，持續 3 回合，並且<color=#01e2ff>降低 1 點士氣</color>（<color=#01e2ff>忽略遮罩</color>）。"
     },
     {
       "key": "Data_Skill_Spock_Skill1_description_level2",
-      "value": "<color=#01e2ff>掃描</color>所有敵人。"
+      "value": "<color=#01e2ff>擊暈</color>，持續 3 回合，並且<color=#01e2ff>降低 2 點士氣</color>（<color=#01e2ff>忽略遮罩</color>）。"
     },
     {
       "key": "Data_Skill_Spock_Skill1_displayName",
@@ -21492,11 +21492,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill2_description_level1",
-      "value": "<color=#01e2ff>擊暈</color>，持續 3 回合，並且<color=#01e2ff>降低 1 點士氣</color>（<color=#01e2ff>忽略遮罩</color>）。"
+      "value": "使 1 名敵人<color=#01e2ff>降低 1 點士氣</color>。使自己<color=#01e2ff>提高 1 點士氣</color>。"
     },
     {
       "key": "Data_Skill_Spock_Skill2_description_level2",
-      "value": "<color=#01e2ff>擊暈</color>，持續 3 回合，並且<color=#01e2ff>降低 2 點士氣</color>（<color=#01e2ff>忽略遮罩</color>）。"
+      "value": "使 1 名敵人<color=#01e2ff>降低 2 點士氣</color>。使自己<color=#01e2ff>提高 2 點士氣</color>。"
     },
     {
       "key": "Data_Skill_Spock_Skill2_displayName",
@@ -21504,11 +21504,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill3_description_level1",
-      "value": "使 1 名敵人<color=#01e2ff>降低 1 點士氣</color>。使自己<color=#01e2ff>提高 1 點士氣</color>。"
+      "value": "<color=#01e2ff>掃描</color> 2 名隨機敵人。"
     },
     {
       "key": "Data_Skill_Spock_Skill3_description_level2",
-      "value": "使 1 名敵人<color=#01e2ff>降低 2 點士氣</color>。使自己<color=#01e2ff>提高 2 點士氣</color>。"
+      "value": "<color=#01e2ff>掃描</color>所有敵人。"
     },
     {
       "key": "Data_Skill_Spock_Skill3_displayName",
@@ -23683,6 +23683,22 @@
       "value": "克林貢"
     },
     {
+      "key": "Events_Faction_FedVsBorg_Desc",
+      "value": "聯邦對抗博格人！"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Main",
+      "value": "聯邦對抗博格人！"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Post",
+      "value": "此活動已結束"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Pre",
+      "value": "本活動即將開始！請稍後再回來！"
+    },
+    {
       "key": "Events_FactionEvent_CardBorg_Desc",
       "value": "卡達西人對抗博格人！活動結束後，將會贈與獲得較高分數的陣營社群特殊獎勵！"
     },
@@ -25325,6 +25341,14 @@
     {
       "key": "options_analytics_toggle_on",
       "value": "分析開啟"
+    },
+    {
+      "key": "Options_Hoftixing_Toggle_Off",
+      "value": "關鍵更新關閉"
+    },
+    {
+      "key": "Options_Hoftixing_Toggle_On",
+      "value": "關鍵更新開啟"
     },
     {
       "key": "options_pvp_title",
@@ -28927,6 +28951,10 @@
       "value": "開啟：{0}"
     },
     {
+      "key": "UI_Operations_RefreshesIn",
+      "value": "更新時間："
+    },
+    {
       "key": "UI_Options_AudioSettings",
       "value": "音訊設定"
     },
@@ -30214,5 +30242,6 @@
       "key": "UIFX_MoraleCombo",
       "value": "士氣連擊"
     }
-  ]
+  ],
+  "_PathID": "1460"
 }

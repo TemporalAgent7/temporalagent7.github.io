@@ -1,12 +1,12 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": "0"
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -1649100671315775696
+    "m_FileID": 1,
+    "m_PathID": "1277"
   },
   "m_Name": "lang_ru",
   "List": [
@@ -203,7 +203,7 @@
       "value": "Завербовано 30 членов экипажа"
     },
     {
-      "key": "Achievements_GameCenter_Desc_02",
+      "key": "Achievements_GameCenter_Desc_03",
       "value": "Завербовано 60 членов экипажа"
     },
     {
@@ -21480,11 +21480,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill1_description_level1",
-      "value": "<color=#01e2ff>Сканирование</color> 2 случайных врагов."
+      "value": "<color=#01e2ff>Оглушение</color> на 3 хода и <color=#01e2ff>-1 от боевого духа</color> (<color=#01e2ff>игнорирует прикрытие</color>)."
     },
     {
       "key": "Data_Skill_Spock_Skill1_description_level2",
-      "value": "<color=#01e2ff>Сканирование</color> для всех врагов."
+      "value": "<color=#01e2ff>Оглушение</color> на 3 хода и <color=#01e2ff>-2 от боевого духа</color> (<color=#01e2ff>игнорирует прикрытие</color>)."
     },
     {
       "key": "Data_Skill_Spock_Skill1_displayName",
@@ -21492,11 +21492,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill2_description_level1",
-      "value": "<color=#01e2ff>Оглушение</color> на 3 хода и <color=#01e2ff>-1 от боевого духа</color> (<color=#01e2ff>игнорирует прикрытие</color>)."
+      "value": "<color=#01e2ff>-1 от боевого духа</color> для 1 врага. <color=#01e2ff>+1 к боевому духу</color> для себя."
     },
     {
       "key": "Data_Skill_Spock_Skill2_description_level2",
-      "value": "<color=#01e2ff>Оглушение</color> на 3 хода и <color=#01e2ff>-2 от боевого духа</color> (<color=#01e2ff>игнорирует прикрытие</color>)."
+      "value": "<color=#01e2ff>-2 от боевого духа</color> для 1 врага. <color=#01e2ff>+2 к боевому духу</color> для себя."
     },
     {
       "key": "Data_Skill_Spock_Skill2_displayName",
@@ -21504,11 +21504,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill3_description_level1",
-      "value": "<color=#01e2ff>-1 от боевого духа</color> для 1 врага. <color=#01e2ff>+1 к боевому духу</color> для себя."
+      "value": "<color=#01e2ff>Сканирование</color> 2 случайных врагов."
     },
     {
       "key": "Data_Skill_Spock_Skill3_description_level2",
-      "value": "<color=#01e2ff>-2 от боевого духа</color> для 1 врага. <color=#01e2ff>+2 к боевому духу</color> для себя."
+      "value": "<color=#01e2ff>Сканирование</color> для всех врагов."
     },
     {
       "key": "Data_Skill_Spock_Skill3_displayName",
@@ -23683,6 +23683,22 @@
       "value": "Клингон"
     },
     {
+      "key": "Events_Faction_FedVsBorg_Desc",
+      "value": "Федерация встретится лицом к лицу с борг!"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Main",
+      "value": "Федерация встретится лицом к лицу с борг!"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Post",
+      "value": "Это событие закончилось."
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Pre",
+      "value": "Это событие скоро начнется! Зайдите позже, чтобы участвовать в игре!"
+    },
+    {
       "key": "Events_FactionEvent_CardBorg_Desc",
       "value": "Кардассиане встретятся лицом к лицу с борг! Сторона, заработавшая наибольшее количество очков в конце события, принесет сообществу особую награду!"
     },
@@ -25325,6 +25341,14 @@
     {
       "key": "options_analytics_toggle_on",
       "value": "АНАЛИТИКА — ВКЛ."
+    },
+    {
+      "key": "Options_Hoftixing_Toggle_Off",
+      "value": "НЕОБХОДИМЫХ ОБНОВЛЕНИЙ ВЫКЛ"
+    },
+    {
+      "key": "Options_Hoftixing_Toggle_On",
+      "value": "НЕОБХОДИМЫХ ОБНОВЛЕНИЙ ВКЛ"
     },
     {
       "key": "options_pvp_title",
@@ -28927,6 +28951,10 @@
       "value": "Открыть: {0}"
     },
     {
+      "key": "UI_Operations_RefreshesIn",
+      "value": "ОБНОВЛЕНИЕ ЧЕРЕЗ:"
+    },
+    {
       "key": "UI_Options_AudioSettings",
       "value": "Параметры звука"
     },
@@ -30214,5 +30242,6 @@
       "key": "UIFX_MoraleCombo",
       "value": "Боевой дух (комбо)"
     }
-  ]
+  ],
+  "_PathID": "1457"
 }

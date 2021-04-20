@@ -1,12 +1,12 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": "0"
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -1649100671315775696
+    "m_FileID": 1,
+    "m_PathID": "1277"
   },
   "m_Name": "lang_ja",
   "List": [
@@ -203,7 +203,7 @@
       "value": "クルー30名を雇用しました"
     },
     {
-      "key": "Achievements_GameCenter_Desc_02",
+      "key": "Achievements_GameCenter_Desc_03",
       "value": "クルー60名を雇用しました"
     },
     {
@@ -21480,11 +21480,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill1_description_level1",
-      "value": "ランダムな敵2体に<color=#01e2ff>スキャン</color>の効果。"
+      "value": "<color=#01e2ff>スタン</color>(3ターン有効)、<color=#01e2ff>士気-1</color> (<color=#01e2ff>カバーを無視する</color>)。"
     },
     {
       "key": "Data_Skill_Spock_Skill1_description_level2",
-      "value": "敵全体に<color=#01e2ff>スキャン</color>の効果。"
+      "value": "<color=#01e2ff>スタン</color>(3ターン有効)、<color=#01e2ff>士気-2</color> (<color=#01e2ff>カバーを無視する</color>)。"
     },
     {
       "key": "Data_Skill_Spock_Skill1_displayName",
@@ -21492,11 +21492,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill2_description_level1",
-      "value": "<color=#01e2ff>スタン</color>(3ターン有効)、<color=#01e2ff>士気-1</color> (<color=#01e2ff>カバーを無視する</color>)。"
+      "value": "敵1体に<color=#01e2ff>士気-1</color> の効果。自分の<color=#01e2ff>士気+1</color>。"
     },
     {
       "key": "Data_Skill_Spock_Skill2_description_level2",
-      "value": "<color=#01e2ff>スタン</color>(3ターン有効)、<color=#01e2ff>士気-2</color> (<color=#01e2ff>カバーを無視する</color>)。"
+      "value": "敵1体に<color=#01e2ff>士気-2</color> の効果。自分の<color=#01e2ff>士気+2</color>。"
     },
     {
       "key": "Data_Skill_Spock_Skill2_displayName",
@@ -21504,11 +21504,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill3_description_level1",
-      "value": "敵1体に<color=#01e2ff>士気-1</color> の効果。自分の<color=#01e2ff>士気+1</color>。"
+      "value": "ランダムな敵2体に<color=#01e2ff>スキャン</color>の効果。"
     },
     {
       "key": "Data_Skill_Spock_Skill3_description_level2",
-      "value": "敵1体に<color=#01e2ff>士気-2</color> の効果。自分の<color=#01e2ff>士気+2</color>。"
+      "value": "敵全体に<color=#01e2ff>スキャン</color>の効果。"
     },
     {
       "key": "Data_Skill_Spock_Skill3_displayName",
@@ -23683,6 +23683,22 @@
       "value": "クリンゴン"
     },
     {
+      "key": "Events_Faction_FedVsBorg_Desc",
+      "value": "連邦とボーグの直接対決！"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Main",
+      "value": "連邦とボーグの直接対決！"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Post",
+      "value": "このイベントは終了しました"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Pre",
+      "value": "このイベントがもうすぐ始まります！プレイするには後ほどもう一度ご確認ください！"
+    },
+    {
       "key": "Events_FactionEvent_CardBorg_Desc",
       "value": "カーデシアとボーグの直接対決！イベント終了時に最もポイントが高い勢力には、特別な報酬が贈られます！"
     },
@@ -25325,6 +25341,14 @@
     {
       "key": "options_analytics_toggle_on",
       "value": "分析オン"
+    },
+    {
+      "key": "Options_Hoftixing_Toggle_Off",
+      "value": "重要なアップデートオフ"
+    },
+    {
+      "key": "Options_Hoftixing_Toggle_On",
+      "value": "重要なアップデートオン"
     },
     {
       "key": "options_pvp_title",
@@ -28927,6 +28951,10 @@
       "value": "開く： {0}"
     },
     {
+      "key": "UI_Operations_RefreshesIn",
+      "value": "更新まで："
+    },
+    {
       "key": "UI_Options_AudioSettings",
       "value": "オーディオ設定"
     },
@@ -30214,5 +30242,6 @@
       "key": "UIFX_MoraleCombo",
       "value": "士気コンボ"
     }
-  ]
+  ],
+  "_PathID": "1453"
 }

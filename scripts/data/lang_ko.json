@@ -1,12 +1,12 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": "0"
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -1649100671315775696
+    "m_FileID": 1,
+    "m_PathID": "1277"
   },
   "m_Name": "lang_ko",
   "List": [
@@ -203,7 +203,7 @@
       "value": "선원 30명을 영입했습니다."
     },
     {
-      "key": "Achievements_GameCenter_Desc_02",
+      "key": "Achievements_GameCenter_Desc_03",
       "value": "선원 60명을 영입했습니다."
     },
     {
@@ -21480,11 +21480,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill1_description_level1",
-      "value": "무작위 적 2명을 <color=#01e2ff>스캔</color>합니다."
+      "value": "3턴간 <color=#01e2ff>기절</color>시키며 <color=#01e2ff>사기 -1</color>을 적용합니다(<color=#01e2ff>엄폐 무시</color>)."
     },
     {
       "key": "Data_Skill_Spock_Skill1_description_level2",
-      "value": "모든 적을 <color=#01e2ff>스캔합니다</color>."
+      "value": "3턴간 <color=#01e2ff>기절</color>시키며 <color=#01e2ff>사기 -2</color>를 적용합니다(<color=#01e2ff>엄폐 무시</color>)."
     },
     {
       "key": "Data_Skill_Spock_Skill1_displayName",
@@ -21492,11 +21492,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill2_description_level1",
-      "value": "3턴간 <color=#01e2ff>기절</color>시키며 <color=#01e2ff>사기 -1</color>을 적용합니다(<color=#01e2ff>엄폐 무시</color>)."
+      "value": "적 1명에게 <color=#01e2ff>사기 -1</color>. 자신에게 <color=#01e2ff>사기 +1</color>을 적용합니다."
     },
     {
       "key": "Data_Skill_Spock_Skill2_description_level2",
-      "value": "3턴간 <color=#01e2ff>기절</color>시키며 <color=#01e2ff>사기 -2</color>를 적용합니다(<color=#01e2ff>엄폐 무시</color>)."
+      "value": "적 1명에게 <color=#01e2ff>사기 -2</color>. 자신에게 <color=#01e2ff>사기 +2</color>을 적용합니다."
     },
     {
       "key": "Data_Skill_Spock_Skill2_displayName",
@@ -21504,11 +21504,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill3_description_level1",
-      "value": "적 1명에게 <color=#01e2ff>사기 -1</color>. 자신에게 <color=#01e2ff>사기 +1</color>을 적용합니다."
+      "value": "무작위 적 2명을 <color=#01e2ff>스캔</color>합니다."
     },
     {
       "key": "Data_Skill_Spock_Skill3_description_level2",
-      "value": "적 1명에게 <color=#01e2ff>사기 -2</color>. 자신에게 <color=#01e2ff>사기 +2</color>을 적용합니다."
+      "value": "모든 적을 <color=#01e2ff>스캔합니다</color>."
     },
     {
       "key": "Data_Skill_Spock_Skill3_displayName",
@@ -23683,6 +23683,22 @@
       "value": "클링온"
     },
     {
+      "key": "Events_Faction_FedVsBorg_Desc",
+      "value": "연방이 보그와 맞붙었습니다!"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Main",
+      "value": "연방이 보그와 맞붙었습니다!"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Post",
+      "value": "이벤트가 종료되었습니다."
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Pre",
+      "value": "이 이벤트가 곧 시작됩니다! 플레이하려면 나중에 다시 확인하세요!"
+    },
+    {
       "key": "Events_FactionEvent_CardBorg_Desc",
       "value": "카다시안이 보그와 맞붙었습니다! 이벤트 종료 시점에 가장 많은 점수를 획득한 진영이 해당 커뮤니티에 특별한 보상을 수여합니다!"
     },
@@ -25325,6 +25341,14 @@
     {
       "key": "options_analytics_toggle_on",
       "value": "분석 켜기"
+    },
+    {
+      "key": "Options_Hoftixing_Toggle_Off",
+      "value": "중요한 업데이트끄기"
+    },
+    {
+      "key": "Options_Hoftixing_Toggle_On",
+      "value": "중요한 업데이트켜기"
     },
     {
       "key": "options_pvp_title",
@@ -28927,6 +28951,10 @@
       "value": "열림: {0}"
     },
     {
+      "key": "UI_Operations_RefreshesIn",
+      "value": "후 새로고침"
+    },
+    {
       "key": "UI_Options_AudioSettings",
       "value": "오디오 설정"
     },
@@ -30214,5 +30242,6 @@
       "key": "UIFX_MoraleCombo",
       "value": "사기 콤보"
     }
-  ]
+  ],
+  "_PathID": "1454"
 }

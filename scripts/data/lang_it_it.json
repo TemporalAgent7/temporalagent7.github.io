@@ -1,12 +1,12 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": "0"
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -1649100671315775696
+    "m_FileID": 1,
+    "m_PathID": "1277"
   },
   "m_Name": "lang_it_it",
   "List": [
@@ -203,7 +203,7 @@
       "value": "Reclutati 30 membri equipaggio."
     },
     {
-      "key": "Achievements_GameCenter_Desc_02",
+      "key": "Achievements_GameCenter_Desc_03",
       "value": "Reclutati 60 membri equipaggio."
     },
     {
@@ -21480,11 +21480,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill1_description_level1",
-      "value": "<color=#01e2ff>Scansione</color> a 2 nemici casuali."
+      "value": "<color=#01e2ff>Stordimento</color> per 3 turni e <color=#01e2ff>-1 Morale</color> (<color=#01e2ff>ignora Copertura</color>)."
     },
     {
       "key": "Data_Skill_Spock_Skill1_description_level2",
-      "value": "<color=#01e2ff>Scansione</color> a tutti i nemici."
+      "value": "<color=#01e2ff>Stordimento</color> per 3 turni e <color=#01e2ff>-2 Morale</color> (<color=#01e2ff>ignora Copertura</color>)."
     },
     {
       "key": "Data_Skill_Spock_Skill1_displayName",
@@ -21492,11 +21492,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill2_description_level1",
-      "value": "<color=#01e2ff>Stordimento</color> per 3 turni e <color=#01e2ff>-1 Morale</color> (<color=#01e2ff>ignora Copertura</color>)."
+      "value": "<color=#01e2ff>-1 Morale</color> a 1 nemico. <color=#01e2ff>+1 Morale</color> su di sé."
     },
     {
       "key": "Data_Skill_Spock_Skill2_description_level2",
-      "value": "<color=#01e2ff>Stordimento</color> per 3 turni e <color=#01e2ff>-2 Morale</color> (<color=#01e2ff>ignora Copertura</color>)."
+      "value": "<color=#01e2ff>-2 Morale</color> a 1 nemico. <color=#01e2ff>+2 Morale</color> su di sé."
     },
     {
       "key": "Data_Skill_Spock_Skill2_displayName",
@@ -21504,11 +21504,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill3_description_level1",
-      "value": "<color=#01e2ff>-1 Morale</color> a 1 nemico. <color=#01e2ff>+1 Morale</color> su di sé."
+      "value": "<color=#01e2ff>Scansione</color> a 2 nemici casuali."
     },
     {
       "key": "Data_Skill_Spock_Skill3_description_level2",
-      "value": "<color=#01e2ff>-2 Morale</color> a 1 nemico. <color=#01e2ff>+2 Morale</color> su di sé."
+      "value": "<color=#01e2ff>Scansione</color> a tutti i nemici."
     },
     {
       "key": "Data_Skill_Spock_Skill3_displayName",
@@ -23683,6 +23683,22 @@
       "value": "Klingon"
     },
     {
+      "key": "Events_Faction_FedVsBorg_Desc",
+      "value": "La Federazione si scontra con i Borg!"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Main",
+      "value": "La Federazione si scontra con i Borg!"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Post",
+      "value": "Questo evento è terminato"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Pre",
+      "value": "Questo evento inizierà presto! Torna più tardi per giocare!"
+    },
+    {
       "key": "Events_FactionEvent_CardBorg_Desc",
       "value": "I Cardassiani si scontrano con i Borg! La fazione che riceve più punti al termine dell'evento fornirà alla community una ricompensa speciale!"
     },
@@ -25325,6 +25341,14 @@
     {
       "key": "options_analytics_toggle_on",
       "value": "ANALISI ON"
+    },
+    {
+      "key": "Options_Hoftixing_Toggle_Off",
+      "value": "AGGIORNAMENTI CRITICI OFF"
+    },
+    {
+      "key": "Options_Hoftixing_Toggle_On",
+      "value": "AGGIORNAMENTI CRITICI ON"
     },
     {
       "key": "options_pvp_title",
@@ -28927,6 +28951,10 @@
       "value": "Aperti: {0}"
     },
     {
+      "key": "UI_Operations_RefreshesIn",
+      "value": "SI RESETTA TRA:"
+    },
+    {
       "key": "UI_Options_AudioSettings",
       "value": "Impostazioni audio"
     },
@@ -30214,5 +30242,6 @@
       "key": "UIFX_MoraleCombo",
       "value": "Combo Morale"
     }
-  ]
+  ],
+  "_PathID": "1452"
 }

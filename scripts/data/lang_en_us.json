@@ -1,15 +1,1819 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": "0"
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -1649100671315775696
+    "m_FileID": 1,
+    "m_PathID": "1277"
   },
   "m_Name": "lang_en_us",
   "List": [
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    },
     {
       "key": "",
       "value": ""
@@ -244,11 +2048,11 @@
     },
     {
       "key": "Achievements_GameCenter_Desc_02",
-      "value": "Recruit 60 Crew members."
+      "value": "Recruit 30 Crew members."
     },
     {
-      "key": "Achievements_GameCenter_Desc_02",
-      "value": "Recruit 30 Crew members."
+      "key": "Achievements_GameCenter_Desc_03",
+      "value": "Recruit 60 Crew members."
     },
     {
       "key": "Achievements_GameCenter_Desc_04",
@@ -1287,6 +3091,10 @@
       "value": "CHOOSE LANGUAGE"
     },
     {
+      "key": "Choose_Quality_Header",
+      "value": "Choose Quality"
+    },
+    {
       "key": "Common_AccessoriesSortingType_Equipped",
       "value": "Equipped"
     },
@@ -1569,6 +3377,10 @@
     {
       "key": "Common_Demote",
       "value": "Demote"
+    },
+    {
+      "key": "Common_Details",
+      "value": "Details"
     },
     {
       "key": "Common_Dilithium",
@@ -2303,6 +4115,10 @@
       "value": "Picard"
     },
     {
+      "key": "Common_PicardDixon",
+      "value": "Dixon Hill Picard"
+    },
+    {
       "key": "Common_Power",
       "value": "Power"
     },
@@ -2807,6 +4623,10 @@
       "value": "Talos Computer"
     },
     {
+      "key": "Common_View",
+      "value": "View"
+    },
+    {
       "key": "Common_Vulcan",
       "value": "Vulcan"
     },
@@ -3057,6 +4877,10 @@
     {
       "key": "Data_Character_Picard_description",
       "value": "Widely considered one of the greatest captains in Starfleet history. Renowned as a tactician, thinker and diplomat, Captain Picard strives to uphold the ideals of the Federation, no matter the challenges he faces."
+    },
+    {
+      "key": "Data_Character_PicardDixon_description",
+      "value": "TBD"
     },
     {
       "key": "Data_Character_Pike_description",
@@ -23363,6 +25187,62 @@
       "value": "Picard Maneuver"
     },
     {
+      "key": "Data_Skill_PicardDixon_Attack_description_level1",
+      "value": "<color=#01e2ff>3 x 35% Damage</color>."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Attack_description_level2",
+      "value": "<color=#01e2ff>3 x 50% Damage</color>."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Attack_displayName",
+      "value": "Burst Fire"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Bridge_description",
+      "value": "Starfleet gain <color=#01e2ff>+5%</color> Attack."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Bridge_displayName",
+      "value": "The Big Goodbye"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_description_level1",
+      "value": "<color=#01e2ff>+1 Morale</color> and <color=#01e2ff>Cleanse</color> to 1 ally."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_description_level2",
+      "value": "<color=#01e2ff>+2 Morale</color> and <color=#01e2ff>Cleanse</color> to 1 ally."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_displayName",
+      "value": "Suave"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_description_level1",
+      "value": "<color=#01e2ff>Stun</color> and <color=#01e2ff>Defense Down</color> to 1 enemy for 3 turns."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_description_level2",
+      "value": "<color=#01e2ff>Stun</color>, <color=#01e2ff>Major Defense Down</color>, and <color=#01e2ff>Skill Lock</color> to 1 enemy for 3 turns."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_displayName",
+      "value": "Freeze Program"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_description_level1",
+      "value": "<color=#01e2ff>20 x 15% Damage</color> (<color=#01e2ff>10% Chance</color> to <color=#01e2ff>Wound</color>) to random enemies."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_description_level2",
+      "value": "<color=#01e2ff>20 x 20% Damage</color> (<color=#01e2ff>25% Chance</color> to <color=#01e2ff>Wound</color>) to random enemies."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_displayName",
+      "value": "Fury"
+    },
+    {
       "key": "Data_Skill_PicardOld_Attack_description_level1",
       "value": "Deal <color=#01e2ff>2 x 50% Damage</color>."
     },
@@ -26171,6 +28051,22 @@
       "value": "Klingon"
     },
     {
+      "key": "Events_Faction_FedVsBorg_Desc",
+      "value": "The Federation faces off against the Borg!"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Main",
+      "value": "The Federation faces off against the Borg!"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Post",
+      "value": "This event has ended"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Pre",
+      "value": "This event is starting soon! Check back later to play!"
+    },
+    {
       "key": "Events_FactionEvent_CardBorg_Desc",
       "value": "The Cardassians face off against the Borg! The faction that earns the most points at the end of the event will grant the community a special reward!"
     },
@@ -27567,6 +29463,26 @@
       "value": "SUPPLY BOX DISCOVERED"
     },
     {
+      "key": "News_Crew_Generic_Headline",
+      "value": "New Crew"
+    },
+    {
+      "key": "News_Episode_Generic_Headline",
+      "value": "New Episode"
+    },
+    {
+      "key": "News_FactionEvent_Generic_Headline",
+      "value": "New Faction Event"
+    },
+    {
+      "key": "News_SoloEvent_Generic_Headline",
+      "value": "New Solo Event"
+    },
+    {
+      "key": "News_Update_Generic_Headline",
+      "value": "New Update"
+    },
+    {
       "key": "No Items Summoned",
       "value": "No Items Summoned"
     },
@@ -27829,6 +29745,14 @@
     {
       "key": "options_analytics_toggle_on",
       "value": "ANALYTICS ON"
+    },
+    {
+      "key": "Options_Hoftixing_Toggle_Off",
+      "value": "CRITICAL UPDATE OFF"
+    },
+    {
+      "key": "Options_Hoftixing_Toggle_On",
+      "value": "CRITICAL UPDATE ON"
     },
     {
       "key": "options_pvp_title",
@@ -29619,6 +31543,10 @@
       "value": "TAP TO CONTINUE"
     },
     {
+      "key": "UI_CaptainLog_Panel_FooterNote_TapToContinue_Click",
+      "value": "CLICK TO CONTINUE"
+    },
+    {
       "key": "UI_CaptainLog_Panel_FooterNote_TapToContinue_Gamepad",
       "value": "PRESS {0} TO CONTINUE"
     },
@@ -29685,6 +31613,10 @@
     {
       "key": "UI_Common_Advance",
       "value": "Tap to advance"
+    },
+    {
+      "key": "UI_Common_Advance_Click",
+      "value": "Click to advance"
     },
     {
       "key": "UI_Common_Advance_Gamepad",
@@ -29843,6 +31775,10 @@
       "value": "Tap to return"
     },
     {
+      "key": "UI_Common_Return_Click",
+      "value": "Click to return"
+    },
+    {
       "key": "UI_Common_Return_Gamepad",
       "value": "Press {0} to return"
     },
@@ -29863,12 +31799,20 @@
       "value": "Tap to Start"
     },
     {
+      "key": "UI_Common_Start_Click",
+      "value": "Click to Start"
+    },
+    {
       "key": "UI_Common_Start_Gamepad",
       "value": "Press {0} to Start"
     },
     {
       "key": "UI_Common_TapToClose",
       "value": "TAP TO CLOSE"
+    },
+    {
+      "key": "UI_Common_TapToClose_Click",
+      "value": "CLICK TO CLOSE"
     },
     {
       "key": "UI_Common_TapToClose_Gamepad",
@@ -31191,6 +33135,10 @@
       "value": "Unlocks at Player Level {0}."
     },
     {
+      "key": "UI_Menu_TooltipLocked_News_Title",
+      "value": "NEWS (LOCKED)"
+    },
+    {
       "key": "UI_Menu_TooltipLocked_Operations_Title",
       "value": "OPERATIONS (LOCKED)"
     },
@@ -31431,12 +33379,24 @@
       "value": "To manage notification settings, go to the system settings menu."
     },
     {
+      "key": "UI_OnlineMode_Body",
+      "value": "Switch to Online Mode"
+    },
+    {
+      "key": "UI_OnlineMode_Title",
+      "value": "ONLINE MODE"
+    },
+    {
       "key": "UI_Operations_EventPointTotal",
       "value": "Points Total: {0}"
     },
     {
       "key": "UI_Operations_Open_XX",
       "value": "Open: {0}"
+    },
+    {
+      "key": "UI_Operations_RefreshesIn",
+      "value": "ATTEMPTS REFRESH IN:"
     },
     {
       "key": "UI_Options_AudioSettings",
@@ -31451,6 +33411,22 @@
       "value": "Language"
     },
     {
+      "key": "UI_Options_LocalKey_High",
+      "value": "HIGH"
+    },
+    {
+      "key": "UI_Options_LocalKey_Low",
+      "value": "LOW"
+    },
+    {
+      "key": "UI_Options_LocalKey_Medium",
+      "value": "MEDIUM"
+    },
+    {
+      "key": "UI_Options_LocalKey_VeryLow",
+      "value": "VERY LOW"
+    },
+    {
       "key": "UI_Options_Music_Off",
       "value": "Music Off"
     },
@@ -31461,6 +33437,10 @@
     {
       "key": "UI_Options_PlayerId",
       "value": "Player Id"
+    },
+    {
+      "key": "UI_Options_QualitySettings",
+      "value": "Quality Settings"
     },
     {
       "key": "UI_Options_ResetPlayerProgressButton",
@@ -32539,6 +34519,10 @@
       "value": "Tap to add to your Away Team."
     },
     {
+      "key": "UI_Tutorial_ToolTip_Add4thMemberGeneric_Click",
+      "value": "Click to add to your Away Team."
+    },
+    {
       "key": "UI_Tutorial_ToolTip_Add4thMemberGeneric_Gamepad",
       "value": "Press {0} to add to your Away Team."
     },
@@ -32549,6 +34533,10 @@
     {
       "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton",
       "value": "Tap to enter combat"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton_Click",
+      "value": "Click to enter combat"
     },
     {
       "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton_Gamepad",
@@ -32571,6 +34559,10 @@
       "value": "Tap to advance"
     },
     {
+      "key": "UI_Tutorial_ToolTip_ContinueButton_Click",
+      "value": "Click to advance"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_ContinueButton_Gamepad",
       "value": "Press {0} to advance"
     },
@@ -32579,12 +34571,20 @@
       "value": "Tap for your next <color=#fff15c>STARFLEET DIRECTIVE</color>"
     },
     {
+      "key": "UI_Tutorial_ToolTip_Directives_Click",
+      "value": "Click for your next <color=#fff15c>STARFLEET DIRECTIVE</color>"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_Directives_Gamepad",
       "value": "Press {0} for your next <color=#fff15c>STARFLEET DIRECTIVE</color>"
     },
     {
       "key": "UI_Tutorial_ToolTip_Disable",
       "value": "Tap to use Worf's Battle Cry"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_Disable_Click",
+      "value": "Click to use Worf's Battle Cry"
     },
     {
       "key": "UI_Tutorial_ToolTip_Disable_Gamepad",
@@ -32647,6 +34647,10 @@
       "value": "Tap to change BRIDGE CREW"
     },
     {
+      "key": "UI_Tutorial_ToolTip_TapCrewButton_Click",
+      "value": "Click to change BRIDGE CREW"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_TapCrewButton_Gamepad",
       "value": "Press {0} to change BRIDGE CREW"
     },
@@ -32679,6 +34683,10 @@
       "value": "Tap for the next MISSION"
     },
     {
+      "key": "UI_Tutorial_ToolTip_TapMissionFrame_Click",
+      "value": "Click for the next MISSION"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_TapMissionFrame_Gamepad",
       "value": "Press {0} for the next MISSION"
     },
@@ -32693,6 +34701,10 @@
     {
       "key": "UI_Tutorial_ToolTip_TapToAttack",
       "value": "Tap to launch an attack!"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_TapToAttack_Click",
+      "value": "Click to launch an attack!"
     },
     {
       "key": "UI_Tutorial_ToolTip_TapToAttack_Gamepad",
@@ -32726,5 +34738,6 @@
       "key": "UIFX_MoraleCombo",
       "value": "Morale Combo"
     }
-  ]
+  ],
+  "_PathID": "1449"
 }

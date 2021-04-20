@@ -1,12 +1,12 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": "0"
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -1649100671315775696
+    "m_FileID": 1,
+    "m_PathID": "1277"
   },
   "m_Name": "lang_de_de",
   "List": [
@@ -203,7 +203,7 @@
       "value": "30 Crewmitglieder rekrutiert."
     },
     {
-      "key": "Achievements_GameCenter_Desc_02",
+      "key": "Achievements_GameCenter_Desc_03",
       "value": "60 Crewmitglieder rekrutiert."
     },
     {
@@ -21480,11 +21480,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill1_description_level1",
-      "value": "<color=#01e2ff>Scannen</color> bei 2 zufälligen Feinden."
+      "value": "<color=#01e2ff>Betäubung</color> für 3 Runden und <color=#01e2ff>-1 Moral</color> (<color=#01e2ff>ignoriert Deckung</color>)."
     },
     {
       "key": "Data_Skill_Spock_Skill1_description_level2",
-      "value": "<color=#01e2ff>Scannen</color> bei allen Feinden."
+      "value": "<color=#01e2ff>Betäubung</color> für 3 Runden und <color=#01e2ff>-2 Moral</color> (<color=#01e2ff>ignoriert Deckung</color>)."
     },
     {
       "key": "Data_Skill_Spock_Skill1_displayName",
@@ -21492,11 +21492,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill2_description_level1",
-      "value": "<color=#01e2ff>Betäubung</color> für 3 Runden und <color=#01e2ff>-1 Moral</color> (<color=#01e2ff>ignoriert Deckung</color>)."
+      "value": "<color=#01e2ff>-1 Moral</color> bei 1 Feind. <color=#01e2ff>+1 Moral</color> bei sich selbst."
     },
     {
       "key": "Data_Skill_Spock_Skill2_description_level2",
-      "value": "<color=#01e2ff>Betäubung</color> für 3 Runden und <color=#01e2ff>-2 Moral</color> (<color=#01e2ff>ignoriert Deckung</color>)."
+      "value": "<color=#01e2ff>-2 Moral</color> bei 1 Feind. <color=#01e2ff>+2 Moral</color> bei sich selbst."
     },
     {
       "key": "Data_Skill_Spock_Skill2_displayName",
@@ -21504,11 +21504,11 @@
     },
     {
       "key": "Data_Skill_Spock_Skill3_description_level1",
-      "value": "<color=#01e2ff>-1 Moral</color> bei 1 Feind. <color=#01e2ff>+1 Moral</color> bei sich selbst."
+      "value": "<color=#01e2ff>Scannen</color> bei 2 zufälligen Feinden."
     },
     {
       "key": "Data_Skill_Spock_Skill3_description_level2",
-      "value": "<color=#01e2ff>-2 Moral</color> bei 1 Feind. <color=#01e2ff>+2 Moral</color> bei sich selbst."
+      "value": "<color=#01e2ff>Scannen</color> bei allen Feinden."
     },
     {
       "key": "Data_Skill_Spock_Skill3_displayName",
@@ -23683,6 +23683,22 @@
       "value": "Klingonen"
     },
     {
+      "key": "Events_Faction_FedVsBorg_Desc",
+      "value": "Die Föderation tritt gegen die Borg an!"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Main",
+      "value": "Die Föderation tritt gegen die Borg an!"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Post",
+      "value": "Dieses Event ist beendet"
+    },
+    {
+      "key": "Events_Faction_FedVsBorg_Desc_Pre",
+      "value": "Diese Event beginnt in Kürze! Komm später zurück, um zu spielen!"
+    },
+    {
       "key": "Events_FactionEvent_CardBorg_Desc",
       "value": "Die Cardassianer treten gegen die Borg an! Die Fraktion, die am Ende des Events die meisten Punkte erhalten hat, gewährt der Community eine besondere Belohnung!"
     },
@@ -25325,6 +25341,14 @@
     {
       "key": "options_analytics_toggle_on",
       "value": "ANALYSE AN"
+    },
+    {
+      "key": "Options_Hoftixing_Toggle_Off",
+      "value": "NOTWENDIGE UPDATES AUS"
+    },
+    {
+      "key": "Options_Hoftixing_Toggle_On",
+      "value": "NOTWENDIGE UPDATES AN"
     },
     {
       "key": "options_pvp_title",
@@ -28927,6 +28951,10 @@
       "value": "OFFEN: {0}"
     },
     {
+      "key": "UI_Operations_RefreshesIn",
+      "value": "AKTUALISIERT IN: "
+    },
+    {
       "key": "UI_Options_AudioSettings",
       "value": "Audioeinstellungen"
     },
@@ -30214,5 +30242,6 @@
       "key": "UIFX_MoraleCombo",
       "value": "Moralkombo"
     }
-  ]
+  ],
+  "_PathID": "1448"
 }
