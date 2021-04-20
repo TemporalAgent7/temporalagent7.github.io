@@ -100,6 +100,9 @@ function getStatValue(type, value, modifier, gearStatChange = 0, accessoryStatCh
 
 	let baseValue = lerpUnclamped(baseStatValue.MinValue, baseStatValue.MaxValue, value) * modifier;
 
+	// TODO: Understand how these are actually supposed to be calculated!
+	baseValue = value * modifier;
+
 	let finalValue = baseValue + gearStatChange + accessoryStatChange;
 	finalValue = Math.max(finalValue, type == 'MaxHealth' ? 1 : 0);
 
@@ -111,7 +114,6 @@ function getStatValue(type, value, modifier, gearStatChange = 0, accessoryStatCh
 	let finalPowerValue = ((finalValue - baseStatValue.MinValue) / num) * baseStatValue.PowerWeight;
 
 	baseValue = Math.floor(baseValue * 100) / 100;
-	finalPowerValue = Math.floor(finalPowerValue);
 
 	return { baseValue, finalValue, finalPowerValue };
 }
@@ -193,7 +195,7 @@ function generateCharactersJson() {
 					getRankModifiers(characters[cr].Rarity, 9).SpeedModifier * getLevelModifiers(characters[cr].Rarity, 99).SpeedModifier
 				).baseValue,
 				MaxTotalPower:
-					getStatValue('GlancingChance', characters[cr].GlancingChance, 1).finalPowerValue +
+					Math.floor(getStatValue('GlancingChance', characters[cr].GlancingChance, 1).finalPowerValue +
 					getStatValue('GlancingDamage', characters[cr].GlancingDamage, 1).finalPowerValue +
 					getStatValue('CritChance', characters[cr].CritChance, 1).finalPowerValue +
 					getStatValue('CritDamage', characters[cr].CritDamage, 1).finalPowerValue +
@@ -222,7 +224,7 @@ function generateCharactersJson() {
 						'Speed',
 						characters[cr].Speed,
 						getRankModifiers(characters[cr].Rarity, 9).SpeedModifier * getLevelModifiers(characters[cr].Rarity, 99).SpeedModifier
-					).finalPowerValue
+					).finalPowerValue)
 			};
 
 			// TODO: accessories and gears further boost stats
