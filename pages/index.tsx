@@ -1,10 +1,10 @@
 import Head from 'next/head';
+import { useRouter } from 'next/router';
 import React from 'react';
-import { Header, Image, Table, Rating, Modal, Button, Icon } from 'semantic-ui-react';
+import { Header, Table, Rating } from 'semantic-ui-react';
 
 import { SearchableTable, ITableConfigRow } from '../components/searchabletable';
 import FixedMenuLayout from '../components/FixedMenuLayout';
-import CharacterStats from '../components/CharacterStats';
 
 import { getCharactersStaticProps } from '../utils/ssr';
 import { characterMatchesSearchFilter } from '../utils/filtering';
@@ -66,9 +66,7 @@ const renderTableRow = (character: any, onClick) => {
 }
 
 const CharacterList = ({ characters, allPosts }) => {
-	const [open, setOpen] = React.useState(false);
-	const [selectedCharacter, setSelectedCharacter] = React.useState(undefined);
-
+	const router = useRouter();
 	return (
 		<div>
 			<Head>
@@ -84,30 +82,11 @@ const CharacterList = ({ characters, allPosts }) => {
 					id="index"
 					data={characters}
 					config={tableConfig}
-					renderTableRow={character => renderTableRow(character, () => { setSelectedCharacter(character); setOpen(true); })}
+					renderTableRow={character => renderTableRow(character, () => { router.push(`/character/${character.id}`)})}
 					filterRow={(character, filter, filterType) => characterMatchesSearchFilter(character, filter, filterType)}
 					showFilterOptions={true}
 				/>
 			</FixedMenuLayout>
-
-			{selectedCharacter && <Modal
-				open={open}
-				onClose={() => setOpen(false)}
-				onOpen={() => setOpen(true)}
-			>
-				<Modal.Header>{selectedCharacter.locName} ({selectedCharacter.locRarity})</Modal.Header>
-				<Modal.Content image scrolling>
-					<Image size='medium' src={`/assets/${selectedCharacter.icon}.png`} wrapped />
-					<Modal.Description>
-						<CharacterStats character={selectedCharacter} />
-					</Modal.Description>
-				</Modal.Content>
-				<Modal.Actions>
-					<Button onClick={() => setOpen(false)} primary>
-						Close <Icon name='chevron right' />
-					</Button>
-				</Modal.Actions>
-			</Modal>}
 		</div>
 	)
 }

@@ -12,11 +12,37 @@ async function getTranslationTable(lang: string) {
 	return JSON.parse(fileContents);
 }
 
+export async function getCharacterIds() {
+	const dataDirectory = path.join(process.cwd(), 'data');
+	const fileContents = await fs.readFile(path.join(dataDirectory, 'characters.json'), 'utf8');
+	let characters = JSON.parse(fileContents);
+
+	return characters.map(c => c.id);
+}
+
 export async function getCharactersStaticProps() {
 	const dataDirectory = path.join(process.cwd(), 'data');
 	const fileContents = await fs.readFile(path.join(dataDirectory, 'characters.json'), 'utf8');
 
 	let characters = JSON.parse(fileContents);
+
+	// TODO: i18n integration (once next export supports it)
+	const translationTable = await getTranslationTable("en_us");
+
+	characters.forEach((character: any) => {
+		character.locName = translationTable[character.name];
+	});
+
+	return { characters, allPosts: getAllPosts(['title', 'slug']) };
+}
+
+export async function getCharacterStaticProps(id: string) {
+	const dataDirectory = path.join(process.cwd(), 'data');
+	const fileContents = await fs.readFile(path.join(dataDirectory, 'characters.json'), 'utf8');
+
+	let characters = JSON.parse(fileContents);
+
+	let character = characters.find(c => c.id == id);
 
 	// TODO: i18n integration (once next export supports it)
 	const translationTable = await getTranslationTable("en_us");
@@ -31,18 +57,20 @@ export async function getCharactersStaticProps() {
 		}
 	};
 
-	characters.forEach((character: any) => {
-		character.locName = translationTable[character.name];
-		character.locDescription = translationTable[character.description];
-		character.locRarity = translationTable[`Common_Rarity_${character.rarity}`];
+	character.locName = translationTable[character.name];
+	character.locDescription = translationTable[character.description];
+	character.locRarity = translationTable[`Common_Rarity_${character.rarity}`];
 
-		localizeSkills(Object.values(character.skills));
-		if (character.bridgeSkill) {
-			localizeSkills(Object.values(character.bridgeSkill));
-		}
+	character.quips.forEach(quip => {
+		quip.locText = translationTable[quip.text];
 	});
 
-	return { characters, allPosts: getAllPosts(['title', 'slug']) };
+	localizeSkills(Object.values(character.skills));
+	if (character.bridgeSkill) {
+		localizeSkills(Object.values(character.bridgeSkill));
+	}
+
+	return { character, allPosts: getAllPosts(['title', 'slug']) };
 }
 
 export async function getMissionsStaticProps() {
@@ -65,7 +93,7 @@ export async function getMissionsStaticProps() {
 			mission.locObjective = translationTable[mission.objective];
 
 			for (const nodeId in mission.nodes) {
-				if ( mission.nodes[nodeId].encounter) {
+				if (mission.nodes[nodeId].encounter) {
 					mission.nodes[nodeId].encounter.locDescription = translationTable[mission.nodes[nodeId].encounter.description];
 				}
 
@@ -113,7 +141,7 @@ export async function getItemsStaticProps() {
 	});
 
 	// Do a simple initial sort
-	items = items.sort((a,b) => a.locName.localeCompare(b.locName));
+	items = items.sort((a, b) => a.locName.localeCompare(b.locName));
 
 	return { items, allPosts: getAllPosts(['title', 'slug']) };
 }

@@ -25,10 +25,20 @@ const SkillDisplay = ({ skills, isBridge }) => {
 
 const CharacterStats = ({ character }) => {
 	return <>
-		<Header as='h4'><span dangerouslySetInnerHTML={{ __html: character.locDescription }} /></Header>
-		<p><b>Role:</b> <img src={`/assets/Class_${character.role}.png`} style={{ filter: "invert(1)", height: "1em", display: "inline" }} /> {character.role}</p>
-		<p><b>Bridge stations:</b> {character.bridgeStations.join(', ')}</p>
-		<p><b>Tags:</b> {character.tags.join(', ')}</p>
+		<Item.Group>
+			<Item>
+				<Item.Image src={`/assets/${character.icon}.png`} />
+				<Item.Content>
+					<Item.Header>{character.locName}</Item.Header>
+					<Item.Meta><span dangerouslySetInnerHTML={{ __html: character.locDescription }} /></Item.Meta>
+					<Item.Description>
+						<p><b>Role:</b> <img src={`/assets/Class_${character.role}.png`} style={{ filter: "invert(1)", height: "1em", display: "inline" }} /> {character.role}</p>
+						<p><b>Bridge stations:</b> {character.bridgeStations.join(', ')}</p>
+					</Item.Description>
+					<Item.Extra><b>Tags:</b> {character.tags.join(', ')}</Item.Extra>
+				</Item.Content>
+			</Item>
+		</Item.Group>
 
 		<Statistic.Group size={"small"}>
 			<Statistic>
@@ -96,6 +106,9 @@ const CharacterStats = ({ character }) => {
 			{character.bridgeSkill && <SkillDisplay isBridge={true} skills={Object.values(character.bridgeSkill)[0]} />}
 			{Object.keys(character.skills).map((skill) => <SkillDisplay isBridge={false} key={skill} skills={character.skills[skill]} />)}
 		</Item.Group>
+
+		<Header as='h3'>Quips</Header>
+		{character.quips.map(quip => <p key={quip.id}><b>{quip.type}</b> {(quip.reactionTo != "None") && `(${quip.reactionTo})`} {quip.locText}</p>)}
 	</>
 }
 

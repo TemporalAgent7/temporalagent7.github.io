@@ -139,6 +139,7 @@ function computeRarity(rarity) {
 
 function generateCharactersJson() {
 	const characters = loadJson('GSCharacter');
+	const quips = loadJson('GSQuip');
 
 	let allcrew = [];
 	for (const cr in characters) {
@@ -196,35 +197,35 @@ function generateCharactersJson() {
 				).baseValue,
 				MaxTotalPower:
 					Math.floor(getStatValue('GlancingChance', characters[cr].GlancingChance, 1).finalPowerValue +
-					getStatValue('GlancingDamage', characters[cr].GlancingDamage, 1).finalPowerValue +
-					getStatValue('CritChance', characters[cr].CritChance, 1).finalPowerValue +
-					getStatValue('CritDamage', characters[cr].CritDamage, 1).finalPowerValue +
-					getStatValue('Resolve', characters[cr].Resolve, 1).finalPowerValue +
-					getStatValue(
-						'MaxHealth',
-						characters[cr].Health,
-						getRankModifiers(characters[cr].Rarity, 9).HealthModifier * getLevelModifiers(characters[cr].Rarity, 99).HealthModifier
-					).finalPowerValue +
-					getStatValue(
-						'Defense',
-						characters[cr].Defense,
-						getRankModifiers(characters[cr].Rarity, 9).DefenseModifier * getLevelModifiers(characters[cr].Rarity, 99).DefenseModifier
-					).finalPowerValue +
-					getStatValue(
-						'Attack',
-						characters[cr].Attack,
-						getRankModifiers(characters[cr].Rarity, 9).AttackModifier * getLevelModifiers(characters[cr].Rarity, 99).AttackModifier
-					).finalPowerValue +
-					getStatValue(
-						'Tech',
-						characters[cr].Tech,
-						getRankModifiers(characters[cr].Rarity, 9).TechModifier * getLevelModifiers(characters[cr].Rarity, 99).TechModifier
-					).finalPowerValue +
-					getStatValue(
-						'Speed',
-						characters[cr].Speed,
-						getRankModifiers(characters[cr].Rarity, 9).SpeedModifier * getLevelModifiers(characters[cr].Rarity, 99).SpeedModifier
-					).finalPowerValue)
+						getStatValue('GlancingDamage', characters[cr].GlancingDamage, 1).finalPowerValue +
+						getStatValue('CritChance', characters[cr].CritChance, 1).finalPowerValue +
+						getStatValue('CritDamage', characters[cr].CritDamage, 1).finalPowerValue +
+						getStatValue('Resolve', characters[cr].Resolve, 1).finalPowerValue +
+						getStatValue(
+							'MaxHealth',
+							characters[cr].Health,
+							getRankModifiers(characters[cr].Rarity, 9).HealthModifier * getLevelModifiers(characters[cr].Rarity, 99).HealthModifier
+						).finalPowerValue +
+						getStatValue(
+							'Defense',
+							characters[cr].Defense,
+							getRankModifiers(characters[cr].Rarity, 9).DefenseModifier * getLevelModifiers(characters[cr].Rarity, 99).DefenseModifier
+						).finalPowerValue +
+						getStatValue(
+							'Attack',
+							characters[cr].Attack,
+							getRankModifiers(characters[cr].Rarity, 9).AttackModifier * getLevelModifiers(characters[cr].Rarity, 99).AttackModifier
+						).finalPowerValue +
+						getStatValue(
+							'Tech',
+							characters[cr].Tech,
+							getRankModifiers(characters[cr].Rarity, 9).TechModifier * getLevelModifiers(characters[cr].Rarity, 99).TechModifier
+						).finalPowerValue +
+						getStatValue(
+							'Speed',
+							characters[cr].Speed,
+							getRankModifiers(characters[cr].Rarity, 9).SpeedModifier * getLevelModifiers(characters[cr].Rarity, 99).SpeedModifier
+						).finalPowerValue)
 			};
 
 			// TODO: accessories and gears further boost stats
@@ -245,6 +246,19 @@ function generateCharactersJson() {
 							console.warn(`Missing icon for skill '${skillEntry.img}' ('${crew.name}')`);
 						}
 					}
+				}
+			}
+
+			// Quips
+			crew.quips = [];
+			for (const quipId in quips) {
+				if (quips[quipId].CharacterID == crew.id) {
+					crew.quips.push({
+						id: quips[quipId].id,
+						type: quips[quipId].Type,
+						reactionTo: quips[quipId].ReactionTo,
+						text: quips[quipId].Text
+					});
 				}
 			}
 
