@@ -11,10 +11,21 @@ import FixedMenuLayout from '../../components/FixedMenuLayout';
 
 const NODE_IMAGE_SIZE = 48;
 
-const MapNodeImage = ({ x, y, onClicked, selected }) => {
+function imageForType(type: string) {
+	switch(type) {
+		case "Encounter": return "MapNode_Image_Encounter";
+		case "Story": return "MapNode_Image_Story";
+		case "Resource": return "MapNode_Image_LootCrate";
+		case "Opportunity": return "MapNode_Image_Shuttle"; //?
+		default: return "MapNode_Image_Encounter";
+	}
+}
+
+const MapNodeImage = ({ x, y, onClicked, selected, type }) => {
 	const [image] = useImage(`/assets/MapNode.png`);
-	const [imageSelected] = useImage(`/assets/MapNode_Complete.png`);
-	return (
+	const [overlayImage] = useImage(`/assets/${imageForType(type)}.png`);
+	const [imageSelected] = useImage(`/assets/MapNode_Active.png`); // MapNode_Complete
+	return (<>
 		<KonvaImage
 			x={x}
 			y={y}
@@ -24,6 +35,16 @@ const MapNodeImage = ({ x, y, onClicked, selected }) => {
 			onClick={() => onClicked()}
 			onTouchStart={() => onClicked()}
 		/>
+		<KonvaImage
+			x={x + NODE_IMAGE_SIZE /4}
+			y={y + NODE_IMAGE_SIZE /4}
+			width={NODE_IMAGE_SIZE / 2}
+			height={NODE_IMAGE_SIZE / 2}
+			image={overlayImage}
+			onClick={() => onClicked()}
+			onTouchStart={() => onClicked()}
+		/>
+		</>
 	);
 };
 
@@ -31,12 +52,13 @@ const ISSERVER = typeof window === 'undefined';
 
 class ConnectingNode {
 	id: string;
-	index: number;
+	index: string;
 }
 
 class NodePosition {
 	x: number;
 	y: number;
+	type: string;
 	nextNodeIds: ConnectingNode[];
 }
 
@@ -57,23 +79,29 @@ const MissionCanvasDisplay = ({ nodes, onNodeSelected }) => {
 	let origX = maxX - minX;
 	let origY = maxY - minY;
 
-	let curX = window.innerWidth / 2;
+	let curX = 400 * origX / origY;
 	let curY = 400;
 
-	let translateX = (x: number) => curX * 0.05 + ((x - minX) * curX) / (origX * 1.3);
+	let translateX = (x: number) => ((x - minX) * curX) / (origX * 2);
 	let translateY = (y: number) => curY * 0.05 + ((origY - y + minY) * curY) / (origY * 1.3);
 
 	let nodePositions = new Map<string, NodePosition>();
 	nodes.forEach((node) => {
-		let entry = { x: translateX(node.position.x), y: translateY(node.position.y), nextNodeIds: [] };
+		let entry = { x: translateX(node.position.x), y: translateY(node.position.y), type: node.Type, nextNodeIds: [] };
 		node.NextNodeIds.forEach((nn) => {
 			let hasExploration = false;
 			node.exploration.forEach((e) => {
 				if (e.branchingNodeId == nn) {
-					entry.nextNodeIds.push({
-						id: nn,
-						index: e.index
-					});
+					// Multiple paths can lead to the same node
+					let existing = entry.nextNodeIds.find(e => e.id == nn);
+					if (existing) {
+						existing.index = `${existing.index}, ${e.index}`;
+					} else {
+						entry.nextNodeIds.push({
+							id: nn,
+							index: e.index
+						});
+					}
 					hasExploration = true;
 				}
 			});
@@ -81,30 +109,29 @@ const MissionCanvasDisplay = ({ nodes, onNodeSelected }) => {
 			if (!hasExploration) {
 				entry.nextNodeIds.push({
 					id: nn,
-					index: 0
+					index: undefined
 				});
 			}
 		});
 		nodePositions.set(node.NodeId, entry);
 	});
 
+	const [backgroundImage] = useImage(`/assets/Shop_FrontImage_0.png`);
 	const [selected, setSelected] = useState(nodes[0].NodeId);
 
-	return (
-		<Stage width={window.innerWidth / 2} height={400}>
+	return (<div style={{ overflow: "auto" }}>
+		<Stage width={curX / 1.8} height={400}>
 			<Layer>
+				<KonvaImage
+					opacity={0.35}
+					x={0}
+					y={0}
+					width={curX / 1.8}
+					height={400}
+					image={backgroundImage}
+				/>
 				{Array.from(nodePositions.keys()).map((node) => (
 					<>
-						<MapNodeImage
-							selected={selected == node}
-							key={node}
-							x={nodePositions.get(node).x}
-							y={nodePositions.get(node).y}
-							onClicked={() => {
-								setSelected(node);
-								onNodeSelected(node);
-							}}
-						/>
 						{nodePositions.get(node).nextNodeIds.map((nextNode) => (
 							<>
 								<Arrow
@@ -121,19 +148,32 @@ const MissionCanvasDisplay = ({ nodes, onNodeSelected }) => {
 										nodePositions.get(nextNode.id).y + NODE_IMAGE_SIZE / 2 - nodePositions.get(node).y
 									]}
 								/>
-								{selected == node && nextNode.index != 0 && (
+								{selected == node && nextNode.index != undefined && (
 									<Text
-										x={nodePositions.get(node).x + (nodePositions.get(nextNode.id).x - nodePositions.get(node).x) / nextNode.index}
-										y={nodePositions.get(node).y + (nodePositions.get(nextNode.id).y - nodePositions.get(node).y) / nextNode.index}
+										fontSize={NODE_IMAGE_SIZE / 3}
+										x={nodePositions.get(nextNode.id).x + NODE_IMAGE_SIZE / 3}
+										y={nodePositions.get(nextNode.id).y - NODE_IMAGE_SIZE / 5}
 										text={nextNode.index.toString()}
 									/>
 								)}
 							</>
 						))}
+						<MapNodeImage
+							selected={selected == node}
+							type={nodePositions.get(node).type}
+							key={node}
+							x={nodePositions.get(node).x}
+							y={nodePositions.get(node).y}
+							onClicked={() => {
+								setSelected(node);
+								onNodeSelected(node);
+							}}
+						/>
 					</>
 				))}
 			</Layer>
 		</Stage>
+	</div>
 	);
 };
 
