@@ -65,16 +65,16 @@ function generateEpisodesJson() {
 									percentageReq: missionsRewards[msr].PercentageReq,
 									heroId: missionsRewards[msr].heroId,
 
-                                    // These get filled in below
-                                    xp: {},
-                                    rewards: {}
+									// These get filled in below
+									xp: {},
+									rewards: {}
 								};
 
 								mission.rewards.push(alreadyFound);
 							}
 
-                            alreadyFound.xp[missionsRewards[msr].Difficulty] = missionsRewards[msr].Xp
-                            alreadyFound.rewards[missionsRewards[msr].Difficulty] = formatRewardList(missionsRewards[msr].reward.AllItems)
+							alreadyFound.xp[missionsRewards[msr].Difficulty] = missionsRewards[msr].Xp
+							alreadyFound.rewards[missionsRewards[msr].Difficulty] = formatRewardList(missionsRewards[msr].reward.AllItems)
 						}
 					}
 
@@ -142,6 +142,22 @@ function generateEpisodesJson() {
 
 									alreadyFound.requiredProficiency[nodeExploration[nex].Difficulty] = nodeExploration[nex].RequiredProficiency;
 									alreadyFound.requiredProficiencyValue[nodeExploration[nex].Difficulty] = nodeExploration[nex].RequiredProficiencyValue;
+
+									if (nodeExploration[nex].RequiredProficiencyValue > 0) {
+										if (!mission.reqSummary) {
+											mission.reqSummary = {};
+										}
+										if (!mission.reqSummary[nodeExploration[nex].Difficulty]) {
+											mission.reqSummary[nodeExploration[nex].Difficulty] = {
+												skills: [],
+												value: nodeExploration[nex].RequiredProficiencyValue
+											};
+										}
+
+										if (mission.reqSummary[nodeExploration[nex].Difficulty].skills.indexOf(nodeExploration[nex].RequiredProficiency) < 0) {
+											mission.reqSummary[nodeExploration[nex].Difficulty].skills.push(nodeExploration[nex].RequiredProficiency);
+										}
+									}
 								}
 							}
 
