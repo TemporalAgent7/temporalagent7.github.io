@@ -119,8 +119,8 @@ const MissionCanvasDisplay = ({ nodes, onNodeSelected }) => {
 	const [backgroundImage] = useImage(`/assets/Shop_FrontImage_0.png`);
 	const [selected, setSelected] = useState(nodes[0].NodeId);
 
-	return (<div style={{ overflow: "auto", WebkitOverflowScrolling: "touch" }}>
-		<Stage width={curX / 1.8} height={400}>
+	return (<div>
+		<Stage width={curX / 1.8} height={400} style={{ overflowX: "scroll", overflowY: "hidden", WebkitOverflowScrolling: "touch"}}>
 			<Layer>
 				<KonvaImage
 					opacity={0.35}
