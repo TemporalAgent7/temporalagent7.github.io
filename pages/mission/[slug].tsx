@@ -119,7 +119,7 @@ const MissionCanvasDisplay = ({ nodes, onNodeSelected }) => {
 	const [backgroundImage] = useImage(`/assets/Shop_FrontImage_0.png`);
 	const [selected, setSelected] = useState(nodes[0].NodeId);
 
-	return (<div style={{ overflow: "auto" }}>
+	return (<div style={{ overflow: "auto", WebkitOverflowScrolling: "touch" }}>
 		<Stage width={curX / 1.8} height={400}>
 			<Layer>
 				<KonvaImage
@@ -131,14 +131,13 @@ const MissionCanvasDisplay = ({ nodes, onNodeSelected }) => {
 					image={backgroundImage}
 				/>
 				{Array.from(nodePositions.keys()).map((node) => (
-					<>
+					<React.Fragment key={node}>
 						{nodePositions.get(node).nextNodeIds.map((nextNode) => (
-							<>
+							<React.Fragment key={nextNode.id}>
 								<Arrow
 									closed
 									stroke={selected == node ? 'green' : 'black'}
 									strokeWidth={4}
-									key={nextNode.id}
 									x={nodePositions.get(node).x}
 									y={nodePositions.get(node).y}
 									points={[
@@ -156,7 +155,7 @@ const MissionCanvasDisplay = ({ nodes, onNodeSelected }) => {
 										text={nextNode.index.toString()}
 									/>
 								)}
-							</>
+							</React.Fragment>
 						))}
 						<MapNodeImage
 							selected={selected == node}
@@ -169,7 +168,7 @@ const MissionCanvasDisplay = ({ nodes, onNodeSelected }) => {
 								onNodeSelected(node);
 							}}
 						/>
-					</>
+					</React.Fragment>
 				))}
 			</Layer>
 		</Stage>
