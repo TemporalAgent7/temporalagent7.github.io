@@ -8,7 +8,7 @@ This is a work in progress, check [GitHub](https://github.com/TemporalAgent7/Leg
 
 ## Contact
 
-The easiest way to get in touch is by opening issues on [GitHub](https://github.com/TemporalAgent7/temporalagent7.github.io/issues). You can also join the [development Discord](https://discord.gg/3kaPMDz7Rf).
+The easiest way to get in touch is by opening issues on [GitHub](https://github.com/TemporalAgent7/temporalagent7.github.io/issues). You can also ping TemporalAgent7 on the [Official Game Discord](https://discord.gg/SzkVaFJCa5).
 
 ## Licensing
 

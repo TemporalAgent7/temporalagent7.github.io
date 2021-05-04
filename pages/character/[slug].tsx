@@ -1,9 +1,7 @@
 import Head from 'next/head';
 import { useRouter } from 'next/router'
-import React, { useState } from 'react';
-import { Header, Image, Segment, List, Icon, Label } from 'semantic-ui-react';
-import { Stage, Text, Layer, Arrow, Image as KonvaImage } from 'react-konva';
-import useImage from 'use-image';
+import React from 'react';
+import { Header} from 'semantic-ui-react';
 import ErrorPage from 'next/error';
 
 import { getCharacterIds, getCharacterStaticProps } from '../../utils/ssr';

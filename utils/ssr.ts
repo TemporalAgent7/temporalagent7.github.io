@@ -145,3 +145,9 @@ export async function getItemsStaticProps() {
 
 	return { items, allPosts: getAllPosts(['title', 'slug']) };
 }
+
+export async function getGearIcons() {
+	const dataDirectory = path.join(process.cwd(), 'scripts', 'data');
+	const fileContents = await fs.readFile(path.join(dataDirectory, 'GSGear.json'), 'utf8');
+	return JSON.parse(fileContents);
+}
