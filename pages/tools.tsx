@@ -21,7 +21,7 @@ const AccessoryDisplay = ({ playerData, index }) => {
 				alt={playerData.accessories[index].accessoryid}
 				size={"tiny"}
 				fluid
-				label={{ floating: true, circular: true, color: 'green', content: playerData.accessories[index].level }}
+				label={{ floating: true, circular: true, color: "green", content: playerData.accessories[index].level }}
 			/>
 		);
 	}
@@ -37,7 +37,7 @@ const GearDisplay = ({ playerData, index, gearIcons }) => {
 				alt={playerData.gears[index].gearid}
 				size={"tiny"}
 				fluid
-				label={{ floating: true, circular: true, color: 'green', content: playerData.gears[index].level }}
+				label={{ floating: true, circular: true, color: "green", content: playerData.gears[index].level }}
 			/>
 		);
 	}
@@ -118,6 +118,24 @@ const characterTableConfig: ITableConfigRow[] = [
 	{ width: 1, column: "skills", title: "Skills" },
 ];
 
+const visibilityMap = {
+	Common: [1, 2, 2, 2, 2],
+	Rare: [1, 2, 2, 2, 2],
+	VeryRare: [1, 2, 2, 3, 3],
+	Epic: [2, 3, 3, 4, 4],
+	Legendary: [2, 3, 3, 4, 4],
+};
+
+const filterStat = (stat, index: number, accessoryid: string, level: number) => {
+	const rarity = accessoryid.substr(accessoryid.indexOf("_") + 1);
+
+	if (visibilityMap[rarity][level - 1] >= index) {
+		return stat;
+	} else {
+		return "-";
+	}
+};
+
 const ToolsPage = ({ allPosts, gearIcons }) => {
 	const [playerData, setPlayerData] = useState(undefined);
 
@@ -148,9 +166,24 @@ const ToolsPage = ({ allPosts, gearIcons }) => {
 				level: playerData.accessories[accessoryId].level,
 				char: accessoryCharacterAssignment(playerData, accessoryId),
 				stat1: playerData.accessories[accessoryId].stats["_0"],
-				stat2: playerData.accessories[accessoryId].stats["_1"],
-				stat3: playerData.accessories[accessoryId].stats["_2"],
-				stat4: playerData.accessories[accessoryId].stats["_3"],
+				stat2: filterStat(
+					playerData.accessories[accessoryId].stats["_1"],
+					2,
+					playerData.accessories[accessoryId].accessoryid,
+					playerData.accessories[accessoryId].level
+				),
+				stat3: filterStat(
+					playerData.accessories[accessoryId].stats["_2"],
+					3,
+					playerData.accessories[accessoryId].accessoryid,
+					playerData.accessories[accessoryId].level
+				),
+				stat4: filterStat(
+					playerData.accessories[accessoryId].stats["_3"],
+					4,
+					playerData.accessories[accessoryId].accessoryid,
+					playerData.accessories[accessoryId].level
+				),
 		  }))
 		: [];
 
