@@ -4715,6 +4715,151 @@
     "isMultiRandom": false,
     "isAOE": false
   },
+  "GSSkillKey(id = \"dreamlessC_attack\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_DreamlessB_Boss_Attack_displayName",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "100% Damage (1 hit)",
+        "fraction": 0.75
+      },
+      {
+        "effect": "100% Tech Damage (1 hit)",
+        "fraction": 0.75
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TOSEnterprise",
+    "description": "Data_Skill_DreamlessB_Boss_Attack_description_level1",
+    "controller": "Forced_Attack",
+    "aiUsable": true,
+    "id": {
+      "id": "dreamlessC_attack",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"dreamlessC_skill1\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_DreamlessB_Boss_Skill1_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Shield (Major)",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Defense Up (Major)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_OverwhelmingStrength",
+    "description": "Data_Skill_DreamlessB_Boss_Skill1_description_level1",
+    "controller": "Forced_Skill1",
+    "aiUsable": true,
+    "id": {
+      "id": "dreamlessC_skill1",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"dreamlessC_skill2\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_DreamlessB_Boss_Skill2_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 1,
+    "numTargets": 0,
+    "targetType": "Allies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Attack Up",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Tech Up",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Morale Up",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Navorkot",
+    "description": "Data_Skill_DreamlessB_Boss_Skill2_description_level1",
+    "controller": "Forced_Skill2",
+    "aiUsable": true,
+    "id": {
+      "id": "dreamlessC_skill2",
+      "level": 1
+    },
+    "isSingleTarget": false,
+    "isMultiRandom": false,
+    "isAOE": true
+  },
+  "GSSkillKey(id = \"dreamlessC_skill3\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_DreamlessB_Boss_Skill3_displayName",
+    "hidden": false,
+    "cooldown": 4,
+    "startingCooldown": 2,
+    "numTargets": 0,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "100% Damage (1 hit)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "effect": "100% Heal",
+      "fraction": 1.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Ultimatum",
+    "description": "Data_Skill_DreamlessB_Boss_Skill3_description_level1",
+    "controller": "Forced_Skill3",
+    "aiUsable": true,
+    "id": {
+      "id": "dreamlessC_skill3",
+      "level": 1
+    },
+    "isSingleTarget": false,
+    "isMultiRandom": false,
+    "isAOE": true
+  },
   "GSSkillKey(id = \"dukat_attack\", level = \"1\")": {
     "level": 1,
     "name": "Data_Skill_Dukat_Attack_displayName",
@@ -17286,7 +17431,7 @@
     "isPassive": false,
     "effects": [
       {
-        "effect": "Crit Chance Up",
+        "effect": "Crit Chance Up (AND) (caster)",
         "fraction": 1.0
       },
       {
@@ -17322,7 +17467,7 @@
     "isPassive": false,
     "effects": [
       {
-        "effect": "Crit Chance Up (Major)",
+        "effect": "Crit Chance Up (Major) (AND) (caster)",
         "fraction": 1.0
       },
       {
@@ -17756,7 +17901,7 @@
         "fraction": 1.0
       },
       {
-        "effect": "Cleanse",
+        "effect": "Morale Up if Romulan",
         "fraction": 1.0
       }
     ],
@@ -17794,6 +17939,10 @@
       {
         "effect": "Cleanse",
         "fraction": 1.0
+      },
+      {
+        "effect": "Morale Up (2) if Romulan",
+        "fraction": 1.0
       }
     ],
     "casterEffect": {
@@ -17812,7 +17961,7 @@
     "isMultiRandom": false,
     "isAOE": true
   },
-  "GSSkillKey(id = \"tomalak_skill2_in\", level = \"1\")": {
+  "GSSkillKey(id = \"tomalak_skill2\", level = \"1\")": {
     "level": 1,
     "name": "Data_Skill_Tomalak_Skill2_displayName",
     "hidden": false,
@@ -17824,85 +17973,11 @@
     "isPassive": false,
     "effects": [
       {
-        "effect": "Morale Down",
+        "effect": "Morale Down (AND)",
         "fraction": 1.0
       },
       {
-        "effect": "Defense Down",
-        "fraction": 1.0
-      }
-    ],
-    "casterEffect": {
-      "effect": "Tomalak Skill2 Charge",
-      "fraction": 1.0
-    },
-    "sequenceID": "",
-    "img": "Skill_OverwhelmingStrength",
-    "description": "Data_Skill_Tomalak_Skill2_description_level1",
-    "controller": "Forced_Skill2",
-    "aiUsable": true,
-    "id": {
-      "id": "tomalak_skill2_in",
-      "level": 1
-    },
-    "isSingleTarget": true,
-    "isMultiRandom": false,
-    "isAOE": false
-  },
-  "GSSkillKey(id = \"tomalak_skill2_in\", level = \"2\")": {
-    "level": 2,
-    "name": "Data_Skill_Tomalak_Skill2_displayName",
-    "hidden": false,
-    "cooldown": 3,
-    "startingCooldown": 1,
-    "numTargets": 1,
-    "targetType": "Enemies",
-    "targetState": "Alive",
-    "isPassive": false,
-    "effects": [
-      {
-        "effect": "Morale Down (2)",
-        "fraction": 1.0
-      },
-      {
-        "effect": "Defense Down (Major)",
-        "fraction": 1.0
-      }
-    ],
-    "casterEffect": {
-      "effect": "Tomalak Skill2 Charge",
-      "fraction": 1.0
-    },
-    "sequenceID": "",
-    "img": "Skill_OverwhelmingStrength",
-    "description": "Data_Skill_Tomalak_Skill2_description_level2",
-    "controller": "Forced_Skill2",
-    "aiUsable": true,
-    "id": {
-      "id": "tomalak_skill2_in",
-      "level": 2
-    },
-    "isSingleTarget": true,
-    "isMultiRandom": false,
-    "isAOE": false
-  },
-  "GSSkillKey(id = \"tomalak_skill2_out\", level = \"1\")": {
-    "level": 1,
-    "name": "Data_Skill_Tomalak_Skill2_displayName",
-    "hidden": true,
-    "cooldown": 0,
-    "startingCooldown": 0,
-    "numTargets": 1,
-    "targetType": "Enemies",
-    "targetState": "Alive",
-    "isPassive": false,
-    "effects": [
-      {
-        "effect": "More Damage to Low Morale Enemies a",
-        "fraction": 1.0
-      },
-      {
-        "effect": "100% Damage (1 hit)",
+        "effect": "100% Tech Damage (1 hit)",
         "fraction": 2.0
       }
     ],
@@ -17912,33 +17987,33 @@
     "sequenceID": "",
     "img": "Skill_OverwhelmingStrength",
     "description": "Data_Skill_Tomalak_Skill2_description_level1",
-    "controller": "Forced_Charged1",
+    "controller": "Forced_Skill2",
     "aiUsable": true,
     "id": {
-      "id": "tomalak_skill2_out",
+      "id": "tomalak_skill2",
       "level": 1
     },
     "isSingleTarget": true,
     "isMultiRandom": false,
     "isAOE": false
   },
-  "GSSkillKey(id = \"tomalak_skill2_out\", level = \"2\")": {
+  "GSSkillKey(id = \"tomalak_skill2\", level = \"2\")": {
     "level": 2,
     "name": "Data_Skill_Tomalak_Skill2_displayName",
-    "hidden": true,
-    "cooldown": 0,
-    "startingCooldown": 0,
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 1,
     "numTargets": 1,
     "targetType": "Enemies",
     "targetState": "Alive",
     "isPassive": false,
     "effects": [
       {
-        "effect": "More Damage to Low Morale Enemies a",
+        "effect": "Morale Down (2) (AND)",
         "fraction": 1.0
       },
       {
-        "effect": "100% Damage (1 hit)",
+        "effect": "100% Tech Damage (1 hit)",
         "fraction": 3.0
       }
     ],
@@ -17948,10 +18023,10 @@
     "sequenceID": "",
     "img": "Skill_OverwhelmingStrength",
     "description": "Data_Skill_Tomalak_Skill2_description_level2",
-    "controller": "Forced_Charged1",
+    "controller": "Forced_Skill2",
     "aiUsable": true,
     "id": {
-      "id": "tomalak_skill2_out",
+      "id": "tomalak_skill2",
       "level": 2
     },
     "isSingleTarget": true,
@@ -18050,7 +18125,7 @@
         "fraction": 1.0
       },
       {
-        "effect": "Morale Down (50% Chance)",
+        "effect": "Morale Down (50% Chance) (No Hit)",
         "fraction": 1.0
       }
     ],
@@ -18090,7 +18165,7 @@
         "fraction": 1.0
       },
       {
-        "effect": "Morale Down",
+        "effect": "Morale Down (No Hit)",
         "fraction": 1.0
       }
     ],
@@ -19046,14 +19121,11 @@
       {
         "effect": "1.5x Damage to Wounded Enemies",
         "fraction": 1.0
-      },
-      {
-        "effect": "Self Morale Up if Enemy Defeated",
-        "fraction": 1.0
       }
     ],
     "casterEffect": {
-      "fraction": 0.0
+      "effect": "Self Morale Up if Enemy Defeated",
+      "fraction": 1.0
     },
     "sequenceID": "",
     "img": "Skill_BattlethFury",
@@ -19086,14 +19158,11 @@
       {
         "effect": "1.5x Damage to Wounded Enemies",
         "fraction": 1.0
-      },
-      {
-        "effect": "Self Morale Up if Enemy Defeated",
-        "fraction": 1.0
       }
     ],
     "casterEffect": {
-      "fraction": 0.0
+      "effect": "Self Morale Up if Enemy Defeated",
+      "fraction": 1.0
     },
     "sequenceID": "",
     "img": "Skill_BattlethFury",
@@ -21699,7 +21768,7 @@
     "img": "",
     "description": "Data_Skill_Troi_Bridge_description",
     "controller": "",
-    "aiUsable": false,
+    "aiUsable": true,
     "id": {
       "id": "troi_bridge",
       "level": 1
@@ -22250,13 +22319,17 @@
       {
         "effect": "Crit Chance Up",
         "fraction": 1.0
+      },
+      {
+        "effect": "Red Alert",
+        "fraction": 1.0
       }
     ],
     "casterEffect": {
       "fraction": 0.0
     },
     "sequenceID": "",
-    "img": "Skill_OverwhelmingStrength",
+    "img": "Skill_RedAlert",
     "description": "Data_Skill_Tuvok_Skill3_description_level1",
     "controller": "Forced_Skill3",
     "aiUsable": true,
@@ -22286,13 +22359,17 @@
       {
         "effect": "Crit Chance Up (Major)",
         "fraction": 1.0
+      },
+      {
+        "effect": "Red Alert",
+        "fraction": 1.0
       }
     ],
     "casterEffect": {
       "fraction": 0.0
     },
     "sequenceID": "",
-    "img": "Skill_OverwhelmingStrength",
+    "img": "Skill_RedAlert",
     "description": "Data_Skill_Tuvok_Skill3_description_level2",
     "controller": "Forced_Skill3",
     "aiUsable": true,
@@ -22988,6 +23065,642 @@
     "aiUsable": true,
     "id": {
       "id": "garak_bridge",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"picarddixon_attack\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_PicardDixon_Attack_displayName",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "100% Damage (3 hits)",
+        "fraction": 0.35
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_CompressionRifle",
+    "description": "Data_Skill_PicardDixon_Attack_description_level1",
+    "controller": "Forced_Attack",
+    "aiUsable": true,
+    "id": {
+      "id": "picarddixon_attack",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"picarddixon_attack\", level = \"2\")": {
+    "level": 2,
+    "name": "Data_Skill_PicardDixon_Attack_displayName",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "100% Damage (3 hits)",
+        "fraction": 0.5
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_CompressionRifle",
+    "description": "Data_Skill_PicardDixon_Attack_description_level2",
+    "controller": "Forced_Attack",
+    "aiUsable": true,
+    "id": {
+      "id": "picarddixon_attack",
+      "level": 2
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"picarddixon_skill1\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_PicardDixon_Skill1_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Allies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Morale Up",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Cleanse",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Ethics",
+    "description": "Data_Skill_PicardDixon_Skill1_description_level1",
+    "controller": "Forced_Skill1",
+    "aiUsable": true,
+    "id": {
+      "id": "picarddixon_skill1",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"picarddixon_skill1\", level = \"2\")": {
+    "level": 2,
+    "name": "Data_Skill_PicardDixon_Skill1_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Allies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Morale Up (2)",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Cleanse",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Ethics",
+    "description": "Data_Skill_PicardDixon_Skill1_description_level2",
+    "controller": "Forced_Skill1",
+    "aiUsable": true,
+    "id": {
+      "id": "picarddixon_skill1",
+      "level": 2
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"picarddixon_skill2\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_PicardDixon_Skill2_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 1,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Stun",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Defense Down",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_OverwhelmingStrength",
+    "description": "Data_Skill_PicardDixon_Skill2_description_level1",
+    "controller": "Forced_Skill2",
+    "aiUsable": true,
+    "id": {
+      "id": "picarddixon_skill2",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"picarddixon_skill2\", level = \"2\")": {
+    "level": 2,
+    "name": "Data_Skill_PicardDixon_Skill2_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 1,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Stun",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Defense Down (Major)",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Skill Lock",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_OverwhelmingStrength",
+    "description": "Data_Skill_PicardDixon_Skill2_description_level2",
+    "controller": "Forced_Skill2",
+    "aiUsable": true,
+    "id": {
+      "id": "picarddixon_skill2",
+      "level": 2
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"picarddixon_skill3\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_PicardDixon_Skill3_displayName",
+    "hidden": false,
+    "cooldown": 4,
+    "startingCooldown": 2,
+    "numTargets": 20,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "100% Damage (20 hits)",
+        "fraction": 0.15
+      },
+      {
+        "effect": "Wound (10% Chance)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_CardassianBarrage",
+    "description": "Data_Skill_PicardDixon_Skill3_description_level1",
+    "controller": "Forced_Skill3",
+    "aiUsable": true,
+    "id": {
+      "id": "picarddixon_skill3",
+      "level": 1
+    },
+    "isSingleTarget": false,
+    "isMultiRandom": true,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"picarddixon_skill3\", level = \"2\")": {
+    "level": 2,
+    "name": "Data_Skill_PicardDixon_Skill3_displayName",
+    "hidden": false,
+    "cooldown": 4,
+    "startingCooldown": 2,
+    "numTargets": 20,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "100% Damage (20 hits)",
+        "fraction": 0.2
+      },
+      {
+        "effect": "Wound (25% Chance)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_CardassianBarrage",
+    "description": "Data_Skill_PicardDixon_Skill3_description_level2",
+    "controller": "Forced_Skill3",
+    "aiUsable": true,
+    "id": {
+      "id": "picarddixon_skill3",
+      "level": 2
+    },
+    "isSingleTarget": false,
+    "isMultiRandom": true,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"picarddixon_bridge\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_PicardDixon_Bridge_displayName",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Attack if Starfleet (5%) (Passive)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "",
+    "description": "Data_Skill_PicardDixon_Bridge_description",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "picarddixon_bridge",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"shinzon_attack\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_Shinzon_Attack_displayName",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "100% Damage (1 hit)",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Wound (25% Chance)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_BattlethFury",
+    "description": "Data_Skill_Shinzon_Attack_description_level1",
+    "controller": "Forced_Attack",
+    "aiUsable": true,
+    "id": {
+      "id": "shinzon_attack",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"shinzon_attack\", level = \"2\")": {
+    "level": 2,
+    "name": "Data_Skill_Shinzon_Attack_displayName",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "100% Damage (1 hit)",
+        "fraction": 1.25
+      },
+      {
+        "effect": "Wound (50% Chance)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_BattlethFury",
+    "description": "Data_Skill_Shinzon_Attack_description_level2",
+    "controller": "Forced_Attack",
+    "aiUsable": true,
+    "id": {
+      "id": "shinzon_attack",
+      "level": 2
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"shinzon_skill1\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_Shinzon_Skill1_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Morale Down",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Defense Down",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Ultimatum",
+    "description": "Data_Skill_Shinzon_Skill1_description_level1",
+    "controller": "Forced_Skill1",
+    "aiUsable": true,
+    "id": {
+      "id": "shinzon_skill1",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"shinzon_skill1\", level = \"2\")": {
+    "level": 2,
+    "name": "Data_Skill_Shinzon_Skill1_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Morale Down (2)",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Defense Down (Major)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Ultimatum",
+    "description": "Data_Skill_Shinzon_Skill1_description_level2",
+    "controller": "Forced_Skill1",
+    "aiUsable": true,
+    "id": {
+      "id": "shinzon_skill1",
+      "level": 2
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"shinzon_skill2\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_Shinzon_Skill2_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 1,
+    "numTargets": 0,
+    "targetType": "Allies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Cloak",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Attack Up",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TOSCommunicator",
+    "description": "Data_Skill_Shinzon_Skill2_description_level1",
+    "controller": "Forced_Skill2",
+    "aiUsable": true,
+    "id": {
+      "id": "shinzon_skill2",
+      "level": 1
+    },
+    "isSingleTarget": false,
+    "isMultiRandom": false,
+    "isAOE": true
+  },
+  "GSSkillKey(id = \"shinzon_skill2\", level = \"2\")": {
+    "level": 2,
+    "name": "Data_Skill_Shinzon_Skill2_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 1,
+    "numTargets": 0,
+    "targetType": "Allies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Cloak",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Attack Up (Major)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TOSCommunicator",
+    "description": "Data_Skill_Shinzon_Skill2_description_level2",
+    "controller": "Forced_Skill2",
+    "aiUsable": true,
+    "id": {
+      "id": "shinzon_skill2",
+      "level": 2
+    },
+    "isSingleTarget": false,
+    "isMultiRandom": false,
+    "isAOE": true
+  },
+  "GSSkillKey(id = \"shinzon_skill3\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_Shinzon_Skill3_displayName",
+    "hidden": false,
+    "cooldown": 4,
+    "startingCooldown": 2,
+    "numTargets": 0,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "100% Tech Damage (1 hit, ignore cover)",
+        "fraction": 2.0
+      },
+      {
+        "effect": "Morale Down (25% Chance)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_OverwhelmingStrength",
+    "description": "Data_Skill_Shinzon_Skill3_description_level1",
+    "controller": "Forced_Skill3",
+    "aiUsable": true,
+    "id": {
+      "id": "shinzon_skill3",
+      "level": 1
+    },
+    "isSingleTarget": false,
+    "isMultiRandom": false,
+    "isAOE": true
+  },
+  "GSSkillKey(id = \"shinzon_skill3\", level = \"2\")": {
+    "level": 2,
+    "name": "Data_Skill_Shinzon_Skill3_displayName",
+    "hidden": false,
+    "cooldown": 4,
+    "startingCooldown": 2,
+    "numTargets": 0,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "100% Tech Damage (1 hit, ignore cover)",
+        "fraction": 3.0
+      },
+      {
+        "effect": "Morale Down (50% Chance)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_OverwhelmingStrength",
+    "description": "Data_Skill_Shinzon_Skill3_description_level2",
+    "controller": "Forced_Skill3",
+    "aiUsable": true,
+    "id": {
+      "id": "shinzon_skill3",
+      "level": 2
+    },
+    "isSingleTarget": false,
+    "isMultiRandom": false,
+    "isAOE": true
+  },
+  "GSSkillKey(id = \"shinzon_bridge\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_Shinzon_Bridge_displayName",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Attack if Romulan (5%) (Passive)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "",
+    "description": "Data_Skill_Shinzon_Bridge_description",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "shinzon_bridge",
       "level": 1
     },
     "isSingleTarget": true,

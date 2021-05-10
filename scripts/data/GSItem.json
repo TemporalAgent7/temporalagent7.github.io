@@ -729,6 +729,106 @@
     "rarity": "Rare",
     "id": "Worf"
   },
+  "Torchbearer": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Torchbearer_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Rare",
+    "iconFull": "Token_Rare",
+    "rarity": "Rare",
+    "id": "Torchbearer"
+  },
+  "Stamets": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Stamets_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_VeryRare",
+    "iconFull": "Token_VeryRare",
+    "rarity": "VeryRare",
+    "id": "Stamets"
+  },
+  "Elnor": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Elnor_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_VeryRare",
+    "iconFull": "Token_VeryRare",
+    "rarity": "VeryRare",
+    "id": "Elnor"
+  },
+  "Tilly": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Tilly_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Rare",
+    "iconFull": "Token_Rare",
+    "rarity": "Rare",
+    "id": "Tilly"
+  },
+  "Troi": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Troi_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_VeryRare",
+    "iconFull": "Token_VeryRare",
+    "rarity": "VeryRare",
+    "id": "Troi"
+  },
+  "Chekov": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Chekov_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Rare",
+    "iconFull": "Token_Rare",
+    "rarity": "Rare",
+    "id": "Chekov"
+  },
+  "Tuvok": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Tuvok_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Epic",
+    "iconFull": "Token_Epic",
+    "rarity": "Epic",
+    "id": "Tuvok"
+  },
+  "Chang": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Chang_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Epic",
+    "iconFull": "Token_Epic",
+    "rarity": "Epic",
+    "id": "Chang"
+  },
+  "Garak": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Garak_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Legendary",
+    "iconFull": "Token_Legendary",
+    "rarity": "Legendary",
+    "id": "Garak"
+  },
+  "PicardDixon": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_PicardDixon_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Legendary",
+    "iconFull": "Token_Legendary",
+    "rarity": "Legendary",
+    "id": "PicardDixon"
+  },
   "Biomimetic Gel": {
     "category": "BiomimeticGel",
     "currencyType": "None",

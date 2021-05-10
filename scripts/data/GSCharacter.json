@@ -2645,7 +2645,7 @@
     "SkillIDs": [
       "tomalak_attack",
       "tomalak_skill1",
-      "tomalak_skill2_in"
+      "tomalak_skill2"
     ],
     "BridgeSkill": "tomalak_bridge",
     "Health": 0.6,
@@ -3053,12 +3053,187 @@
     "id": "TonyTheTester",
     "RankupTokenId": "TonyTheTester"
   },
+  "GenGorn01Ally": {
+    "Name": "Common_GenGorn01",
+    "Rarity": "Common",
+    "Role": "Security",
+    "Type": "Disabled",
+    "Tags": [
+      "Gorn"
+    ],
+    "SkillIDs": [
+      "gorn_attack",
+      "gorn_skill1",
+      "gorn_skill2"
+    ],
+    "Health": 0.65,
+    "Defense": 0.6,
+    "Attack": 0.8,
+    "Tech": 0.15,
+    "Speed": 0.3,
+    "GlancingChance": 0.3,
+    "GlancingDamage": 0.7,
+    "CritChance": 0.6,
+    "CritDamage": 0.7,
+    "Resolve": 0.2,
+    "ModelMenuPrefabName": "GenGorn01Ally_Menu_Model",
+    "ModelBattlePrefabName": "GenGorn01Ally_Battle_Model",
+    "MirrorModelBattlePrefabName": "GenGorn01Ally_Battle_Mirror_Model",
+    "BattleAnimTreeName": "GenGorn01Ally_BattleAnimTree",
+    "MenuAnimTreeName": "GenGorn01Ally_MenuAnimTree",
+    "BridgeStations": [
+      "None"
+    ],
+    "AIProfile": "default-smart",
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
+    "Icon": "GenGorn01Ally_Portrait",
+    "RarityIcon": "Token_Common",
+    "id": "GenGorn01Ally",
+    "RankupTokenId": "GenGorn01Ally"
+  },
+  "JanewayAlly": {
+    "Name": "Common_CaptainJaneway",
+    "Description": "Data_Character_Janeway_description",
+    "Rarity": "VeryRare",
+    "Role": "Command",
+    "Type": "Disabled",
+    "Tags": [
+      "Human",
+      "Starfleet",
+      "Captain"
+    ],
+    "SkillIDs": [
+      "janeway_attack",
+      "janeway_skill1",
+      "janeway_skill2",
+      "janeway_skill3"
+    ],
+    "BridgeSkill": "janeway_bridge",
+    "Health": 0.45,
+    "Defense": 0.45,
+    "Attack": 0.8,
+    "Tech": 0.35,
+    "Speed": 0.45,
+    "GlancingChance": 0.45,
+    "GlancingDamage": 0.45,
+    "CritChance": 0.55,
+    "CritDamage": 0.7,
+    "Resolve": 0.35,
+    "ModelMenuPrefabName": "JanewayAlly_Menu_Model",
+    "ModelBattlePrefabName": "JanewayAlly_Battle_Model",
+    "MirrorModelBattlePrefabName": "JanewayAlly_Battle_Mirror_Model",
+    "BattleAnimTreeName": "JanewayAlly_BattleAnimTree",
+    "MenuAnimTreeName": "JanewayAlly_MenuAnimTree",
+    "BridgeStations": [
+      "Captain",
+      "Science",
+      "FirstOfficer"
+    ],
+    "AIProfile": "default-smart",
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
+    "Icon": "JanewayAlly_Portrait",
+    "RarityIcon": "Token_VeryRare",
+    "id": "JanewayAlly",
+    "RankupTokenId": "JanewayAlly"
+  },
+  "KirkAlly": {
+    "Name": "Common_CaptainKirk",
+    "Description": "Data_Character_Kirk_description",
+    "Rarity": "Legendary",
+    "Role": "Command",
+    "Type": "Disabled",
+    "Tags": [
+      "Human",
+      "Starfleet",
+      "Captain"
+    ],
+    "SkillIDs": [
+      "kirk_attack",
+      "kirk_skill1",
+      "kirk_skill2",
+      "kirk_skill3"
+    ],
+    "BridgeSkill": "kirk_bridge",
+    "Health": 0.6,
+    "Defense": 0.5,
+    "Attack": 0.7,
+    "Tech": 0.1,
+    "Speed": 0.6,
+    "GlancingChance": 0.625,
+    "GlancingDamage": 0.25,
+    "CritChance": 0.65,
+    "CritDamage": 0.375,
+    "Resolve": 0.6,
+    "ModelMenuPrefabName": "KirkAlly_Menu_Model",
+    "ModelBattlePrefabName": "KirkAlly_Battle_Model",
+    "MirrorModelBattlePrefabName": "KirkAlly_Battle_Mirror_Model",
+    "BattleAnimTreeName": "KirkAlly_BattleAnimTree",
+    "MenuAnimTreeName": "KirkAlly_MenuAnimTree",
+    "BridgeStations": [
+      "Captain",
+      "Tactical"
+    ],
+    "AIProfile": "default-smart",
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
+    "Icon": "KirkAlly_Portrait",
+    "RarityIcon": "Token_Legendary",
+    "id": "KirkAlly",
+    "RankupTokenId": "KirkAlly"
+  },
+  "SiskoAlly": {
+    "Name": "Common_CaptainSisko",
+    "Description": "Data_Character_Sisko_description",
+    "Rarity": "VeryRare",
+    "Role": "Command",
+    "Type": "Disabled",
+    "Tags": [
+      "Human",
+      "Starfleet"
+    ],
+    "SkillIDs": [
+      "sisko_attack",
+      "sisko_skill1",
+      "sisko_skill2",
+      "sisko_skill3"
+    ],
+    "BridgeSkill": "sisko_bridge",
+    "Health": 0.55,
+    "Defense": 0.45,
+    "Attack": 0.65,
+    "Tech": 0.4,
+    "Speed": 0.45,
+    "GlancingChance": 0.375,
+    "GlancingDamage": 0.375,
+    "CritChance": 0.5,
+    "CritDamage": 0.35,
+    "Resolve": 0.9,
+    "ModelMenuPrefabName": "SiskoAlly_Menu_Model",
+    "ModelBattlePrefabName": "SiskoAlly_Battle_Model",
+    "MirrorModelBattlePrefabName": "SiskoAlly_Battle_Mirror_Model",
+    "BattleAnimTreeName": "SiskoAlly_BattleAnimTree",
+    "MenuAnimTreeName": "SiskoAlly_MenuAnimTree",
+    "BridgeStations": [
+      "Captain",
+      "FirstOfficer",
+      "Engineering"
+    ],
+    "AIProfile": "default-smart",
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
+    "Icon": "SiskoAlly_Portrait",
+    "RarityIcon": "Token_VeryRare",
+    "id": "SiskoAlly",
+    "RankupTokenId": "SiskoAlly"
+  },
   "Torchbearer": {
     "Name": "Common_Torchbearer",
     "Description": "Data_Character_Torchbearer_description",
     "Rarity": "Rare",
     "Role": "Security",
-    "Type": "Disabled",
+    "Type": "Normal",
     "Tags": [
       "Klingon"
     ],
@@ -3088,8 +3263,8 @@
       "Tactical"
     ],
     "AIProfile": "default-smart",
-    "DailyTokenVisible": false,
-    "DailyTokenWeight": 0,
+    "DailyTokenVisible": true,
+    "DailyTokenWeight": 100,
     "Icon": "Torchbearer_Portrait",
     "RarityIcon": "Token_Rare",
     "id": "Torchbearer",
@@ -3492,5 +3667,49 @@
     "RarityIcon": "Token_Legendary",
     "id": "PicardDixon",
     "RankupTokenId": "PicardDixon"
+  },
+  "Shinzon": {
+    "Name": "Common_Shinzon",
+    "Description": "Data_Character_Shinzon_description",
+    "Rarity": "Epic",
+    "Role": "Command",
+    "Type": "Disabled",
+    "Tags": [
+      "Human",
+      "Romulan"
+    ],
+    "SkillIDs": [
+      "shinzon_attack",
+      "shinzon_skill1",
+      "shinzon_skill2",
+      "shinzon_skill3"
+    ],
+    "BridgeSkill": "shinzon_bridge",
+    "Health": 0.39,
+    "Defense": 0.32,
+    "Attack": 0.61,
+    "Tech": 0.61,
+    "Speed": 0.57,
+    "GlancingChance": 0.19,
+    "GlancingDamage": 0.77,
+    "CritChance": 0.45,
+    "CritDamage": 0.21,
+    "Resolve": 0.88,
+    "ModelMenuPrefabName": "Shinzon_Menu_Model",
+    "ModelBattlePrefabName": "Shinzon_Battle_Model",
+    "MirrorModelBattlePrefabName": "Shinzon_Battle_Mirror_Model",
+    "BattleAnimTreeName": "Shinzon_BattleAnimTree",
+    "MenuAnimTreeName": "Shinzon_MenuAnimTree",
+    "BridgeStations": [
+      "Captain",
+      "Tactical"
+    ],
+    "AIProfile": "default-smart",
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
+    "Icon": "Shinzon_Portrait",
+    "RarityIcon": "Token_Epic",
+    "id": "Shinzon",
+    "RankupTokenId": "Shinzon"
   }
 }

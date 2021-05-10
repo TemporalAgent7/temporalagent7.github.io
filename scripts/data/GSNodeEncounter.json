@@ -3751,6 +3751,7 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m1_battle01",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Unknown",
+    "PreBattleStory": "e7_m1_battle01",
     "PreviewImage": "Combat_NexusMachineInterior_01_Img",
     "id": {
       "id": "e7_m1_battle01",
@@ -3775,6 +3776,7 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m1_battle03",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Unknown",
+    "PreBattleStory": "e7_m1_battle03",
     "PreviewImage": "Combat_NexusMachineInterior_03_Img",
     "id": {
       "id": "e7_m1_battle03",
@@ -3823,6 +3825,7 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m1_battle07",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Unknown",
+    "PreBattleStory": "e7_m1_battle07",
     "PreviewImage": "Combat_NexusMachineInterior_02_Img",
     "id": {
       "id": "e7_m1_battle07",
@@ -3883,6 +3886,8 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m1_battle12",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+    "PreBattleStory": "e7_m1_battle12",
+    "PostBattleStoryId": "e7_m1_battle12_post",
     "PreviewImage": "Combat_NexusMachineInterior_03_Img",
     "id": {
       "id": "e7_m1_battle12",
@@ -3895,6 +3900,7 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m2_battle01",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Cardassian",
+    "PreBattleStory": "e7_m2_battle01",
     "PreviewImage": "Combat_Forest_Federation_Clearing_Night_Img",
     "id": {
       "id": "e7_m2_battle01",
@@ -3919,7 +3925,7 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m2_battle03",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Shapeshifters",
-    "PreviewImage": "Combat_Forest_Path_Night_Img",
+    "PreviewImage": "Combat_Forest_Federation_Path_Night_Img",
     "id": {
       "id": "e7_m2_battle03",
       "difficulty": "Easy"
@@ -3943,7 +3949,7 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m2_battle05",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Shapeshifters",
-    "PreviewImage": "Combat_Forest_Path_Night_Img",
+    "PreviewImage": "Combat_Forest_Federation_Path_Night_Img",
     "id": {
       "id": "e7_m2_battle05",
       "difficulty": "Easy"
@@ -3967,6 +3973,7 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m2_battle07",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_CardassianShapeshifters",
+    "PreBattleStory": "e7_m2_battle07",
     "PreviewImage": "Combat_Forest_Federation_Clearing_Night_Img",
     "id": {
       "id": "e7_m2_battle07",
@@ -3991,7 +3998,7 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m2_battle09",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Cardassian",
-    "PreviewImage": "Combat_Forest_Path_Night_Img",
+    "PreviewImage": "Combat_Forest_Federation_Path_Night_Img",
     "id": {
       "id": "e7_m2_battle09",
       "difficulty": "Easy"
@@ -4015,6 +4022,7 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m2_battle11",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_CardassianShapeshifters",
+    "PreBattleStory": "e7_m2_battle11",
     "PreviewImage": "Combat_Forest_Clearing_Night_Img",
     "id": {
       "id": "e7_m2_battle11",
@@ -4051,6 +4059,7 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m3_battle01",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Borg",
+    "PreBattleStory": "e7_m3_battle01",
     "PreviewImage": "Combat_Borg_DataDistNode_Img",
     "id": {
       "id": "e7_m3_battle01",
@@ -4063,6 +4072,7 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m3_battle02",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Borg",
+    "PreBattleStory": "e7_m3_battle02",
     "PreviewImage": "Combat_Borg_Room_Img",
     "id": {
       "id": "e7_m3_battle02",
@@ -4087,6 +4097,8 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m3_battle04",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Borg",
+    "PreBattleStory": "e7_m3_battle04",
+    "PostBattleStoryId": "e7_m3_battle04_post",
     "PreviewImage": "Combat_Borg_DataDistNode_Img",
     "id": {
       "id": "e7_m3_battle04",
@@ -4171,6 +4183,8 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m3_battle11",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Borg",
+    "PreBattleStory": "e7_m3_battle11",
+    "PostBattleStoryId": "e7_m3_battle11_post",
     "PreviewImage": "Combat_Borg_RechargeAlcove_Img",
     "id": {
       "id": "e7_m3_battle11",
@@ -4207,6 +4221,8 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m3_battle14",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Borg",
+    "PreBattleStory": "e7_m3_battle14",
+    "PostBattleStoryId": "e7_m3_battle14_post",
     "PreviewImage": "Combat_Borg_RechargeAlcove_Img",
     "id": {
       "id": "e7_m3_battle14",
@@ -4219,6 +4235,8 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m4_battle01",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Klingon",
+    "PreBattleStory": "e7_m4_battle01",
+    "PostBattleStoryId": "e7_m4_battle01_post",
     "PreviewImage": "Combat_FedShip_Maru_InteriorRoom_01_Img",
     "id": {
       "id": "e7_m4_battle01",
@@ -4255,6 +4273,7 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m4_battle04",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Klingon",
+    "PreBattleStory": "e7_m4_battle04",
     "PreviewImage": "Combat_FedShip_Maru_Hallway_01_Img",
     "id": {
       "id": "e7_m4_battle04",
@@ -4291,6 +4310,7 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m4_battle07",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Klingon",
+    "PreBattleStory": "e7_m4_battle07",
     "PreviewImage": "Combat_FedShip_Maru_Medbay_01_Img",
     "id": {
       "id": "e7_m4_battle07",
@@ -4315,6 +4335,8 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m4_battle09",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Klingon",
+    "PreBattleStory": "e7_m4_battle09",
+    "PostBattleStoryId": "e7_m4_battle09_post",
     "PreviewImage": "Combat_FedShip_Maru_InteriorRoom_01_Img",
     "id": {
       "id": "e7_m4_battle09",
@@ -4339,6 +4361,8 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m4_battle11",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Klingon",
+    "PreBattleStory": "e7_m4_battle11",
+    "PostBattleStoryId": "e7_m4_battle11_post",
     "PreviewImage": "Combat_FedShip_Maru_EntryWell_01_Img",
     "id": {
       "id": "e7_m4_battle11",
@@ -4351,6 +4375,8 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m5_battle01",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Romulan",
+    "PreBattleStory": "e7_m5_battle01",
+    "PostBattleStoryId": "e7_m5_battle01_post",
     "PreviewImage": "Combat_Desert_CanyonNight_Img",
     "id": {
       "id": "e7_m5_battle01",
@@ -4411,6 +4437,7 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m5_battle06",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Romulan",
+    "PostBattleStoryId": "e7_m5_battle06_post",
     "PreviewImage": "Combat_Desert_CanyonNight_Img",
     "id": {
       "id": "e7_m5_battle06",
@@ -4447,6 +4474,7 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m5_battle09",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Romulan",
+    "PostBattleStoryId": "e7_m5_battle09_post",
     "PreviewImage": "Combat_Desert_ShuttleNight_Img",
     "id": {
       "id": "e7_m5_battle09",
@@ -4459,6 +4487,7 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m6_battle01",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Unknown",
+    "PreBattleStory": "e7_m6_battle01",
     "PreviewImage": "Combat_NexusMachineInterior_03_Img",
     "id": {
       "id": "e7_m6_battle01",
@@ -4495,6 +4524,7 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m6_battle04",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+    "PreBattleStory": "e7_m6_battle04",
     "PreviewImage": "Combat_NexusMachineInterior_01_Img",
     "id": {
       "id": "e7_m6_battle04",
@@ -4543,6 +4573,7 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m6_battle08",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+    "PreBattleStory": "e7_m6_battle08",
     "PreviewImage": "Combat_NexusMachineInterior_02_Img",
     "id": {
       "id": "e7_m6_battle08",
@@ -4567,6 +4598,7 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m6_battle10",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+    "PreBattleStory": "e7_m6_battle10",
     "PreviewImage": "Combat_NexusMachineInterior_02_Img",
     "id": {
       "id": "e7_m6_battle10",
@@ -4591,6 +4623,8 @@
     "Difficulty": "Easy",
     "BattleId": "e7_m6_battle12",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+    "PreBattleStory": "e7_m6_battle12",
+    "PostBattleStoryId": "e7_m6_battle12_post",
     "PreviewImage": "Combat_NexusMachineInterior_03_Img",
     "id": {
       "id": "e7_m6_battle12",
@@ -8349,6 +8383,7 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m1_battle01",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Unknown",
+    "PreBattleStory": "e7_m1_battle01",
     "PreviewImage": "Combat_NexusMachineInterior_01_Img",
     "id": {
       "id": "e7_m1_battle01",
@@ -8373,6 +8408,7 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m1_battle03",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Unknown",
+    "PreBattleStory": "e7_m1_battle03",
     "PreviewImage": "Combat_NexusMachineInterior_03_Img",
     "id": {
       "id": "e7_m1_battle03",
@@ -8421,6 +8457,7 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m1_battle07",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Unknown",
+    "PreBattleStory": "e7_m1_battle07",
     "PreviewImage": "Combat_NexusMachineInterior_02_Img",
     "id": {
       "id": "e7_m1_battle07",
@@ -8481,6 +8518,8 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m1_battle12",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+    "PreBattleStory": "e7_m1_battle12",
+    "PostBattleStoryId": "e7_m1_battle12_post",
     "PreviewImage": "Combat_NexusMachineInterior_03_Img",
     "id": {
       "id": "e7_m1_battle12",
@@ -8493,6 +8532,7 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m2_battle01",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Cardassian",
+    "PreBattleStory": "e7_m2_battle01",
     "PreviewImage": "Combat_Forest_Federation_Clearing_Night_Img",
     "id": {
       "id": "e7_m2_battle01",
@@ -8517,7 +8557,7 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m2_battle03",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Shapeshifters",
-    "PreviewImage": "Combat_Forest_Path_Night_Img",
+    "PreviewImage": "Combat_Forest_Federation_Path_Night_Img",
     "id": {
       "id": "e7_m2_battle03",
       "difficulty": "Hard"
@@ -8541,7 +8581,7 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m2_battle05",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Shapeshifters",
-    "PreviewImage": "Combat_Forest_Path_Night_Img",
+    "PreviewImage": "Combat_Forest_Federation_Path_Night_Img",
     "id": {
       "id": "e7_m2_battle05",
       "difficulty": "Hard"
@@ -8565,6 +8605,7 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m2_battle07",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_CardassianShapeshifters",
+    "PreBattleStory": "e7_m2_battle07",
     "PreviewImage": "Combat_Forest_Federation_Clearing_Night_Img",
     "id": {
       "id": "e7_m2_battle07",
@@ -8589,7 +8630,7 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m2_battle09",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Cardassian",
-    "PreviewImage": "Combat_Forest_Path_Night_Img",
+    "PreviewImage": "Combat_Forest_Federation_Path_Night_Img",
     "id": {
       "id": "e7_m2_battle09",
       "difficulty": "Hard"
@@ -8613,6 +8654,7 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m2_battle11",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_CardassianShapeshifters",
+    "PreBattleStory": "e7_m2_battle11",
     "PreviewImage": "Combat_Forest_Clearing_Night_Img",
     "id": {
       "id": "e7_m2_battle11",
@@ -8649,6 +8691,7 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m3_battle01",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Borg",
+    "PreBattleStory": "e7_m3_battle01",
     "PreviewImage": "Combat_Borg_DataDistNode_Img",
     "id": {
       "id": "e7_m3_battle01",
@@ -8661,6 +8704,7 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m3_battle02",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Borg",
+    "PreBattleStory": "e7_m3_battle02",
     "PreviewImage": "Combat_Borg_Room_Img",
     "id": {
       "id": "e7_m3_battle02",
@@ -8685,6 +8729,8 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m3_battle04",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Borg",
+    "PreBattleStory": "e7_m3_battle04",
+    "PostBattleStoryId": "e7_m3_battle04_post",
     "PreviewImage": "Combat_Borg_DataDistNode_Img",
     "id": {
       "id": "e7_m3_battle04",
@@ -8769,6 +8815,8 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m3_battle11",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Borg",
+    "PreBattleStory": "e7_m3_battle11",
+    "PostBattleStoryId": "e7_m3_battle11_post",
     "PreviewImage": "Combat_Borg_RechargeAlcove_Img",
     "id": {
       "id": "e7_m3_battle11",
@@ -8805,6 +8853,8 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m3_battle14",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Borg",
+    "PreBattleStory": "e7_m3_battle14",
+    "PostBattleStoryId": "e7_m3_battle14_post",
     "PreviewImage": "Combat_Borg_RechargeAlcove_Img",
     "id": {
       "id": "e7_m3_battle14",
@@ -8817,6 +8867,8 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m4_battle01",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Klingon",
+    "PreBattleStory": "e7_m4_battle01",
+    "PostBattleStoryId": "e7_m4_battle01_post",
     "PreviewImage": "Combat_FedShip_Maru_InteriorRoom_01_Img",
     "id": {
       "id": "e7_m4_battle01",
@@ -8853,6 +8905,7 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m4_battle04",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Klingon",
+    "PreBattleStory": "e7_m4_battle04",
     "PreviewImage": "Combat_FedShip_Maru_Hallway_01_Img",
     "id": {
       "id": "e7_m4_battle04",
@@ -8889,6 +8942,7 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m4_battle07",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Klingon",
+    "PreBattleStory": "e7_m4_battle07",
     "PreviewImage": "Combat_FedShip_Maru_Medbay_01_Img",
     "id": {
       "id": "e7_m4_battle07",
@@ -8913,6 +8967,8 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m4_battle09",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Klingon",
+    "PreBattleStory": "e7_m4_battle09",
+    "PostBattleStoryId": "e7_m4_battle09_post",
     "PreviewImage": "Combat_FedShip_Maru_InteriorRoom_01_Img",
     "id": {
       "id": "e7_m4_battle09",
@@ -8937,6 +8993,8 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m4_battle11",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Klingon",
+    "PreBattleStory": "e7_m4_battle11",
+    "PostBattleStoryId": "e7_m4_battle11_post",
     "PreviewImage": "Combat_FedShip_Maru_EntryWell_01_Img",
     "id": {
       "id": "e7_m4_battle11",
@@ -8949,6 +9007,8 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m5_battle01",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Romulan",
+    "PreBattleStory": "e7_m5_battle01",
+    "PostBattleStoryId": "e7_m5_battle01_post",
     "PreviewImage": "Combat_Desert_CanyonNight_Img",
     "id": {
       "id": "e7_m5_battle01",
@@ -9009,6 +9069,7 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m5_battle06",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Romulan",
+    "PostBattleStoryId": "e7_m5_battle06_post",
     "PreviewImage": "Combat_Desert_CanyonNight_Img",
     "id": {
       "id": "e7_m5_battle06",
@@ -9045,6 +9106,7 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m5_battle09",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Romulan",
+    "PostBattleStoryId": "e7_m5_battle09_post",
     "PreviewImage": "Combat_Desert_ShuttleNight_Img",
     "id": {
       "id": "e7_m5_battle09",
@@ -9057,6 +9119,7 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m6_battle01",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Unknown",
+    "PreBattleStory": "e7_m6_battle01",
     "PreviewImage": "Combat_NexusMachineInterior_03_Img",
     "id": {
       "id": "e7_m6_battle01",
@@ -9093,6 +9156,7 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m6_battle04",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+    "PreBattleStory": "e7_m6_battle04",
     "PreviewImage": "Combat_NexusMachineInterior_01_Img",
     "id": {
       "id": "e7_m6_battle04",
@@ -9141,6 +9205,7 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m6_battle08",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+    "PreBattleStory": "e7_m6_battle08",
     "PreviewImage": "Combat_NexusMachineInterior_02_Img",
     "id": {
       "id": "e7_m6_battle08",
@@ -9165,6 +9230,7 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m6_battle10",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+    "PreBattleStory": "e7_m6_battle10",
     "PreviewImage": "Combat_NexusMachineInterior_02_Img",
     "id": {
       "id": "e7_m6_battle10",
@@ -9189,6 +9255,8 @@
     "Difficulty": "Hard",
     "BattleId": "e7_m6_battle12",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+    "PreBattleStory": "e7_m6_battle12",
+    "PostBattleStoryId": "e7_m6_battle12_post",
     "PreviewImage": "Combat_NexusMachineInterior_03_Img",
     "id": {
       "id": "e7_m6_battle12",
@@ -12947,6 +13015,7 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m1_battle01",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Unknown",
+    "PreBattleStory": "e7_m1_battle01",
     "PreviewImage": "Combat_NexusMachineInterior_01_Img",
     "id": {
       "id": "e7_m1_battle01",
@@ -12971,6 +13040,7 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m1_battle03",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Unknown",
+    "PreBattleStory": "e7_m1_battle03",
     "PreviewImage": "Combat_NexusMachineInterior_03_Img",
     "id": {
       "id": "e7_m1_battle03",
@@ -13019,6 +13089,7 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m1_battle07",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Unknown",
+    "PreBattleStory": "e7_m1_battle07",
     "PreviewImage": "Combat_NexusMachineInterior_02_Img",
     "id": {
       "id": "e7_m1_battle07",
@@ -13079,6 +13150,8 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m1_battle12",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+    "PreBattleStory": "e7_m1_battle12",
+    "PostBattleStoryId": "e7_m1_battle12_post",
     "PreviewImage": "Combat_NexusMachineInterior_03_Img",
     "id": {
       "id": "e7_m1_battle12",
@@ -13091,6 +13164,7 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m2_battle01",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Cardassian",
+    "PreBattleStory": "e7_m2_battle01",
     "PreviewImage": "Combat_Forest_Federation_Clearing_Night_Img",
     "id": {
       "id": "e7_m2_battle01",
@@ -13115,7 +13189,7 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m2_battle03",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Shapeshifters",
-    "PreviewImage": "Combat_Forest_Path_Night_Img",
+    "PreviewImage": "Combat_Forest_Federation_Path_Night_Img",
     "id": {
       "id": "e7_m2_battle03",
       "difficulty": "Doom"
@@ -13139,7 +13213,7 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m2_battle05",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Shapeshifters",
-    "PreviewImage": "Combat_Forest_Path_Night_Img",
+    "PreviewImage": "Combat_Forest_Federation_Path_Night_Img",
     "id": {
       "id": "e7_m2_battle05",
       "difficulty": "Doom"
@@ -13163,6 +13237,7 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m2_battle07",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_CardassianShapeshifters",
+    "PreBattleStory": "e7_m2_battle07",
     "PreviewImage": "Combat_Forest_Federation_Clearing_Night_Img",
     "id": {
       "id": "e7_m2_battle07",
@@ -13187,7 +13262,7 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m2_battle09",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Cardassian",
-    "PreviewImage": "Combat_Forest_Path_Night_Img",
+    "PreviewImage": "Combat_Forest_Federation_Path_Night_Img",
     "id": {
       "id": "e7_m2_battle09",
       "difficulty": "Doom"
@@ -13211,6 +13286,7 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m2_battle11",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_CardassianShapeshifters",
+    "PreBattleStory": "e7_m2_battle11",
     "PreviewImage": "Combat_Forest_Clearing_Night_Img",
     "id": {
       "id": "e7_m2_battle11",
@@ -13247,6 +13323,7 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m3_battle01",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Borg",
+    "PreBattleStory": "e7_m3_battle01",
     "PreviewImage": "Combat_Borg_DataDistNode_Img",
     "id": {
       "id": "e7_m3_battle01",
@@ -13259,6 +13336,7 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m3_battle02",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Borg",
+    "PreBattleStory": "e7_m3_battle02",
     "PreviewImage": "Combat_Borg_Room_Img",
     "id": {
       "id": "e7_m3_battle02",
@@ -13283,6 +13361,8 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m3_battle04",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Borg",
+    "PreBattleStory": "e7_m3_battle04",
+    "PostBattleStoryId": "e7_m3_battle04_post",
     "PreviewImage": "Combat_Borg_DataDistNode_Img",
     "id": {
       "id": "e7_m3_battle04",
@@ -13367,6 +13447,8 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m3_battle11",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Borg",
+    "PreBattleStory": "e7_m3_battle11",
+    "PostBattleStoryId": "e7_m3_battle11_post",
     "PreviewImage": "Combat_Borg_RechargeAlcove_Img",
     "id": {
       "id": "e7_m3_battle11",
@@ -13403,6 +13485,8 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m3_battle14",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Borg",
+    "PreBattleStory": "e7_m3_battle14",
+    "PostBattleStoryId": "e7_m3_battle14_post",
     "PreviewImage": "Combat_Borg_RechargeAlcove_Img",
     "id": {
       "id": "e7_m3_battle14",
@@ -13415,6 +13499,8 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m4_battle01",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Klingon",
+    "PreBattleStory": "e7_m4_battle01",
+    "PostBattleStoryId": "e7_m4_battle01_post",
     "PreviewImage": "Combat_FedShip_Maru_InteriorRoom_01_Img",
     "id": {
       "id": "e7_m4_battle01",
@@ -13451,6 +13537,7 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m4_battle04",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Klingon",
+    "PreBattleStory": "e7_m4_battle04",
     "PreviewImage": "Combat_FedShip_Maru_Hallway_01_Img",
     "id": {
       "id": "e7_m4_battle04",
@@ -13487,6 +13574,7 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m4_battle07",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Klingon",
+    "PreBattleStory": "e7_m4_battle07",
     "PreviewImage": "Combat_FedShip_Maru_Medbay_01_Img",
     "id": {
       "id": "e7_m4_battle07",
@@ -13511,6 +13599,8 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m4_battle09",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Klingon",
+    "PreBattleStory": "e7_m4_battle09",
+    "PostBattleStoryId": "e7_m4_battle09_post",
     "PreviewImage": "Combat_FedShip_Maru_InteriorRoom_01_Img",
     "id": {
       "id": "e7_m4_battle09",
@@ -13535,6 +13625,8 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m4_battle11",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Klingon",
+    "PreBattleStory": "e7_m4_battle11",
+    "PostBattleStoryId": "e7_m4_battle11_post",
     "PreviewImage": "Combat_FedShip_Maru_EntryWell_01_Img",
     "id": {
       "id": "e7_m4_battle11",
@@ -13547,6 +13639,8 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m5_battle01",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Romulan",
+    "PreBattleStory": "e7_m5_battle01",
+    "PostBattleStoryId": "e7_m5_battle01_post",
     "PreviewImage": "Combat_Desert_CanyonNight_Img",
     "id": {
       "id": "e7_m5_battle01",
@@ -13607,6 +13701,7 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m5_battle06",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Romulan",
+    "PostBattleStoryId": "e7_m5_battle06_post",
     "PreviewImage": "Combat_Desert_CanyonNight_Img",
     "id": {
       "id": "e7_m5_battle06",
@@ -13643,6 +13738,7 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m5_battle09",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Romulan",
+    "PostBattleStoryId": "e7_m5_battle09_post",
     "PreviewImage": "Combat_Desert_ShuttleNight_Img",
     "id": {
       "id": "e7_m5_battle09",
@@ -13655,6 +13751,7 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m6_battle01",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Unknown",
+    "PreBattleStory": "e7_m6_battle01",
     "PreviewImage": "Combat_NexusMachineInterior_03_Img",
     "id": {
       "id": "e7_m6_battle01",
@@ -13691,6 +13788,7 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m6_battle04",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+    "PreBattleStory": "e7_m6_battle04",
     "PreviewImage": "Combat_NexusMachineInterior_01_Img",
     "id": {
       "id": "e7_m6_battle04",
@@ -13739,6 +13837,7 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m6_battle08",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+    "PreBattleStory": "e7_m6_battle08",
     "PreviewImage": "Combat_NexusMachineInterior_02_Img",
     "id": {
       "id": "e7_m6_battle08",
@@ -13763,6 +13862,7 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m6_battle10",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+    "PreBattleStory": "e7_m6_battle10",
     "PreviewImage": "Combat_NexusMachineInterior_02_Img",
     "id": {
       "id": "e7_m6_battle10",
@@ -13787,6 +13887,8 @@
     "Difficulty": "Doom",
     "BattleId": "e7_m6_battle12",
     "LocDescription": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+    "PreBattleStory": "e7_m6_battle12",
+    "PostBattleStoryId": "e7_m6_battle12_post",
     "PreviewImage": "Combat_NexusMachineInterior_03_Img",
     "id": {
       "id": "e7_m6_battle12",

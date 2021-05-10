@@ -9,13 +9,20 @@
     "Description": "Data_GSMissions_displayDesc_Episode1_Mission1",
     "MapScene": "MissionSelectPlanet_Ice_Cardassian",
     "EpisodeId": "episode 1",
-    "UnlockReq": "",
+    "UnlockReq": {
+      "id": "",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e1_m1",
     "BackgroundImage": "Campaign_Episode_1_HR:m1",
     "loadingImage": "Campaign_Episode_1_HR:Full",
     "EnvironmentScene": "Map_Cardassian_Interior_Final",
     "EndStory": "",
-    "IntroCutscene": "e1_m6_battle01",
+    "IntroCutscene": "",
     "id": {
       "id": "episode 1 mission 1",
       "difficulty": "Easy"
@@ -31,7 +38,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode1_Mission2",
     "MapScene": "MissionSelectPlanet_Ice_Cardassian",
     "EpisodeId": "episode 1",
-    "UnlockReq": "episode 1 mission 1",
+    "UnlockReq": {
+      "id": "episode 1 mission 1",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e1_m2",
     "BackgroundImage": "Campaign_Episode_1_HR:m2",
     "loadingImage": "Campaign_Episode_1_HR:Full",
@@ -53,7 +67,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode1_Mission3",
     "MapScene": "MissionSelectPlanet_Ice_Normal",
     "EpisodeId": "episode 1",
-    "UnlockReq": "episode 1 mission 2",
+    "UnlockReq": {
+      "id": "episode 1 mission 2",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e1_m3",
     "BackgroundImage": "Campaign_Episode_1_HR:m3",
     "loadingImage": "Campaign_Episode_1_HR:Full",
@@ -75,7 +96,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode1_Mission4",
     "MapScene": "MissionSelectPlanet_Ice_Normal",
     "EpisodeId": "episode 1",
-    "UnlockReq": "episode 1 mission 3",
+    "UnlockReq": {
+      "id": "episode 1 mission 3",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e1_m4",
     "BackgroundImage": "Campaign_Episode_1_HR:m4",
     "loadingImage": "Campaign_Episode_1_HR:Full",
@@ -97,7 +125,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode1_Mission5",
     "MapScene": "MissionSelectPlanet_Ice_Normal",
     "EpisodeId": "episode 1",
-    "UnlockReq": "episode 1 mission 4",
+    "UnlockReq": {
+      "id": "episode 1 mission 4",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e1_m5",
     "BackgroundImage": "Campaign_Episode_1_HR:m5",
     "loadingImage": "Campaign_Episode_1_HR:Full",
@@ -119,7 +154,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode1_Mission6",
     "MapScene": "MissionSelectPlanet_Ice_Normal",
     "EpisodeId": "episode 1",
-    "UnlockReq": "episode 1 mission 5",
+    "UnlockReq": {
+      "id": "episode 1 mission 5",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e1_m6",
     "BackgroundImage": "Campaign_Episode_1_HR:m6",
     "loadingImage": "Campaign_Episode_1_HR:Full",
@@ -141,7 +183,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode2_Mission1",
     "MapScene": "MissionSelectPlanet_Ice_Normal",
     "EpisodeId": "episode 2",
-    "UnlockReq": "episode 1 mission 6",
+    "UnlockReq": {
+      "id": "episode 1 mission 6",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e2_m1",
     "BackgroundImage": "Campaign_Episode_3_HR:m1",
     "loadingImage": "Campaign_Episode_3_HR:Full",
@@ -163,7 +212,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode2_Mission2",
     "MapScene": "MissionSelectPlanet_Ice_Normal",
     "EpisodeId": "episode 2",
-    "UnlockReq": "episode 2 mission 1",
+    "UnlockReq": {
+      "id": "episode 2 mission 1",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e2_m2",
     "BackgroundImage": "Campaign_Episode_3_HR:m2",
     "loadingImage": "Campaign_Episode_3_HR:Full",
@@ -185,7 +241,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode2_Mission3",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 2",
-    "UnlockReq": "episode 2 mission 2",
+    "UnlockReq": {
+      "id": "episode 2 mission 2",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e2_m3",
     "BackgroundImage": "Campaign_Episode_3_HR:m3",
     "loadingImage": "Campaign_Episode_3_HR:Full",
@@ -207,7 +270,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode2_Mission4",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 2",
-    "UnlockReq": "episode 2 mission 3",
+    "UnlockReq": {
+      "id": "episode 2 mission 3",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e2_m4",
     "BackgroundImage": "Campaign_Episode_3_HR:m4",
     "loadingImage": "Campaign_Episode_3_HR:Full",
@@ -229,7 +299,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode2_Mission5",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 2",
-    "UnlockReq": "episode 2 mission 4",
+    "UnlockReq": {
+      "id": "episode 2 mission 4",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e2_m5",
     "BackgroundImage": "Campaign_Episode_3_HR:m5",
     "loadingImage": "Campaign_Episode_3_HR:Full",
@@ -251,7 +328,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode2_Mission6",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 2",
-    "UnlockReq": "episode 2 mission 5",
+    "UnlockReq": {
+      "id": "episode 2 mission 5",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e2_m6",
     "BackgroundImage": "Campaign_Episode_3_HR:m6",
     "loadingImage": "Campaign_Episode_3_HR:Full",
@@ -273,7 +357,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode3_Mission1",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 3",
-    "UnlockReq": "episode 2 mission 6",
+    "UnlockReq": {
+      "id": "episode 2 mission 6",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e3_m1",
     "BackgroundImage": "Campaign_Episode_2_HR:m1",
     "loadingImage": "Campaign_Episode_2_HR:Full",
@@ -295,7 +386,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode3_Mission2",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 3",
-    "UnlockReq": "episode 3 mission 1",
+    "UnlockReq": {
+      "id": "episode 3 mission 1",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e3_m2",
     "BackgroundImage": "Campaign_Episode_2_HR:m2",
     "loadingImage": "Campaign_Episode_2_HR:Full",
@@ -317,7 +415,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode3_Mission3",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 3",
-    "UnlockReq": "episode 3 mission 2",
+    "UnlockReq": {
+      "id": "episode 3 mission 2",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e3_m3",
     "BackgroundImage": "Campaign_Episode_2_HR:m3",
     "loadingImage": "Campaign_Episode_2_HR:Full",
@@ -339,7 +444,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode3_Mission4",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 3",
-    "UnlockReq": "episode 3 mission 3",
+    "UnlockReq": {
+      "id": "episode 3 mission 3",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e3_m4",
     "BackgroundImage": "Campaign_Episode_2_HR:m4",
     "loadingImage": "Campaign_Episode_2_HR:Full",
@@ -361,7 +473,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode3_Mission5",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 3",
-    "UnlockReq": "episode 3 mission 4",
+    "UnlockReq": {
+      "id": "episode 3 mission 4",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e3_m5",
     "BackgroundImage": "Campaign_Episode_2_HR:m5",
     "loadingImage": "Campaign_Episode_2_HR:Full",
@@ -383,7 +502,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode3_Mission6",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 3",
-    "UnlockReq": "episode 3 mission 5",
+    "UnlockReq": {
+      "id": "episode 3 mission 5",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e3_m6",
     "BackgroundImage": "Campaign_Episode_2_HR:m6",
     "loadingImage": "Campaign_Episode_2_HR:Full",
@@ -405,7 +531,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode4_Mission1",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 4",
-    "UnlockReq": "episode 3 mission 6",
+    "UnlockReq": {
+      "id": "episode 3 mission 6",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e4_m1",
     "BackgroundImage": "Campaign_Episode_4_HR:m1",
     "loadingImage": "Campaign_Episode_4_HR:Full",
@@ -427,7 +560,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode4_Mission2",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 4",
-    "UnlockReq": "episode 4 mission 1",
+    "UnlockReq": {
+      "id": "episode 4 mission 1",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e4_m2",
     "BackgroundImage": "Campaign_Episode_4_HR:m2",
     "loadingImage": "Campaign_Episode_4_HR:Full",
@@ -449,7 +589,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode4_Mission3",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 4",
-    "UnlockReq": "episode 4 mission 2",
+    "UnlockReq": {
+      "id": "episode 4 mission 2",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e4_m3",
     "BackgroundImage": "Campaign_Episode_4_HR:m3",
     "loadingImage": "Campaign_Episode_4_HR:Full",
@@ -471,7 +618,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode4_Mission4",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 4",
-    "UnlockReq": "episode 4 mission 3",
+    "UnlockReq": {
+      "id": "episode 4 mission 3",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e4_m4",
     "BackgroundImage": "Campaign_Episode_4_HR:m4",
     "loadingImage": "Campaign_Episode_4_HR:Full",
@@ -493,7 +647,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode4_Mission5",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 4",
-    "UnlockReq": "episode 4 mission 4",
+    "UnlockReq": {
+      "id": "episode 4 mission 4",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e4_m5",
     "BackgroundImage": "Campaign_Episode_4_HR:m5",
     "loadingImage": "Campaign_Episode_4_HR:Full",
@@ -515,7 +676,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode4_Mission6",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 4",
-    "UnlockReq": "episode 4 mission 5",
+    "UnlockReq": {
+      "id": "episode 4 mission 5",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e4_m6",
     "BackgroundImage": "Campaign_Episode_4_HR:m6",
     "loadingImage": "Campaign_Episode_4_HR:Full",
@@ -537,7 +705,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode5_Mission1",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 5",
-    "UnlockReq": "episode 4 mission 6",
+    "UnlockReq": {
+      "id": "episode 4 mission 6",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e5_m1",
     "BackgroundImage": "Campaign_Episode_5_HR:m1",
     "loadingImage": "Campaign_Episode_5_HR:Full",
@@ -559,7 +734,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode5_Mission2",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 5",
-    "UnlockReq": "episode 5 mission 1",
+    "UnlockReq": {
+      "id": "episode 5 mission 1",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e5_m2",
     "BackgroundImage": "Campaign_Episode_5_HR:m2",
     "loadingImage": "Campaign_Episode_5_HR:Full",
@@ -581,7 +763,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode5_Mission3",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 5",
-    "UnlockReq": "episode 5 mission 2",
+    "UnlockReq": {
+      "id": "episode 5 mission 2",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e5_m3",
     "BackgroundImage": "Campaign_Episode_5_HR:m3",
     "loadingImage": "Campaign_Episode_5_HR:Full",
@@ -603,7 +792,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode5_Mission4",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 5",
-    "UnlockReq": "episode 5 mission 3",
+    "UnlockReq": {
+      "id": "episode 5 mission 3",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e5_m4",
     "BackgroundImage": "Campaign_Episode_5_HR:m4",
     "loadingImage": "Campaign_Episode_5_HR:Full",
@@ -625,7 +821,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode5_Mission5",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 5",
-    "UnlockReq": "episode 5 mission 4",
+    "UnlockReq": {
+      "id": "episode 5 mission 4",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e5_m5",
     "BackgroundImage": "Campaign_Episode_5_HR:m5",
     "loadingImage": "Campaign_Episode_5_HR:Full",
@@ -647,7 +850,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode5_Mission6",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 5",
-    "UnlockReq": "episode 5 mission 5",
+    "UnlockReq": {
+      "id": "episode 5 mission 5",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e5_m6",
     "BackgroundImage": "Campaign_Episode_5_HR:m6",
     "loadingImage": "Campaign_Episode_5_HR:Full",
@@ -669,7 +879,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode6_Mission1",
     "MapScene": "MissionSelectPlanet_Pioneer",
     "EpisodeId": "episode 6",
-    "UnlockReq": "episode 5 mission 6",
+    "UnlockReq": {
+      "id": "episode 5 mission 6",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e6_m1",
     "BackgroundImage": "Campaign_Episode_6_HR:m1",
     "loadingImage": "Campaign_Episode_6_HR:Full",
@@ -691,7 +908,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode6_Mission2",
     "MapScene": "MissionSelectPlanet_Pioneer",
     "EpisodeId": "episode 6",
-    "UnlockReq": "episode 6 mission 1",
+    "UnlockReq": {
+      "id": "episode 6 mission 1",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e6_m2",
     "BackgroundImage": "Campaign_Episode_6_HR:m2",
     "loadingImage": "Campaign_Episode_6_HR:Full",
@@ -713,7 +937,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode6_Mission3",
     "MapScene": "MissionSelectPlanet_DesertBirdofPrey",
     "EpisodeId": "episode 6",
-    "UnlockReq": "episode 6 mission 2",
+    "UnlockReq": {
+      "id": "episode 6 mission 2",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e6_m3",
     "BackgroundImage": "Campaign_Episode_6_HR:m3",
     "loadingImage": "Campaign_Episode_6_HR:Full",
@@ -735,7 +966,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode6_Mission4",
     "MapScene": "MissionSelectPlanet_NexusRuinsCardiassian",
     "EpisodeId": "episode 6",
-    "UnlockReq": "episode 6 mission 3",
+    "UnlockReq": {
+      "id": "episode 6 mission 3",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e6_m4",
     "BackgroundImage": "Campaign_Episode_6_HR:m4",
     "loadingImage": "Campaign_Episode_6_HR:Full",
@@ -757,7 +995,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode6_Mission5",
     "MapScene": "MissionSelectPlanet_NexusRuins_Normal",
     "EpisodeId": "episode 6",
-    "UnlockReq": "episode 6 mission 4",
+    "UnlockReq": {
+      "id": "episode 6 mission 4",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e6_m5",
     "BackgroundImage": "Campaign_Episode_6_HR:m5",
     "loadingImage": "Campaign_Episode_6_HR:Full",
@@ -779,7 +1024,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode6_Mission6",
     "MapScene": "MissionSelectPlanet_NexusRuins_Normal",
     "EpisodeId": "episode 6",
-    "UnlockReq": "episode 6 mission 5",
+    "UnlockReq": {
+      "id": "episode 6 mission 5",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e6_m6",
     "BackgroundImage": "Campaign_Episode_6_HR:m6",
     "loadingImage": "Campaign_Episode_6_HR:Full",
@@ -788,6 +1040,180 @@
     "IntroCutscene": "",
     "id": {
       "id": "episode 6 mission 6",
+      "difficulty": "Easy"
+    }
+  },
+  "episode 7 mission 1-Easy": {
+    "MissionId": "episode 7 mission 1",
+    "Difficulty": "Easy",
+    "OrderIndex": 1,
+    "SuggestedPower": 6168,
+    "UnlockTime": 0.0,
+    "Name": "Data_GSMissions_displayName_Episode7_Mission1",
+    "Description": "Data_GSMissions_displayDesc_Episode7_Mission1",
+    "MapScene": "MissionSelectPlanet_NexusMachine",
+    "EpisodeId": "episode 7",
+    "UnlockReq": {
+      "id": "episode 6 mission 6",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
+    "NodesAsset": "e7_m1",
+    "BackgroundImage": "Campaign_Episode_7_HR:m1",
+    "loadingImage": "Campaign_Episode_7_HR:Full",
+    "EnvironmentScene": "Map_NexusMachineInterior_Final",
+    "EndStory": "",
+    "IntroCutscene": "",
+    "id": {
+      "id": "episode 7 mission 1",
+      "difficulty": "Easy"
+    }
+  },
+  "episode 7 mission 2-Easy": {
+    "MissionId": "episode 7 mission 2",
+    "Difficulty": "Easy",
+    "OrderIndex": 2,
+    "SuggestedPower": 6300,
+    "UnlockTime": 0.0,
+    "Name": "Data_GSMissions_displayName_Episode7_Mission2",
+    "Description": "Data_GSMissions_displayDesc_Episode7_Mission2",
+    "MapScene": "MissionSelectPlanet_Forest_Normal",
+    "EpisodeId": "episode 7",
+    "UnlockReq": {
+      "id": "episode 7 mission 1",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
+    "NodesAsset": "e7_m2",
+    "BackgroundImage": "Campaign_Episode_7_HR:m2",
+    "loadingImage": "Campaign_Episode_7_HR:Full",
+    "EnvironmentScene": "Map_ForestPlanet_Night_Final",
+    "EndStory": "",
+    "IntroCutscene": "",
+    "id": {
+      "id": "episode 7 mission 2",
+      "difficulty": "Easy"
+    }
+  },
+  "episode 7 mission 3-Easy": {
+    "MissionId": "episode 7 mission 3",
+    "Difficulty": "Easy",
+    "OrderIndex": 3,
+    "SuggestedPower": 6424,
+    "UnlockTime": 0.0,
+    "Name": "Data_GSMissions_displayName_Episode7_Mission3",
+    "Description": "Data_GSMissions_displayDesc_Episode7_Mission3",
+    "MapScene": "MissionSelectPlanet_BorgCube",
+    "EpisodeId": "episode 7",
+    "UnlockReq": {
+      "id": "episode 7 mission 2",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
+    "NodesAsset": "e7_m3",
+    "BackgroundImage": "Campaign_Episode_7_HR:m3",
+    "loadingImage": "Campaign_Episode_7_HR:Full",
+    "EnvironmentScene": "Map_Borg_Interior_Final",
+    "EndStory": "",
+    "IntroCutscene": "",
+    "id": {
+      "id": "episode 7 mission 3",
+      "difficulty": "Easy"
+    }
+  },
+  "episode 7 mission 4-Easy": {
+    "MissionId": "episode 7 mission 4",
+    "Difficulty": "Easy",
+    "OrderIndex": 4,
+    "SuggestedPower": 6556,
+    "UnlockTime": 0.0,
+    "Name": "Data_GSMissions_displayName_Episode7_Mission4",
+    "Description": "Data_GSMissions_displayDesc_Episode7_Mission4",
+    "MapScene": "MissionSelectPlanet_Pioneer",
+    "EpisodeId": "episode 7",
+    "UnlockReq": {
+      "id": "episode 7 mission 3",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
+    "NodesAsset": "e7_m4",
+    "BackgroundImage": "Campaign_Episode_7_HR:m4",
+    "loadingImage": "Campaign_Episode_7_HR:Full",
+    "EnvironmentScene": "Map_FedShip_Interior_Final",
+    "EndStory": "",
+    "IntroCutscene": "",
+    "id": {
+      "id": "episode 7 mission 4",
+      "difficulty": "Easy"
+    }
+  },
+  "episode 7 mission 5-Easy": {
+    "MissionId": "episode 7 mission 5",
+    "Difficulty": "Easy",
+    "OrderIndex": 5,
+    "SuggestedPower": 6704,
+    "UnlockTime": 0.0,
+    "Name": "Data_GSMissions_displayName_Episode7_Mission5",
+    "Description": "Data_GSMissions_displayDesc_Episode7_Mission5",
+    "MapScene": "MissionSelectPlanet_Desert_Normal",
+    "EpisodeId": "episode 7",
+    "UnlockReq": {
+      "id": "episode 7 mission 4",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
+    "NodesAsset": "e7_m5",
+    "BackgroundImage": "Campaign_Episode_7_HR:m5",
+    "loadingImage": "Campaign_Episode_7_HR:Full",
+    "EnvironmentScene": "Map_DesertPlanet_Night_Final",
+    "EndStory": "",
+    "IntroCutscene": "",
+    "id": {
+      "id": "episode 7 mission 5",
+      "difficulty": "Easy"
+    }
+  },
+  "episode 7 mission 6-Easy": {
+    "MissionId": "episode 7 mission 6",
+    "Difficulty": "Easy",
+    "OrderIndex": 6,
+    "SuggestedPower": 6828,
+    "UnlockTime": 0.0,
+    "Name": "Data_GSMissions_displayName_Episode7_Mission6",
+    "Description": "Data_GSMissions_displayDesc_Episode7_Mission6",
+    "MapScene": "MissionSelectPlanet_NexusMachine",
+    "EpisodeId": "episode 7",
+    "UnlockReq": {
+      "id": "episode 7 mission 5",
+      "difficulty": "Easy"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
+    "NodesAsset": "e7_m6",
+    "BackgroundImage": "Campaign_Episode_7_HR:m6",
+    "loadingImage": "Campaign_Episode_7_HR:Full",
+    "EnvironmentScene": "Map_NexusMachineInterior_Final",
+    "EndStory": "",
+    "IntroCutscene": "",
+    "id": {
+      "id": "episode 7 mission 6",
       "difficulty": "Easy"
     }
   },
@@ -801,7 +1227,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode1_Mission1",
     "MapScene": "MissionSelectPlanet_Ice_Cardassian",
     "EpisodeId": "episode 1",
-    "UnlockReq": "",
+    "UnlockReq": {
+      "id": "",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "episode 6 mission 6",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e1_m1",
     "BackgroundImage": "Campaign_Episode_1_HR:m1",
     "loadingImage": "Campaign_Episode_1_HR:Full",
@@ -823,7 +1256,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode1_Mission2",
     "MapScene": "MissionSelectPlanet_Ice_Cardassian",
     "EpisodeId": "episode 1",
-    "UnlockReq": "episode 1 mission 1",
+    "UnlockReq": {
+      "id": "episode 1 mission 1",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e1_m2",
     "BackgroundImage": "Campaign_Episode_1_HR:m2",
     "loadingImage": "Campaign_Episode_1_HR:Full",
@@ -845,7 +1285,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode1_Mission3",
     "MapScene": "MissionSelectPlanet_Ice_Normal",
     "EpisodeId": "episode 1",
-    "UnlockReq": "episode 1 mission 2",
+    "UnlockReq": {
+      "id": "episode 1 mission 2",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e1_m3",
     "BackgroundImage": "Campaign_Episode_1_HR:m3",
     "loadingImage": "Campaign_Episode_1_HR:Full",
@@ -867,7 +1314,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode1_Mission4",
     "MapScene": "MissionSelectPlanet_Ice_Normal",
     "EpisodeId": "episode 1",
-    "UnlockReq": "episode 1 mission 3",
+    "UnlockReq": {
+      "id": "episode 1 mission 3",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e1_m4",
     "BackgroundImage": "Campaign_Episode_1_HR:m4",
     "loadingImage": "Campaign_Episode_1_HR:Full",
@@ -889,7 +1343,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode1_Mission5",
     "MapScene": "MissionSelectPlanet_Ice_Normal",
     "EpisodeId": "episode 1",
-    "UnlockReq": "episode 1 mission 4",
+    "UnlockReq": {
+      "id": "episode 1 mission 4",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e1_m5",
     "BackgroundImage": "Campaign_Episode_1_HR:m5",
     "loadingImage": "Campaign_Episode_1_HR:Full",
@@ -911,7 +1372,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode1_Mission6",
     "MapScene": "MissionSelectPlanet_Ice_Normal",
     "EpisodeId": "episode 1",
-    "UnlockReq": "episode 1 mission 5",
+    "UnlockReq": {
+      "id": "episode 1 mission 5",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e1_m6",
     "BackgroundImage": "Campaign_Episode_1_HR:m6",
     "loadingImage": "Campaign_Episode_1_HR:Full",
@@ -933,7 +1401,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode2_Mission1",
     "MapScene": "MissionSelectPlanet_Ice_Normal",
     "EpisodeId": "episode 2",
-    "UnlockReq": "episode 1 mission 6",
+    "UnlockReq": {
+      "id": "episode 1 mission 6",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e2_m1",
     "BackgroundImage": "Campaign_Episode_3_HR:m1",
     "loadingImage": "Campaign_Episode_3_HR:Full",
@@ -955,7 +1430,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode2_Mission2",
     "MapScene": "MissionSelectPlanet_Ice_Normal",
     "EpisodeId": "episode 2",
-    "UnlockReq": "episode 2 mission 1",
+    "UnlockReq": {
+      "id": "episode 2 mission 1",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e2_m2",
     "BackgroundImage": "Campaign_Episode_3_HR:m2",
     "loadingImage": "Campaign_Episode_3_HR:Full",
@@ -977,7 +1459,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode2_Mission3",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 2",
-    "UnlockReq": "episode 2 mission 2",
+    "UnlockReq": {
+      "id": "episode 2 mission 2",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e2_m3",
     "BackgroundImage": "Campaign_Episode_3_HR:m3",
     "loadingImage": "Campaign_Episode_3_HR:Full",
@@ -999,7 +1488,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode2_Mission4",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 2",
-    "UnlockReq": "episode 2 mission 3",
+    "UnlockReq": {
+      "id": "episode 2 mission 3",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e2_m4",
     "BackgroundImage": "Campaign_Episode_3_HR:m4",
     "loadingImage": "Campaign_Episode_3_HR:Full",
@@ -1021,7 +1517,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode2_Mission5",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 2",
-    "UnlockReq": "episode 2 mission 4",
+    "UnlockReq": {
+      "id": "episode 2 mission 4",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e2_m5",
     "BackgroundImage": "Campaign_Episode_3_HR:m5",
     "loadingImage": "Campaign_Episode_3_HR:Full",
@@ -1043,7 +1546,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode2_Mission6",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 2",
-    "UnlockReq": "episode 2 mission 5",
+    "UnlockReq": {
+      "id": "episode 2 mission 5",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e2_m6",
     "BackgroundImage": "Campaign_Episode_3_HR:m6",
     "loadingImage": "Campaign_Episode_3_HR:Full",
@@ -1065,7 +1575,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode3_Mission1",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 3",
-    "UnlockReq": "episode 2 mission 6",
+    "UnlockReq": {
+      "id": "episode 2 mission 6",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e3_m1",
     "BackgroundImage": "Campaign_Episode_2_HR:m1",
     "loadingImage": "Campaign_Episode_2_HR:Full",
@@ -1087,7 +1604,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode3_Mission2",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 3",
-    "UnlockReq": "episode 3 mission 1",
+    "UnlockReq": {
+      "id": "episode 3 mission 1",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e3_m2",
     "BackgroundImage": "Campaign_Episode_2_HR:m2",
     "loadingImage": "Campaign_Episode_2_HR:Full",
@@ -1109,7 +1633,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode3_Mission3",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 3",
-    "UnlockReq": "episode 3 mission 2",
+    "UnlockReq": {
+      "id": "episode 3 mission 2",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e3_m3",
     "BackgroundImage": "Campaign_Episode_2_HR:m3",
     "loadingImage": "Campaign_Episode_2_HR:Full",
@@ -1131,7 +1662,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode3_Mission4",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 3",
-    "UnlockReq": "episode 3 mission 3",
+    "UnlockReq": {
+      "id": "episode 3 mission 3",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e3_m4",
     "BackgroundImage": "Campaign_Episode_2_HR:m4",
     "loadingImage": "Campaign_Episode_2_HR:Full",
@@ -1153,7 +1691,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode3_Mission5",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 3",
-    "UnlockReq": "episode 3 mission 4",
+    "UnlockReq": {
+      "id": "episode 3 mission 4",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e3_m5",
     "BackgroundImage": "Campaign_Episode_2_HR:m5",
     "loadingImage": "Campaign_Episode_2_HR:Full",
@@ -1175,7 +1720,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode3_Mission6",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 3",
-    "UnlockReq": "episode 3 mission 5",
+    "UnlockReq": {
+      "id": "episode 3 mission 5",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e3_m6",
     "BackgroundImage": "Campaign_Episode_2_HR:m6",
     "loadingImage": "Campaign_Episode_2_HR:Full",
@@ -1197,7 +1749,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode4_Mission1",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 4",
-    "UnlockReq": "episode 3 mission 6",
+    "UnlockReq": {
+      "id": "episode 3 mission 6",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e4_m1",
     "BackgroundImage": "Campaign_Episode_4_HR:m1",
     "loadingImage": "Campaign_Episode_4_HR:Full",
@@ -1219,7 +1778,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode4_Mission2",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 4",
-    "UnlockReq": "episode 4 mission 1",
+    "UnlockReq": {
+      "id": "episode 4 mission 1",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e4_m2",
     "BackgroundImage": "Campaign_Episode_4_HR:m2",
     "loadingImage": "Campaign_Episode_4_HR:Full",
@@ -1241,7 +1807,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode4_Mission3",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 4",
-    "UnlockReq": "episode 4 mission 2",
+    "UnlockReq": {
+      "id": "episode 4 mission 2",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e4_m3",
     "BackgroundImage": "Campaign_Episode_4_HR:m3",
     "loadingImage": "Campaign_Episode_4_HR:Full",
@@ -1263,7 +1836,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode4_Mission4",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 4",
-    "UnlockReq": "episode 4 mission 3",
+    "UnlockReq": {
+      "id": "episode 4 mission 3",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e4_m4",
     "BackgroundImage": "Campaign_Episode_4_HR:m4",
     "loadingImage": "Campaign_Episode_4_HR:Full",
@@ -1285,7 +1865,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode4_Mission5",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 4",
-    "UnlockReq": "episode 4 mission 4",
+    "UnlockReq": {
+      "id": "episode 4 mission 4",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e4_m5",
     "BackgroundImage": "Campaign_Episode_4_HR:m5",
     "loadingImage": "Campaign_Episode_4_HR:Full",
@@ -1307,7 +1894,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode4_Mission6",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 4",
-    "UnlockReq": "episode 4 mission 5",
+    "UnlockReq": {
+      "id": "episode 4 mission 5",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e4_m6",
     "BackgroundImage": "Campaign_Episode_4_HR:m6",
     "loadingImage": "Campaign_Episode_4_HR:Full",
@@ -1329,7 +1923,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode5_Mission1",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 5",
-    "UnlockReq": "episode 4 mission 6",
+    "UnlockReq": {
+      "id": "episode 4 mission 6",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e5_m1",
     "BackgroundImage": "Campaign_Episode_5_HR:m1",
     "loadingImage": "Campaign_Episode_5_HR:Full",
@@ -1351,7 +1952,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode5_Mission2",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 5",
-    "UnlockReq": "episode 5 mission 1",
+    "UnlockReq": {
+      "id": "episode 5 mission 1",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e5_m2",
     "BackgroundImage": "Campaign_Episode_5_HR:m2",
     "loadingImage": "Campaign_Episode_5_HR:Full",
@@ -1373,7 +1981,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode5_Mission3",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 5",
-    "UnlockReq": "episode 5 mission 2",
+    "UnlockReq": {
+      "id": "episode 5 mission 2",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e5_m3",
     "BackgroundImage": "Campaign_Episode_5_HR:m3",
     "loadingImage": "Campaign_Episode_5_HR:Full",
@@ -1395,7 +2010,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode5_Mission4",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 5",
-    "UnlockReq": "episode 5 mission 3",
+    "UnlockReq": {
+      "id": "episode 5 mission 3",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e5_m4",
     "BackgroundImage": "Campaign_Episode_5_HR:m4",
     "loadingImage": "Campaign_Episode_5_HR:Full",
@@ -1417,7 +2039,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode5_Mission5",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 5",
-    "UnlockReq": "episode 5 mission 4",
+    "UnlockReq": {
+      "id": "episode 5 mission 4",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e5_m5",
     "BackgroundImage": "Campaign_Episode_5_HR:m5",
     "loadingImage": "Campaign_Episode_5_HR:Full",
@@ -1439,7 +2068,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode5_Mission6",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 5",
-    "UnlockReq": "episode 5 mission 5",
+    "UnlockReq": {
+      "id": "episode 5 mission 5",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e5_m6",
     "BackgroundImage": "Campaign_Episode_5_HR:m6",
     "loadingImage": "Campaign_Episode_5_HR:Full",
@@ -1461,7 +2097,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode6_Mission1",
     "MapScene": "MissionSelectPlanet_Pioneer",
     "EpisodeId": "episode 6",
-    "UnlockReq": "episode 5 mission 6",
+    "UnlockReq": {
+      "id": "episode 5 mission 6",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e6_m1",
     "BackgroundImage": "Campaign_Episode_6_HR:m1",
     "loadingImage": "Campaign_Episode_6_HR:Full",
@@ -1483,7 +2126,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode6_Mission2",
     "MapScene": "MissionSelectPlanet_Pioneer",
     "EpisodeId": "episode 6",
-    "UnlockReq": "episode 6 mission 1",
+    "UnlockReq": {
+      "id": "episode 6 mission 1",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e6_m2",
     "BackgroundImage": "Campaign_Episode_6_HR:m2",
     "loadingImage": "Campaign_Episode_6_HR:Full",
@@ -1505,7 +2155,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode6_Mission3",
     "MapScene": "MissionSelectPlanet_DesertBirdofPrey",
     "EpisodeId": "episode 6",
-    "UnlockReq": "episode 6 mission 2",
+    "UnlockReq": {
+      "id": "episode 6 mission 2",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e6_m3",
     "BackgroundImage": "Campaign_Episode_6_HR:m3",
     "loadingImage": "Campaign_Episode_6_HR:Full",
@@ -1527,7 +2184,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode6_Mission4",
     "MapScene": "MissionSelectPlanet_NexusRuinsCardiassian",
     "EpisodeId": "episode 6",
-    "UnlockReq": "episode 6 mission 3",
+    "UnlockReq": {
+      "id": "episode 6 mission 3",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e6_m4",
     "BackgroundImage": "Campaign_Episode_6_HR:m4",
     "loadingImage": "Campaign_Episode_6_HR:Full",
@@ -1549,7 +2213,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode6_Mission5",
     "MapScene": "MissionSelectPlanet_NexusRuins_Normal",
     "EpisodeId": "episode 6",
-    "UnlockReq": "episode 6 mission 4",
+    "UnlockReq": {
+      "id": "episode 6 mission 4",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e6_m5",
     "BackgroundImage": "Campaign_Episode_6_HR:m5",
     "loadingImage": "Campaign_Episode_6_HR:Full",
@@ -1571,7 +2242,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode6_Mission6",
     "MapScene": "MissionSelectPlanet_NexusRuins_Normal",
     "EpisodeId": "episode 6",
-    "UnlockReq": "episode 6 mission 5",
+    "UnlockReq": {
+      "id": "episode 6 mission 5",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e6_m6",
     "BackgroundImage": "Campaign_Episode_6_HR:m6",
     "loadingImage": "Campaign_Episode_6_HR:Full",
@@ -1580,6 +2258,180 @@
     "IntroCutscene": "",
     "id": {
       "id": "episode 6 mission 6",
+      "difficulty": "Hard"
+    }
+  },
+  "episode 7 mission 1-Hard": {
+    "MissionId": "episode 7 mission 1",
+    "Difficulty": "Hard",
+    "OrderIndex": 1,
+    "SuggestedPower": 10900,
+    "UnlockTime": 0.0,
+    "Name": "Data_GSMissions_displayName_Episode7_Mission1",
+    "Description": "Data_GSMissions_displayDesc_Episode7_Mission1",
+    "MapScene": "MissionSelectPlanet_NexusMachine",
+    "EpisodeId": "episode 7",
+    "UnlockReq": {
+      "id": "episode 6 mission 6",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "episode 7 mission 6",
+      "difficulty": "Easy"
+    },
+    "NodesAsset": "e7_m1",
+    "BackgroundImage": "Campaign_Episode_7_HR:m1",
+    "loadingImage": "Campaign_Episode_7_HR:Full",
+    "EnvironmentScene": "Map_NexusMachineInterior_Final",
+    "EndStory": "",
+    "IntroCutscene": "",
+    "id": {
+      "id": "episode 7 mission 1",
+      "difficulty": "Hard"
+    }
+  },
+  "episode 7 mission 2-Hard": {
+    "MissionId": "episode 7 mission 2",
+    "Difficulty": "Hard",
+    "OrderIndex": 2,
+    "SuggestedPower": 11060,
+    "UnlockTime": 0.0,
+    "Name": "Data_GSMissions_displayName_Episode7_Mission2",
+    "Description": "Data_GSMissions_displayDesc_Episode7_Mission2",
+    "MapScene": "MissionSelectPlanet_Forest_Normal",
+    "EpisodeId": "episode 7",
+    "UnlockReq": {
+      "id": "episode 7 mission 1",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
+    "NodesAsset": "e7_m2",
+    "BackgroundImage": "Campaign_Episode_7_HR:m2",
+    "loadingImage": "Campaign_Episode_7_HR:Full",
+    "EnvironmentScene": "Map_ForestPlanet_Night_Final",
+    "EndStory": "",
+    "IntroCutscene": "",
+    "id": {
+      "id": "episode 7 mission 2",
+      "difficulty": "Hard"
+    }
+  },
+  "episode 7 mission 3-Hard": {
+    "MissionId": "episode 7 mission 3",
+    "Difficulty": "Hard",
+    "OrderIndex": 3,
+    "SuggestedPower": 11216,
+    "UnlockTime": 0.0,
+    "Name": "Data_GSMissions_displayName_Episode7_Mission3",
+    "Description": "Data_GSMissions_displayDesc_Episode7_Mission3",
+    "MapScene": "MissionSelectPlanet_BorgCube",
+    "EpisodeId": "episode 7",
+    "UnlockReq": {
+      "id": "episode 7 mission 2",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
+    "NodesAsset": "e7_m3",
+    "BackgroundImage": "Campaign_Episode_7_HR:m3",
+    "loadingImage": "Campaign_Episode_7_HR:Full",
+    "EnvironmentScene": "Map_Borg_Interior_Final",
+    "EndStory": "",
+    "IntroCutscene": "",
+    "id": {
+      "id": "episode 7 mission 3",
+      "difficulty": "Hard"
+    }
+  },
+  "episode 7 mission 4-Hard": {
+    "MissionId": "episode 7 mission 4",
+    "Difficulty": "Hard",
+    "OrderIndex": 4,
+    "SuggestedPower": 11376,
+    "UnlockTime": 0.0,
+    "Name": "Data_GSMissions_displayName_Episode7_Mission4",
+    "Description": "Data_GSMissions_displayDesc_Episode7_Mission4",
+    "MapScene": "MissionSelectPlanet_Pioneer",
+    "EpisodeId": "episode 7",
+    "UnlockReq": {
+      "id": "episode 7 mission 3",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
+    "NodesAsset": "e7_m4",
+    "BackgroundImage": "Campaign_Episode_7_HR:m4",
+    "loadingImage": "Campaign_Episode_7_HR:Full",
+    "EnvironmentScene": "Map_FedShip_Interior_Final",
+    "EndStory": "",
+    "IntroCutscene": "",
+    "id": {
+      "id": "episode 7 mission 4",
+      "difficulty": "Hard"
+    }
+  },
+  "episode 7 mission 5-Hard": {
+    "MissionId": "episode 7 mission 5",
+    "Difficulty": "Hard",
+    "OrderIndex": 5,
+    "SuggestedPower": 11532,
+    "UnlockTime": 0.0,
+    "Name": "Data_GSMissions_displayName_Episode7_Mission5",
+    "Description": "Data_GSMissions_displayDesc_Episode7_Mission5",
+    "MapScene": "MissionSelectPlanet_Desert_Normal",
+    "EpisodeId": "episode 7",
+    "UnlockReq": {
+      "id": "episode 7 mission 4",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
+    "NodesAsset": "e7_m5",
+    "BackgroundImage": "Campaign_Episode_7_HR:m5",
+    "loadingImage": "Campaign_Episode_7_HR:Full",
+    "EnvironmentScene": "Map_DesertPlanet_Night_Final",
+    "EndStory": "",
+    "IntroCutscene": "",
+    "id": {
+      "id": "episode 7 mission 5",
+      "difficulty": "Hard"
+    }
+  },
+  "episode 7 mission 6-Hard": {
+    "MissionId": "episode 7 mission 6",
+    "Difficulty": "Hard",
+    "OrderIndex": 6,
+    "SuggestedPower": 11692,
+    "UnlockTime": 0.0,
+    "Name": "Data_GSMissions_displayName_Episode7_Mission6",
+    "Description": "Data_GSMissions_displayDesc_Episode7_Mission6",
+    "MapScene": "MissionSelectPlanet_NexusMachine",
+    "EpisodeId": "episode 7",
+    "UnlockReq": {
+      "id": "episode 7 mission 5",
+      "difficulty": "Hard"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
+    "NodesAsset": "e7_m6",
+    "BackgroundImage": "Campaign_Episode_7_HR:m6",
+    "loadingImage": "Campaign_Episode_7_HR:Full",
+    "EnvironmentScene": "Map_NexusMachineInterior_Final",
+    "EndStory": "",
+    "IntroCutscene": "",
+    "id": {
+      "id": "episode 7 mission 6",
       "difficulty": "Hard"
     }
   },
@@ -1593,7 +2445,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode1_Mission1",
     "MapScene": "MissionSelectPlanet_Ice_Cardassian",
     "EpisodeId": "episode 1",
-    "UnlockReq": "",
+    "UnlockReq": {
+      "id": "",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "episode 6 mission 6",
+      "difficulty": "Hard"
+    },
     "NodesAsset": "e1_m1",
     "BackgroundImage": "Campaign_Episode_1_HR:m1",
     "loadingImage": "Campaign_Episode_1_HR:Full",
@@ -1615,7 +2474,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode1_Mission2",
     "MapScene": "MissionSelectPlanet_Ice_Cardassian",
     "EpisodeId": "episode 1",
-    "UnlockReq": "episode 1 mission 1",
+    "UnlockReq": {
+      "id": "episode 1 mission 1",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e1_m2",
     "BackgroundImage": "Campaign_Episode_1_HR:m2",
     "loadingImage": "Campaign_Episode_1_HR:Full",
@@ -1637,7 +2503,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode1_Mission3",
     "MapScene": "MissionSelectPlanet_Ice_Normal",
     "EpisodeId": "episode 1",
-    "UnlockReq": "episode 1 mission 2",
+    "UnlockReq": {
+      "id": "episode 1 mission 2",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e1_m3",
     "BackgroundImage": "Campaign_Episode_1_HR:m3",
     "loadingImage": "Campaign_Episode_1_HR:Full",
@@ -1659,7 +2532,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode1_Mission4",
     "MapScene": "MissionSelectPlanet_Ice_Normal",
     "EpisodeId": "episode 1",
-    "UnlockReq": "episode 1 mission 3",
+    "UnlockReq": {
+      "id": "episode 1 mission 3",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e1_m4",
     "BackgroundImage": "Campaign_Episode_1_HR:m4",
     "loadingImage": "Campaign_Episode_1_HR:Full",
@@ -1681,7 +2561,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode1_Mission5",
     "MapScene": "MissionSelectPlanet_Ice_Normal",
     "EpisodeId": "episode 1",
-    "UnlockReq": "episode 1 mission 4",
+    "UnlockReq": {
+      "id": "episode 1 mission 4",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e1_m5",
     "BackgroundImage": "Campaign_Episode_1_HR:m5",
     "loadingImage": "Campaign_Episode_1_HR:Full",
@@ -1703,7 +2590,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode1_Mission6",
     "MapScene": "MissionSelectPlanet_Ice_Normal",
     "EpisodeId": "episode 1",
-    "UnlockReq": "episode 1 mission 5",
+    "UnlockReq": {
+      "id": "episode 1 mission 5",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e1_m6",
     "BackgroundImage": "Campaign_Episode_1_HR:m6",
     "loadingImage": "Campaign_Episode_1_HR:Full",
@@ -1725,7 +2619,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode2_Mission1",
     "MapScene": "MissionSelectPlanet_Ice_Normal",
     "EpisodeId": "episode 2",
-    "UnlockReq": "episode 1 mission 6",
+    "UnlockReq": {
+      "id": "episode 1 mission 6",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e2_m1",
     "BackgroundImage": "Campaign_Episode_3_HR:m1",
     "loadingImage": "Campaign_Episode_3_HR:Full",
@@ -1747,7 +2648,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode2_Mission2",
     "MapScene": "MissionSelectPlanet_Ice_Normal",
     "EpisodeId": "episode 2",
-    "UnlockReq": "episode 2 mission 1",
+    "UnlockReq": {
+      "id": "episode 2 mission 1",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e2_m2",
     "BackgroundImage": "Campaign_Episode_3_HR:m2",
     "loadingImage": "Campaign_Episode_3_HR:Full",
@@ -1769,7 +2677,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode2_Mission3",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 2",
-    "UnlockReq": "episode 2 mission 2",
+    "UnlockReq": {
+      "id": "episode 2 mission 2",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e2_m3",
     "BackgroundImage": "Campaign_Episode_3_HR:m3",
     "loadingImage": "Campaign_Episode_3_HR:Full",
@@ -1791,7 +2706,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode2_Mission4",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 2",
-    "UnlockReq": "episode 2 mission 3",
+    "UnlockReq": {
+      "id": "episode 2 mission 3",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e2_m4",
     "BackgroundImage": "Campaign_Episode_3_HR:m4",
     "loadingImage": "Campaign_Episode_3_HR:Full",
@@ -1813,7 +2735,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode2_Mission5",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 2",
-    "UnlockReq": "episode 2 mission 4",
+    "UnlockReq": {
+      "id": "episode 2 mission 4",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e2_m5",
     "BackgroundImage": "Campaign_Episode_3_HR:m5",
     "loadingImage": "Campaign_Episode_3_HR:Full",
@@ -1835,7 +2764,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode2_Mission6",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 2",
-    "UnlockReq": "episode 2 mission 5",
+    "UnlockReq": {
+      "id": "episode 2 mission 5",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e2_m6",
     "BackgroundImage": "Campaign_Episode_3_HR:m6",
     "loadingImage": "Campaign_Episode_3_HR:Full",
@@ -1857,7 +2793,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode3_Mission1",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 3",
-    "UnlockReq": "episode 2 mission 6",
+    "UnlockReq": {
+      "id": "episode 2 mission 6",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e3_m1",
     "BackgroundImage": "Campaign_Episode_2_HR:m1",
     "loadingImage": "Campaign_Episode_2_HR:Full",
@@ -1879,7 +2822,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode3_Mission2",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 3",
-    "UnlockReq": "episode 3 mission 1",
+    "UnlockReq": {
+      "id": "episode 3 mission 1",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e3_m2",
     "BackgroundImage": "Campaign_Episode_2_HR:m2",
     "loadingImage": "Campaign_Episode_2_HR:Full",
@@ -1901,7 +2851,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode3_Mission3",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 3",
-    "UnlockReq": "episode 3 mission 2",
+    "UnlockReq": {
+      "id": "episode 3 mission 2",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e3_m3",
     "BackgroundImage": "Campaign_Episode_2_HR:m3",
     "loadingImage": "Campaign_Episode_2_HR:Full",
@@ -1923,7 +2880,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode3_Mission4",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 3",
-    "UnlockReq": "episode 3 mission 3",
+    "UnlockReq": {
+      "id": "episode 3 mission 3",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e3_m4",
     "BackgroundImage": "Campaign_Episode_2_HR:m4",
     "loadingImage": "Campaign_Episode_2_HR:Full",
@@ -1945,7 +2909,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode3_Mission5",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 3",
-    "UnlockReq": "episode 3 mission 4",
+    "UnlockReq": {
+      "id": "episode 3 mission 4",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e3_m5",
     "BackgroundImage": "Campaign_Episode_2_HR:m5",
     "loadingImage": "Campaign_Episode_2_HR:Full",
@@ -1967,7 +2938,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode3_Mission6",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 3",
-    "UnlockReq": "episode 3 mission 5",
+    "UnlockReq": {
+      "id": "episode 3 mission 5",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e3_m6",
     "BackgroundImage": "Campaign_Episode_2_HR:m6",
     "loadingImage": "Campaign_Episode_2_HR:Full",
@@ -1989,7 +2967,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode4_Mission1",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 4",
-    "UnlockReq": "episode 3 mission 6",
+    "UnlockReq": {
+      "id": "episode 3 mission 6",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e4_m1",
     "BackgroundImage": "Campaign_Episode_4_HR:m1",
     "loadingImage": "Campaign_Episode_4_HR:Full",
@@ -2011,7 +2996,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode4_Mission2",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 4",
-    "UnlockReq": "episode 4 mission 1",
+    "UnlockReq": {
+      "id": "episode 4 mission 1",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e4_m2",
     "BackgroundImage": "Campaign_Episode_4_HR:m2",
     "loadingImage": "Campaign_Episode_4_HR:Full",
@@ -2033,7 +3025,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode4_Mission3",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 4",
-    "UnlockReq": "episode 4 mission 2",
+    "UnlockReq": {
+      "id": "episode 4 mission 2",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e4_m3",
     "BackgroundImage": "Campaign_Episode_4_HR:m3",
     "loadingImage": "Campaign_Episode_4_HR:Full",
@@ -2055,7 +3054,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode4_Mission4",
     "MapScene": "MissionSelectPlanet_Desert_Normal",
     "EpisodeId": "episode 4",
-    "UnlockReq": "episode 4 mission 3",
+    "UnlockReq": {
+      "id": "episode 4 mission 3",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e4_m4",
     "BackgroundImage": "Campaign_Episode_4_HR:m4",
     "loadingImage": "Campaign_Episode_4_HR:Full",
@@ -2077,7 +3083,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode4_Mission5",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 4",
-    "UnlockReq": "episode 4 mission 4",
+    "UnlockReq": {
+      "id": "episode 4 mission 4",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e4_m5",
     "BackgroundImage": "Campaign_Episode_4_HR:m5",
     "loadingImage": "Campaign_Episode_4_HR:Full",
@@ -2099,7 +3112,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode4_Mission6",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 4",
-    "UnlockReq": "episode 4 mission 5",
+    "UnlockReq": {
+      "id": "episode 4 mission 5",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e4_m6",
     "BackgroundImage": "Campaign_Episode_4_HR:m6",
     "loadingImage": "Campaign_Episode_4_HR:Full",
@@ -2121,7 +3141,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode5_Mission1",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 5",
-    "UnlockReq": "episode 4 mission 6",
+    "UnlockReq": {
+      "id": "episode 4 mission 6",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e5_m1",
     "BackgroundImage": "Campaign_Episode_5_HR:m1",
     "loadingImage": "Campaign_Episode_5_HR:Full",
@@ -2143,7 +3170,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode5_Mission2",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 5",
-    "UnlockReq": "episode 5 mission 1",
+    "UnlockReq": {
+      "id": "episode 5 mission 1",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e5_m2",
     "BackgroundImage": "Campaign_Episode_5_HR:m2",
     "loadingImage": "Campaign_Episode_5_HR:Full",
@@ -2165,7 +3199,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode5_Mission3",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 5",
-    "UnlockReq": "episode 5 mission 2",
+    "UnlockReq": {
+      "id": "episode 5 mission 2",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e5_m3",
     "BackgroundImage": "Campaign_Episode_5_HR:m3",
     "loadingImage": "Campaign_Episode_5_HR:Full",
@@ -2187,7 +3228,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode5_Mission4",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 5",
-    "UnlockReq": "episode 5 mission 3",
+    "UnlockReq": {
+      "id": "episode 5 mission 3",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e5_m4",
     "BackgroundImage": "Campaign_Episode_5_HR:m4",
     "loadingImage": "Campaign_Episode_5_HR:Full",
@@ -2209,7 +3257,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode5_Mission5",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 5",
-    "UnlockReq": "episode 5 mission 4",
+    "UnlockReq": {
+      "id": "episode 5 mission 4",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e5_m5",
     "BackgroundImage": "Campaign_Episode_5_HR:m5",
     "loadingImage": "Campaign_Episode_5_HR:Full",
@@ -2231,7 +3286,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode5_Mission6",
     "MapScene": "MissionSelectPlanet_Forest_Normal",
     "EpisodeId": "episode 5",
-    "UnlockReq": "episode 5 mission 5",
+    "UnlockReq": {
+      "id": "episode 5 mission 5",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e5_m6",
     "BackgroundImage": "Campaign_Episode_5_HR:m6",
     "loadingImage": "Campaign_Episode_5_HR:Full",
@@ -2253,7 +3315,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode6_Mission1",
     "MapScene": "MissionSelectPlanet_Pioneer",
     "EpisodeId": "episode 6",
-    "UnlockReq": "episode 5 mission 6",
+    "UnlockReq": {
+      "id": "episode 5 mission 6",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e6_m1",
     "BackgroundImage": "Campaign_Episode_6_HR:m1",
     "loadingImage": "Campaign_Episode_6_HR:Full",
@@ -2275,7 +3344,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode6_Mission2",
     "MapScene": "MissionSelectPlanet_Pioneer",
     "EpisodeId": "episode 6",
-    "UnlockReq": "episode 6 mission 1",
+    "UnlockReq": {
+      "id": "episode 6 mission 1",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e6_m2",
     "BackgroundImage": "Campaign_Episode_6_HR:m2",
     "loadingImage": "Campaign_Episode_6_HR:Full",
@@ -2297,7 +3373,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode6_Mission3",
     "MapScene": "MissionSelectPlanet_DesertBirdofPrey",
     "EpisodeId": "episode 6",
-    "UnlockReq": "episode 6 mission 2",
+    "UnlockReq": {
+      "id": "episode 6 mission 2",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e6_m3",
     "BackgroundImage": "Campaign_Episode_6_HR:m3",
     "loadingImage": "Campaign_Episode_6_HR:Full",
@@ -2319,7 +3402,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode6_Mission4",
     "MapScene": "MissionSelectPlanet_NexusRuinsCardiassian",
     "EpisodeId": "episode 6",
-    "UnlockReq": "episode 6 mission 3",
+    "UnlockReq": {
+      "id": "episode 6 mission 3",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e6_m4",
     "BackgroundImage": "Campaign_Episode_6_HR:m4",
     "loadingImage": "Campaign_Episode_6_HR:Full",
@@ -2341,7 +3431,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode6_Mission5",
     "MapScene": "MissionSelectPlanet_NexusRuins_Normal",
     "EpisodeId": "episode 6",
-    "UnlockReq": "episode 6 mission 4",
+    "UnlockReq": {
+      "id": "episode 6 mission 4",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e6_m5",
     "BackgroundImage": "Campaign_Episode_6_HR:m5",
     "loadingImage": "Campaign_Episode_6_HR:Full",
@@ -2363,7 +3460,14 @@
     "Description": "Data_GSMissions_displayDesc_Episode6_Mission6",
     "MapScene": "MissionSelectPlanet_NexusRuins_Normal",
     "EpisodeId": "episode 6",
-    "UnlockReq": "episode 6 mission 5",
+    "UnlockReq": {
+      "id": "episode 6 mission 5",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
     "NodesAsset": "e6_m6",
     "BackgroundImage": "Campaign_Episode_6_HR:m6",
     "loadingImage": "Campaign_Episode_6_HR:Full",
@@ -2372,6 +3476,180 @@
     "IntroCutscene": "",
     "id": {
       "id": "episode 6 mission 6",
+      "difficulty": "Doom"
+    }
+  },
+  "episode 7 mission 1-Doom": {
+    "MissionId": "episode 7 mission 1",
+    "Difficulty": "Doom",
+    "OrderIndex": 1,
+    "SuggestedPower": 15972,
+    "UnlockTime": 0.0,
+    "Name": "Data_GSMissions_displayName_Episode7_Mission1",
+    "Description": "Data_GSMissions_displayDesc_Episode7_Mission1",
+    "MapScene": "MissionSelectPlanet_NexusMachine",
+    "EpisodeId": "episode 7",
+    "UnlockReq": {
+      "id": "episode 6 mission 6",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "episode 7 mission 6",
+      "difficulty": "Hard"
+    },
+    "NodesAsset": "e7_m1",
+    "BackgroundImage": "Campaign_Episode_7_HR:m1",
+    "loadingImage": "Campaign_Episode_7_HR:Full",
+    "EnvironmentScene": "Map_NexusMachineInterior_Final",
+    "EndStory": "",
+    "IntroCutscene": "",
+    "id": {
+      "id": "episode 7 mission 1",
+      "difficulty": "Doom"
+    }
+  },
+  "episode 7 mission 2-Doom": {
+    "MissionId": "episode 7 mission 2",
+    "Difficulty": "Doom",
+    "OrderIndex": 2,
+    "SuggestedPower": 16132,
+    "UnlockTime": 0.0,
+    "Name": "Data_GSMissions_displayName_Episode7_Mission2",
+    "Description": "Data_GSMissions_displayDesc_Episode7_Mission2",
+    "MapScene": "MissionSelectPlanet_Forest_Normal",
+    "EpisodeId": "episode 7",
+    "UnlockReq": {
+      "id": "episode 7 mission 1",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
+    "NodesAsset": "e7_m2",
+    "BackgroundImage": "Campaign_Episode_7_HR:m2",
+    "loadingImage": "Campaign_Episode_7_HR:Full",
+    "EnvironmentScene": "Map_ForestPlanet_Night_Final",
+    "EndStory": "",
+    "IntroCutscene": "",
+    "id": {
+      "id": "episode 7 mission 2",
+      "difficulty": "Doom"
+    }
+  },
+  "episode 7 mission 3-Doom": {
+    "MissionId": "episode 7 mission 3",
+    "Difficulty": "Doom",
+    "OrderIndex": 3,
+    "SuggestedPower": 16296,
+    "UnlockTime": 0.0,
+    "Name": "Data_GSMissions_displayName_Episode7_Mission3",
+    "Description": "Data_GSMissions_displayDesc_Episode7_Mission3",
+    "MapScene": "MissionSelectPlanet_BorgCube",
+    "EpisodeId": "episode 7",
+    "UnlockReq": {
+      "id": "episode 7 mission 2",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
+    "NodesAsset": "e7_m3",
+    "BackgroundImage": "Campaign_Episode_7_HR:m3",
+    "loadingImage": "Campaign_Episode_7_HR:Full",
+    "EnvironmentScene": "Map_Borg_Interior_Final",
+    "EndStory": "",
+    "IntroCutscene": "",
+    "id": {
+      "id": "episode 7 mission 3",
+      "difficulty": "Doom"
+    }
+  },
+  "episode 7 mission 4-Doom": {
+    "MissionId": "episode 7 mission 4",
+    "Difficulty": "Doom",
+    "OrderIndex": 4,
+    "SuggestedPower": 16452,
+    "UnlockTime": 0.0,
+    "Name": "Data_GSMissions_displayName_Episode7_Mission4",
+    "Description": "Data_GSMissions_displayDesc_Episode7_Mission4",
+    "MapScene": "MissionSelectPlanet_Pioneer",
+    "EpisodeId": "episode 7",
+    "UnlockReq": {
+      "id": "episode 7 mission 3",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
+    "NodesAsset": "e7_m4",
+    "BackgroundImage": "Campaign_Episode_7_HR:m4",
+    "loadingImage": "Campaign_Episode_7_HR:Full",
+    "EnvironmentScene": "Map_FedShip_Interior_Final",
+    "EndStory": "",
+    "IntroCutscene": "",
+    "id": {
+      "id": "episode 7 mission 4",
+      "difficulty": "Doom"
+    }
+  },
+  "episode 7 mission 5-Doom": {
+    "MissionId": "episode 7 mission 5",
+    "Difficulty": "Doom",
+    "OrderIndex": 5,
+    "SuggestedPower": 16624,
+    "UnlockTime": 0.0,
+    "Name": "Data_GSMissions_displayName_Episode7_Mission5",
+    "Description": "Data_GSMissions_displayDesc_Episode7_Mission5",
+    "MapScene": "MissionSelectPlanet_Desert_Normal",
+    "EpisodeId": "episode 7",
+    "UnlockReq": {
+      "id": "episode 7 mission 4",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
+    "NodesAsset": "e7_m5",
+    "BackgroundImage": "Campaign_Episode_7_HR:m5",
+    "loadingImage": "Campaign_Episode_7_HR:Full",
+    "EnvironmentScene": "Map_DesertPlanet_Night_Final",
+    "EndStory": "",
+    "IntroCutscene": "",
+    "id": {
+      "id": "episode 7 mission 5",
+      "difficulty": "Doom"
+    }
+  },
+  "episode 7 mission 6-Doom": {
+    "MissionId": "episode 7 mission 6",
+    "Difficulty": "Doom",
+    "OrderIndex": 6,
+    "SuggestedPower": 16780,
+    "UnlockTime": 0.0,
+    "Name": "Data_GSMissions_displayName_Episode7_Mission6",
+    "Description": "Data_GSMissions_displayDesc_Episode7_Mission6",
+    "MapScene": "MissionSelectPlanet_NexusMachine",
+    "EpisodeId": "episode 7",
+    "UnlockReq": {
+      "id": "episode 7 mission 5",
+      "difficulty": "Doom"
+    },
+    "UnlockReq2": {
+      "id": "",
+      "difficulty": "Easy"
+    },
+    "NodesAsset": "e7_m6",
+    "BackgroundImage": "Campaign_Episode_7_HR:m6",
+    "loadingImage": "Campaign_Episode_7_HR:Full",
+    "EnvironmentScene": "Map_NexusMachineInterior_Final",
+    "EndStory": "",
+    "IntroCutscene": "",
+    "id": {
+      "id": "episode 7 mission 6",
       "difficulty": "Doom"
     }
   }

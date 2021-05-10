@@ -154,5 +154,29 @@
   "episode 6 mission 6": {
     "ObjectiveLoc": "Data_MissionObjective_e6_m6_Name",
     "id": "episode 6 mission 6"
+  },
+  "episode 7 mission 1": {
+    "ObjectiveLoc": "Data_MissionObjective_e7_m1_Name",
+    "id": "episode 7 mission 1"
+  },
+  "episode 7 mission 2": {
+    "ObjectiveLoc": "Data_MissionObjective_e7_m2_Name",
+    "id": "episode 7 mission 2"
+  },
+  "episode 7 mission 3": {
+    "ObjectiveLoc": "Data_MissionObjective_e7_m3_Name",
+    "id": "episode 7 mission 3"
+  },
+  "episode 7 mission 4": {
+    "ObjectiveLoc": "Data_MissionObjective_e7_m4_Name",
+    "id": "episode 7 mission 4"
+  },
+  "episode 7 mission 5": {
+    "ObjectiveLoc": "Data_MissionObjective_e7_m5_Name",
+    "id": "episode 7 mission 5"
+  },
+  "episode 7 mission 6": {
+    "ObjectiveLoc": "Data_MissionObjective_e7_m7_Name",
+    "id": "episode 7 mission 6"
   }
 }

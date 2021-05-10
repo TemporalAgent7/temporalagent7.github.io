@@ -194,114 +194,114 @@
   },
   "Kirk Ally E2M4 Easy": {
     "battleDuration": 1,
-    "bonusCharacterPower": 6.05,
+    "bonusCharacterPower": 6.77,
     "endNodeID": "e2_m4_battle06",
     "effectIcon": "ico_ally",
-    "bonusCharacterID": "Kirk",
+    "bonusCharacterID": "KirkAlly",
     "id": "Kirk Ally E2M4 Easy"
   },
   "Kirk Ally E2M5 Easy": {
     "battleDuration": 5,
-    "bonusCharacterPower": 6.77,
+    "bonusCharacterPower": 8.22,
     "endNodeID": "e2_m5_battle07",
     "effectIcon": "ico_ally",
-    "bonusCharacterID": "Kirk",
+    "bonusCharacterID": "KirkAlly",
     "id": "Kirk Ally E2M5 Easy"
   },
   "Gorn Ally E2M6 Easy": {
     "battleDuration": 2,
-    "bonusCharacterPower": 7.49,
+    "bonusCharacterPower": 8.94,
     "endNodeID": "e2_m6_battle06",
     "effectIcon": "ico_ally",
-    "bonusCharacterID": "GenGorn01",
+    "bonusCharacterID": "GenGorn01Ally",
     "id": "Gorn Ally E2M6 Easy"
   },
   "Janeway Ally E5M3 Easy": {
     "battleDuration": 3,
-    "bonusCharacterPower": 33.05,
+    "bonusCharacterPower": 37.2,
     "endNodeID": "e5_m3_battle11",
     "effectIcon": "ico_ally",
-    "bonusCharacterID": "Janeway",
+    "bonusCharacterID": "JanewayAlly",
     "id": "Janeway Ally E5M3 Easy"
   },
   "Sisko Ally E6M2 Easy": {
     "battleDuration": 8,
-    "bonusCharacterPower": 44.47,
+    "bonusCharacterPower": 51.74,
     "endNodeID": "e6_m2_battle09",
     "effectIcon": "ico_ally",
-    "bonusCharacterID": "Sisko",
+    "bonusCharacterID": "SiskoAlly",
     "id": "Sisko Ally E6M2 Easy"
   },
   "Kirk Ally E2M4 Hard": {
     "battleDuration": 1,
-    "bonusCharacterPower": 61.5,
+    "bonusCharacterPower": 67.3,
     "endNodeID": "e2_m4_battle06",
     "effectIcon": "ico_ally",
-    "bonusCharacterID": "Kirk",
+    "bonusCharacterID": "KirkAlly",
     "id": "Kirk Ally E2M4 Hard"
   },
   "Kirk Ally E2M5 Hard": {
     "battleDuration": 5,
-    "bonusCharacterPower": 62.75,
+    "bonusCharacterPower": 68.98,
     "endNodeID": "e2_m5_battle07",
     "effectIcon": "ico_ally",
-    "bonusCharacterID": "Kirk",
+    "bonusCharacterID": "KirkAlly",
     "id": "Kirk Ally E2M5 Hard"
   },
   "Gorn Ally E2M6 Hard": {
     "battleDuration": 2,
-    "bonusCharacterPower": 63.99,
+    "bonusCharacterPower": 68.98,
     "endNodeID": "e2_m6_battle06",
     "effectIcon": "ico_ally",
-    "bonusCharacterID": "GenGorn01",
+    "bonusCharacterID": "GenGorn01Ally",
     "id": "Gorn Ally E2M6 Hard"
   },
   "Janeway Ally E5M3 Hard": {
     "battleDuration": 3,
-    "bonusCharacterPower": 83.68,
+    "bonusCharacterPower": 91.16,
     "endNodeID": "e5_m3_battle11",
     "effectIcon": "ico_ally",
-    "bonusCharacterID": "Janeway",
+    "bonusCharacterID": "JanewayAlly",
     "id": "Janeway Ally E5M3 Hard"
   },
   "Sisko Ally E6M2 Hard": {
     "battleDuration": 8,
-    "bonusCharacterPower": 91.16,
+    "bonusCharacterPower": 100.13,
     "endNodeID": "e6_m2_battle09",
     "effectIcon": "ico_ally",
-    "bonusCharacterID": "Sisko",
+    "bonusCharacterID": "SiskoAlly",
     "id": "Sisko Ally E6M2 Hard"
   },
   "Kirk Ally E2M4 Doom": {
     "battleDuration": 1,
-    "bonusCharacterPower": 107.61,
+    "bonusCharacterPower": 113.58,
     "endNodeID": "e2_m4_battle06",
     "effectIcon": "ico_ally",
-    "bonusCharacterID": "Kirk",
+    "bonusCharacterID": "KirkAlly",
     "id": "Kirk Ally E2M4 Doom"
   },
   "Kirk Ally E2M5 Doom": {
     "battleDuration": 5,
-    "bonusCharacterPower": 109.11,
+    "bonusCharacterPower": 115.07,
     "endNodeID": "e2_m5_battle07",
     "effectIcon": "ico_ally",
-    "bonusCharacterID": "Kirk",
+    "bonusCharacterID": "KirkAlly",
     "id": "Kirk Ally E2M5 Doom"
   },
   "Gorn Ally E2M6 Doom": {
     "battleDuration": 2,
-    "bonusCharacterPower": 110.59,
+    "bonusCharacterPower": 116.55,
     "endNodeID": "e2_m6_battle06",
     "effectIcon": "ico_ally",
-    "bonusCharacterID": "GenGorn01",
+    "bonusCharacterID": "GenGorn01Ally",
     "id": "Gorn Ally E2M6 Doom"
   },
   "Janeway Ally E5M3 Doom": {
     "battleDuration": 3,
-    "bonusCharacterPower": 132.45,
+    "bonusCharacterPower": 133.84,
     "endNodeID": "e5_m3_battle11",
     "effectIcon": "ico_ally",
-    "bonusCharacterID": "Janeway",
+    "bonusCharacterID": "JanewayAlly",
     "id": "Janeway Ally E5M3 Doom"
   },
   "Sisko Ally E6M2 Doom": {
@@ -309,7 +309,7 @@
     "bonusCharacterPower": 139.33,
     "endNodeID": "e6_m2_battle09",
     "effectIcon": "ico_ally",
-    "bonusCharacterID": "Sisko",
+    "bonusCharacterID": "SiskoAlly",
     "id": "Sisko Ally E6M2 Doom"
   }
 }

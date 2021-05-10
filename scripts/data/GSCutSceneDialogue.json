@@ -21735,7 +21735,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2038"
   },
@@ -21747,7 +21747,7 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2039"
   },
@@ -21759,7 +21759,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2040"
   },
@@ -21771,7 +21771,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2041"
   },
@@ -21783,7 +21783,7 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2042"
   },
@@ -21795,7 +21795,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2043"
   },
@@ -21807,7 +21807,7 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2044"
   },
@@ -21819,7 +21819,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2045"
   },
@@ -21831,7 +21831,7 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2046"
   },
@@ -21843,7 +21843,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2047"
   },
@@ -21855,7 +21855,7 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2048"
   },
@@ -21877,7 +21877,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2050"
   },
@@ -21889,7 +21889,7 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2051"
   },
@@ -21901,7 +21901,7 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2052"
   },
@@ -21913,7 +21913,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2053"
   },
@@ -21925,7 +21925,7 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2054"
   },
@@ -21937,7 +21937,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2055"
   },
@@ -21949,7 +21949,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2056"
   },
@@ -21961,7 +21961,7 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2057"
   },
@@ -21973,7 +21973,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2058"
   },
@@ -21985,7 +21985,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2059"
   },
@@ -21997,7 +21997,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2060"
   },
@@ -22009,7 +22009,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2061"
   },
@@ -22223,7 +22223,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2081"
   },
@@ -22235,7 +22235,7 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2082"
   },
@@ -22247,7 +22247,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2083"
   },
@@ -22259,7 +22259,7 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2084"
   },
@@ -22442,7 +22442,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2101"
   },
@@ -22454,7 +22454,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2102"
   },
@@ -22466,7 +22466,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2103"
   },
@@ -22478,7 +22478,7 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2104"
   },
@@ -22490,7 +22490,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2105"
   },
@@ -22502,7 +22502,7 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Sisko",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2106"
   },
@@ -22534,7 +22534,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2109"
   },
@@ -22546,7 +22546,7 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2110"
   },
@@ -22558,7 +22558,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2111"
   },
@@ -22570,7 +22570,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2112"
   },
@@ -22582,7 +22582,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2113"
   },
@@ -22920,7 +22920,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2145"
   },
@@ -22932,7 +22932,7 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2146"
   },
@@ -22944,7 +22944,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2147"
   },
@@ -22956,7 +22956,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2148"
   },
@@ -22968,7 +22968,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2149"
   },
@@ -22980,7 +22980,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2150"
   },
@@ -22992,7 +22992,7 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2151"
   },
@@ -23004,7 +23004,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2152"
   },
@@ -23016,7 +23016,7 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2153"
   },
@@ -23028,7 +23028,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2154"
   },
@@ -23040,7 +23040,7 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2155"
   },
@@ -23052,7 +23052,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2156"
   },
@@ -23064,7 +23064,7 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2157"
   },
@@ -23076,7 +23076,7 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2158"
   },
@@ -23213,7 +23213,7 @@
     "IsFullScreen": false,
     "DialogueHeader": "Common_Caretaker",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2171"
   },
@@ -23224,7 +23224,7 @@
     "IsFullScreen": false,
     "DialogueHeader": "Common_Caretaker",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2172"
   },
@@ -23236,7 +23236,7 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2173"
   },
@@ -23248,7 +23248,7 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Janeway",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
     "id": "2174"
   },
@@ -23319,8 +23319,8 @@
   },
   "2181": {
     "Index": 0,
-    "StoryID": "e7_m4_story01",
-    "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story01_01",
+    "StoryID": "e7_m3_battle14_post",
+    "DialogueBody": "Data_GSCutSceneDialogue_e7_m3_battle14_post_01",
     "IsFullScreen": false,
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
@@ -23329,6 +23329,64 @@
   },
   "2182": {
     "Index": 1,
+    "StoryID": "e7_m3_battle14_post",
+    "DialogueBody": "Data_GSCutSceneDialogue_e7_m3_battle14_post_02",
+    "IsFullScreen": false,
+    "DialogueHeader": "Common_Caretaker",
+    "LeftCharacterId": "Worf",
+    "RightCharacterId": "Janeway",
+    "RightCharacterSkinName": "Hologram_Golden",
+    "DialoguePosition": "RIGHT",
+    "id": "2182"
+  },
+  "2183": {
+    "Index": 2,
+    "StoryID": "e7_m3_battle14_post",
+    "DialogueBody": "Data_GSCutSceneDialogue_e7_m3_battle14_post_03",
+    "IsFullScreen": false,
+    "DialogueHeader": "Common_Caretaker",
+    "LeftCharacterId": "Worf",
+    "RightCharacterId": "Janeway",
+    "RightCharacterSkinName": "Hologram_Golden",
+    "DialoguePosition": "RIGHT",
+    "id": "2183"
+  },
+  "2184": {
+    "Index": 3,
+    "StoryID": "e7_m3_battle14_post",
+    "DialogueBody": "Data_GSCutSceneDialogue_e7_m3_battle14_post_04",
+    "IsFullScreen": false,
+    "DialogueHeader": "Common_MichaelBurnham",
+    "LeftCharacterId": "Burnham",
+    "RightCharacterId": "Janeway",
+    "RightCharacterSkinName": "Hologram_Golden",
+    "DialoguePosition": "LEFT",
+    "id": "2184"
+  },
+  "2185": {
+    "Index": 4,
+    "StoryID": "e7_m3_battle14_post",
+    "DialogueBody": "Data_GSCutSceneDialogue_e7_m3_battle14_post_05",
+    "IsFullScreen": false,
+    "DialogueHeader": "Common_Caretaker",
+    "LeftCharacterId": "Burnham",
+    "RightCharacterId": "Janeway",
+    "RightCharacterSkinName": "Hologram_Golden",
+    "DialoguePosition": "RIGHT",
+    "id": "2185"
+  },
+  "2186": {
+    "Index": 0,
+    "StoryID": "e7_m4_story01",
+    "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story01_01",
+    "IsFullScreen": false,
+    "DialogueHeader": "Common_Worf",
+    "LeftCharacterId": "Worf",
+    "DialoguePosition": "LEFT",
+    "id": "2186"
+  },
+  "2187": {
+    "Index": 1,
     "StoryID": "e7_m4_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story01_02",
     "IsFullScreen": false,
@@ -23336,9 +23394,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Burnham",
     "DialoguePosition": "RIGHT",
-    "id": "2182"
+    "id": "2187"
   },
-  "2183": {
+  "2188": {
     "Index": 2,
     "StoryID": "e7_m4_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story01_03",
@@ -23347,9 +23405,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2183"
+    "id": "2188"
   },
-  "2184": {
+  "2189": {
     "Index": 3,
     "StoryID": "e7_m4_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story01_04",
@@ -23358,9 +23416,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2184"
+    "id": "2189"
   },
-  "2185": {
+  "2190": {
     "Index": 4,
     "StoryID": "e7_m4_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story01_05",
@@ -23369,9 +23427,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2185"
+    "id": "2190"
   },
-  "2186": {
+  "2191": {
     "Index": 5,
     "StoryID": "e7_m4_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story01_06",
@@ -23380,9 +23438,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2186"
+    "id": "2191"
   },
-  "2187": {
+  "2192": {
     "Index": 6,
     "StoryID": "e7_m4_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story01_07",
@@ -23390,11 +23448,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Kirk",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2187"
+    "id": "2192"
   },
-  "2188": {
+  "2193": {
     "Index": 7,
     "StoryID": "e7_m4_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story01_08",
@@ -23402,11 +23460,11 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Kirk",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
-    "id": "2188"
+    "id": "2193"
   },
-  "2189": {
+  "2194": {
     "Index": 8,
     "StoryID": "e7_m4_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story01_09",
@@ -23414,11 +23472,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Kirk",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2189"
+    "id": "2194"
   },
-  "2190": {
+  "2195": {
     "Index": 9,
     "StoryID": "e7_m4_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story01_10",
@@ -23426,11 +23484,11 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Kirk",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
-    "id": "2190"
+    "id": "2195"
   },
-  "2191": {
+  "2196": {
     "Index": 10,
     "StoryID": "e7_m4_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story01_11",
@@ -23438,11 +23496,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Kirk",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2191"
+    "id": "2196"
   },
-  "2192": {
+  "2197": {
     "Index": 11,
     "StoryID": "e7_m4_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story01_12",
@@ -23450,11 +23508,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Kirk",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2192"
+    "id": "2197"
   },
-  "2193": {
+  "2198": {
     "Index": 12,
     "StoryID": "e7_m4_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story01_13",
@@ -23462,11 +23520,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Kirk",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2193"
+    "id": "2198"
   },
-  "2194": {
+  "2199": {
     "Index": 13,
     "StoryID": "e7_m4_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story01_14",
@@ -23474,9 +23532,9 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2194"
+    "id": "2199"
   },
-  "2195": {
+  "2200": {
     "Index": 0,
     "StoryID": "e7_m4_battle01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle01_01",
@@ -23484,9 +23542,9 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2195"
+    "id": "2200"
   },
-  "2196": {
+  "2201": {
     "Index": 1,
     "StoryID": "e7_m4_battle01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle01_02",
@@ -23494,9 +23552,9 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2196"
+    "id": "2201"
   },
-  "2197": {
+  "2202": {
     "Index": 2,
     "StoryID": "e7_m4_battle01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle01_03",
@@ -23505,9 +23563,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "GenKlingSec01M",
     "DialoguePosition": "LEFT",
-    "id": "2197"
+    "id": "2202"
   },
-  "2198": {
+  "2203": {
     "Index": 3,
     "StoryID": "e7_m4_battle01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle01_04",
@@ -23516,9 +23574,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "GenKlingSec01M",
     "DialoguePosition": "RIGHT",
-    "id": "2198"
+    "id": "2203"
   },
-  "2199": {
+  "2204": {
     "Index": 4,
     "StoryID": "e7_m4_battle01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle01_05",
@@ -23527,9 +23585,9 @@
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "GenKlingSec01M",
     "DialoguePosition": "LEFT",
-    "id": "2199"
+    "id": "2204"
   },
-  "2200": {
+  "2205": {
     "Index": 5,
     "StoryID": "e7_m4_battle01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle01_06",
@@ -23538,9 +23596,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "GenKlingSec01M",
     "DialoguePosition": "LEFT",
-    "id": "2200"
+    "id": "2205"
   },
-  "2201": {
+  "2206": {
     "Index": 0,
     "StoryID": "e7_m4_battle01_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle01_post_01",
@@ -23548,9 +23606,9 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2201"
+    "id": "2206"
   },
-  "2202": {
+  "2207": {
     "Index": 0,
     "StoryID": "e7_m4_exploration01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration01_01",
@@ -23558,9 +23616,9 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2202"
+    "id": "2207"
   },
-  "2203": {
+  "2208": {
     "Index": 1,
     "StoryID": "e7_m4_exploration01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration01_02",
@@ -23568,9 +23626,9 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2203"
+    "id": "2208"
   },
-  "2204": {
+  "2209": {
     "Index": 2,
     "StoryID": "e7_m4_exploration01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration01_03",
@@ -23578,9 +23636,9 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2204"
+    "id": "2209"
   },
-  "2205": {
+  "2210": {
     "Index": 3,
     "StoryID": "e7_m4_exploration01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration01_04",
@@ -23589,9 +23647,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanMed01M",
     "DialoguePosition": "RIGHT",
-    "id": "2205"
+    "id": "2210"
   },
-  "2206": {
+  "2211": {
     "Index": 4,
     "StoryID": "e7_m4_exploration01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration01_05",
@@ -23600,9 +23658,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanMed01M",
     "DialoguePosition": "LEFT",
-    "id": "2206"
+    "id": "2211"
   },
-  "2207": {
+  "2212": {
     "Index": 5,
     "StoryID": "e7_m4_exploration01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration01_06",
@@ -23611,9 +23669,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanMed01M",
     "DialoguePosition": "RIGHT",
-    "id": "2207"
+    "id": "2212"
   },
-  "2208": {
+  "2213": {
     "Index": 6,
     "StoryID": "e7_m4_exploration01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration01_07",
@@ -23622,9 +23680,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanMed01M",
     "DialoguePosition": "RIGHT",
-    "id": "2208"
+    "id": "2213"
   },
-  "2209": {
+  "2214": {
     "Index": 7,
     "StoryID": "e7_m4_exploration01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration01_08",
@@ -23633,9 +23691,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanMed01M",
     "DialoguePosition": "LEFT",
-    "id": "2209"
+    "id": "2214"
   },
-  "2210": {
+  "2215": {
     "Index": 8,
     "StoryID": "e7_m4_exploration01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration01_09",
@@ -23644,9 +23702,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanMed01M",
     "DialoguePosition": "RIGHT",
-    "id": "2210"
+    "id": "2215"
   },
-  "2211": {
+  "2216": {
     "Index": 9,
     "StoryID": "e7_m4_exploration01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration01_10",
@@ -23655,9 +23713,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanMed01M",
     "DialoguePosition": "RIGHT",
-    "id": "2211"
+    "id": "2216"
   },
-  "2212": {
+  "2217": {
     "Index": 0,
     "StoryID": "e7_m4_exploration01_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_01",
@@ -23665,9 +23723,9 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2212"
+    "id": "2217"
   },
-  "2213": {
+  "2218": {
     "Index": 1,
     "StoryID": "e7_m4_exploration01_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_02",
@@ -23676,9 +23734,9 @@
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Burnham",
     "DialoguePosition": "RIGHT",
-    "id": "2213"
+    "id": "2218"
   },
-  "2214": {
+  "2219": {
     "Index": 2,
     "StoryID": "e7_m4_exploration01_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_03",
@@ -23687,9 +23745,9 @@
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2214"
+    "id": "2219"
   },
-  "2215": {
+  "2220": {
     "Index": 0,
     "StoryID": "e7_m4_exploration01_reaction02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction02_01",
@@ -23697,9 +23755,9 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2215"
+    "id": "2220"
   },
-  "2216": {
+  "2221": {
     "Index": 1,
     "StoryID": "e7_m4_exploration01_reaction02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction02_02",
@@ -23708,9 +23766,9 @@
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Burnham",
     "DialoguePosition": "RIGHT",
-    "id": "2216"
+    "id": "2221"
   },
-  "2217": {
+  "2222": {
     "Index": 0,
     "StoryID": "e7_m4_battle04",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle04_01",
@@ -23718,9 +23776,9 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2217"
+    "id": "2222"
   },
-  "2218": {
+  "2223": {
     "Index": 1,
     "StoryID": "e7_m4_battle04",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle04_02",
@@ -23729,9 +23787,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "GenKlingSec01M",
     "DialoguePosition": "RIGHT",
-    "id": "2218"
+    "id": "2223"
   },
-  "2219": {
+  "2224": {
     "Index": 2,
     "StoryID": "e7_m4_battle04",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle04_03",
@@ -23740,9 +23798,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "GenKlingSec01M",
     "DialoguePosition": "LEFT",
-    "id": "2219"
+    "id": "2224"
   },
-  "2220": {
+  "2225": {
     "Index": 3,
     "StoryID": "e7_m4_battle04",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle04_04",
@@ -23751,9 +23809,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenKlingSec01M",
     "DialoguePosition": "LEFT",
-    "id": "2220"
+    "id": "2225"
   },
-  "2221": {
+  "2226": {
     "Index": 0,
     "StoryID": "e7_m4_battle09",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle09_01",
@@ -23761,9 +23819,9 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2221"
+    "id": "2226"
   },
-  "2222": {
+  "2227": {
     "Index": 1,
     "StoryID": "e7_m4_battle09",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle09_02",
@@ -23772,9 +23830,9 @@
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Worf",
     "DialoguePosition": "RIGHT",
-    "id": "2222"
+    "id": "2227"
   },
-  "2223": {
+  "2228": {
     "Index": 2,
     "StoryID": "e7_m4_battle09",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle09_03",
@@ -23783,9 +23841,9 @@
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Worf",
     "DialoguePosition": "RIGHT",
-    "id": "2223"
+    "id": "2228"
   },
-  "2224": {
+  "2229": {
     "Index": 3,
     "StoryID": "e7_m4_battle09",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle09_04",
@@ -23794,9 +23852,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2224"
+    "id": "2229"
   },
-  "2225": {
+  "2230": {
     "Index": 4,
     "StoryID": "e7_m4_battle09",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle09_05",
@@ -23805,9 +23863,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Worf",
     "DialoguePosition": "RIGHT",
-    "id": "2225"
+    "id": "2230"
   },
-  "2226": {
+  "2231": {
     "Index": 5,
     "StoryID": "e7_m4_battle09",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle09_06",
@@ -23816,9 +23874,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Worf",
     "DialoguePosition": "RIGHT",
-    "id": "2226"
+    "id": "2231"
   },
-  "2227": {
+  "2232": {
     "Index": 6,
     "StoryID": "e7_m4_battle09",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle09_07",
@@ -23827,9 +23885,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Worf",
     "DialoguePosition": "RIGHT",
-    "id": "2227"
+    "id": "2232"
   },
-  "2228": {
+  "2233": {
     "Index": 0,
     "StoryID": "e7_m4_battle09_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle09_post_01",
@@ -23837,9 +23895,9 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2228"
+    "id": "2233"
   },
-  "2229": {
+  "2234": {
     "Index": 1,
     "StoryID": "e7_m4_battle09_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle09_post_02",
@@ -23848,9 +23906,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2229"
+    "id": "2234"
   },
-  "2230": {
+  "2235": {
     "Index": 2,
     "StoryID": "e7_m4_battle09_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle09_post_03",
@@ -23859,9 +23917,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2230"
+    "id": "2235"
   },
-  "2231": {
+  "2236": {
     "Index": 0,
     "StoryID": "e7_m4_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story02_01",
@@ -23869,9 +23927,9 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2231"
+    "id": "2236"
   },
-  "2232": {
+  "2237": {
     "Index": 1,
     "StoryID": "e7_m4_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story02_02",
@@ -23880,9 +23938,9 @@
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Worf",
     "DialoguePosition": "RIGHT",
-    "id": "2232"
+    "id": "2237"
   },
-  "2233": {
+  "2238": {
     "Index": 2,
     "StoryID": "e7_m4_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story02_03",
@@ -23891,9 +23949,9 @@
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2233"
+    "id": "2238"
   },
-  "2234": {
+  "2239": {
     "Index": 3,
     "StoryID": "e7_m4_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story02_04",
@@ -23902,9 +23960,9 @@
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Burnham",
     "DialoguePosition": "RIGHT",
-    "id": "2234"
+    "id": "2239"
   },
-  "2235": {
+  "2240": {
     "Index": 4,
     "StoryID": "e7_m4_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story02_05",
@@ -23913,9 +23971,9 @@
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Burnham",
     "DialoguePosition": "RIGHT",
-    "id": "2235"
+    "id": "2240"
   },
-  "2236": {
+  "2241": {
     "Index": 5,
     "StoryID": "e7_m4_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story02_06",
@@ -23924,9 +23982,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2236"
+    "id": "2241"
   },
-  "2237": {
+  "2242": {
     "Index": 6,
     "StoryID": "e7_m4_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story02_07",
@@ -23935,9 +23993,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2237"
+    "id": "2242"
   },
-  "2238": {
+  "2243": {
     "Index": 7,
     "StoryID": "e7_m4_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story02_08",
@@ -23946,9 +24004,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2238"
+    "id": "2243"
   },
-  "2239": {
+  "2244": {
     "Index": 8,
     "StoryID": "e7_m4_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story02_09",
@@ -23957,9 +24015,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2239"
+    "id": "2244"
   },
-  "2240": {
+  "2245": {
     "Index": 9,
     "StoryID": "e7_m4_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story02_10",
@@ -23968,9 +24026,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2240"
+    "id": "2245"
   },
-  "2241": {
+  "2246": {
     "Index": 10,
     "StoryID": "e7_m4_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story02_11",
@@ -23979,9 +24037,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Worf",
     "DialoguePosition": "RIGHT",
-    "id": "2241"
+    "id": "2246"
   },
-  "2242": {
+  "2247": {
     "Index": 11,
     "StoryID": "e7_m4_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story02_12",
@@ -23990,9 +24048,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2242"
+    "id": "2247"
   },
-  "2243": {
+  "2248": {
     "Index": 12,
     "StoryID": "e7_m4_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story02_13",
@@ -24001,9 +24059,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2243"
+    "id": "2248"
   },
-  "2244": {
+  "2249": {
     "Index": 0,
     "StoryID": "e7_m4_exploration02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration02_01",
@@ -24011,9 +24069,9 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2244"
+    "id": "2249"
   },
-  "2245": {
+  "2250": {
     "Index": 1,
     "StoryID": "e7_m4_exploration02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration02_02",
@@ -24022,9 +24080,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2245"
+    "id": "2250"
   },
-  "2246": {
+  "2251": {
     "Index": 0,
     "StoryID": "e7_m4_exploration02_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_01",
@@ -24032,9 +24090,9 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2246"
+    "id": "2251"
   },
-  "2247": {
+  "2252": {
     "Index": 1,
     "StoryID": "e7_m4_exploration02_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_02",
@@ -24042,9 +24100,9 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2247"
+    "id": "2252"
   },
-  "2248": {
+  "2253": {
     "Index": 2,
     "StoryID": "e7_m4_exploration02_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_03",
@@ -24053,9 +24111,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2248"
+    "id": "2253"
   },
-  "2249": {
+  "2254": {
     "Index": 3,
     "StoryID": "e7_m4_exploration02_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_04",
@@ -24064,9 +24122,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2249"
+    "id": "2254"
   },
-  "2250": {
+  "2255": {
     "Index": 4,
     "StoryID": "e7_m4_exploration02_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_05",
@@ -24075,9 +24133,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2250"
+    "id": "2255"
   },
-  "2251": {
+  "2256": {
     "Index": 0,
     "StoryID": "e7_m4_exploration02_reaction02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction02_01",
@@ -24085,9 +24143,9 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2251"
+    "id": "2256"
   },
-  "2252": {
+  "2257": {
     "Index": 1,
     "StoryID": "e7_m4_exploration02_reaction02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction02_02",
@@ -24096,9 +24154,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2252"
+    "id": "2257"
   },
-  "2253": {
+  "2258": {
     "Index": 0,
     "StoryID": "e7_m4_battle11",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle11_01",
@@ -24106,9 +24164,9 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2253"
+    "id": "2258"
   },
-  "2254": {
+  "2259": {
     "Index": 1,
     "StoryID": "e7_m4_battle11",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle11_02",
@@ -24117,9 +24175,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Worf",
     "DialoguePosition": "RIGHT",
-    "id": "2254"
+    "id": "2259"
   },
-  "2255": {
+  "2260": {
     "Index": 2,
     "StoryID": "e7_m4_battle11",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle11_03",
@@ -24128,9 +24186,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2255"
+    "id": "2260"
   },
-  "2256": {
+  "2261": {
     "Index": 3,
     "StoryID": "e7_m4_battle11",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle11_04",
@@ -24139,9 +24197,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Worf",
     "DialoguePosition": "RIGHT",
-    "id": "2256"
+    "id": "2261"
   },
-  "2257": {
+  "2262": {
     "Index": 4,
     "StoryID": "e7_m4_battle11",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle11_05",
@@ -24150,9 +24208,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2257"
+    "id": "2262"
   },
-  "2258": {
+  "2263": {
     "Index": 5,
     "StoryID": "e7_m4_battle11",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle11_06",
@@ -24161,9 +24219,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2258"
+    "id": "2263"
   },
-  "2259": {
+  "2264": {
     "Index": 6,
     "StoryID": "e7_m4_battle11",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle11_07",
@@ -24172,9 +24230,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2259"
+    "id": "2264"
   },
-  "2260": {
+  "2265": {
     "Index": 7,
     "StoryID": "e7_m4_battle11",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle11_08",
@@ -24183,9 +24241,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2260"
+    "id": "2265"
   },
-  "2261": {
+  "2266": {
     "Index": 0,
     "StoryID": "e7_m4_battle11_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle11_post_01",
@@ -24193,9 +24251,9 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2261"
+    "id": "2266"
   },
-  "2262": {
+  "2267": {
     "Index": 1,
     "StoryID": "e7_m4_battle11_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle11_post_02",
@@ -24203,9 +24261,9 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2262"
+    "id": "2267"
   },
-  "2263": {
+  "2268": {
     "Index": 2,
     "StoryID": "e7_m4_battle11_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle11_post_03",
@@ -24214,9 +24272,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2263"
+    "id": "2268"
   },
-  "2264": {
+  "2269": {
     "Index": 3,
     "StoryID": "e7_m4_battle11_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle11_post_04",
@@ -24225,9 +24283,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2264"
+    "id": "2269"
   },
-  "2265": {
+  "2270": {
     "Index": 4,
     "StoryID": "e7_m4_battle11_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle11_post_05",
@@ -24236,9 +24294,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2265"
+    "id": "2270"
   },
-  "2266": {
+  "2271": {
     "Index": 5,
     "StoryID": "e7_m4_battle11_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_battle11_post_06",
@@ -24247,20 +24305,20 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2266"
+    "id": "2271"
   },
-  "2267": {
+  "2272": {
     "Index": 0,
     "StoryID": "e7_m4_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story03_01",
     "IsFullScreen": false,
     "DialogueHeader": "Common_Caretaker",
     "RightCharacterId": "Kirk",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2267"
+    "id": "2272"
   },
-  "2268": {
+  "2273": {
     "Index": 1,
     "StoryID": "e7_m4_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story03_02",
@@ -24268,11 +24326,11 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Kirk",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
-    "id": "2268"
+    "id": "2273"
   },
-  "2269": {
+  "2274": {
     "Index": 2,
     "StoryID": "e7_m4_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story03_03",
@@ -24280,11 +24338,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Kirk",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2269"
+    "id": "2274"
   },
-  "2270": {
+  "2275": {
     "Index": 3,
     "StoryID": "e7_m4_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story03_04",
@@ -24292,11 +24350,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Kirk",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2270"
+    "id": "2275"
   },
-  "2271": {
+  "2276": {
     "Index": 4,
     "StoryID": "e7_m4_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story03_05",
@@ -24304,11 +24362,11 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Kirk",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
-    "id": "2271"
+    "id": "2276"
   },
-  "2272": {
+  "2277": {
     "Index": 5,
     "StoryID": "e7_m4_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m4_story03_06",
@@ -24316,22 +24374,22 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Kirk",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2272"
+    "id": "2277"
   },
-  "2273": {
+  "2278": {
     "Index": 0,
     "StoryID": "e7_m5_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_story01_01",
     "IsFullScreen": false,
     "DialogueHeader": "Common_Caretaker",
     "RightCharacterId": "Picard",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2273"
+    "id": "2278"
   },
-  "2274": {
+  "2279": {
     "Index": 1,
     "StoryID": "e7_m5_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_story01_02",
@@ -24339,11 +24397,11 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Picard",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
-    "id": "2274"
+    "id": "2279"
   },
-  "2275": {
+  "2280": {
     "Index": 2,
     "StoryID": "e7_m5_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_story01_03",
@@ -24351,11 +24409,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Picard",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2275"
+    "id": "2280"
   },
-  "2276": {
+  "2281": {
     "Index": 3,
     "StoryID": "e7_m5_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_story01_04",
@@ -24363,11 +24421,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Picard",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2276"
+    "id": "2281"
   },
-  "2277": {
+  "2282": {
     "Index": 4,
     "StoryID": "e7_m5_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_story01_05",
@@ -24375,11 +24433,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Picard",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2277"
+    "id": "2282"
   },
-  "2278": {
+  "2283": {
     "Index": 5,
     "StoryID": "e7_m5_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_story01_06",
@@ -24387,11 +24445,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Picard",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2278"
+    "id": "2283"
   },
-  "2279": {
+  "2284": {
     "Index": 0,
     "StoryID": "e7_m5_battle01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_battle01_01",
@@ -24399,9 +24457,9 @@
     "DialogueHeader": "Common_RomulanScientist",
     "RightCharacterId": "GenRomuSci01F",
     "DialoguePosition": "RIGHT",
-    "id": "2279"
+    "id": "2284"
   },
-  "2280": {
+  "2285": {
     "Index": 1,
     "StoryID": "e7_m5_battle01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_battle01_02",
@@ -24410,9 +24468,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenRomuSci01F",
     "DialoguePosition": "LEFT",
-    "id": "2280"
+    "id": "2285"
   },
-  "2281": {
+  "2286": {
     "Index": 2,
     "StoryID": "e7_m5_battle01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_battle01_03",
@@ -24421,9 +24479,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenRomuSci01F",
     "DialoguePosition": "RIGHT",
-    "id": "2281"
+    "id": "2286"
   },
-  "2282": {
+  "2287": {
     "Index": 0,
     "StoryID": "e7_m5_battle01_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_battle01_post_01",
@@ -24431,9 +24489,9 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2282"
+    "id": "2287"
   },
-  "2283": {
+  "2288": {
     "Index": 0,
     "StoryID": "e7_m5_exploration01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration01_01",
@@ -24441,9 +24499,9 @@
     "DialogueHeader": "Common_RomulanCommander",
     "RightCharacterId": "GenRomuCom01M",
     "DialoguePosition": "RIGHT",
-    "id": "2283"
+    "id": "2288"
   },
-  "2284": {
+  "2289": {
     "Index": 1,
     "StoryID": "e7_m5_exploration01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration01_02",
@@ -24452,9 +24510,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "GenRomuCom01M",
     "DialoguePosition": "LEFT",
-    "id": "2284"
+    "id": "2289"
   },
-  "2285": {
+  "2290": {
     "Index": 2,
     "StoryID": "e7_m5_exploration01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration01_03",
@@ -24463,9 +24521,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "GenRomuCom01M",
     "DialoguePosition": "RIGHT",
-    "id": "2285"
+    "id": "2290"
   },
-  "2286": {
+  "2291": {
     "Index": 3,
     "StoryID": "e7_m5_exploration01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration01_04",
@@ -24474,9 +24532,9 @@
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "GenRomuCom01M",
     "DialoguePosition": "LEFT",
-    "id": "2286"
+    "id": "2291"
   },
-  "2287": {
+  "2292": {
     "Index": 4,
     "StoryID": "e7_m5_exploration01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration01_05",
@@ -24485,65 +24543,12 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "GenRomuCom01M",
     "DialoguePosition": "LEFT",
-    "id": "2287"
-  },
-  "2288": {
-    "Index": 0,
-    "StoryID": "e7_m5_exploration01_reaction01",
-    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_01",
-    "IsFullScreen": false,
-    "DialogueHeader": "Common_MichaelBurnham",
-    "LeftCharacterId": "Burnham",
-    "DialoguePosition": "LEFT",
-    "id": "2288"
-  },
-  "2289": {
-    "Index": 1,
-    "StoryID": "e7_m5_exploration01_reaction01",
-    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_02",
-    "IsFullScreen": false,
-    "DialogueHeader": "Common_RomulanCommander",
-    "LeftCharacterId": "Burnham",
-    "RightCharacterId": "GenRomuCom01M",
-    "DialoguePosition": "RIGHT",
-    "id": "2289"
-  },
-  "2290": {
-    "Index": 2,
-    "StoryID": "e7_m5_exploration01_reaction01",
-    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_03",
-    "IsFullScreen": false,
-    "DialogueHeader": "Common_MichaelBurnham",
-    "LeftCharacterId": "Burnham",
-    "RightCharacterId": "GenRomuCom01M",
-    "DialoguePosition": "LEFT",
-    "id": "2290"
-  },
-  "2291": {
-    "Index": 3,
-    "StoryID": "e7_m5_exploration01_reaction01",
-    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_04",
-    "IsFullScreen": false,
-    "DialogueHeader": "Common_RomulanCommander",
-    "LeftCharacterId": "Burnham",
-    "RightCharacterId": "GenRomuCom01M",
-    "DialoguePosition": "RIGHT",
-    "id": "2291"
-  },
-  "2292": {
-    "Index": 4,
-    "StoryID": "e7_m5_exploration01_reaction01",
-    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_05",
-    "IsFullScreen": false,
-    "DialogueHeader": "Common_LeonardMcCoy",
-    "LeftCharacterId": "McCoy",
-    "DialoguePosition": "LEFT",
     "id": "2292"
   },
   "2293": {
     "Index": 0,
-    "StoryID": "e7_m5_exploration01_reaction02",
-    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_01",
+    "StoryID": "e7_m5_exploration01_reaction01",
+    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_01",
     "IsFullScreen": false,
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
@@ -24552,8 +24557,8 @@
   },
   "2294": {
     "Index": 1,
-    "StoryID": "e7_m5_exploration01_reaction02",
-    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_02",
+    "StoryID": "e7_m5_exploration01_reaction01",
+    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_02",
     "IsFullScreen": false,
     "DialogueHeader": "Common_RomulanCommander",
     "LeftCharacterId": "Burnham",
@@ -24562,6 +24567,59 @@
     "id": "2294"
   },
   "2295": {
+    "Index": 2,
+    "StoryID": "e7_m5_exploration01_reaction01",
+    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_03",
+    "IsFullScreen": false,
+    "DialogueHeader": "Common_MichaelBurnham",
+    "LeftCharacterId": "Burnham",
+    "RightCharacterId": "GenRomuCom01M",
+    "DialoguePosition": "LEFT",
+    "id": "2295"
+  },
+  "2296": {
+    "Index": 3,
+    "StoryID": "e7_m5_exploration01_reaction01",
+    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_04",
+    "IsFullScreen": false,
+    "DialogueHeader": "Common_RomulanCommander",
+    "LeftCharacterId": "Burnham",
+    "RightCharacterId": "GenRomuCom01M",
+    "DialoguePosition": "RIGHT",
+    "id": "2296"
+  },
+  "2297": {
+    "Index": 4,
+    "StoryID": "e7_m5_exploration01_reaction01",
+    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_05",
+    "IsFullScreen": false,
+    "DialogueHeader": "Common_LeonardMcCoy",
+    "LeftCharacterId": "McCoy",
+    "DialoguePosition": "LEFT",
+    "id": "2297"
+  },
+  "2298": {
+    "Index": 0,
+    "StoryID": "e7_m5_exploration01_reaction02",
+    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_01",
+    "IsFullScreen": false,
+    "DialogueHeader": "Common_MichaelBurnham",
+    "LeftCharacterId": "Burnham",
+    "DialoguePosition": "LEFT",
+    "id": "2298"
+  },
+  "2299": {
+    "Index": 1,
+    "StoryID": "e7_m5_exploration01_reaction02",
+    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_02",
+    "IsFullScreen": false,
+    "DialogueHeader": "Common_RomulanCommander",
+    "LeftCharacterId": "Burnham",
+    "RightCharacterId": "GenRomuCom01M",
+    "DialoguePosition": "RIGHT",
+    "id": "2299"
+  },
+  "2300": {
     "Index": 0,
     "StoryID": "e7_m5_exploration02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration02_01",
@@ -24569,9 +24627,9 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2295"
+    "id": "2300"
   },
-  "2296": {
+  "2301": {
     "Index": 1,
     "StoryID": "e7_m5_exploration02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration02_02",
@@ -24580,9 +24638,9 @@
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Sela",
     "DialoguePosition": "RIGHT",
-    "id": "2296"
+    "id": "2301"
   },
-  "2297": {
+  "2302": {
     "Index": 2,
     "StoryID": "e7_m5_exploration02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration02_03",
@@ -24591,65 +24649,12 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Sela",
     "DialoguePosition": "LEFT",
-    "id": "2297"
-  },
-  "2298": {
-    "Index": 0,
-    "StoryID": "e7_m5_exploration02_reaction01",
-    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_01",
-    "IsFullScreen": false,
-    "DialogueHeader": "Common_Sela",
-    "RightCharacterId": "Sela",
-    "DialoguePosition": "RIGHT",
-    "id": "2298"
-  },
-  "2299": {
-    "Index": 1,
-    "StoryID": "e7_m5_exploration02_reaction01",
-    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_02",
-    "IsFullScreen": false,
-    "DialogueHeader": "Common_Sela",
-    "RightCharacterId": "Sela",
-    "DialoguePosition": "RIGHT",
-    "id": "2299"
-  },
-  "2300": {
-    "Index": 2,
-    "StoryID": "e7_m5_exploration02_reaction01",
-    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_03",
-    "IsFullScreen": false,
-    "DialogueHeader": "Common_MichaelBurnham",
-    "LeftCharacterId": "Burnham",
-    "RightCharacterId": "Sela",
-    "DialoguePosition": "LEFT",
-    "id": "2300"
-  },
-  "2301": {
-    "Index": 3,
-    "StoryID": "e7_m5_exploration02_reaction01",
-    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_04",
-    "IsFullScreen": false,
-    "DialogueHeader": "Common_Sela",
-    "LeftCharacterId": "Burnham",
-    "RightCharacterId": "Sela",
-    "DialoguePosition": "RIGHT",
-    "id": "2301"
-  },
-  "2302": {
-    "Index": 4,
-    "StoryID": "e7_m5_exploration02_reaction01",
-    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_05",
-    "IsFullScreen": false,
-    "DialogueHeader": "Common_Sela",
-    "LeftCharacterId": "Burnham",
-    "RightCharacterId": "Sela",
-    "DialoguePosition": "RIGHT",
     "id": "2302"
   },
   "2303": {
     "Index": 0,
-    "StoryID": "e7_m5_exploration02_reaction02",
-    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_01",
+    "StoryID": "e7_m5_exploration02_reaction01",
+    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_01",
     "IsFullScreen": false,
     "DialogueHeader": "Common_Sela",
     "RightCharacterId": "Sela",
@@ -24658,6 +24663,59 @@
   },
   "2304": {
     "Index": 1,
+    "StoryID": "e7_m5_exploration02_reaction01",
+    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_02",
+    "IsFullScreen": false,
+    "DialogueHeader": "Common_Sela",
+    "RightCharacterId": "Sela",
+    "DialoguePosition": "RIGHT",
+    "id": "2304"
+  },
+  "2305": {
+    "Index": 2,
+    "StoryID": "e7_m5_exploration02_reaction01",
+    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_03",
+    "IsFullScreen": false,
+    "DialogueHeader": "Common_MichaelBurnham",
+    "LeftCharacterId": "Burnham",
+    "RightCharacterId": "Sela",
+    "DialoguePosition": "LEFT",
+    "id": "2305"
+  },
+  "2306": {
+    "Index": 3,
+    "StoryID": "e7_m5_exploration02_reaction01",
+    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_04",
+    "IsFullScreen": false,
+    "DialogueHeader": "Common_Sela",
+    "LeftCharacterId": "Burnham",
+    "RightCharacterId": "Sela",
+    "DialoguePosition": "RIGHT",
+    "id": "2306"
+  },
+  "2307": {
+    "Index": 4,
+    "StoryID": "e7_m5_exploration02_reaction01",
+    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_05",
+    "IsFullScreen": false,
+    "DialogueHeader": "Common_Sela",
+    "LeftCharacterId": "Burnham",
+    "RightCharacterId": "Sela",
+    "DialoguePosition": "RIGHT",
+    "id": "2307"
+  },
+  "2308": {
+    "Index": 0,
+    "StoryID": "e7_m5_exploration02_reaction02",
+    "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_01",
+    "IsFullScreen": false,
+    "DialogueHeader": "Common_Sela",
+    "RightCharacterId": "Sela",
+    "DialoguePosition": "RIGHT",
+    "id": "2308"
+  },
+  "2309": {
+    "Index": 1,
     "StoryID": "e7_m5_exploration02_reaction02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_02",
     "IsFullScreen": false,
@@ -24665,9 +24723,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Sela",
     "DialoguePosition": "LEFT",
-    "id": "2304"
+    "id": "2309"
   },
-  "2305": {
+  "2310": {
     "Index": 0,
     "StoryID": "e7_m5_battle06_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_battle06_post_01",
@@ -24675,9 +24733,9 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2305"
+    "id": "2310"
   },
-  "2306": {
+  "2311": {
     "Index": 1,
     "StoryID": "e7_m5_battle06_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_battle06_post_02",
@@ -24686,9 +24744,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Worf",
     "DialoguePosition": "RIGHT",
-    "id": "2306"
+    "id": "2311"
   },
-  "2307": {
+  "2312": {
     "Index": 2,
     "StoryID": "e7_m5_battle06_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_battle06_post_03",
@@ -24697,9 +24755,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2307"
+    "id": "2312"
   },
-  "2308": {
+  "2313": {
     "Index": 3,
     "StoryID": "e7_m5_battle06_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_battle06_post_04",
@@ -24708,9 +24766,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2308"
+    "id": "2313"
   },
-  "2309": {
+  "2314": {
     "Index": 0,
     "StoryID": "e7_m5_exploration03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration03_01",
@@ -24718,9 +24776,9 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2309"
+    "id": "2314"
   },
-  "2310": {
+  "2315": {
     "Index": 1,
     "StoryID": "e7_m5_exploration03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration03_02",
@@ -24729,9 +24787,9 @@
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Worf",
     "DialoguePosition": "RIGHT",
-    "id": "2310"
+    "id": "2315"
   },
-  "2311": {
+  "2316": {
     "Index": 0,
     "StoryID": "e7_m5_exploration03_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_01",
@@ -24739,9 +24797,9 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2311"
+    "id": "2316"
   },
-  "2312": {
+  "2317": {
     "Index": 1,
     "StoryID": "e7_m5_exploration03_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_02",
@@ -24750,9 +24808,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Tomalak",
     "DialoguePosition": "RIGHT",
-    "id": "2312"
+    "id": "2317"
   },
-  "2313": {
+  "2318": {
     "Index": 2,
     "StoryID": "e7_m5_exploration03_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_03",
@@ -24761,9 +24819,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Tomalak",
     "DialoguePosition": "RIGHT",
-    "id": "2313"
+    "id": "2318"
   },
-  "2314": {
+  "2319": {
     "Index": 3,
     "StoryID": "e7_m5_exploration03_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_04",
@@ -24772,9 +24830,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Tomalak",
     "DialoguePosition": "RIGHT",
-    "id": "2314"
+    "id": "2319"
   },
-  "2315": {
+  "2320": {
     "Index": 4,
     "StoryID": "e7_m5_exploration03_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_05",
@@ -24783,9 +24841,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Tomalak",
     "DialoguePosition": "LEFT",
-    "id": "2315"
+    "id": "2320"
   },
-  "2316": {
+  "2321": {
     "Index": 5,
     "StoryID": "e7_m5_exploration03_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_06",
@@ -24794,9 +24852,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Tomalak",
     "DialoguePosition": "RIGHT",
-    "id": "2316"
+    "id": "2321"
   },
-  "2317": {
+  "2322": {
     "Index": 6,
     "StoryID": "e7_m5_exploration03_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_07",
@@ -24805,9 +24863,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Tomalak",
     "DialoguePosition": "LEFT",
-    "id": "2317"
+    "id": "2322"
   },
-  "2318": {
+  "2323": {
     "Index": 7,
     "StoryID": "e7_m5_exploration03_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_08",
@@ -24816,9 +24874,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Tomalak",
     "DialoguePosition": "RIGHT",
-    "id": "2318"
+    "id": "2323"
   },
-  "2319": {
+  "2324": {
     "Index": 8,
     "StoryID": "e7_m5_exploration03_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_09",
@@ -24827,9 +24885,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Tomalak",
     "DialoguePosition": "LEFT",
-    "id": "2319"
+    "id": "2324"
   },
-  "2320": {
+  "2325": {
     "Index": 9,
     "StoryID": "e7_m5_exploration03_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_10",
@@ -24838,9 +24896,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Tomalak",
     "DialoguePosition": "RIGHT",
-    "id": "2320"
+    "id": "2325"
   },
-  "2321": {
+  "2326": {
     "Index": 0,
     "StoryID": "e7_m5_exploration03_reaction02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_01",
@@ -24848,9 +24906,9 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2321"
+    "id": "2326"
   },
-  "2322": {
+  "2327": {
     "Index": 1,
     "StoryID": "e7_m5_exploration03_reaction02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_02",
@@ -24859,9 +24917,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Tomalak",
     "DialoguePosition": "RIGHT",
-    "id": "2322"
+    "id": "2327"
   },
-  "2323": {
+  "2328": {
     "Index": 2,
     "StoryID": "e7_m5_exploration03_reaction02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_03",
@@ -24870,9 +24928,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Tomalak",
     "DialoguePosition": "RIGHT",
-    "id": "2323"
+    "id": "2328"
   },
-  "2324": {
+  "2329": {
     "Index": 3,
     "StoryID": "e7_m5_exploration03_reaction02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_04",
@@ -24881,9 +24939,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Tomalak",
     "DialoguePosition": "RIGHT",
-    "id": "2324"
+    "id": "2329"
   },
-  "2325": {
+  "2330": {
     "Index": 4,
     "StoryID": "e7_m5_exploration03_reaction02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_05",
@@ -24892,9 +24950,9 @@
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Tomalak",
     "DialoguePosition": "LEFT",
-    "id": "2325"
+    "id": "2330"
   },
-  "2326": {
+  "2331": {
     "Index": 5,
     "StoryID": "e7_m5_exploration03_reaction02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_06",
@@ -24903,9 +24961,9 @@
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Tomalak",
     "DialoguePosition": "RIGHT",
-    "id": "2326"
+    "id": "2331"
   },
-  "2327": {
+  "2332": {
     "Index": 6,
     "StoryID": "e7_m5_exploration03_reaction02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_07",
@@ -24914,9 +24972,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Tomalak",
     "DialoguePosition": "LEFT",
-    "id": "2327"
+    "id": "2332"
   },
-  "2328": {
+  "2333": {
     "Index": 0,
     "StoryID": "e7_m5_battle09_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_battle09_post_01",
@@ -24924,9 +24982,9 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2328"
+    "id": "2333"
   },
-  "2329": {
+  "2334": {
     "Index": 1,
     "StoryID": "e7_m5_battle09_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_battle09_post_02",
@@ -24934,9 +24992,9 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2329"
+    "id": "2334"
   },
-  "2330": {
+  "2335": {
     "Index": 2,
     "StoryID": "e7_m5_battle09_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_battle09_post_03",
@@ -24945,9 +25003,9 @@
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Worf",
     "DialoguePosition": "RIGHT",
-    "id": "2330"
+    "id": "2335"
   },
-  "2331": {
+  "2336": {
     "Index": 3,
     "StoryID": "e7_m5_battle09_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_battle09_post_04",
@@ -24956,9 +25014,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2331"
+    "id": "2336"
   },
-  "2332": {
+  "2337": {
     "Index": 0,
     "StoryID": "e7_m5_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_story02_01",
@@ -24966,9 +25024,9 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2332"
+    "id": "2337"
   },
-  "2333": {
+  "2338": {
     "Index": 1,
     "StoryID": "e7_m5_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_story02_02",
@@ -24976,11 +25034,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Picard",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2333"
+    "id": "2338"
   },
-  "2334": {
+  "2339": {
     "Index": 2,
     "StoryID": "e7_m5_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_story02_03",
@@ -24988,11 +25046,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Picard",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2334"
+    "id": "2339"
   },
-  "2335": {
+  "2340": {
     "Index": 3,
     "StoryID": "e7_m5_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_story02_04",
@@ -25000,11 +25058,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Picard",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2335"
+    "id": "2340"
   },
-  "2336": {
+  "2341": {
     "Index": 4,
     "StoryID": "e7_m5_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_story02_05",
@@ -25012,11 +25070,11 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Picard",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
-    "id": "2336"
+    "id": "2341"
   },
-  "2337": {
+  "2342": {
     "Index": 5,
     "StoryID": "e7_m5_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_story02_06",
@@ -25024,11 +25082,11 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Picard",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
-    "id": "2337"
+    "id": "2342"
   },
-  "2338": {
+  "2343": {
     "Index": 6,
     "StoryID": "e7_m5_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_story02_07",
@@ -25036,11 +25094,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Picard",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2338"
+    "id": "2343"
   },
-  "2339": {
+  "2344": {
     "Index": 7,
     "StoryID": "e7_m5_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m5_story02_08",
@@ -25048,22 +25106,22 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Picard",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2339"
+    "id": "2344"
   },
-  "2340": {
+  "2345": {
     "Index": 0,
     "StoryID": "e7_m6_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story01_01",
     "IsFullScreen": false,
     "DialogueHeader": "Common_Caretaker",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2340"
+    "id": "2345"
   },
-  "2341": {
+  "2346": {
     "Index": 1,
     "StoryID": "e7_m6_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story01_02",
@@ -25071,11 +25129,11 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
-    "id": "2341"
+    "id": "2346"
   },
-  "2342": {
+  "2347": {
     "Index": 2,
     "StoryID": "e7_m6_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story01_03",
@@ -25083,11 +25141,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2342"
+    "id": "2347"
   },
-  "2343": {
+  "2348": {
     "Index": 3,
     "StoryID": "e7_m6_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story01_04",
@@ -25095,11 +25153,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2343"
+    "id": "2348"
   },
-  "2344": {
+  "2349": {
     "Index": 4,
     "StoryID": "e7_m6_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story01_05",
@@ -25107,11 +25165,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2344"
+    "id": "2349"
   },
-  "2345": {
+  "2350": {
     "Index": 5,
     "StoryID": "e7_m6_story01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story01_06",
@@ -25119,11 +25177,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2345"
+    "id": "2350"
   },
-  "2346": {
+  "2351": {
     "Index": 0,
     "StoryID": "e7_m6_battle01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle01_01",
@@ -25131,9 +25189,9 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2346"
+    "id": "2351"
   },
-  "2347": {
+  "2352": {
     "Index": 1,
     "StoryID": "e7_m6_battle01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle01_02",
@@ -25142,9 +25200,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2347"
+    "id": "2352"
   },
-  "2348": {
+  "2353": {
     "Index": 2,
     "StoryID": "e7_m6_battle01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle01_03",
@@ -25153,9 +25211,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2348"
+    "id": "2353"
   },
-  "2349": {
+  "2354": {
     "Index": 3,
     "StoryID": "e7_m6_battle01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle01_04",
@@ -25164,9 +25222,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Burnham",
     "DialoguePosition": "RIGHT",
-    "id": "2349"
+    "id": "2354"
   },
-  "2350": {
+  "2355": {
     "Index": 0,
     "StoryID": "e7_m6_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story02_01",
@@ -25174,9 +25232,9 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2350"
+    "id": "2355"
   },
-  "2351": {
+  "2356": {
     "Index": 1,
     "StoryID": "e7_m6_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story02_02",
@@ -25184,11 +25242,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2351"
+    "id": "2356"
   },
-  "2352": {
+  "2357": {
     "Index": 2,
     "StoryID": "e7_m6_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story02_03",
@@ -25196,11 +25254,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2352"
+    "id": "2357"
   },
-  "2353": {
+  "2358": {
     "Index": 3,
     "StoryID": "e7_m6_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story02_04",
@@ -25208,11 +25266,11 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
-    "id": "2353"
+    "id": "2358"
   },
-  "2354": {
+  "2359": {
     "Index": 4,
     "StoryID": "e7_m6_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story02_05",
@@ -25220,11 +25278,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2354"
+    "id": "2359"
   },
-  "2355": {
+  "2360": {
     "Index": 5,
     "StoryID": "e7_m6_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story02_06",
@@ -25232,11 +25290,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2355"
+    "id": "2360"
   },
-  "2356": {
+  "2361": {
     "Index": 6,
     "StoryID": "e7_m6_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story02_07",
@@ -25244,11 +25302,11 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
-    "id": "2356"
+    "id": "2361"
   },
-  "2357": {
+  "2362": {
     "Index": 7,
     "StoryID": "e7_m6_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story02_08",
@@ -25256,11 +25314,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2357"
+    "id": "2362"
   },
-  "2358": {
+  "2363": {
     "Index": 8,
     "StoryID": "e7_m6_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story02_09",
@@ -25268,11 +25326,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2358"
+    "id": "2363"
   },
-  "2359": {
+  "2364": {
     "Index": 9,
     "StoryID": "e7_m6_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story02_10",
@@ -25280,11 +25338,11 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
-    "id": "2359"
+    "id": "2364"
   },
-  "2360": {
+  "2365": {
     "Index": 10,
     "StoryID": "e7_m6_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story02_11",
@@ -25292,11 +25350,11 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
-    "id": "2360"
+    "id": "2365"
   },
-  "2361": {
+  "2366": {
     "Index": 11,
     "StoryID": "e7_m6_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story02_12",
@@ -25304,11 +25362,11 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
-    "id": "2361"
+    "id": "2366"
   },
-  "2362": {
+  "2367": {
     "Index": 12,
     "StoryID": "e7_m6_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story02_13",
@@ -25316,11 +25374,11 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
-    "id": "2362"
+    "id": "2367"
   },
-  "2363": {
+  "2368": {
     "Index": 13,
     "StoryID": "e7_m6_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story02_14",
@@ -25329,11 +25387,11 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanCom01M",
     "LeftCharacterSkinName": "Hologram_Gold",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
-    "id": "2363"
+    "id": "2368"
   },
-  "2364": {
+  "2369": {
     "Index": 14,
     "StoryID": "e7_m6_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story02_15",
@@ -25342,11 +25400,11 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanCom01M",
     "LeftCharacterSkinName": "Hologram_Gold",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
-    "id": "2364"
+    "id": "2369"
   },
-  "2365": {
+  "2370": {
     "Index": 15,
     "StoryID": "e7_m6_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story02_16",
@@ -25355,11 +25413,11 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanCom01M",
     "LeftCharacterSkinName": "Hologram_Gold",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
-    "id": "2365"
+    "id": "2370"
   },
-  "2366": {
+  "2371": {
     "Index": 16,
     "StoryID": "e7_m6_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story02_17",
@@ -25367,11 +25425,11 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
-    "id": "2366"
+    "id": "2371"
   },
-  "2367": {
+  "2372": {
     "Index": 17,
     "StoryID": "e7_m6_story02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story02_18",
@@ -25379,11 +25437,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2367"
+    "id": "2372"
   },
-  "2368": {
+  "2373": {
     "Index": 0,
     "StoryID": "e7_m6_exploration01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration01_01",
@@ -25391,9 +25449,9 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2368"
+    "id": "2373"
   },
-  "2369": {
+  "2374": {
     "Index": 1,
     "StoryID": "e7_m6_exploration01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration01_02",
@@ -25402,9 +25460,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2369"
+    "id": "2374"
   },
-  "2370": {
+  "2375": {
     "Index": 2,
     "StoryID": "e7_m6_exploration01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration01_03",
@@ -25413,9 +25471,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2370"
+    "id": "2375"
   },
-  "2371": {
+  "2376": {
     "Index": 3,
     "StoryID": "e7_m6_exploration01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration01_04",
@@ -25424,9 +25482,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2371"
+    "id": "2376"
   },
-  "2372": {
+  "2377": {
     "Index": 0,
     "StoryID": "e7_m6_exploration01_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_01",
@@ -25434,9 +25492,9 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2372"
+    "id": "2377"
   },
-  "2373": {
+  "2378": {
     "Index": 1,
     "StoryID": "e7_m6_exploration01_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_02",
@@ -25445,9 +25503,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2373"
+    "id": "2378"
   },
-  "2374": {
+  "2379": {
     "Index": 2,
     "StoryID": "e7_m6_exploration01_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_03",
@@ -25456,9 +25514,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2374"
+    "id": "2379"
   },
-  "2375": {
+  "2380": {
     "Index": 3,
     "StoryID": "e7_m6_exploration01_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_04",
@@ -25467,9 +25525,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2375"
+    "id": "2380"
   },
-  "2376": {
+  "2381": {
     "Index": 0,
     "StoryID": "e7_m6_exploration01_reaction02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_01",
@@ -25477,9 +25535,9 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2376"
+    "id": "2381"
   },
-  "2377": {
+  "2382": {
     "Index": 1,
     "StoryID": "e7_m6_exploration01_reaction02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_02",
@@ -25488,9 +25546,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2377"
+    "id": "2382"
   },
-  "2378": {
+  "2383": {
     "Index": 2,
     "StoryID": "e7_m6_exploration01_reaction02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_03",
@@ -25499,9 +25557,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2378"
+    "id": "2383"
   },
-  "2379": {
+  "2384": {
     "Index": 0,
     "StoryID": "e7_m6_battle04",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle04_01",
@@ -25509,9 +25567,9 @@
     "DialogueHeader": "Common_DreamlessA_MiniBoss",
     "RightCharacterId": "DreamlessA_MiniBoss",
     "DialoguePosition": "RIGHT",
-    "id": "2379"
+    "id": "2384"
   },
-  "2380": {
+  "2385": {
     "Index": 1,
     "StoryID": "e7_m6_battle04",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle04_02",
@@ -25520,20 +25578,20 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "DreamlessA_MiniBoss",
     "DialoguePosition": "LEFT",
-    "id": "2380"
+    "id": "2385"
   },
-  "2381": {
+  "2386": {
     "Index": 0,
     "StoryID": "e7_m6_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story03_01",
     "IsFullScreen": false,
     "DialogueHeader": "Common_Caretaker",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2381"
+    "id": "2386"
   },
-  "2382": {
+  "2387": {
     "Index": 1,
     "StoryID": "e7_m6_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story03_02",
@@ -25541,11 +25599,11 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
-    "id": "2382"
+    "id": "2387"
   },
-  "2383": {
+  "2388": {
     "Index": 2,
     "StoryID": "e7_m6_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story03_03",
@@ -25554,9 +25612,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2383"
+    "id": "2388"
   },
-  "2384": {
+  "2389": {
     "Index": 3,
     "StoryID": "e7_m6_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story03_04",
@@ -25565,9 +25623,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2384"
+    "id": "2389"
   },
-  "2385": {
+  "2390": {
     "Index": 4,
     "StoryID": "e7_m6_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story03_05",
@@ -25576,9 +25634,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2385"
+    "id": "2390"
   },
-  "2386": {
+  "2391": {
     "Index": 5,
     "StoryID": "e7_m6_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story03_06",
@@ -25588,9 +25646,9 @@
     "RightCharacterId": "McCoy",
     "LeftCharacterSkinName": "Hologram_Gold",
     "DialoguePosition": "LEFT",
-    "id": "2386"
+    "id": "2391"
   },
-  "2387": {
+  "2392": {
     "Index": 6,
     "StoryID": "e7_m6_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story03_07",
@@ -25600,9 +25658,9 @@
     "RightCharacterId": "McCoy",
     "LeftCharacterSkinName": "Hologram_Gold",
     "DialoguePosition": "LEFT",
-    "id": "2387"
+    "id": "2392"
   },
-  "2388": {
+  "2393": {
     "Index": 7,
     "StoryID": "e7_m6_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story03_08",
@@ -25612,9 +25670,9 @@
     "RightCharacterId": "McCoy",
     "LeftCharacterSkinName": "Hologram_Gold",
     "DialoguePosition": "LEFT",
-    "id": "2388"
+    "id": "2393"
   },
-  "2389": {
+  "2394": {
     "Index": 8,
     "StoryID": "e7_m6_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story03_09",
@@ -25624,9 +25682,9 @@
     "RightCharacterId": "McCoy",
     "LeftCharacterSkinName": "Hologram_Gold",
     "DialoguePosition": "LEFT",
-    "id": "2389"
+    "id": "2394"
   },
-  "2390": {
+  "2395": {
     "Index": 9,
     "StoryID": "e7_m6_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story03_10",
@@ -25636,9 +25694,9 @@
     "RightCharacterId": "McCoy",
     "LeftCharacterSkinName": "Hologram_Gold",
     "DialoguePosition": "LEFT",
-    "id": "2390"
+    "id": "2395"
   },
-  "2391": {
+  "2396": {
     "Index": 10,
     "StoryID": "e7_m6_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story03_11",
@@ -25648,9 +25706,9 @@
     "RightCharacterId": "Worf",
     "LeftCharacterSkinName": "Hologram_Gold",
     "DialoguePosition": "RIGHT",
-    "id": "2391"
+    "id": "2396"
   },
-  "2392": {
+  "2397": {
     "Index": 11,
     "StoryID": "e7_m6_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story03_12",
@@ -25660,9 +25718,9 @@
     "RightCharacterId": "Worf",
     "LeftCharacterSkinName": "Hologram_Gold",
     "DialoguePosition": "LEFT",
-    "id": "2392"
+    "id": "2397"
   },
-  "2393": {
+  "2398": {
     "Index": 12,
     "StoryID": "e7_m6_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story03_13",
@@ -25672,9 +25730,9 @@
     "RightCharacterId": "Worf",
     "LeftCharacterSkinName": "Hologram_Gold",
     "DialoguePosition": "LEFT",
-    "id": "2393"
+    "id": "2398"
   },
-  "2394": {
+  "2399": {
     "Index": 13,
     "StoryID": "e7_m6_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story03_14",
@@ -25683,9 +25741,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2394"
+    "id": "2399"
   },
-  "2395": {
+  "2400": {
     "Index": 14,
     "StoryID": "e7_m6_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story03_15",
@@ -25694,9 +25752,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2395"
+    "id": "2400"
   },
-  "2396": {
+  "2401": {
     "Index": 15,
     "StoryID": "e7_m6_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story03_16",
@@ -25705,9 +25763,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "McCoy",
     "DialoguePosition": "RIGHT",
-    "id": "2396"
+    "id": "2401"
   },
-  "2397": {
+  "2402": {
     "Index": 16,
     "StoryID": "e7_m6_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story03_17",
@@ -25715,11 +25773,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2397"
+    "id": "2402"
   },
-  "2398": {
+  "2403": {
     "Index": 17,
     "StoryID": "e7_m6_story03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_story03_18",
@@ -25727,11 +25785,11 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "GenHumanCom01M",
-    "RightCharacterSkinName": "Hologram_Gold",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "LEFT",
-    "id": "2398"
+    "id": "2403"
   },
-  "2399": {
+  "2404": {
     "Index": 0,
     "StoryID": "e7_m6_battle10",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle10_01",
@@ -25739,9 +25797,9 @@
     "DialogueHeader": "Common_DreamlessA_MiniBoss",
     "RightCharacterId": "DreamlessA_MiniBoss",
     "DialoguePosition": "RIGHT",
-    "id": "2399"
+    "id": "2404"
   },
-  "2400": {
+  "2405": {
     "Index": 1,
     "StoryID": "e7_m6_battle10",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle10_02",
@@ -25750,9 +25808,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "DreamlessA_MiniBoss",
     "DialoguePosition": "LEFT",
-    "id": "2400"
+    "id": "2405"
   },
-  "2401": {
+  "2406": {
     "Index": 2,
     "StoryID": "e7_m6_battle10",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle10_03",
@@ -25761,9 +25819,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "DreamlessA_MiniBoss",
     "DialoguePosition": "RIGHT",
-    "id": "2401"
+    "id": "2406"
   },
-  "2402": {
+  "2407": {
     "Index": 3,
     "StoryID": "e7_m6_battle10",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle10_04",
@@ -25772,9 +25830,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "DreamlessA_MiniBoss",
     "DialoguePosition": "LEFT",
-    "id": "2402"
+    "id": "2407"
   },
-  "2403": {
+  "2408": {
     "Index": 4,
     "StoryID": "e7_m6_battle10",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle10_05",
@@ -25783,19 +25841,20 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "DreamlessA_MiniBoss",
     "DialoguePosition": "RIGHT",
-    "id": "2403"
+    "id": "2408"
   },
-  "2404": {
+  "2409": {
     "Index": 0,
     "StoryID": "e7_m6_exploration02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration02_01",
     "IsFullScreen": false,
     "DialogueHeader": "Common_Caretaker",
     "RightCharacterId": "GenHumanCom01M",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2404"
+    "id": "2409"
   },
-  "2405": {
+  "2410": {
     "Index": 0,
     "StoryID": "e7_m6_exploration02_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_01",
@@ -25803,9 +25862,9 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2405"
+    "id": "2410"
   },
-  "2406": {
+  "2411": {
     "Index": 1,
     "StoryID": "e7_m6_exploration02_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_02",
@@ -25813,9 +25872,9 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2406"
+    "id": "2411"
   },
-  "2407": {
+  "2412": {
     "Index": 2,
     "StoryID": "e7_m6_exploration02_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_03",
@@ -25824,9 +25883,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Worf",
     "DialoguePosition": "RIGHT",
-    "id": "2407"
+    "id": "2412"
   },
-  "2408": {
+  "2413": {
     "Index": 3,
     "StoryID": "e7_m6_exploration02_reaction01",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_04",
@@ -25835,9 +25894,9 @@
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2408"
+    "id": "2413"
   },
-  "2409": {
+  "2414": {
     "Index": 0,
     "StoryID": "e7_m6_exploration02_reaction02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_01",
@@ -25845,9 +25904,9 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2409"
+    "id": "2414"
   },
-  "2410": {
+  "2415": {
     "Index": 1,
     "StoryID": "e7_m6_exploration02_reaction02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_02",
@@ -25855,9 +25914,9 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2410"
+    "id": "2415"
   },
-  "2411": {
+  "2416": {
     "Index": 2,
     "StoryID": "e7_m6_exploration02_reaction02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_03",
@@ -25865,9 +25924,9 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2411"
+    "id": "2416"
   },
-  "2412": {
+  "2417": {
     "Index": 3,
     "StoryID": "e7_m6_exploration02_reaction02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_04",
@@ -25876,9 +25935,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "Burnham",
     "DialoguePosition": "RIGHT",
-    "id": "2412"
+    "id": "2417"
   },
-  "2413": {
+  "2418": {
     "Index": 4,
     "StoryID": "e7_m6_exploration02_reaction02",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_05",
@@ -25887,9 +25946,9 @@
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2413"
+    "id": "2418"
   },
-  "2414": {
+  "2419": {
     "Index": 0,
     "StoryID": "e7_m6_exploration02_reaction03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_01",
@@ -25897,9 +25956,9 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2414"
+    "id": "2419"
   },
-  "2415": {
+  "2420": {
     "Index": 1,
     "StoryID": "e7_m6_exploration02_reaction03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_02",
@@ -25907,9 +25966,9 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2415"
+    "id": "2420"
   },
-  "2416": {
+  "2421": {
     "Index": 2,
     "StoryID": "e7_m6_exploration02_reaction03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_03",
@@ -25917,9 +25976,9 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2416"
+    "id": "2421"
   },
-  "2417": {
+  "2422": {
     "Index": 3,
     "StoryID": "e7_m6_exploration02_reaction03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_04",
@@ -25928,9 +25987,9 @@
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "Worf",
     "DialoguePosition": "RIGHT",
-    "id": "2417"
+    "id": "2422"
   },
-  "2418": {
+  "2423": {
     "Index": 4,
     "StoryID": "e7_m6_exploration02_reaction03",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_05",
@@ -25939,9 +25998,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2418"
+    "id": "2423"
   },
-  "2419": {
+  "2424": {
     "Index": 0,
     "StoryID": "e7_m6_battle12",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle12_01",
@@ -25949,9 +26008,9 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2419"
+    "id": "2424"
   },
-  "2420": {
+  "2425": {
     "Index": 1,
     "StoryID": "e7_m6_battle12",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle12_02",
@@ -25959,9 +26018,9 @@
     "DialogueHeader": "Common_Worf",
     "LeftCharacterId": "Worf",
     "DialoguePosition": "LEFT",
-    "id": "2420"
+    "id": "2425"
   },
-  "2421": {
+  "2426": {
     "Index": 2,
     "StoryID": "e7_m6_battle12",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle12_03",
@@ -25970,9 +26029,9 @@
     "LeftCharacterId": "Worf",
     "RightCharacterId": "DreamlessB_Boss",
     "DialoguePosition": "RIGHT",
-    "id": "2421"
+    "id": "2426"
   },
-  "2422": {
+  "2427": {
     "Index": 3,
     "StoryID": "e7_m6_battle12",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle12_04",
@@ -25981,9 +26040,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "DreamlessB_Boss",
     "DialoguePosition": "LEFT",
-    "id": "2422"
+    "id": "2427"
   },
-  "2423": {
+  "2428": {
     "Index": 4,
     "StoryID": "e7_m6_battle12",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle12_05",
@@ -25992,9 +26051,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "DreamlessB_Boss",
     "DialoguePosition": "LEFT",
-    "id": "2423"
+    "id": "2428"
   },
-  "2424": {
+  "2429": {
     "Index": 5,
     "StoryID": "e7_m6_battle12",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle12_06",
@@ -26003,9 +26062,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "DreamlessB_Boss",
     "DialoguePosition": "RIGHT",
-    "id": "2424"
+    "id": "2429"
   },
-  "2425": {
+  "2430": {
     "Index": 0,
     "StoryID": "e7_m6_battle12_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle12_post_01",
@@ -26013,9 +26072,9 @@
     "DialogueHeader": "Common_DreamlessB_Boss",
     "RightCharacterId": "DreamlessB_Boss",
     "DialoguePosition": "RIGHT",
-    "id": "2425"
+    "id": "2430"
   },
-  "2426": {
+  "2431": {
     "Index": 1,
     "StoryID": "e7_m6_battle12_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle12_post_02",
@@ -26024,9 +26083,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "DreamlessB_Boss",
     "DialoguePosition": "LEFT",
-    "id": "2426"
+    "id": "2431"
   },
-  "2427": {
+  "2432": {
     "Index": 2,
     "StoryID": "e7_m6_battle12_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle12_post_03",
@@ -26035,9 +26094,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "DreamlessB_Boss",
     "DialoguePosition": "LEFT",
-    "id": "2427"
+    "id": "2432"
   },
-  "2428": {
+  "2433": {
     "Index": 3,
     "StoryID": "e7_m6_battle12_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle12_post_04",
@@ -26046,9 +26105,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "DreamlessB_Boss",
     "DialoguePosition": "RIGHT",
-    "id": "2428"
+    "id": "2433"
   },
-  "2429": {
+  "2434": {
     "Index": 4,
     "StoryID": "e7_m6_battle12_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle12_post_05",
@@ -26057,9 +26116,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "DreamlessB_Boss",
     "DialoguePosition": "RIGHT",
-    "id": "2429"
+    "id": "2434"
   },
-  "2430": {
+  "2435": {
     "Index": 5,
     "StoryID": "e7_m6_battle12_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle12_post_06",
@@ -26068,9 +26127,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "DreamlessB_Boss",
     "DialoguePosition": "RIGHT",
-    "id": "2430"
+    "id": "2435"
   },
-  "2431": {
+  "2436": {
     "Index": 6,
     "StoryID": "e7_m6_battle12_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle12_post_07",
@@ -26079,9 +26138,9 @@
     "LeftCharacterId": "Burnham",
     "RightCharacterId": "DreamlessB_Boss",
     "DialoguePosition": "RIGHT",
-    "id": "2431"
+    "id": "2436"
   },
-  "2432": {
+  "2437": {
     "Index": 7,
     "StoryID": "e7_m6_battle12_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle12_post_08",
@@ -26089,9 +26148,9 @@
     "DialogueHeader": "Common_MichaelBurnham",
     "LeftCharacterId": "Burnham",
     "DialoguePosition": "LEFT",
-    "id": "2432"
+    "id": "2437"
   },
-  "2433": {
+  "2438": {
     "Index": 8,
     "StoryID": "e7_m6_battle12_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle12_post_09",
@@ -26099,9 +26158,9 @@
     "DialogueHeader": "Common_LeonardMcCoy",
     "LeftCharacterId": "McCoy",
     "DialoguePosition": "LEFT",
-    "id": "2433"
+    "id": "2438"
   },
-  "2434": {
+  "2439": {
     "Index": 9,
     "StoryID": "e7_m6_battle12_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle12_post_10",
@@ -26109,10 +26168,11 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "GenHumanCom01M",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2434"
+    "id": "2439"
   },
-  "2435": {
+  "2440": {
     "Index": 10,
     "StoryID": "e7_m6_battle12_post",
     "DialogueBody": "Data_GSCutSceneDialogue_e7_m6_battle12_post_11",
@@ -26120,7 +26180,8 @@
     "DialogueHeader": "Common_Caretaker",
     "LeftCharacterId": "McCoy",
     "RightCharacterId": "GenHumanCom01M",
+    "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
-    "id": "2435"
+    "id": "2440"
   }
 }

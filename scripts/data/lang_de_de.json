@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 1,
-    "m_PathID": "1277"
+    "m_FileID": 0,
+    "m_PathID": "-1649100671315775696"
   },
   "m_Name": "lang_de_de",
   "List": [
@@ -712,7 +712,7 @@
     },
     {
       "key": "Alliance_Name_First_48",
-      "value": "Gareks"
+      "value": "Garaks"
     },
     {
       "key": "Alliance_Name_First_49",
@@ -1243,6 +1243,10 @@
       "value": "SPRACHE WÄHLEN"
     },
     {
+      "key": "Choose_Quality_Header",
+      "value": "Qualität auswählen"
+    },
+    {
       "key": "Common_AccessoriesSortingType_Equipped",
       "value": "Ausgerüstet"
     },
@@ -1523,6 +1527,10 @@
       "value": "Degradieren"
     },
     {
+      "key": "Common_Details",
+      "value": "Details"
+    },
+    {
       "key": "Common_Dilithium",
       "value": "Dilithium"
     },
@@ -1623,6 +1631,10 @@
       "value": "DEAKTIVIEREN"
     },
     {
+      "key": "Common_ExplorationOptionType_Disarm",
+      "value": "ENTWAFFNEN"
+    },
+    {
       "key": "Common_ExplorationOptionType_Eject",
       "value": "AUSWERFEN"
     },
@@ -1683,6 +1695,10 @@
       "value": "UNTERSUCHEN"
     },
     {
+      "key": "Common_ExplorationOptionType_Jump",
+      "value": "SPRINGEN"
+    },
+    {
       "key": "Common_ExplorationOptionType_Leave",
       "value": "NICHT WEITER UNTERSUCHEN"
     },
@@ -1721,6 +1737,10 @@
     {
       "key": "Common_ExplorationOptionType_Power",
       "value": "STROM"
+    },
+    {
+      "key": "Common_ExplorationOptionType_Protect",
+      "value": "SCHÜTZEN"
     },
     {
       "key": "Common_ExplorationOptionType_Quick",
@@ -2596,7 +2616,7 @@
     },
     {
       "key": "Common_Tag_Kelpien",
-      "value": "Kelpianer"
+      "value": "Kelpiener"
     },
     {
       "key": "Common_Tag_Klingon",
@@ -2729,6 +2749,10 @@
     {
       "key": "Common_ValosComputer",
       "value": "Talos-Computer"
+    },
+    {
+      "key": "Common_View",
+      "value": "Ansicht"
     },
     {
       "key": "Common_Vulcan",
@@ -2988,7 +3012,7 @@
     },
     {
       "key": "Data_Character_Saru_description",
-      "value": "Saru ist ein Kelpianer, eine außerirdische Spezies mit der einzigartigen Fähigkeit, Gefahren zu spüren. Er ist der erste seiner Art in der Sternenflotte. Dank seines Einsatzes und seiner Fähigkeiten wurde er zum Ersten Offizier der USS Discovery."
+      "value": "Saru ist ein Kelpiener, eine außerirdische Spezies mit der einzigartigen Fähigkeit, Gefahren zu spüren. Er ist der erste seiner Art in der Sternenflotte. Dank seines Einsatzes und seiner Fähigkeiten wurde er zum Ersten Offizier der USS Discovery."
     },
     {
       "key": "Data_Character_Scott_description",
@@ -11183,6 +11207,1834 @@
       "value": "Zurückgelassene Vorräte …"
     },
     {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_01",
+      "value": "Vor uns: Die Phantome, denen wir zuvor begegnet sind."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_02",
+      "value": "Das muss bedeuten, dass die Traumlosen bereits hier sind. Kommen wir zu spät?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_03",
+      "value": "Diese Struktur scheint noch zu funktionieren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_04",
+      "value": "Sie zu deaktivieren wäre eine unglaublich komplizierte Aufgabe."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_05",
+      "value": "Wir können nur hoffen, dass wir noch genug Zeit haben."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_06",
+      "value": "Kümmern wir uns zuerst um die hier."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_01",
+      "value": "Noch mehr von diesen von den Traumlosen gesteuerten „Phantomen“!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_02",
+      "value": "<i>*Unheimliches Geschrei*</i>"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_03",
+      "value": "Sie suchen nach uns … Die Traumlosen müssen wissen, dass wir hier sind."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_01",
+      "value": "Ihr müsst die Humanoiden sein, denen meine Verbündeten begegnet sind."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_02",
+      "value": "Wir verstehen zwar, dass ihr eure eigenen Beweggründe habt, aber ihr kämpft einen aussichtslosen Kampf. Wir verstehen die Funktionsweise des Nexus seit Äonen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_03",
+      "value": "Die Zerstörung des Nexus ist unannehmbar. Dadurch werden all diese Leben ausgelöscht … Sind es tausende? Millionen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_04",
+      "value": "Zahlreiche Leben, die längst beendet sind, wie es das Universum vorsieht. Sie sollten nicht in der Idee einer Utopie eines anderen gefangen und ihr ausgesetzt sein. Wir sind nicht die Monster, für die ihr uns haltet."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_05",
+      "value": "Ihr behauptet, all diese Leben von den Machenschaften eines anderen zu befreien, nur um dann selbst über ihr Schicksal zu bestimmen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_06",
+      "value": "Gut gesagt, Michael!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_07",
+      "value": "Wir haben keine Zeit, um mit euch philosophische Gespräche zu führen. Bitte entfernt euch oder wir sind gezwungen, euch zu eliminieren!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_post_01",
+      "value": "Ihr seid eine widerstandsfähige Spezies, aber ihr habt euch nur ein paar Stunden Zeit verschafft. Diese Realitätsmaschine wird abgeschaltet."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_01",
+      "value": "Der Weg vor uns scheint irgendwie abgeschirmt zu sein. So etwas habe ich noch nie gesehen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_02",
+      "value": "Wenn man bedenkt, wie fortschrittlich diese Technologie ist, dann bezweifle ich, dass unsere Phaser daran viel ausrichten werden. Könnte uns die <i>Artemis</i> hinüberbeamen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_03",
+      "value": "Wir sollten angesichts der übermächtigen Energien in diesem Raum den Transporter nicht öfter als nötig benutzen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_04",
+      "value": "Ja, ich ziehe es vor, einen Transporterunfall zu vermeiden, der mich den Rest meines Lebens als Mr. Worfs siamesischen Zwilling verbringen lassen würde. Also … Irgendwelche Vorschläge?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_01",
+      "value": "Die Reaktoren … Sie haben uns hierhergebracht. Könnten sie als Schlüssel benutzt werden, um tiefer in die Struktur zu gelangen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_02",
+      "value": "Das sollte funktionieren!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_03",
+      "value": "Ein exzellenter Vorschlag, Michael."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction02_01",
+      "value": "Ich würde meinen letzten Dollar darauf wetten, dass es einen anderen Weg gibt. Was soll’s? Arbeiten wir uns einfach weiter durch diese Hallen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_01",
+      "value": "Interessant. Dies könnte eine Art Zustandskammer sein."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_02",
+      "value": "Ich sehe da drin mehrere Container. Das könnten Vorräte sein."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_03",
+      "value": "Milch und Kekse für uns „Nexus-Ingenieure“?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_04",
+      "value": "Doktor! Dieser Gedanke fühlt sich nahezu … frevelhaft an."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction01_01",
+      "value": "Ich versuche, die Reaktoren zu benutzen, um Zugang zu erlangen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction02_01",
+      "value": "Ich glaube, wir sollten es vermeiden, die Reaktoren zum Öffnen dieses Sesams zu benutzen. Wir verstehen die Technologie noch nicht ganz …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction02_02",
+      "value": "Sie haben nicht ganz Unrecht. Wir wollen ja keine Verteidigungsmechanismen auslösen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_01",
+      "value": "Auf der Plattform da oben befinden sich noch mehr Vorräte."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_01",
+      "value": "Ich glaube, ich könnte auf die Plattform springen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_02",
+      "value": "Springen? Haben Sie Ihren Klingonenverstand verloren? Das ist viel zu hoch!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_03",
+      "value": "Haben Sie Vertrauen, Doktor! Den Sprung sollte ich schaffen können."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_04",
+      "value": "Haben SIE doch Vertrauen. Alles, was ich brauche, ist eine medizinische Ausbildung, um die gebrochenen Knochen zu behandeln, die aus Ihrem bevorstehenden Sturz resultieren werden!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_01",
+      "value": "Glauben Sie, wir schaffen es da rauf?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_02",
+      "value": "Meiner professionellen Meinung nach können und sollten wir das nicht."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_03",
+      "value": "Nicht mit der Einstellung, Doktor. Na schön."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_01",
+      "value": "Dieser Ort erinnert mich an klingonische Geschichten, die ich in meiner Jugend gehört habe. Die Hallen von Sto-Ko-Vor, in denen Krieger bis in alle Ewigkeit kämpfen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_02",
+      "value": "Also eine Art Walhalla?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_03",
+      "value": "Blutiger."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_04",
+      "value": "Reizend."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_05",
+      "value": "Apropos … Scheinbar haben wir gleich ein Problem!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_01",
+      "value": "Dieser Ort übertrifft alles, was ich je gesehen habe."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_02",
+      "value": "Höre ich da Ehrfurcht in Ihrer Stimme, Doktor?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_03",
+      "value": "Denken Sie drüber nach."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_04",
+      "value": "Es erinnert mich an das Holodeck auf meiner <i>Enterprise</i>. Es erzeugt detailreiche realistische Simulationen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_05",
+      "value": "Ich wünschte, die <i>Discovery</i> hätte so etwas! Ähnelte die Erfahrung dem, was wir in den Sphären gesehen haben?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_06",
+      "value": "Nein. Holodeck-Simulationen waren eher so wie … Fantasien. Viele davon waren amüsante Kleinigkeiten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_07",
+      "value": "Es ist eher ungewöhnlich, dass sie sich so anfühlen wie die verzehrenden Realitäten, die wir in den Sphären erlebt haben."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_08",
+      "value": "„Verzehrend“ – das klingt so, wie die Traumlosen die Erfahrung des Nexus bezeichnen würden. Sie empfinden sie eher als Gefängnis statt einer Fantasie …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_01",
+      "value": "Also wandern wir einfach weiter durch diese Hallen oder …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_02",
+      "value": "Wenn wir stören dürfen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_03",
+      "value": "Hinter Ihnen! Es ist … Ich bin mir nicht sicher, was das ist."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_04",
+      "value": "Man nennt uns „X’ytakii“ oder in ihrer Sprache „Die Fürsorger“. Wir sind eine von mehreren Haupt-KIs, die die Funktionen dieser Realitätsmaschine steuern."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_05",
+      "value": "Unsere Scans zeigen, dass Sie sechs Reaktoren besitzen und Sie scheinen entschlossen, diese Struktur zu verteidigen. Ist unsere Einschätzung zutreffend?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_06",
+      "value": "Nun, wir versuchen, diese sogenannten Traumlosen davon abzuhalten, den Nexus zu destabilisieren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_07",
+      "value": "Das ist die Aufgabe eines „Ingenieurs“. Sie wurden jedoch nicht als Ingenieure ausgebildet, und wir sind nicht in der Lage, Ihnen Befugnisse und Werkzeuge zur Verfügung zu stellen, um die Realitätsmaschine zu reparieren und die Eindringlinge abzuwehren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_08",
+      "value": "Nun, wir würden das aber gerne tun."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_09",
+      "value": "Sie können die für jeden Ingenieur vorgeschriebene Prüfung absolvieren, aber ohne die richtige Ausbildung werden Sie es wahrscheinlich nicht schaffen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_10",
+      "value": "Und wenn das so ist?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_11",
+      "value": "Dann erhalten Sie nicht den entsprechenden Status und können die Maschine nicht versiegeln. Und somit wird das Konstrukt und die Sphären, die es verbindet, in etwa 3.567 Ihrer terranischen Stunden ausfallen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_12",
+      "value": "Sie lassen uns nicht wirklich eine Wahl!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_01",
+      "value": "Stopp! Hier kommst du nicht vorbei, Formwandlerabschaum!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_02",
+      "value": "Formwandler … was? Wir sind keine …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_03",
+      "value": "Ich glaube nicht, dass sie in der Stimmung sind, zuzuhören, Doktor!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_01",
+      "value": "Hören Sie Phaserfeuer da vorne?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_02",
+      "value": "Sie haben recht. Da drüben! Anscheinend kämpfen die Cardassianer gegen Sternenflotten-Offiziere!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_03",
+      "value": "Ich glaube, es ist offensichtlich, dass es keine wirklichen Sternenflotten-Offiziere sind. Eher noch mehr Formwandler."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_04",
+      "value": "Sind Sie sicher, Doktor?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_05",
+      "value": "Vertrauen Sie mir einfach, Mr. Worf. Der alter „Pille“ McCoy weiß, was er tut."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_06",
+      "value": "Woher wollen Sie das wissen, Doktor?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_07",
+      "value": "Ihre Körpersprache, die Unbeholfenheit ihrer Bewegungen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_08",
+      "value": "Ich vertraue hier auf Ihre Analyse, Doktor. Machen wir weiter."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_01",
+      "value": "Sternenflotten-Offiziere, hier drüben!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_02",
+      "value": "Moment. Sie sind jetzt in Sicherheit."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_01",
+      "value": "Hier sind wir ungeschützt. Mal sehen, ob wir dieses Runabout zum Laufen bringen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_02",
+      "value": "Was sagt eure Art nochmal? „Keine gute Tat bleibt ungestraft.“ Sterbt!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_03",
+      "value": "Ihr seid Formwandler! Wisst ihr, die Cardassianer haben überall nach euch gesucht!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_01",
+      "value": "Einige von ihnen scheinen schwer verletzt zu sein. Wir müssen uns zuerst um ihre Verletzungen kümmern, bevor wir etwas anderes tun!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_02",
+      "value": "Sehr freundlich von Ihnen, medizinische Person."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_03",
+      "value": "Das ist eine merkwürdige Bezeichnung für einen Doktor …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_04",
+      "value": "Man, bist du schlau! Vernichtet sie!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_05",
+      "value": "Ihr seid Formwandler! Wisst ihr, die Cardassianer haben überall nach euch gesucht!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_01",
+      "value": "Schauen Sie sich um. Vielleicht gibt es etwas im Runabout, mit dem wir ihnen helfen können."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_02",
+      "value": "Gute Idee. Hier drüben sind ein paar Vorräte."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_03",
+      "value": "Ihr Sternenflotten-Ratten wollt unser Zeug klauen?!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_04",
+      "value": "„Sternenflotten-Ratten“ … Moment, seid ihr nicht …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_05",
+      "value": "Ihr seid Formwandler! Wisst ihr, die Cardassianer haben überall nach euch gesucht!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_01",
+      "value": "Anscheinend hat da jemand Vorräte liegen lassen. Wir könnten Vorräte gebrauchen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_01",
+      "value": "Es könnte nicht schaden, kurz nachzusehen …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_02",
+      "value": "Auf sie!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_03",
+      "value": "Oder … es KÖNNTE schaden! Das ist ein Formwandlerhinterhalt!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_01",
+      "value": "Jemand hat einfach so wertvolle Vorräte mitten auf dem Weg liegen lassen? Haben wir jemals so viel Glück?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_02",
+      "value": "Der Doktor hat ein gutes Argument."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_03",
+      "value": "Manchmal ist eine Falle einfach zu offensichtlich …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_01",
+      "value": "Was ist das? Befinden wir uns in einer Sphäre?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_02",
+      "value": "Sie befinden sich immer noch in der Realitätsmaschine, aber es liegt innerhalb unserer Parameter, Umgebungen zu erstellen, in denen Sie getestet werden können."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_03",
+      "value": "Der Fürsorger hat die Gestalt von Captain Sisko angenommen …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_04",
+      "value": "Für diesen Unsinn haben wir keine Zeit, Mann! Sie sagten gerade, es stünden Leben auf dem Spiel!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_05",
+      "value": "Korrekt. Es wird empfohlen, dass Sie sich beeilen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_06",
+      "value": "Ich empfehle Ihnen, sich zu beeilen und uns zu erklären, was wir tun müssen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_07",
+      "value": "In der Untersuchung Ihrer Erinnerungen haben wir festgestellt, dass die Spezies in Ihrem Quadranten bestimmte Eigenschaften schätzen, die mit der Rolle eines Ingenieurs übereinstimmen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_08",
+      "value": "Die erste davon ist Glauben, wie es von Ihrem Captain Sisko demonstriert wurde."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_09",
+      "value": "Wollen Sie … dass wir beten?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_10",
+      "value": "Sie missverstehen uns. Mit Glauben meinen wir nicht den Glauben an ein allgegenwärtiges Wesen, sondern an Ihr Ziel und Ihre Fähigkeiten sowie an die Ihrer Ingenieurskollegen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_11",
+      "value": "Es war der Glaube an etwas Größeres, der es den ursprünglichen Ingenieuren ermöglichte, diesen Ort zu erschaffen, und so wurde er zu einer Grundvoraussetzung für jeden Ingenieur, der danach kam."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_12",
+      "value": "Irgendwo in diesem Bereich erwartet Sie ein Portal – ein Ausgang zur nächsten Prüfung."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_13",
+      "value": "Doch Vorsicht, nichts, was Sie sehen, ist das, was es zu sein scheint. Nur der Glaube an Ihr Ziel wird Sie ans Ziel führen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_01",
+      "value": "Das ist der Fürsorger."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_02",
+      "value": "Wir empfanden eine gewisse Neugier, wie es Ihnen ergeht."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_03",
+      "value": "Erlauben Sie mir Ihre Neugier zu stillen: Wir befinden uns inmitten eines Krieges zwischen Cardassianern und Formwandlern, und beide Seiten werden sehr schießwütig, sobald sie uns sehen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_04",
+      "value": "Eine unmögliche Situation, wir sind ganz Ihrer Meinung. Anscheinend besteht der einzige Ausweg darin, umzukehren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_05",
+      "value": "Umzukehren? Offensichtlich wissen Sie nicht viel über die Sternenflotte!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_01",
+      "value": "Das muss das Portal sein, das der Fürsorger erwähnt hat!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_02",
+      "value": "Das ist es. Sie haben mit Ihrer Leistung unsere Erwartungen übertroffen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_03",
+      "value": "Sie haben eine unmögliche Situation gemeistert, um Ihr Ziel zu erreichen, und haben dabei auf die Fähigkeiten Ihres Verbündeten vertraut."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_04",
+      "value": "Dieser Glaube ist bewundernswert, aber er kann einen Menschen auch blind machen. Sie scheinen jedoch nicht durch Gier oder Machtgelüsten getrieben zu sein."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_05",
+      "value": "Also? Haben wir eure Prüfung bestanden?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_06",
+      "value": "Ja, den ersten Teil. Es gibt mehrere."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_07",
+      "value": "… natürlich gibt es die."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_01",
+      "value": "Moment. Die Scans weisen auf Bewegungen weiter vorn. Viel Bewegung."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_02",
+      "value": "Wir sind Borg. Ihr werdet assimiliert. Widerstand ist zwecklos."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_03",
+      "value": "Uff, können sie keine … neue Form der Begrüßung ausrechnen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_04",
+      "value": "Vielleicht könnten Sie sich den Sarkasmus für einen etwas weniger heiklen Moment aufheben, Doktor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_01",
+      "value": "In diesem Bereich scheint es keine Aktivitäten zu geben. Er sollte sicher genug sein, um fortzufahren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_02",
+      "value": "Moment, das ist ein Hinterhalt! Ich muss dahinten den Alarm ausgelöst haben!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_03",
+      "value": "Ihr werdet assimiliert. Widerstand ist zwecklos."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_01",
+      "value": "Sehen Sie die Silhouette da vorne?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_02",
+      "value": "Das ist die Borg-Königin!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_03",
+      "value": "Ihr werdet … assimiliert. Widerstand ist zwecklos."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_01",
+      "value": "Seltsam. Ich bin mir sicher, dass das die Königin war, aber sie klang nicht ganz so wie die, die wir zuvor getroffen hatten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_02",
+      "value": "Ich weiß nicht. Für mich hört sich das wie die Borg-Sprache der Königin an!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_03",
+      "value": "Vielleicht ein Ersatzkörper? Oder einer von mehreren, in den sie ihr Bewusstsein übertragen kann?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_04",
+      "value": "Kann man nicht wissen …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_01",
+      "value": "Ich heiße Sie alle herzlich willkommen. So weit weg von Zuhause."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_02",
+      "value": "Eine weitere Borg-Königin! Obwohl diese hier etwas … echter klingt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_03",
+      "value": "Eine weitere? Wir sind Borg. Nicht mehr, nicht weniger. Alle Körper sind Erweiterungen unseres Willens."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_04",
+      "value": "Selbst die euren. Nicht wahr, Locutus?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_05",
+      "value": "Ja. Ihr werdet vor der geballten Kraft des Kollektivs assimiliert."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_06",
+      "value": "Heute kämpfen wir für ein größeres, wertvolleres Kollektiv, und Ihr werdet uns nicht im Weg stehen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_01",
+      "value": "Wir haben es geschafft! Also, wo ist unsere Prüfung, Mister?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_02",
+      "value": "Wir sind da. Und wir gratulieren Ihnen zu Ihrer Entschlossenheit."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_03",
+      "value": "Obwohl Ihnen mehrfach angeboten wurde, diesen Ort zu verlassen, haben Sie sich immer dafür entschieden, weiterzumachen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_04",
+      "value": "Sind wir jetzt in Sicherheit? Sind die Prüfungen vorbei?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_05",
+      "value": "Für diesen Moment sind Sie außer Gefahr, aber zwei weitere Prüfungen stehen bevor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_01",
+      "value": "Sind wir verloren?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_02",
+      "value": "Sind wir das jemals nicht?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_03",
+      "value": "Touché, Michael."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_04",
+      "value": "Halten wir einen Moment lang inne. Ich kann versuchen, auf diesen Knoten zuzugreifen und eine Umleitung für uns finden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_01",
+      "value": "Hatten Sie Erfolg?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_02",
+      "value": "Mein Tricorder zeigt einen Pfad an, aber zur gleichen Zeit erschien ein anderes Signal."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_03",
+      "value": "Sollten wir uns Sorgen machen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_04",
+      "value": "Vielleicht nicht, es scheint aufgehört zu haben."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction02_01",
+      "value": "Ich habe das Gefühl, dass wir besser dran sind, wenn wir blind herumlaufen, als in ihrem System rumzustochern."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction02_02",
+      "value": "Das scheint sie zu irritieren!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_01",
+      "value": "Dort drüben ist eine Alkove, die sich auflädt. Ungewöhnlich."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_02",
+      "value": "Die Scans zeigen eine beträchtliche Menge an Energie, die durch sie hindurchfließt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_03",
+      "value": "Sie könnte mit dem Borg-Netzwerk verbunden sein. Es lohnt sich, das zu untersuchen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_01",
+      "value": "Ich benutzte meinen Tricorder und überlaste sie …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_02",
+      "value": "Sie verschiebt sich. Sieht sie aus, als würde sie angehoben werden?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_03",
+      "value": "Wahrscheinlich ein automatisches System, das sie zur Reparatur wegbringt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_04",
+      "value": "Schauen wir mal, was sich dahinter verbirgt, bevor das System eine neue Ladestation an ihre Stelle setzt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction02_01",
+      "value": "Lassen wir sie da und vermeiden die Möglichkeit, entdeckt zu werden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction02_02",
+      "value": "Ganz meine Meinung."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_01",
+      "value": "Ich glaube, ein paar der Verkleidungen hier sind lose …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_02",
+      "value": "Gut beobachtet. Vielleicht können wir sie aufbrechen und nachsehen, ob sich dort etwas verbirgt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction01_01",
+      "value": "Ich hab’s!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction02_01",
+      "value": "Wollen Sie bei dem hohen Einsatz Mechaniker spielen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction02_02",
+      "value": "Der Doktor hat nicht unrecht. Gehen wir weiter."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_01",
+      "value": "Wo sind wir jetzt? Das sieht nach einem Borg-Kubus aus."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_02",
+      "value": "Uff, bitte, nicht noch mehr Borg."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_03",
+      "value": "Das ist Ihre zweite Prüfung."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_04",
+      "value": "Sie erscheinen uns jetzt als Captain Janeway. Gibt dafür einen Grund?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_05",
+      "value": "In Ihrer Zeit war Captain Janeway für ihre legendäre Reise bekannt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_06",
+      "value": "Sieben Jahre lang reisten der Captain und ihre Crew von der gegenüberliegenden Seite des Delta-Quadranten zur Erde zurück. Solch eine Entschlossenheit."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_07",
+      "value": "Sie repräsentiert auf angemessene Art Ihre nächste Prüfung: Die Prüfung des Willens."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_08",
+      "value": "Der Fürsorger hat sich in Luft aufgelöst … Ein Borg-Kubus, eine „Prüfung des Willens“. Ich befürchte, dass wir um jeden Zentimeter des Weges kämpfen müssen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_01",
+      "value": "Ich bin erschöpft. Ich muss mich kurz ausruhen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_02",
+      "value": "Es wäre gut, wenn Sie auf den Arzt hören würden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_03",
+      "value": "Argh! Könnten Sie sich bitte einmal vor uns materialisieren, statt ständig hinter uns?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_04",
+      "value": "Wir bitten um Entschuldigung. Wir versuchen nur, einen Rat zu geben."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_05",
+      "value": "Unserer Berechnung nach haben Sie bis jetzt bei Ihrer Suche nach dem Portal lediglich 0,00001 % des Borg-Kubus erforscht."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_06",
+      "value": "Die Realitätsmaschine wird bald zusammenbrechen, und sollten Sie hier drin sein, während das passiert, werden Sie sterben."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_07",
+      "value": "Wir können Sie in Sicherheit bringen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_08",
+      "value": "Wenn die Realitätsmaschine versagt, versagen auch die Sphären und alle, die sich darin befinden!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_09",
+      "value": "Wir glauben, Sie unterschätzen die Größe des Nexus. Er wird von vielen Maschinen aufgebaut."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_10",
+      "value": "Aber jede von ihnen – genau wie diese eine – ist für eine Vielzahl von Sphären verantwortlich, richtig? Und alle verbundenen Sphären werden versagen, wenn wir jetzt aufgeben."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_11",
+      "value": "Das ist korrekt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_12",
+      "value": "Und der Nexus wird weiter verfallen und all die zerstörerischen Risse verursachen, die unser Universum – außerhalb des Nexus – bedrohen …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_13",
+      "value": "Und wieder – korrekt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_14",
+      "value": "Dann machen wir weiter."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_15",
+      "value": "Wie Sie wünschen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_16",
+      "value": "Er ist weg."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_17",
+      "value": "Ich bin beeindruckt, Doktor. Ich dachte noch eben, Sie wären erschöpft."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_18",
+      "value": "Das bin ich immer noch. Aber wir sind hier, um Leben zu retten, und nicht, um uns über ein paar Wehwehchen zu beschweren!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_01",
+      "value": "Ihre zarte Form scheint zunehmend zu verwittern."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_02",
+      "value": "Wir schätzen, dass Sie nicht mehr viel davon ertragen können. Wir empfehlen eine unverzügliche Abreise."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_03",
+      "value": "Hah! Gab Kahless die Jagd nach seinem Bruder, Morath, auf? Nein, er jagte ihn über den Berg und durch das Tal, um seiner Ehre und der Ehre seines Vaters willen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_04",
+      "value": "Und genau so werden wir uns durch diesen Ort kämpfen und auf der anderen Seite triumphierend hervorgehen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_01",
+      "value": "Klingonen, da vorne. Eine Menge davon!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_02",
+      "value": "Können Sie mit ihnen kommunizieren, Worf? Ihnen sagen, sie sollen sich zurückhalten?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_03",
+      "value": "bIjeghbe'chugh vaj bIHegh!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_04",
+      "value": "Hoch jagh Heghjaj!!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_05",
+      "value": "Ich muss kein Klingonisch können, um zu erraten, dass das nicht gut ankam."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_06",
+      "value": "Sie sind … nicht verhandlungsbereit."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_post_01",
+      "value": "Sie ziehen sich zurück. Fürs Erste sind wir sicher."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_01",
+      "value": "Noch mehr Klingonen! Eine ganze Schwadron!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_02",
+      "value": "Die Föderation besitzt also … ein klingonisches Haustier …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_03",
+      "value": "Wie kannst du es wagen?! Ich bin niemandes Schoßhund! Ich bin ein Krieger!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_04",
+      "value": "Ja! Und jetzt ist er wütend. Er ist nicht sehr angenehm, wenn er wütend ist!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_01",
+      "value": "Kommen da noch mehr?! Es sind endlos viele."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_02",
+      "value": "Das Leuchtfeuer von Kahless ist ein heiliges Relikt, das angeblich von Kahless selbst angefertigt wurde, um die vierundzwanzig großen Häuser zu vereinen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_03",
+      "value": "Für einen Klingonen ist die bloße Anwesenheit eines Fremden am Leuchtfeuer ein Hochverbrechen – eine Abscheulichkeit."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_04",
+      "value": "Aber es war ein Fehler! Das haben sie zugegeben."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_05",
+      "value": "Obwohl sich meine Werte mit denen der Föderation decken, spüre ich doch instinktiv, wie mein Blut angesichts dieses Verstoßes kocht."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_06",
+      "value": "Ich verstehe natürlich die Logik, aber das sollte eine Vorstellung davon geben, wie schwer das für einen Klingonen ist."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_07",
+      "value": "In Ihrer Zeit, Michael, zog unsere Spezies wegen des Relikts in den Krieg. Wundert es Sie, dass die Klingonen so heftig kämpfen, um die Crew zu bestrafen? Sie werden nicht nachgeben."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_01",
+      "value": "Ich empfange noch Hunderte weiterer Biosignale, die sich in Richtung unserer Position bewegen. Wir müssen uns zurückziehen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_02",
+      "value": "Hm. Ich dachte, Sie würden dafür plädieren, dass wir bleiben und kämpfen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_03",
+      "value": "Wie Kahless selbst einmal sagte: „Der Wind respektiert keinen Narren.“"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_01",
+      "value": "Wir sind nah dran."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_02",
+      "value": "Ich entdecke vor uns massenhaft klingonische Biosignaturen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_03",
+      "value": "Sie müssen uns in den Weg gestellt worden sein, um den Reaktor zu bewachen, den ich aufgespürt habe."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_04",
+      "value": "Hu’tegh! Und sie sind nicht alleine. Einer von ihnen trägt die zeremonielle Ausrüstung des Fackelträgers."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_05",
+      "value": "Der klingonische Champion, der das Leuchtfeuer von Kahless verteidigt. Ich bin einem … begegnet."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_06",
+      "value": "Und Sie sind sicher, dass Sie nicht einfach von hier aus auf den Reaktor zugreifen können?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_07",
+      "value": "…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_08",
+      "value": "Hmpf. Anscheinend nicht."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_01",
+      "value": "Wir befinden uns genau über der Quelle des Signals. Ich kann meinen Tricorder in Kombination mit unseren Reaktoren benutzen, um darauf zuzugreifen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_02",
+      "value": "Das Gerät, das die Realität, in der wir uns befinden, mit Energie versorgt, hat definitiv nicht die Größenordnung der Reaktoren, die die Sphären versorgen. Das sind gute Nachrichten!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_03",
+      "value": "Haben Sie also eine Idee, wie man dieses Szenario so umprogrammiert, dass man es gewinnen kann?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_04",
+      "value": "Ich glaube nicht, dass wir es „gewinnen“ müssen. Unser Ziel war immer, das Portal zu finden. Es ist zwar erschienen, als wir „gewonnen“ hatten, aber in diesem Fall … warum lassen wir es nicht einfach erscheinen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_05",
+      "value": "Das ist brillant, Michael!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_06",
+      "value": "Ein Portal in Sicht!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_01",
+      "value": "Da! Verletzte Crewmitglieder, da vorne!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_02",
+      "value": "Ich … halte mich zurück und überlasse das Ihnen. Die Anwesenheit eines Klingonen könnte die Dinge eskalieren lassen …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_03",
+      "value": "Wir sind hier, um zu helfen! Geht es Ihnen gut?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_04",
+      "value": "Ich … ja. Gerade noch. Wer seid ihr? Ich erkenne eure Uniformen nicht."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_05",
+      "value": "Wir sind von der <i>USS Artemis</i>. Was ist hier geschehen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_06",
+      "value": "Sie sind ein willkommener Anblick, wir befinden uns in einer Notlage."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_07",
+      "value": "Unsere Route führte uns in die Nähe des Leuchtfeuers von Kahless."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_08",
+      "value": "Das Leuchtfeuer ist ein heiliges Relikt des klingonischen Reiches. Was haben Sie sich gedacht, sich ihm zu nähren?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_09",
+      "value": "Es war ein Fehler! Wir hatten keine Ahnung, was es war … Aber sie bezichtigen uns der Aggression und des Versuchs, ihr Heiligtum zu entweihen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_10",
+      "value": "Sie erklärten, dass jeder an Bord zum Tode verurteilt wurde!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_01",
+      "value": "Nun, das können wir nicht zulassen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_02",
+      "value": "Wir müssen diese Leute in Sicherheit bringen. Können Sie sie transportfertig machen, Doktor?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_03",
+      "value": "Ich versuche es. Geben Sie mir Deckung, während ich sie verarzte!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction02_01",
+      "value": "Klingonen sind hier!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction02_02",
+      "value": "Also treiben wir sie zurück. Danach können wir uns um die Verwundeten kümmern."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_01",
+      "value": "Ich habe ähnliche Werte wie beim Reaktor gefunden. Sie sind definitiv nicht so umfangreich, also ist diese Realität vielleicht nicht so groß wie eine tatsächliche Sphäre."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_02",
+      "value": "Prüfen wir also Ihre Reaktor-Theorie! Burnham, meinen Sie, Sie können diese Tür „wegprogrammieren“?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_01",
+      "value": "Ja! Ich kann meinen Tricorder in Kombination mit unseren Reaktoren benutzen …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_02",
+      "value": "Ich greife auf die unterliegende Struktur dieser „Realität“ zu. Das ist kompliziert, aber … warten Sie einen Augenblick."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_03",
+      "value": "Die Tür ist verschwunden!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_04",
+      "value": "Unglaublich."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_05",
+      "value": "Ich muss aber näher an der Quelle des Signals sein, um etwas Anspruchsvolleres als das zu machen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction02_01",
+      "value": "Wir sollten keine Zeit und keine mögliche Reaktorleistung verschwenden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction02_02",
+      "value": "Mr. Worf, Sie sind ein hervorragender Krieger und loyaler Verbündeter. Aber Sie, Sir, sind nicht lustig."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_01",
+      "value": "Faszinierend! Wir befinden uns anscheinend auf einem Föderationsschiff. Die Scans zeigen Schäden auf mehreren Decks."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_02",
+      "value": "Ein Angriff?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_03",
+      "value": "Ich erhalte ein durcheinander an Nachrichten. Anscheinend haben Klingonen das Schiff geentert und die Kontrolle über wichtige Bereiche übernommen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_04",
+      "value": "Ich habe die Erfahrung gemacht, dass es generell sicherer ist, wenn Klingonen ihre Finger von Sternenflottenschiffen lassen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_05",
+      "value": "Die Anwesenden sind natürlich ausgenommen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_06",
+      "value": "Hmpf."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_07",
+      "value": "Und das ist die Art Ihrer Prüfung."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_08",
+      "value": "Jim?! Moment … Sie sind der Fürsorger."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_09",
+      "value": "Diese Prüfung spiegelt die Werte wider, die Ihr Freund in Hülle und Fülle besitzt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_10",
+      "value": "Leichtsinn? Den Willen, uns alle in ein dummes Abenteuer zu verwickeln?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_11",
+      "value": "Vor Ihnen liegt die Prüfung der List. Sie haben die Bereitschaft bewiesen, an Ihr Ziel zu glauben und trotz aller Widrigkeiten durchzuhalten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_12",
+      "value": "Doch manche Hindernisse können nicht einfach so überwunden werden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_13",
+      "value": "Finden Sie das Portal und das Ende dieser Prüfung."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_14",
+      "value": "Und er ist weg. Hilfreich wie immer."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_01",
+      "value": "Das scheint unmöglich. Das ist ein normaler … das ist der Kobayashi-Maru!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_02",
+      "value": "Der Test aus der Akademie?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_03",
+      "value": "Ganz genau. Ich gehe davon aus, dass Sie ihn beide abgelegt haben?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_04",
+      "value": "Ich habe es. Und wie jeder andere Kadett auch, bin ich jedes Mal durchgefallen. Ich war wütend, als ich herausfand, dass es ein auswegloses Szenario war."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_05",
+      "value": "Entweder retten Sie die Crew und lösen einen Krieg mit dem klingonischen Reich aus oder Sie überlassen sie dem Tod."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_06",
+      "value": "Auch dieses Szenario ist zum Scheitern verurteilt. Mein Volk wird hier nicht nachgeben. Wir überleben ihren Ansturm nicht, und wenn wir gehen, werden diese Leute sterben …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_07",
+      "value": "Aber die Sache ist die: Zu meiner Zeit HAT Captain Kirk den Kobayashi-Maru-Test geschlagen. In guter alter Jim-Manier wurde er … kreativ: Er schlich sich vor dem Test ein und programmierte den Computer um."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_08",
+      "value": "Wir sollten also eine Scheibe von Captain Kirk abschneiden und … schummeln."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_09",
+      "value": "Aber wie? Es gibt keinen Computer, auf den wir Zugriff haben …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_10",
+      "value": "Diese Realität funktioniert wahrscheinlich wie die anderen Sphären. Sie läuft wahrscheinlich auf einem Reaktor oder einem ähnlichen Gerät. Wir finden es und ändern seine Programmierung."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_11",
+      "value": "Aber wir sind noch keine „Ingenieure“. Wir können die Technologie des Nexus nicht beeinflussen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_12",
+      "value": "Ich habe keine Lust mehr, auf die Erlaubnis eines Hologramms zu warten. Jeder von uns hatte schon einmal mit unbekannter, hochentwickelter Alien-Technologie zu tun. Das gehört zum Kurs!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_13",
+      "value": "Ich stelle meinen Tricorder auf die Reaktoren ein, die wir bereits haben. Finden wir heraus, was auch immer die kleine Prüfung des Wächters steuert."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_01",
+      "value": "Und hier sind Sie nun, dank einer Kombination aus Glauben, Entschlossenheit und …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_02",
+      "value": "Ja, ja, wir wissen es: List. Wir sind Ihnen weit voraus, Konfuzius."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_03",
+      "value": "Richtig, Sie haben den vorgesehenen Weg gemieden und sind im Nexus selbst gelandet. Obwohl Sie herausfinden werden, dass die größeren Konstruktionen dessen nicht so leicht zu manipulieren sind."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_04",
+      "value": "Und nun bleibt nur noch …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_05",
+      "value": "Nein! Keine Prüfungen mehr! Wir haben unsere Fähigkeiten unter Beweis gestellt und es bleibt keine Zeit mehr."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_06",
+      "value": "Unabhängig von Ihrer Auffassung von Bereitschaft sind die Prüfungen eine binäre Anforderung für einen angehenden Ingenieur. Sie müssen abgeschlossen sein, bevor Sie sich mit der Realitätsmaschine auseinandersetzten können."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_01",
+      "value": "Föderation!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_02",
+      "value": "Wir wollen euch nichts tun, wir sind von der USS Art…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_03",
+      "value": "Ergreift sie! Tomalak und Sela werden unsere Köpfe verlangen, wenn wir sie das Signallicht erreichen lassen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_post_01",
+      "value": "Anscheinend halten diese Romulaner nicht viel von Dialog und Vernunft …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_01",
+      "value": "Ich wünschte, wir hätten das anders regeln können."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_02",
+      "value": "Sie schien sich sicher zu sein, dass die Föderation gegen die Romulaner arbeitet."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_03",
+      "value": "Vielleicht erhalten wir bei einem Treffen mit ihrem Commander mehr Aufschluss."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_04",
+      "value": "Sie scheinen wirklich zu glauben, dass wir ihnen nachspionieren!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_01",
+      "value": "Er ist fürs Erste unter Kontrolle."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_02",
+      "value": "Ich bin mir nicht sicher, ob ihn zu betäuben das Ziel der Prüfung war …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_03",
+      "value": "Er hat gesagt, man muss der anderen Seite manchmal die Stärke seiner Überzeugungen vor Augen führen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_04",
+      "value": "Also … Ich sehe keine Anzeichen dafür, dass wir gescheitert sind, also nehme ich an, dass Sie recht haben."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_01",
+      "value": "Stehengeblieben."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_02",
+      "value": "Wir sind nicht hier, um zu kämpfen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_03",
+      "value": "Du bist ein Klingone. Natürlich bist du hier, um zu kämpfen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_04",
+      "value": "Da ist was dran."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_05",
+      "value": "Hmpf."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_01",
+      "value": "Wir sind hier, um einen Dialog zu führen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_02",
+      "value": "Bah! Ihr seid hier, um das Signallicht zu sabotieren. Ihr seid jedenfalls zu spät, Tomalak ist bereits mit den Daten weg."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_03",
+      "value": "Zurücktreten. Lasst uns gehen und wir werden dasselbe tun."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_04",
+      "value": "Wir verschwenden keinen kostbaren Atem an euch. Die Daten, die wir haben, werden die Föderationsmitglieder als die verräterischen Schlangen entlarven, die sie sind! (Sie beamen sich weg)"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_05",
+      "value": "Moment. Hat uns gerade ein Romulaner „verräterische Schlangen“ genannt? Das ich das noch erleben durfte."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_01",
+      "value": "Wir wollen keinen Ärger."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_02",
+      "value": "Und doch seid ihr hier, und habt ihn gefunden!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_01",
+      "value": "Noch mehr Romulaner. Und ein weiterer Sensorensender."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_02",
+      "value": "Föderationsmitglieder. Wie … wenig überraschend. Seid ihr hier, um die Spuren eures Verrats zu verdecken?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_03",
+      "value": "Ich habe keine Ahnung, wovon du da sprichst."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_01",
+      "value": "Willst du behaupten, dass du nichts über die Föderationsschiffe weißt, die regelmäßig durch die neutrale Zone schleichen und mein Volk ausspionieren?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_02",
+      "value": "Wir haben handfeste Beweise, dass eure Art unzählige Verträge gebrochen hat."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_03",
+      "value": "Lasst uns die Beweise überprüfen und versuchen, einen Sinn darin zu finde. Würdet ihr lieber das versuchen, oder einen Krieg beginnen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_04",
+      "value": "Ich kann nicht leugnen, dass das Sinn ergibt. Ich werde euch erlauben, meinen befehlshabenden Offizier zu treffen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_05",
+      "value": "Ich bezweifle allerdings, dass ihr ihn überzeugen werdet. Er hat schon öfter mit euch zu tun gehabt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_01",
+      "value": "Haltet ihr uns für Narren? Wir haben Beweise von Föderationsschiffen, die regelmäßig durch die neutrale Zone schleichen und unser Volk ausspionieren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_02",
+      "value": "Das widerspricht den Werten der Föderation. Legt sofort eure Waffen nieder, oder wir werden sie euch mit Gewalt aus den Händen reißen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_01",
+      "value": "Anscheinend befindet sich der romulanische Commander vor uns und ist abflugbereit."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_02",
+      "value": "Wir müssen ihn aufhalten, bevor er weg ist!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_01",
+      "value": "Es muss einen Weg geben, hier zu einer Einigung zu kommen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_02",
+      "value": "Ich falle nicht auf eure Tricks herein."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_03",
+      "value": "Unser Sensorensender hat Beweise, dass Elemente innerhalb von Sektion 31 meine Leute seit über einem Jahrzehnt ausspionieren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_04",
+      "value": "Als treuer Diener des Reiches ist es meine Pflicht, diesen Verstoß dem Hohen Rat zu melden!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_05",
+      "value": "So sehr es mich schmerzt, das zuzugeben … da könnte was dran sein. Sektion 31 war noch nie besonders vertrauenswürdig."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_06",
+      "value": "Du … du gibst das zu? Hmmm, ich höre. Was schlägst du vor?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_07",
+      "value": "Gebt uns eine Kopie der Daten. Wir berichten das bei der Sternenflotte. Wenn es wahr ist, dann werden sie die Sache weiter verfolgen und auf dem vorgesehenem diplomatischen Weg antworten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_08",
+      "value": "Ihr wisst, dass eure Kopie verändert werden könnte."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_09",
+      "value": "Genau wie eure. Wir möchten euch bitten, darauf zu vertrauen, dass wir mit jedem möglichen Verstoß gegen die Diplomatie fertig werden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_10",
+      "value": "Na schön. Aber ich bleibe nicht, um mich weiter zu unterhalten. Nehmt die Daten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_01",
+      "value": "Stopp. Wir können euch nicht mit Informationen der Föderation gehen lassen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_02",
+      "value": "Oh? Ihr glaubt, ihr könnt mich aufhalten?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_03",
+      "value": "Unser Sensorensender hat Beweise, dass Elemente innerhalb von Sektion 31 meine Leute seit über einem Jahrzehnt ausspionieren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_04",
+      "value": "Es ist meine Pflicht, diesen Verstoß dem Hohen Rat zu melden!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_05",
+      "value": "Und du wirst nicht auf die Vernunft hören, oder?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_06",
+      "value": "Vernunft von euch? Wohl kaum. Ihr seid verräterischer Abschaum. Die Romulaner haben gelernt, dass man der Föderation nicht trauen kann."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_07",
+      "value": "Das sagt jetzt der Richtige! Wenn du nicht auf die Vernunft hörst, dann wirst du auf einen Phaser hören!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_01",
+      "value": "Sie stehen vor der letzten Prüfung."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_02",
+      "value": "Und Sie erscheinen als mein ehemaliger Captain, Jean-Luc Picard."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_03",
+      "value": "Er erschien geeignet für diese Prüfung."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_04",
+      "value": "Es wurde festgestellt, dass ein Ingenieur außer Glauben, Willen und List noch eine weitere Eigenschaft benötigt: Die seltene Fähigkeit, mehrere Köpfe zu vereinen, die für ein so episches Unterfangen wie die Erschaffung des Nexus erforderlich sind."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_05",
+      "value": "Dies erfolgte oft durch Dialog und Vernunft, aber manchmal muss man im Namen des größeren Wohls auch auf andere Maßnahmen zurückgreifen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_06",
+      "value": "Finden Sie das Portal, um Ihre Prüfung zu beenden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_01",
+      "value": "Da vorne! Das ist das letzte Portal!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_02",
+      "value": "Glückwunsch, Crew der <i>Artemis</i>."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_03",
+      "value": "Sie haben eine Prüfung nach der anderen bestanden und Eigenschaften gezeigt, die es den ursprünglichen Ingenieuren erlaubten, dieses Wunder zu bauen, in dem wir stehen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_04",
+      "value": "Sie haben Ihre Fähigkeiten als Ingenieur wahrlich unter Beweis gestellt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_05",
+      "value": "Sehen Sie das? Mein Tricorder zeigt einen Informationsfluss an, der in den Datenkern der <i>Artemis</i> fließt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_06",
+      "value": "Diagramme, Pläne …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_07",
+      "value": "Sie werden das nutzen, um bei der Reparatur der Realitätsmaschine zu helfen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_08",
+      "value": "Aber zuerst müssen Sie sie von der Anwesenheit der Traumlosen befreien."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_01",
+      "value": "Die Maschine erscheint jetzt viel dunkler, oder nicht?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_02",
+      "value": "Der Fürsorger hat gesagt, dass sie stark beschädigt ist."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_03",
+      "value": "Wer weiß, wie lange wir mit den Prüfungen des Fürsorgers beschäftigt waren …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_04",
+      "value": "Lange genug, damit die Traumlosen alles übernehmen konnten!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle04_01",
+      "value": "Ihr könnt uns nicht daran hindern, diese Maschine zu Fall zu bringen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle04_02",
+      "value": "Das werden wir ja sehen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_01",
+      "value": "Wir können Ihnen nicht erlauben, weiterzugehen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_02",
+      "value": "Sie müssen uns vorbeilassen. Millionen Leben stehen auf dem Spiel!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_03",
+      "value": "Wir verstehen Ihre Besorgnis. Wir versuchen, sie ebenfalls zu retten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_04",
+      "value": "Sie nehmen ihr Schicksal selbst in die Hand. Sie maßen sich eine moralische Überlegenheit an, zu der Sie kein Recht haben."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_05",
+      "value": "Wir bringen unserem Volk und dem Universum wieder Ordnung. Alles endet."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_01",
+      "value": "Das ist er – der Kern!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_02",
+      "value": "Und das muss die Anführerin der Traumlosen sein."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_03",
+      "value": "Die Eindringlinge … Unnachgiebig in Ihrem Bestreben, uns aufzuhalten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_04",
+      "value": "Ich warf einen flüchtigen Blick auf das, was Sie einst waren. Bevor Sie hier endeten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_05",
+      "value": "Sie waren eine Gelehrte, eine Mutter. Es entspricht gewiss nicht Ihrer Natur, einen derartigen Mord zu begehen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_06",
+      "value": "Sie glauben, was wir tun ist Mord? Jegliches Leben muss irgendwann enden. Jegliches Leben!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_01",
+      "value": "Genug! Ihr seid Narren, diesen Ort beschützen zu wollen! Das ist ein Gefängnis. Ein Affront gegen den natürlichen Lauf des Universums!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_02",
+      "value": "Vielleicht. Der Nexus ist möglicherweise nichts weiter als eine fehlgeleitete und anmaßende Schöpfung einer uralten Zivilisation, die jeden umgarnt, der darin gefangen ist."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_03",
+      "value": "Aber all diese Geister und Seelen existieren jetzt hier, und Sie sind nicht der Schiedsrichter, der entscheiden wird, ob sie vergehen sollen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_04",
+      "value": "So selbstgerecht und voller Entschlossenheit."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_05",
+      "value": "Glauben Sie wirklich, dass der Nexus aus reinem Wohlwollen geschaffen wurde? Man müsste wahnhaft sein, um das zu glauben."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_06",
+      "value": "Wir haben getan, was wir uns heute hier vorgenommen haben. Mein Bewusstsein existiert jetzt innerhalb des Netzwerks, das durch den Nexus fließt, genauso wie es hier draußen existiert."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_07",
+      "value": "Sie können diese Realitätsmaschine vielleicht stabilisieren, aber sie ist nur eine von unendlich vielen, und sie werden bald alle ausgelöscht werden. (Sie beamt sich weg)"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_08",
+      "value": "Ich hasse es, das zu sagen, aber … was WISSEN wir über den Nexus? Haben wir das Richtige getan?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_09",
+      "value": "Ich weiß nur, dass wir nicht zulassen werden, dass jemand den Schalter für all diese Leben einfach ausschaltet. (Sie beamen sich zurück zur Artemis)"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_10",
+      "value": "Sie hat sich von dieser Maschine zurückgezogen, aber die Verschmelzung mit ihrem Kern hat ihr ein Geheimnis offenbart – eines, das wir vor den Traumlosen zu verbergen gehofft hatten"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_11",
+      "value": "Wir haben Ihnen Zugang auf ihr nächstes Ziel gewährt. Bitte erfüllen Sie Ihre Pflicht als Ingenieure und beeilen Sie sich, bevor alles verloren ist."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_01",
+      "value": "Diese Konsole kann die Plattform an einen der beiden Ausgänge führen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_02",
+      "value": "Also … tasten wir uns blind voran, hm?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_03",
+      "value": "Was sagten Sie nochmal, würde Captain Kirk sagen? „Mutig geht es voran“?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_04",
+      "value": "Ich glaube dennoch, dass er zumindest eine Ahnung hatte, in welche Richtung er gehen würde."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_01",
+      "value": "Nehmen wir den Pfad zu ihrer Linken."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_02",
+      "value": "Irgendein besonderer Grund?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_03",
+      "value": "Der linke ist mein Wurfarm."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_04",
+      "value": "Also mir reicht das!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_01",
+      "value": "Wir hatten bisher Glück, also bin ich mit beidem zufrieden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_02",
+      "value": "Schön. Tausende von Jahren der Evolution, wir haben eines der fortschrittlichsten Schiffe, die je gebaut wurden, und wir verlassen uns auf Glück, um Millionen von Leben zu retten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_03",
+      "value": "Also klar, ich wähle den Pfad zu ihrer Rechten. Wieso nicht."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_01",
+      "value": "Sie stehen an der Schwelle zum Maschinenkern."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_01",
+      "value": "Als wir diese Reise begannen, wussten wir kaum etwas über den Nexus und seine Natur."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_02",
+      "value": "Wir sind eine vereinte Crew geworden, obwohl wir aus verschiedenen Kulturen, Hintergründen und Zeitlinien kommen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_03",
+      "value": "Mir fällt niemand ein, den ich in diesem Moment lieber an meiner Seite hätte!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_04",
+      "value": "Jetzt haben Sie diesen alten Mann zu Tränen gerührt! Lassen Sie uns da reingehen und dem Ganzen ein Ende setzen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_01",
+      "value": "Wie der große Kahless einmal sagte: „Der Feind ist zwar stark und niemand kann ihm standhalten.“"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_02",
+      "value": "„Doch wir müssen es tun, denn ich würde lieber sterben, als zu wissen, dass wir als Krieger versagt haben, als es darauf ankam.“"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_03",
+      "value": "Heute ehren wir diese Worte! Gemeinsam werden wir alle Hindernisse überwinden!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_04",
+      "value": "Gut gesprochen, mein Freund!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_05",
+      "value": "Sie hätten sich als Fußballtrainer an der Akademie einen Namen gemacht, Mr. Worf!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_01",
+      "value": "So gerne ich das auch hinter mich bringen würde, damit ich zurück auf die Krankenstation kann, wo ich hingehöre …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_02",
+      "value": "Erscheint es mir als Wahnsinn, da einfach so reinzurennen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_03",
+      "value": "Lassen Sie uns wenigstens erst einmal den Ort scannen um herauszufinden, womit wir es zu tun haben!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_04",
+      "value": "Vernünftig wie immer, mein Freund!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_05",
+      "value": "Und diese Vorbereitung könnte uns den entscheidenden Vorteil verschaffen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_01",
+      "value": "Willkommen, Ingenieure."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_02",
+      "value": "Oh, wir haben also den glänzenden Titel erhalten! Was jetzt?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_03",
+      "value": "Während wir hier sprechen, haben die Traumlosen den Großteil der Verteidigung der Realitätsmaschine durchdrungen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_04",
+      "value": "Die für die Reparatur der Maschine erforderlichen Informationen wurden auf Ihr Schiff hochgeladen und können über die Reaktoren abgerufen werden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_05",
+      "value": "Bringen Sie sie zum Maschinenkern, um ihn zu stabilisieren und die Systeme wieder hochzufahren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_06",
+      "value": "Die selbsternannten „Traumlosen“ sind Fanatiker und werden alles versuchen, um Sie aufzuhalten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_01",
+      "value": "Der Schaden ist erheblich. Uns läuft die Zeit davon!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_02",
+      "value": "Wir schätzen, dass der katastrophale Ausfall in weniger als 5 terranischen Minuten eintreten wird."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_03",
+      "value": "Die primäre Traumlose hat die Verschmelzung ihres Bewusstseins mit der Maschine fast abgeschlossen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_04",
+      "value": "Das klingt … unerwünscht."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_05",
+      "value": "Die Protokolle der Maschine sind so konzipiert, dass unbefugter Zugriff verhindert wird, aber die Traumlosen sabotieren das System und sammeln seit langem seine Reaktoren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_06",
+      "value": "Wenn ihre Anführerin in der Lage sein sollte, ihr Bewusstsein mit dieser Maschine zu verschmelzen, dann wird sie auch in der Lage sein, sie abzuschalten, und es wird nicht lange dauern, bis sie ihre Kraft auf den Rest des Nexus erweitern kann."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_07",
+      "value": "Es muss eine Möglichkeit geben, das zu verhindern!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_08",
+      "value": "Als Ingenieur können Sie Ihr Bewusstsein auf die gleiche Weise mit der Maschine verschmelzen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_09",
+      "value": "Allerdings erfordert ein solches Vorhaben enorme mentale Fähigkeiten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_10",
+      "value": "Michael, Sie sind eine der mächtigsten Personen, mit der ich je zu tun hatte!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_11",
+      "value": "Ganz zu schweigen davon, dass Sie die Adoptivschwester des größten Gedankenverschmelzers sind, den ich je kannte. Naja, des einzigen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_12",
+      "value": "Michael, ich glaube an Sie."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_13",
+      "value": "Ich … Ich versuche es."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_14",
+      "value": "Es … Es funktioniert! Ich fühle, wie sich die Wände um mich herum ausbreiten wie die Arme meiner Mutter. Alles ist golden. Alles ist so weit. Ich … hatte keine Ahnung."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_15",
+      "value": "Ich fühle hier noch jemanden. Riesiges. Größer als ein Berg vor mir. Sie ist so selbstgerecht. So wütend. Ihre Kinder, ihre Partner – alle fort. Sie sind alle schon lange tot."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_16",
+      "value": "Sie hat mich bemerkt! Ich versuche ihr auszuweichen. Ich glaube, sie verliert den Blick für die Maschine … sie verfolgt mich."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_17",
+      "value": "Sie hat mich aus dem System geworfen! Ich konnte spüren, wie sie Energie dafür aufwenden musste … Das hat sie vielleicht verlangsamt …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_18",
+      "value": "Sie können von hier aus nicht mehr auf die Maschine zugreifen. Sie müssen zu ihrem Kern vordringen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_01",
+      "value": "Wir müssen Sie warnen, dass der Prozess fast abgeschlossen ist. Die Zeit ist fast abgelaufen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_02",
+      "value": "Nein! Erlauben Sie mir, mit dem Reaktor erneut auf die Maschine zuzugreifen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_03",
+      "value": "Sind Sie sicher? Das letzte Mal waren Ihre Biosignale total aus dem Ruder gelaufen. Wenn Sie das wieder tun …"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_04",
+      "value": "Dann habe ich den besten Arzt der Sternenflotte, der sich um mich kümmert, oder?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_05",
+      "value": "Na, dann mal ran an die Arbeit!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_06",
+      "value": "Ich bin wieder drin."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_07",
+      "value": "Ich kann sie überall um uns herum spüren!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_08",
+      "value": "Ihre tiefe Trauer ist überall. Sie ist so alleine. Jeder den sie kannte, ist schon lange fort."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_09",
+      "value": "Sie … vermisst sie alle. Sie führt ein einsames Dasein. Ihre gesamte Welt ist verloren!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_10",
+      "value": "Die große Bibliothek, die sie aufgebaut hat, die karminroten Meere, in denen sie als Kind schwamm – alles fort. Ihre Traurigkeit ist überwältigend! Ich kann nicht mehr … argghhhhh!!!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_11",
+      "value": "Doktor! Holen Sie sie da raus! Es bringt sie um!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_12",
+      "value": "Es geht mir gut. Ich habe noch nie zuvor einen Schmerz wie den ihren empfunden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_13",
+      "value": "Er brodelte in ihr, und durchbrach die Realität der Sphäre, in der sie sich befand. Sie konnte ihren Geist und ihre Seele nicht mehr einschließen. Das ist der Ursprung all dieser … Traumlosen. Und jetzt sind sie hier."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_14",
+      "value": "Kein Wunder, dass sie den Nexus so sehen, wie sie ihn sehen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_15",
+      "value": "Aber wir können sie nicht die Entscheidung für alle anderen treffen und diese Zerstörung fortsetzen lassen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_16",
+      "value": "Hat sie Sie wieder bemerkt?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_17",
+      "value": "Die Aktionen Ihrer Freundin haben den Prozess um 78,9 Erdminuten verlangsamt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_18",
+      "value": "Wir haben noch Zeit!"
+    },
+    {
       "key": "Data_GSCutSceneDialogue_opening_cutscene_01",
       "value": "Der Nexus ist zurück."
     },
@@ -11371,6 +13223,10 @@
       "value": "DER GEIST DER MASCHINE"
     },
     {
+      "key": "Data_GSEpisodes_displayName_Episode7",
+      "value": "DATTA, DAYADHVAM UND DAMYATA"
+    },
+    {
       "key": "Data_GSMissionObjective_e1_m1_encounter03",
       "value": "Besiege Khan"
     },
@@ -11527,6 +13383,30 @@
       "value": "Mutig dorthin gehen, wo noch nie zuvor jemand gewesen ist."
     },
     {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission1",
+      "value": "Die <i>USS Artemis</i> befindet sich außerhalb der riesigen Realitätsmaschine, die um einen gefangenen Stern herum erbaut wurde."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission2",
+      "value": "Das Außenteam muss vier Prüfungen absolvieren, von denen die erste die Prüfung des Glaubens ist, um die Unterstützung des Fürsorgers zu erhalten."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission3",
+      "value": "Die zweite Prüfung ist die Prüfung des Willens, bei der das Außenteam erneut gegen die Borg antreten muss."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission4",
+      "value": "Weil Glaube und Wille nicht immer ausreichen, muss sich das Außenteam der Prüfung der List stellen."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission5",
+      "value": "Beim der letzten Prüfung, der Prüfung der Vernunft, geht es darum zu beweisen, dass manche Konflikte nur mit Dialog und Taktgefühl gelöst werden können."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission6",
+      "value": "Das Außenteam muss die Traumlosen aufhalten und die Realitätsmaschine reparieren, um ihr Talent als Ingenieure unter Beweis zu stellen."
+    },
+    {
       "key": "Data_GSMissions_displayName_Episode1_Mission1",
       "value": "MUTIG GEHT ES VORAN"
     },
@@ -11671,12 +13551,44 @@
       "value": "NICHT MIT EINEM KNALL: MIT GEWIMMER"
     },
     {
+      "key": "Data_GSMissions_displayName_Episode7_Mission1",
+      "value": "DAS HALBE PARADIES EINES NARREN"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission2",
+      "value": "AN EINEM SELTSAMEN ORT"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission3",
+      "value": "DURCH EINEN LANGEN PFAD"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission4",
+      "value": "DES WEINES UND DER ROSEN"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission5",
+      "value": "SOLCH EINE STERNGEKRÖNTE EINSAMKEIT"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission6",
+      "value": "EIN LETZTES WORT"
+    },
+    {
       "key": "Data_GSNodeEncounter_BattleDesc_Borg",
       "value": "Lebenszeichen feindlicher Borg erkannt. Mach dich bereit für den Kampf."
     },
     {
       "key": "Data_GSNodeEncounter_BattleDesc_Cardassian",
       "value": "Lebenszeichen feindlicher Cardassianer erkannt. Mach dich bereit für den Kampf."
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_CardassianShapeshifters",
+      "value": "Lebenszeichen feindlicher Cardassianer und Formwandler erkannt. Mach dich bereit für den Kampf."
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+      "value": "Lebenszeichen feindlicher Traumloser erkannt. Mach dich bereit für den Kampf."
     },
     {
       "key": "Data_GSNodeEncounter_BattleDesc_e1_m1_battle01",
@@ -12911,8 +14823,16 @@
       "value": "Lebenszeichen feindlicher Romulaner und Gorn erkannt. Mach dich bereit für den Kampf."
     },
     {
+      "key": "Data_GSNodeEncounter_BattleDesc_Shapeshifters",
+      "value": "Lebenszeichen feindlicher Formwandler erkannt. Mach dich bereit für den Kampf."
+    },
+    {
       "key": "Data_GSNodeEncounter_BattleDesc_Unknown",
       "value": "Unbekannte Feinde entdeckt. Mach dich bereit für den Kampf."
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_UnknownLife",
+      "value": "Unbekannte feindliche Lebenszeichen erkannt. Mach dich bereit für den Kampf."
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_AbandonedShuttle",
@@ -12975,6 +14895,10 @@
       "value": "Borg-Nische"
     },
     {
+      "key": "Data_GSNodeExploration_clickableObject_BorgCube",
+      "value": "Borg-Kubus"
+    },
+    {
       "key": "Data_GSNodeExploration_clickableObject_BorgDevice",
       "value": "Borg-Gerät"
     },
@@ -12989,6 +14913,10 @@
     {
       "key": "Data_GSNodeExploration_clickableObject_BorgDrones",
       "value": "Borg-Drohnen"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_BorgSensors",
+      "value": "Borg-Sensoren"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_BorgSphere",
@@ -13343,6 +15271,14 @@
       "value": "Romulanisches Relais"
     },
     {
+      "key": "Data_GSNodeExploration_clickableObject_Romulans",
+      "value": "Romulaner"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_Runabout",
+      "value": "Runabout"
+    },
+    {
       "key": "Data_GSNodeExploration_clickableObject_Sabotage",
       "value": "Sabotieren"
     },
@@ -13453,6 +15389,10 @@
     {
       "key": "Data_GSNodeExploration_clickableObject_WorkerBee",
       "value": "Arbeitsbiene"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_Wounded",
+      "value": "Verwundet"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_Wreckage",
@@ -14263,6 +16203,134 @@
       "value": "Um nicht entdeckt zu werden, nimmt das Außenteam den Weg rechts. Das Außenteam entdeckt einen <b>alternativen Weg<b>."
     },
     {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option01",
+      "value": "Das Außenteam kann einen der Reaktoren nutzten, um das Kraftfeld zu deaktivieren, das ihnen den Weg versperrt."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option02",
+      "value": "Das Außenteam geht weiter, um die Einrichtung zu erkunden. Das Außenteam entdeckt einen <b>alternativen Weg<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option01",
+      "value": "Das Außenteam nutzt einen Reaktor, um die versperrte Tür zu öffnen und ein paar Vorräte zu entdecken."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option02",
+      "value": "Das Außenteam zieht die Vorsicht der Neugierde vor und geht weiter."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option01",
+      "value": "Das Außenteam springt erfolgreich auf die Plattform und entdeckt ein paar Vorräte."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option02",
+      "value": "Da es keine Verletzungen riskieren möchte, ignoriert das Außenteam die Plattform und geht weiter."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option01",
+      "value": "Die Formwandler, die sich als Föderationsmitglieder ausgeben, greifen das Außenteam an, welches das Runabout auf Schäden gescannt hat. Das Außenteam erhält einen <b>Tech-Bonus<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option02",
+      "value": "Die Formwandler greifen aus dem Hinterhalt an und erwischen das Außenteam auf dem falschen Fuß. Das Außenteam erhält einen <b>Geschwindigkeitsstrafe</b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option03",
+      "value": "Bevor es von Formwandlern angegriffen wird, durchsucht das Außenteam das Runabout und entdeckt ein paar Vorräte."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option01",
+      "value": "Die liegen gelassenen Vorräte sind ein weiterer Hinterhalt der Formwandler. Mach dich bereit für den Kampf."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option02",
+      "value": "Das Außenteam hat Angst vor einer möglichen Falle und geht weiter."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option01",
+      "value": "Durch den Zugriff auf die Borg-Sensoren hat das Außenteam einen neuen Weg vorwärts entdeckt und hofft, dass ihr Eindringen unbemerkt geblieben ist."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option02",
+      "value": "Das Außenteam beschließt weniger Aufmerksamkeit auf sich zu ziehen und die Erforschung des Borg-Kubus fortzusetzen. Das Außenteam entdeckt einen <b>alternativen Weg<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option01",
+      "value": "Die Überlastung der Borg-Alkove hat sie und die Drohnen, die sich aufluden, deaktiviert. Das Außenteam erhält einen <b>Verteidigungsbonus<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option02",
+      "value": "Das Außenteam beschließt, die Interaktion mit der Borg-Alkove zu vermeiden."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option01",
+      "value": "Das Außenteam entdeckt beim Durchsuchen der Borg-Teile und -Materialien ein paar Vorräte."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option02",
+      "value": "Das Außenteam ignoriert die zurückgelassene Technologie der Borg und geht weiter."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option01",
+      "value": "Das Außenteam hilft mit seiner medizinischen Versorgung, das verwundete Personal auf die Beine zu bringen. Zum Dank überreicht ihnen der Sternenflotten-Sanitäter ein paar zusätzliche Vorräte."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option02",
+      "value": "Um das verwundete Personal zu schützen, stürmt das Außenteam auf die herannahenden Klingonen. Das Außenteam erhält einen <b>Angriffsbonus<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option01",
+      "value": "Das Außenteam hat noch wenig Zeit und stößt vor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option02",
+      "value": "Das Außenteam verwendet einen der Reaktoren, um die „Realität“ zu verändern, und entdeckt ein paar Vorräte."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option01",
+      "value": "Das Außenteam war nicht gerade friedlich, doch es konnte einem Kampf aus dem Weg gehen."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option02",
+      "value": "Ein feindlicher Empfang durch die Romulaner führte leider zu einem Kampf."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option01",
+      "value": "Obwohl sie nicht völlig überzeugt ist, erlaubt Sela dem Außenteam weiterzugehen und vermeidet einen Kampf."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option02",
+      "value": "Sela und die Romulaner weigern sich der Föderation zu vertrauen und greifen an."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option01",
+      "value": "Das Außenteam findet eine diplomatische Lösung und vermeidet einen Kampf."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option02",
+      "value": "Das Außenteam findet keine diplomatische Lösung und bereitet sich auf einen Kampf vor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option01",
+      "value": "Das Außenteam beschließt, auf dem linken Pfad weiterzugehen."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option02",
+      "value": "Das Außenteam beschließt, auf dem rechten Pfad weiterzugehen."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option01",
+      "value": "Das Außenteam ist entschlossen, die Traumlosen aufzuhalten, und bereitet sich auf einen Kampf vor. Das Außenteam erhält einen <b>Moralbonus<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option02",
+      "value": "Das Außenteam bereitet sich darauf vor, gegen die Traumlosen zu kämpfen und die Realitätsmaschine zu retten."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option03",
+      "value": "Das Außenteam scannt die Traumlosen und erhält dadurch einen Vorteil in der bevorstehenden Schlacht. Das Außenteam erhält einen <b>Tech-Bonus<b>."
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_AdvancedForward",
       "value": "DAS AUSSENTEAM STÖSST VOR"
     },
@@ -14327,6 +16395,10 @@
       "value": "COMPUTER GEHACKT"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
+      "value": "WEITERGEGANGEN"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_CoreDisabled",
       "value": "WARPKERN DEAKTIVIERT"
     },
@@ -14341,6 +16413,10 @@
     {
       "key": "Data_GSNodeExploration_ResultsHeader_Diplomacy",
       "value": "DIPLOMATIE ERFOLGREICH"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsHeader_DoorOpened",
+      "value": "TÜR GEÖFFNET"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_DoorsOpened",
@@ -14431,6 +16507,10 @@
       "value": "WEG ENTDECKT"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_PersonnelHealed",
+      "value": "PERSONAL GEHEILT"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_PulledBack",
       "value": "ZURÜCKGEZOGEN"
     },
@@ -14467,6 +16547,10 @@
       "value": "SCAN ERFOLGREICH"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_SensorsAccessed",
+      "value": "AUF SENSOREN ZUGEGRIFFEN"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_ShieldBonus",
       "value": "SCHILDBONUS"
     },
@@ -14481,6 +16565,10 @@
     {
       "key": "Data_GSNodeExploration_ResultsHeader_SpeedBonus",
       "value": "GESCHWINDIGKEITSBONUS"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsHeader_SpeedDown",
+      "value": "GESCHWINDIGKEIT SINKT"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
@@ -15057,6 +17145,30 @@
     {
       "key": "Data_MissionObjective_e6_m6_Name",
       "value": "Repariere den Nexus"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m1_Name",
+      "value": "Halte die Traumlosen auf"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m2_Name",
+      "value": "Prüfung des Glaubens"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m3_Name",
+      "value": "Prüfung des Willens"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m4_Name",
+      "value": "Prüfung der List"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m5_Name",
+      "value": "Prüfung der Vernunft"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m7_Name",
+      "value": "Halte die Traumlosen auf"
     },
     {
       "key": "Data_Notification_DailyRewardOneOff_Body",
@@ -18899,6 +21011,10 @@
       "value": "Zurücktreten"
     },
     {
+      "key": "Data_Skill_Chang_Bridge_description",
+      "value": "Klingonen erhalten <color=#01e2ff>+5%</color> Angriff."
+    },
+    {
       "key": "Data_Skill_Chekov_Attack_description_level1",
       "value": "Fügt <color=#01e2ff>100 % Schaden</color> zu."
     },
@@ -21347,6 +23463,18 @@
       "value": "Überraschungsangriff"
     },
     {
+      "key": "Data_Skill_Shinzon_Attack_description_level1",
+      "value": "Fügt <color=#01e2ff>100 % Schaden</color> zu (<color=#01e2ff>Chance von 25 %</color> auf <color=#01e2ff>Verwundung</color>)."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Attack_description_level2",
+      "value": "Fügt <color=#01e2ff>125 % Schaden</color> zu (<color=#01e2ff>Chance von 50 %</color>, eine <color=#01e2ff>Verwundung</color> zu bewirken)."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Bridge_description",
+      "value": "Romulaner erhalten <color=#01e2ff>+5%</color> Angriff."
+    },
+    {
       "key": "Data_Skill_Sisko_Attack_description_level1",
       "value": "Fügt <color=#01e2ff>3 x 35 % Schaden</color> zu. (<color=#01e2ff>Chance von 25 %</color> auf <color=#01e2ff>Verteidigungssenkung</color> für 1 Runde, wenn der Feind ein <color=#01e2ff>Cardassianer</color> ist.)"
     },
@@ -21736,11 +23864,11 @@
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_description_level1",
-      "value": "<color=#01e2ff>Tarnung</color> bei allen Verbündeten für 3 Runden."
+      "value": "<color=#01e2ff>Tarnung</color> bei allen Verbündeten für 3 Runden. (<color=#01e2ff>+1 Moral</color>, wenn der Verbündete ein <color=#01e2ff>Romulaner</color> ist)."
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_description_level2",
-      "value": "<color=#01e2ff>Tarnung</color> und <color=#01e2ff>Reinigung</color> bei allen Verbündeten für 3 Runden."
+      "value": "<color=#01e2ff>Tarnung</color> und <color=#01e2ff>Reinigung</color> bei allen Verbündeten für 3 Runden. (<color=#01e2ff>+2 Moral</color>, wenn der Verbündete ein <color=#01e2ff>Romulaner</color> ist)."
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_displayName",
@@ -21748,11 +23876,11 @@
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_description_level1",
-      "value": "<color=#01e2ff>-1 Moral</color> und <color=#01e2ff>Verteidigungssenkung</color> bei 1 Feind für 3 Runden. <color=#01e2ff>Nächste Runde:</color> Fügt <color=#01e2ff>200 % Schaden</color> zu (<color=#01e2ff>300 % Schaden</color> bei Feinden mit <color=#01e2ff>Moral</color> < 0)."
+      "value": "Fügt einem Feind <color=#01e2ff>200 % Tech-Schaden</color> und allen Feinden <color=#01e2ff>-1 Moral</color> zu."
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_description_level2",
-      "value": "<color=#01e2ff>-2 Moral</color> und <color=#01e2ff>Starke Verteidigungssenkung</color> bei 1 Feind für 3 Runden. <color=#01e2ff>Nächste Runde:</color> Fügt <color=#01e2ff>300 % Schaden</color> zu (<color=#01e2ff>450 % Schaden</color> bei Feinden mit <color=#01e2ff>Moral</color> < 0)."
+      "value": "Fügt einem Feind <color=#01e2ff>300 % Tech-Schaden</color> und allen Feinden <color=#01e2ff>-2 Moral</color> zu."
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_displayName",
@@ -21772,7 +23900,7 @@
     },
     {
       "key": "Data_Skill_Torchbearer_Bridge_description",
-      "value": "Klingonen erhalten <color=#01e2ff>+10 %</color> Entschlossenheit."
+      "value": "Klingonen erhalten <color=#01e2ff>+5%</color> Entschlossenheit."
     },
     {
       "key": "Data_Skill_Torchbearer_Bridge_displayName",
@@ -21889,6 +24017,14 @@
     {
       "key": "Data_Skill_TPol_Skill2_displayName",
       "value": "Disziplin"
+    },
+    {
+      "key": "Data_Skill_Troi_Attack_description_level1",
+      "value": "Fügt <color=#01e2ff>100 % Schaden</color> zu."
+    },
+    {
+      "key": "Data_Skill_Troi_Attack_description_level2",
+      "value": "Fügt <color=#01e2ff>150 % Schaden</color> zu."
     },
     {
       "key": "Data_Skill_Troi_Attack_displayName",
@@ -25079,6 +27215,26 @@
       "value": "VORRATSKISTE ENTDECKT"
     },
     {
+      "key": "News_Crew_Generic_Headline",
+      "value": "Neue Crew"
+    },
+    {
+      "key": "News_Episode_Generic_Headline",
+      "value": "Neue Episode"
+    },
+    {
+      "key": "News_FactionEvent_Generic_Headline",
+      "value": "Neues Fraktionsevent"
+    },
+    {
+      "key": "News_SoloEvent_Generic_Headline",
+      "value": "Neues Solo-Event"
+    },
+    {
+      "key": "News_Update_Generic_Headline",
+      "value": "Neues Update"
+    },
+    {
       "key": "No Items Summoned",
       "value": "Keine Gegenstände beschworen"
     },
@@ -25652,43 +27808,43 @@
     },
     {
       "key": "shop_Gear_Command_Padd_Common",
-      "value": "Legendäres PADD: Führungsstab"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Epic",
-      "value": "Sehr seltenes PADD: Führungsstab"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Legendary",
-      "value": "Episches PADD: Führungsstab"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Rare",
       "value": "Gewöhnliches PADD: Führungsstab"
     },
     {
-      "key": "shop_Gear_Command_Padd_VeryRare",
+      "key": "shop_Gear_Command_Padd_Epic",
+      "value": "Episches PADD: Führungsstab"
+    },
+    {
+      "key": "shop_Gear_Command_Padd_Legendary",
+      "value": "Legendäres PADD: Führungsstab"
+    },
+    {
+      "key": "shop_Gear_Command_Padd_Rare",
       "value": "Seltenes PADD: Führungsstab"
     },
     {
+      "key": "shop_Gear_Command_Padd_VeryRare",
+      "value": "Sehr seltenes PADD: Führungsstab"
+    },
+    {
       "key": "shop_Gear_Command_Phaser_Common",
-      "value": "Legendärer Typ-II-Phaser: Führungsstab"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Epic",
-      "value": "Sehr seltener Typ-II-Phaser: Führungsstab"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Legendary",
-      "value": "Epischer Typ-II-Phaser: Führungsstab"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Rare",
       "value": "Gewöhnlicher Typ-II-Phaser: Führungsstab"
     },
     {
-      "key": "shop_Gear_Command_Phaser_VeryRare",
+      "key": "shop_Gear_Command_Phaser_Epic",
+      "value": "Epischer Typ-II-Phaser: Führungsstab"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_Legendary",
+      "value": "Legendärer Typ-II-Phaser: Führungsstab"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_Rare",
       "value": "Seltener Typ-II-Phaser: Führungsstab"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_VeryRare",
+      "value": "Sehr seltener Typ-II-Phaser: Führungsstab"
     },
     {
       "key": "shop_Gear_Command_Tricorder_Common",
@@ -25732,43 +27888,43 @@
     },
     {
       "key": "shop_Gear_Engineer_Padd_Common",
-      "value": "Legendäres PADD: Ingenieurwesen"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Epic",
-      "value": "Sehr seltenes PADD: Ingenieurwesen"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Legendary",
-      "value": "Episches PADD: Ingenieurwesen"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Rare",
       "value": "Gewöhnliches PADD: Ingenieurwesen"
     },
     {
-      "key": "shop_Gear_Engineer_Padd_VeryRare",
+      "key": "shop_Gear_Engineer_Padd_Epic",
+      "value": "Episches PADD: Ingenieurwesen"
+    },
+    {
+      "key": "shop_Gear_Engineer_Padd_Legendary",
+      "value": "Legendäres PADD: Ingenieurwesen"
+    },
+    {
+      "key": "shop_Gear_Engineer_Padd_Rare",
       "value": "Seltenes PADD: Ingenieurwesen"
     },
     {
+      "key": "shop_Gear_Engineer_Padd_VeryRare",
+      "value": "Sehr seltenes PADD: Ingenieurwesen"
+    },
+    {
       "key": "shop_Gear_Engineer_Phaser_Common",
-      "value": "Legendärer Typ-II-Phaser: Ingenieurwesen"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Epic",
-      "value": "Sehr seltener Typ-II-Phaser: Ingenieurwesen"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Legendary",
-      "value": "Epischer Typ-II-Phaser: Ingenieurwesen"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Rare",
       "value": "Gewöhnlicher Typ-II-Phaser: Ingenieurwesen"
     },
     {
-      "key": "shop_Gear_Engineer_Phaser_VeryRare",
+      "key": "shop_Gear_Engineer_Phaser_Epic",
+      "value": "Epischer Typ-II-Phaser: Ingenieurwesen"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_Legendary",
+      "value": "Legendärer Typ-II-Phaser: Ingenieurwesen"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_Rare",
       "value": "Seltener Typ-II-Phaser: Ingenieurwesen"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_VeryRare",
+      "value": "Sehr seltener Typ-II-Phaser: Ingenieurwesen"
     },
     {
       "key": "shop_Gear_Engineer_Tricorder_Common",
@@ -25812,43 +27968,43 @@
     },
     {
       "key": "shop_Gear_Medic_Padd_Common",
-      "value": "Legendäres PADD: Medizin"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Epic",
-      "value": "Sehr seltenes PADD: Medizin"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Legendary",
-      "value": "Episches PADD: Medizin"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Rare",
       "value": "Gewöhnliches PADD: Medizin"
     },
     {
-      "key": "shop_Gear_Medic_Padd_VeryRare",
+      "key": "shop_Gear_Medic_Padd_Epic",
+      "value": "Episches PADD: Medizin"
+    },
+    {
+      "key": "shop_Gear_Medic_Padd_Legendary",
+      "value": "Legendäres PADD: Medizin"
+    },
+    {
+      "key": "shop_Gear_Medic_Padd_Rare",
       "value": "Seltenes PADD: Medizin"
     },
     {
+      "key": "shop_Gear_Medic_Padd_VeryRare",
+      "value": "Sehr seltenes PADD: Medizin"
+    },
+    {
       "key": "shop_Gear_Medic_Phaser_Common",
-      "value": "Legendärer Typ-II-Phaser: Medizin"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Epic",
-      "value": "Sehr seltener Typ-II-Phaser: Medizin"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Legendary",
-      "value": "Epischer Typ-II-Phaser: Medizin"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Rare",
       "value": "Gewöhnlicher Typ-II-Phaser: Medizin"
     },
     {
-      "key": "shop_Gear_Medic_Phaser_VeryRare",
+      "key": "shop_Gear_Medic_Phaser_Epic",
+      "value": "Epischer Typ-II-Phaser: Medizin"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_Legendary",
+      "value": "Legendärer Typ-II-Phaser: Medizin"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_Rare",
       "value": "Seltener Typ-II-Phaser: Medizin"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_VeryRare",
+      "value": "Sehr seltener Typ-II-Phaser: Medizin"
     },
     {
       "key": "shop_Gear_Medic_Tricorder_Common",
@@ -25892,43 +28048,43 @@
     },
     {
       "key": "shop_Gear_Science_Padd_Common",
-      "value": "Legendäres PADD: Wissenschaft"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Epic",
-      "value": "Sehr seltenes PADD: Wissenschaft"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Legendary",
-      "value": "Episches PADD: Wissenschaft"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Rare",
       "value": "Gewöhnliches PADD: Wissenschaft"
     },
     {
-      "key": "shop_Gear_Science_Padd_VeryRare",
+      "key": "shop_Gear_Science_Padd_Epic",
+      "value": "Episches PADD: Wissenschaft"
+    },
+    {
+      "key": "shop_Gear_Science_Padd_Legendary",
+      "value": "Legendäres PADD: Wissenschaft"
+    },
+    {
+      "key": "shop_Gear_Science_Padd_Rare",
       "value": "Seltenes PADD: Wissenschaft"
     },
     {
+      "key": "shop_Gear_Science_Padd_VeryRare",
+      "value": "Sehr seltenes PADD: Wissenschaft"
+    },
+    {
       "key": "shop_Gear_Science_Phaser_Common",
-      "value": "Legendärer Typ-II-Phaser: Wissenschaft"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Epic",
-      "value": "Sehr seltener Typ-II-Phaser: Wissenschaft"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Legendary",
-      "value": "Epischer Typ-II-Phaser: Wissenschaft"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Rare",
       "value": "Gewöhnlicher Typ-II-Phaser: Wissenschaft"
     },
     {
-      "key": "shop_Gear_Science_Phaser_VeryRare",
+      "key": "shop_Gear_Science_Phaser_Epic",
+      "value": "Epischer Typ-II-Phaser: Wissenschaft"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_Legendary",
+      "value": "Legendärer Typ-II-Phaser: Wissenschaft"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_Rare",
       "value": "Seltener Typ-II-Phaser: Wissenschaft"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_VeryRare",
+      "value": "Sehr seltener Typ-II-Phaser: Wissenschaft"
     },
     {
       "key": "shop_Gear_Science_Tricorder_Common",
@@ -27139,6 +29295,10 @@
       "value": "ZUM FORTFAHREN TIPPEN"
     },
     {
+      "key": "UI_CaptainLog_Panel_FooterNote_TapToContinue_Click",
+      "value": "ZUM FORTFAHREN KLICKEN"
+    },
+    {
       "key": "UI_CaptainLog_Panel_FooterNote_TapToContinue_Gamepad",
       "value": "ZUM FORTFAHREN {0} DRÜCKEN"
     },
@@ -27205,6 +29365,10 @@
     {
       "key": "UI_Common_Advance",
       "value": "Zum Vordringen tippen"
+    },
+    {
+      "key": "UI_Common_Advance_Click",
+      "value": "Zum Vordringen klicken"
     },
     {
       "key": "UI_Common_Advance_Gamepad",
@@ -27311,6 +29475,10 @@
       "value": "Episode 6"
     },
     {
+      "key": "UI_Common_Missions_EpisodeIdentifier_07",
+      "value": "Episode 7"
+    },
+    {
       "key": "UI_Common_New",
       "value": "Neu"
     },
@@ -27359,6 +29527,10 @@
       "value": "Zum Zurückkehren tippen"
     },
     {
+      "key": "UI_Common_Return_Click",
+      "value": "Zum Zurückkehren klicken"
+    },
+    {
       "key": "UI_Common_Return_Gamepad",
       "value": "Zum Zurückkehren {0} drücken"
     },
@@ -27379,12 +29551,20 @@
       "value": "Zum Starten tippen"
     },
     {
+      "key": "UI_Common_Start_Click",
+      "value": "Zum Starten klicken"
+    },
+    {
       "key": "UI_Common_Start_Gamepad",
       "value": "Zum Starten {0} drücken"
     },
     {
       "key": "UI_Common_TapToClose",
       "value": "ZUM SCHLIESSEN TIPPEN"
+    },
+    {
+      "key": "UI_Common_TapToClose_Click",
+      "value": "ZUM SCHLIESSEN KLICKEN"
     },
     {
       "key": "UI_Common_TapToClose_Gamepad",
@@ -27607,6 +29787,30 @@
       "value": "Einer sagt in ihrer uralten Sprache: „Kommt. Wir müssen ihnen zur Realitätsmaschine folgen.“"
     },
     {
+      "key": "UI_Cutscene_Episode7_Text1",
+      "value": "Die Traumlosen waren von der Realitätsmaschine zurückgedrängt worden, ihre Pläne für sie vereitelt."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text2",
+      "value": "Aber ihr Anführer hatte ein Geheimnis aus dem Zentralrechner der Maschine erfahren – eines, das eine Katastrophe für den Nexus bedeuten könnte."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text3",
+      "value": "Der Fürsorger enthüllt eine Karte, die die Bewegungen der Traumlosen auf ihrem Weg zu einem unbekannten Ort verfolgt."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text4",
+      "value": "Auch wenn das zerstörerische Werk der Traumlosen auf der Karte markiert ist, hebt sich ihr nächstes Ziel besonders hervor."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text5",
+      "value": "Es ist ein Fehler, der so monumental ist, dass er die kleineren Fehler, die er hinterlässt, in den Schatten stellt."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text6",
+      "value": "Der Schrecken, den er hervorruft, stärkt nur deine Entschlossenheit, während du der Artemis befiehlst, Kurs zu nehmen."
+    },
+    {
       "key": "UI_DailyChest_Claim",
       "value": "REPLIKATOR SAMMELN"
     },
@@ -27685,6 +29889,14 @@
     {
       "key": "UI_EncounterPreview_Title",
       "value": "KAMPFALARM!"
+    },
+    {
+      "key": "UI_Episode_MissionNotAvailable_Body",
+      "value": "Du musst diese Mission auf der vorigen Schwierigkeitsstufe abschließen, um diese Mission freizuschalten."
+    },
+    {
+      "key": "UI_Episode_MissionNotAvailable_Title",
+      "value": "Mission gesperrt"
     },
     {
       "key": "UI_Error_ChangeName",
@@ -28053,6 +30265,10 @@
     {
       "key": "UI_Generic_TodaysGoals",
       "value": "Heutige Ziele abgeschlossen!"
+    },
+    {
+      "key": "UI_Glossary_Header",
+      "value": "Glossar"
     },
     {
       "key": "UI_GoTo_Achievements",
@@ -28703,6 +30919,10 @@
       "value": "Wird auf Spielerlevel {0} freigeschaltet."
     },
     {
+      "key": "UI_Menu_TooltipLocked_News_Title",
+      "value": "NEUIGKEITEN (GESPERRT)"
+    },
+    {
       "key": "UI_Menu_TooltipLocked_Operations_Title",
       "value": "OPERATIONEN (GESPERRT)"
     },
@@ -28813,6 +31033,10 @@
     {
       "key": "UI_Mission_Popup_Replay",
       "value": "ERNEUT SPIELEN"
+    },
+    {
+      "key": "UI_Mission_PopupNotAvailableSecondary_Message",
+      "value": "Du musst diese Episode auf der vorigen Schwierigkeitsstufe abschließen, um diese Episode freizuschalten."
     },
     {
       "key": "ui_mission_result_completion_percent",
@@ -28943,6 +31167,14 @@
       "value": "Die Benachrichtungseinstellungen kannst du in den Systemeinstellungs Menü ändern."
     },
     {
+      "key": "UI_OnlineMode_Body",
+      "value": "Zum Online-Modus wechseln"
+    },
+    {
+      "key": "UI_OnlineMode_Title",
+      "value": "ONLINE-MODUS"
+    },
+    {
       "key": "UI_Operations_EventPointTotal",
       "value": "Gesamtpunkte: {0}"
     },
@@ -28967,6 +31199,22 @@
       "value": "Sprache"
     },
     {
+      "key": "UI_Options_LocalKey_High",
+      "value": "HOCH"
+    },
+    {
+      "key": "UI_Options_LocalKey_Low",
+      "value": "NIEDRIG"
+    },
+    {
+      "key": "UI_Options_LocalKey_Medium",
+      "value": "MITTEL"
+    },
+    {
+      "key": "UI_Options_LocalKey_VeryLow",
+      "value": "SEHR NIEDRIG"
+    },
+    {
       "key": "UI_Options_Music_Off",
       "value": "Musik aus"
     },
@@ -28977,6 +31225,10 @@
     {
       "key": "UI_Options_PlayerId",
       "value": "Spieler-ID"
+    },
+    {
+      "key": "UI_Options_QualitySettings",
+      "value": "Qualitätseinstellungen"
     },
     {
       "key": "UI_Options_ResetPlayerProgressButton",
@@ -29237,6 +31489,14 @@
     {
       "key": "UI_Popup_FleeBattleConfirmation_Challenges",
       "value": "Bist du sicher, dass du aus diesem Kampf fliehen willst? Bei einem Rückzug verlierst du deinen Operationsversuch."
+    },
+    {
+      "key": "UI_Popup_iCloudSaveConflict_Body",
+      "value": "Es gibt einen Konflikt zwischen dem lokalen und dem iCloud-Spielstand. Möchtest du mit deinem aktuellen Fortschritt fortfahren und den iCloud-Fortschritt überschreiben, oder das Spiel neu starten, um den iCloud-Fortschritt zu laden?"
+    },
+    {
+      "key": "UI_Popup_iCloudSaveConflict_Title",
+      "value": "iCLOUD-SPEICHERKONFLIKT"
     },
     {
       "key": "UI_Popup_InvalidState_Body",
@@ -30055,6 +32315,10 @@
       "value": "Tippe, um dein Außenteam hinzuzufügen."
     },
     {
+      "key": "UI_Tutorial_ToolTip_Add4thMemberGeneric_Click",
+      "value": "Klicke, um dein Außenteam hinzuzufügen."
+    },
+    {
       "key": "UI_Tutorial_ToolTip_Add4thMemberGeneric_Gamepad",
       "value": "Drücke {0}, um dein Außenteam hinzuzufügen."
     },
@@ -30065,6 +32329,10 @@
     {
       "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton",
       "value": "Zum Kämpfen tippen"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton_Click",
+      "value": "Zum Kämpfen klicken"
     },
     {
       "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton_Gamepad",
@@ -30087,6 +32355,10 @@
       "value": "Zum Vordringen tippen"
     },
     {
+      "key": "UI_Tutorial_ToolTip_ContinueButton_Click",
+      "value": "Zum Vordringen klicken"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_ContinueButton_Gamepad",
       "value": "Drücke {0}, um vorzudringen"
     },
@@ -30095,12 +32367,20 @@
       "value": "Tippe für deine nächste <color=#fff15c>STERNENFLOTTEN-ANWEISUNG</color>"
     },
     {
+      "key": "UI_Tutorial_ToolTip_Directives_Click",
+      "value": "Klicke für deine nächste <color=#fff15c>STERNENFLOTTEN-ANWEISUNG</color>"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_Directives_Gamepad",
       "value": "Drücke {0} für deine nächste <color=#fff15c>STERNENFLOTTEN-ANWEISUNG</color>"
     },
     {
       "key": "UI_Tutorial_ToolTip_Disable",
       "value": "Tippe, um Worfs Schlachtruf zu verwenden"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_Disable_Click",
+      "value": "Klicke, um Worfs Schlachtruf zu verwenden"
     },
     {
       "key": "UI_Tutorial_ToolTip_Disable_Gamepad",
@@ -30163,6 +32443,10 @@
       "value": "Tippe, um die BRÜCKENCREW auszuwechseln"
     },
     {
+      "key": "UI_Tutorial_ToolTip_TapCrewButton_Click",
+      "value": "Klicke, um die BRÜCKENCREW auszuwechseln"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_TapCrewButton_Gamepad",
       "value": "Drücke {0}, um die BRÜCKENCREW auszuwechseln"
     },
@@ -30195,6 +32479,10 @@
       "value": "Für die nächste MISSION tippen"
     },
     {
+      "key": "UI_Tutorial_ToolTip_TapMissionFrame_Click",
+      "value": "Für die nächste MISSION klicken"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_TapMissionFrame_Gamepad",
       "value": "Drücke {0} für die nächste MISSION"
     },
@@ -30209,6 +32497,10 @@
     {
       "key": "UI_Tutorial_ToolTip_TapToAttack",
       "value": "Tippe, um einen Angriff zu starten!"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_TapToAttack_Click",
+      "value": "Klicke, um einen Angriff zu starten!"
     },
     {
       "key": "UI_Tutorial_ToolTip_TapToAttack_Gamepad",
@@ -30243,5 +32535,5 @@
       "value": "Moralkombo"
     }
   ],
-  "_PathID": "1448"
+  "_PathID": "-8222449694885694346"
 }

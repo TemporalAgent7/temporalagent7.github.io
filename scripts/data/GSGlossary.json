@@ -1,0 +1,122 @@
+{
+  "Health": {
+    "name": "Common_Stat_Health",
+    "description": "Data_Tooltip_HeroInfo_Stats_Health_infoText",
+    "id": "Health"
+  },
+  "Attack": {
+    "name": "Common_Stat_Attack",
+    "description": "Data_Tooltip_HeroInfo_Stats_Attack_infoText",
+    "id": "Attack"
+  },
+  "Defense": {
+    "name": "Common_Stat_Defense",
+    "description": "Data_Tooltip_HeroInfo_Stats_Defense_infoText",
+    "id": "Defense"
+  },
+  "Tech": {
+    "name": "Common_Stat_Tech",
+    "description": "Data_Tooltip_HeroInfo_Stats_Tech_infoText",
+    "id": "Tech"
+  },
+  "Speed": {
+    "name": "Common_Stat_Speed",
+    "description": "Data_Tooltip_HeroInfo_Stats_Speed_infoText",
+    "id": "Speed"
+  },
+  "Crit Chance": {
+    "name": "Common_Stat_CritChance",
+    "description": "Data_Tooltip_HeroInfo_Stats_CritChance_infoText",
+    "id": "Crit Chance"
+  },
+  "Crit Damage": {
+    "name": "Common_Stat_CritDamage",
+    "description": "Data_Tooltip_HeroInfo_Stats_CritDamage_infoText",
+    "id": "Crit Damage"
+  },
+  "Glancing Chance": {
+    "name": "Common_Stat_GlancingChance",
+    "description": "Data_Tooltip_HeroInfo_Stats_GlancingChance_infoText",
+    "id": "Glancing Chance"
+  },
+  "Glancing Damage": {
+    "name": "Common_Stat_GlancingDamage",
+    "description": "Data_Tooltip_HeroInfo_Stats_GlancingDamage_infoText",
+    "id": "Glancing Damage"
+  },
+  "Resolve": {
+    "name": "Common_Stat_Resolve",
+    "description": "Data_Tooltip_HeroInfo_Stats_Resolve_infoText",
+    "id": "Resolve"
+  },
+  "Assimilation": {
+    "name": "Data_Characters_EffectType_displayName_Assimilation",
+    "description": "Data_Characters_EffectType_description_Assimilation",
+    "id": "Assimilation"
+  },
+  "Bomb": {
+    "name": "Data_Characters_EffectType_displayName_Bomb",
+    "description": "Data_Characters_EffectType_description_Bomb",
+    "id": "Bomb"
+  },
+  "Cleanse": {
+    "name": "Data_Characters_EffectType_displayName_Cleanse",
+    "description": "Data_Characters_EffectType_description_Cleanse",
+    "id": "Cleanse"
+  },
+  "Cloak": {
+    "name": "Data_Characters_EffectType_displayName_Cloak",
+    "description": "Data_Characters_EffectType_description_Cloak",
+    "id": "Cloak"
+  },
+  "Counter": {
+    "name": "Data_Characters_EffectType_displayName_Counter",
+    "description": "Data_Characters_EffectType_description_Counter",
+    "id": "Counter"
+  },
+  "MoraleAdd": {
+    "name": "Data_Characters_EffectType_displayName_MoraleAdd",
+    "description": "Data_Characters_EffectType_description_MoraleAdd",
+    "id": "MoraleAdd"
+  },
+  "MoraleRemove": {
+    "name": "Data_Characters_EffectType_displayName_MoraleRemove",
+    "description": "Data_Characters_EffectType_description_MoraleRemove",
+    "id": "MoraleRemove"
+  },
+  "Purge": {
+    "name": "Data_Characters_EffectType_displayName_Purge",
+    "description": "Data_Characters_EffectType_description_Purge",
+    "id": "Purge"
+  },
+  "RedAlert": {
+    "name": "Data_Characters_EffectType_displayName_RedAlert",
+    "description": "Data_Characters_EffectType_description_RedAlert",
+    "id": "RedAlert"
+  },
+  "Scan": {
+    "name": "Data_Characters_EffectType_displayName_Scan",
+    "description": "Data_Characters_EffectType_description_Scan",
+    "id": "Scan"
+  },
+  "Shield": {
+    "name": "Data_Characters_EffectType_displayName_Shield",
+    "description": "Data_Characters_EffectType_description_Shield",
+    "id": "Shield"
+  },
+  "SkillLock": {
+    "name": "Data_Characters_EffectType_displayName_Disable",
+    "description": "Data_Characters_EffectType_description_Disable",
+    "id": "SkillLock"
+  },
+  "Stun": {
+    "name": "Data_Characters_EffectType_displayName_Stun",
+    "description": "Data_Characters_EffectType_description_Stun",
+    "id": "Stun"
+  },
+  "Taunt": {
+    "name": "Data_Characters_EffectType_displayName_Taunt",
+    "description": "Data_Characters_EffectType_description_Taunt",
+    "id": "Taunt"
+  }
+}

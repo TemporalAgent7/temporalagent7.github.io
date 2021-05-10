@@ -3241,6 +3241,573 @@
       "difficulty": "Easy"
     }
   },
+  "e7_m1_firsttime-Easy": {
+    "IdString": "e7_m1_firsttime",
+    "Difficulty": "Easy",
+    "MissionID": "episode 7 mission 1",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 440,
+    "rewardAmount": 10,
+    "rewardId": "Shards Basic",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 440,
+    "ItemMpId": "craft_Accessory_Random_Rare",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10,
+        "Latinum": 440
+      },
+      "FirstAmount": 10,
+      "Dilithium": 0,
+      "Latinum": 440,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m1_firsttime",
+      "difficulty": "Easy"
+    }
+  },
+  "e7_m1_complete-Easy": {
+    "IdString": "e7_m1_complete",
+    "Difficulty": "Easy",
+    "MissionID": "episode 7 mission 1",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 440,
+    "rewardAmount": 24,
+    "rewardId": "Antineutron",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 440,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Antineutron": 24,
+        "Latinum": 440
+      },
+      "FirstAmount": 24,
+      "Dilithium": 0,
+      "Latinum": 440,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m1_complete",
+      "difficulty": "Easy"
+    }
+  },
+  "e7_m1_replay-Easy": {
+    "IdString": "e7_m1_replay",
+    "Difficulty": "Easy",
+    "MissionID": "episode 7 mission 1",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 220,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 220,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 220
+      },
+      "FirstAmount": 220,
+      "Dilithium": 0,
+      "Latinum": 220,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m1_replay",
+      "difficulty": "Easy"
+    }
+  },
+  "e7_m2_firsttime-Easy": {
+    "IdString": "e7_m2_firsttime",
+    "Difficulty": "Easy",
+    "MissionID": "episode 7 mission 2",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 450,
+    "rewardAmount": 10,
+    "rewardId": "Shards Basic",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 450,
+    "ItemMpId": "craft_Gear_Random_Padd_Common",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10,
+        "Latinum": 450
+      },
+      "FirstAmount": 10,
+      "Dilithium": 0,
+      "Latinum": 450,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m2_firsttime",
+      "difficulty": "Easy"
+    }
+  },
+  "e7_m2_complete-Easy": {
+    "IdString": "e7_m2_complete",
+    "Difficulty": "Easy",
+    "MissionID": "episode 7 mission 2",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 450,
+    "rewardAmount": 5,
+    "rewardId": "Torchbearer",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 450,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Torchbearer": 5,
+        "Latinum": 450
+      },
+      "FirstAmount": 5,
+      "Dilithium": 0,
+      "Latinum": 450,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m2_complete",
+      "difficulty": "Easy"
+    }
+  },
+  "e7_m2_replay-Easy": {
+    "IdString": "e7_m2_replay",
+    "Difficulty": "Easy",
+    "MissionID": "episode 7 mission 2",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 225,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 225,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 225
+      },
+      "FirstAmount": 225,
+      "Dilithium": 0,
+      "Latinum": 225,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m2_replay",
+      "difficulty": "Easy"
+    }
+  },
+  "e7_m3_firsttime-Easy": {
+    "IdString": "e7_m3_firsttime",
+    "Difficulty": "Easy",
+    "MissionID": "episode 7 mission 3",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 460,
+    "rewardAmount": 10,
+    "rewardId": "Shards Basic",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 460,
+    "ItemMpId": "craft_Gear_Random_Phaser_Common",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10,
+        "Latinum": 460
+      },
+      "FirstAmount": 10,
+      "Dilithium": 0,
+      "Latinum": 460,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m3_firsttime",
+      "difficulty": "Easy"
+    }
+  },
+  "e7_m3_complete-Easy": {
+    "IdString": "e7_m3_complete",
+    "Difficulty": "Easy",
+    "MissionID": "episode 7 mission 3",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 460,
+    "rewardAmount": 24,
+    "rewardId": "Duranium",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 460,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Duranium": 24,
+        "Latinum": 460
+      },
+      "FirstAmount": 24,
+      "Dilithium": 0,
+      "Latinum": 460,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m3_complete",
+      "difficulty": "Easy"
+    }
+  },
+  "e7_m3_replay-Easy": {
+    "IdString": "e7_m3_replay",
+    "Difficulty": "Easy",
+    "MissionID": "episode 7 mission 3",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 230,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 230,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 230
+      },
+      "FirstAmount": 230,
+      "Dilithium": 0,
+      "Latinum": 230,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m3_replay",
+      "difficulty": "Easy"
+    }
+  },
+  "e7_m4_firsttime-Easy": {
+    "IdString": "e7_m4_firsttime",
+    "Difficulty": "Easy",
+    "MissionID": "episode 7 mission 4",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 480,
+    "rewardAmount": 10,
+    "rewardId": "Shards Basic",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 480,
+    "ItemMpId": "craft_Gear_Random_Communicator_Common",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10,
+        "Latinum": 480
+      },
+      "FirstAmount": 10,
+      "Dilithium": 0,
+      "Latinum": 480,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m4_firsttime",
+      "difficulty": "Easy"
+    }
+  },
+  "e7_m4_complete-Easy": {
+    "IdString": "e7_m4_complete",
+    "Difficulty": "Easy",
+    "MissionID": "episode 7 mission 4",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 480,
+    "rewardAmount": 5,
+    "rewardId": "McCoy",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 480,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "McCoy": 5,
+        "Latinum": 480
+      },
+      "FirstAmount": 5,
+      "Dilithium": 0,
+      "Latinum": 480,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m4_complete",
+      "difficulty": "Easy"
+    }
+  },
+  "e7_m4_replay-Easy": {
+    "IdString": "e7_m4_replay",
+    "Difficulty": "Easy",
+    "MissionID": "episode 7 mission 4",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 240,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 240,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 240
+      },
+      "FirstAmount": 240,
+      "Dilithium": 0,
+      "Latinum": 240,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m4_replay",
+      "difficulty": "Easy"
+    }
+  },
+  "e7_m5_firsttime-Easy": {
+    "IdString": "e7_m5_firsttime",
+    "Difficulty": "Easy",
+    "MissionID": "episode 7 mission 5",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 490,
+    "rewardAmount": 10,
+    "rewardId": "Shards Basic",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 490,
+    "ItemMpId": "craft_Gear_Random_Tricorder_Common",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10,
+        "Latinum": 490
+      },
+      "FirstAmount": 10,
+      "Dilithium": 0,
+      "Latinum": 490,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m5_firsttime",
+      "difficulty": "Easy"
+    }
+  },
+  "e7_m5_complete-Easy": {
+    "IdString": "e7_m5_complete",
+    "Difficulty": "Easy",
+    "MissionID": "episode 7 mission 5",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 490,
+    "rewardAmount": 24,
+    "rewardId": "Andorian Silk",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 490,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Andorian Silk": 24,
+        "Latinum": 490
+      },
+      "FirstAmount": 24,
+      "Dilithium": 0,
+      "Latinum": 490,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m5_complete",
+      "difficulty": "Easy"
+    }
+  },
+  "e7_m5_replay-Easy": {
+    "IdString": "e7_m5_replay",
+    "Difficulty": "Easy",
+    "MissionID": "episode 7 mission 5",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 245,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 245,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 245
+      },
+      "FirstAmount": 245,
+      "Dilithium": 0,
+      "Latinum": 245,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m5_replay",
+      "difficulty": "Easy"
+    }
+  },
+  "e7_m6_firsttime-Easy": {
+    "IdString": "e7_m6_firsttime",
+    "Difficulty": "Easy",
+    "MissionID": "episode 7 mission 6",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 500,
+    "rewardAmount": 10,
+    "rewardId": "Shards Basic",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 500,
+    "heroId": "Torchbearer",
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [
+        "Torchbearer"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10,
+        "Latinum": 500
+      },
+      "FirstAmount": 10,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m6_firsttime",
+      "difficulty": "Easy"
+    }
+  },
+  "e7_m6_complete-Easy": {
+    "IdString": "e7_m6_complete",
+    "Difficulty": "Easy",
+    "MissionID": "episode 7 mission 6",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 500,
+    "rewardAmount": 5,
+    "rewardId": "Torchbearer",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 500,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Torchbearer": 5,
+        "Latinum": 500
+      },
+      "FirstAmount": 5,
+      "Dilithium": 0,
+      "Latinum": 500,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m6_complete",
+      "difficulty": "Easy"
+    }
+  },
+  "e7_m6_replay-Easy": {
+    "IdString": "e7_m6_replay",
+    "Difficulty": "Easy",
+    "MissionID": "episode 7 mission 6",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 250,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 250,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 250
+      },
+      "FirstAmount": 250,
+      "Dilithium": 0,
+      "Latinum": 250,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m6_replay",
+      "difficulty": "Easy"
+    }
+  },
   "e1_m1_firsttime-Hard": {
     "IdString": "e1_m1_firsttime",
     "Difficulty": "Hard",
@@ -6480,6 +7047,573 @@
       "difficulty": "Hard"
     }
   },
+  "e7_m1_firsttime-Hard": {
+    "IdString": "e7_m1_firsttime",
+    "Difficulty": "Hard",
+    "MissionID": "episode 7 mission 1",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 890,
+    "rewardAmount": 15,
+    "rewardId": "Shards Basic",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 890,
+    "ItemMpId": "craft_Accessory_Random_VeryRare",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 15,
+        "Latinum": 890
+      },
+      "FirstAmount": 15,
+      "Dilithium": 0,
+      "Latinum": 890,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m1_firsttime",
+      "difficulty": "Hard"
+    }
+  },
+  "e7_m1_complete-Hard": {
+    "IdString": "e7_m1_complete",
+    "Difficulty": "Hard",
+    "MissionID": "episode 7 mission 1",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 890,
+    "rewardAmount": 45,
+    "rewardId": "Andorian Silk",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 890,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Andorian Silk": 45,
+        "Latinum": 890
+      },
+      "FirstAmount": 45,
+      "Dilithium": 0,
+      "Latinum": 890,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m1_complete",
+      "difficulty": "Hard"
+    }
+  },
+  "e7_m1_replay-Hard": {
+    "IdString": "e7_m1_replay",
+    "Difficulty": "Hard",
+    "MissionID": "episode 7 mission 1",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 445,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 445,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 445
+      },
+      "FirstAmount": 445,
+      "Dilithium": 0,
+      "Latinum": 445,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m1_replay",
+      "difficulty": "Hard"
+    }
+  },
+  "e7_m2_firsttime-Hard": {
+    "IdString": "e7_m2_firsttime",
+    "Difficulty": "Hard",
+    "MissionID": "episode 7 mission 2",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 900,
+    "rewardAmount": 15,
+    "rewardId": "Shards Basic",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 900,
+    "ItemMpId": "craft_Gear_Random_Padd_Common",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 15,
+        "Latinum": 900
+      },
+      "FirstAmount": 15,
+      "Dilithium": 0,
+      "Latinum": 900,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m2_firsttime",
+      "difficulty": "Hard"
+    }
+  },
+  "e7_m2_complete-Hard": {
+    "IdString": "e7_m2_complete",
+    "Difficulty": "Hard",
+    "MissionID": "episode 7 mission 2",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 900,
+    "rewardAmount": 5,
+    "rewardId": "Pike",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 900,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Pike": 5,
+        "Latinum": 900
+      },
+      "FirstAmount": 5,
+      "Dilithium": 0,
+      "Latinum": 900,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m2_complete",
+      "difficulty": "Hard"
+    }
+  },
+  "e7_m2_replay-Hard": {
+    "IdString": "e7_m2_replay",
+    "Difficulty": "Hard",
+    "MissionID": "episode 7 mission 2",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 450,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 450,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 450
+      },
+      "FirstAmount": 450,
+      "Dilithium": 0,
+      "Latinum": 450,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m2_replay",
+      "difficulty": "Hard"
+    }
+  },
+  "e7_m3_firsttime-Hard": {
+    "IdString": "e7_m3_firsttime",
+    "Difficulty": "Hard",
+    "MissionID": "episode 7 mission 3",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 910,
+    "rewardAmount": 15,
+    "rewardId": "Shards Basic",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 910,
+    "ItemMpId": "craft_Gear_Random_Phaser_Common",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 15,
+        "Latinum": 910
+      },
+      "FirstAmount": 15,
+      "Dilithium": 0,
+      "Latinum": 910,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m3_firsttime",
+      "difficulty": "Hard"
+    }
+  },
+  "e7_m3_complete-Hard": {
+    "IdString": "e7_m3_complete",
+    "Difficulty": "Hard",
+    "MissionID": "episode 7 mission 3",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 910,
+    "rewardAmount": 45,
+    "rewardId": "Antineutron",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 910,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Antineutron": 45,
+        "Latinum": 910
+      },
+      "FirstAmount": 45,
+      "Dilithium": 0,
+      "Latinum": 910,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m3_complete",
+      "difficulty": "Hard"
+    }
+  },
+  "e7_m3_replay-Hard": {
+    "IdString": "e7_m3_replay",
+    "Difficulty": "Hard",
+    "MissionID": "episode 7 mission 3",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 455,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 455,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 455
+      },
+      "FirstAmount": 455,
+      "Dilithium": 0,
+      "Latinum": 455,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m3_replay",
+      "difficulty": "Hard"
+    }
+  },
+  "e7_m4_firsttime-Hard": {
+    "IdString": "e7_m4_firsttime",
+    "Difficulty": "Hard",
+    "MissionID": "episode 7 mission 4",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 930,
+    "rewardAmount": 15,
+    "rewardId": "Shards Basic",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 930,
+    "ItemMpId": "craft_Gear_Random_Communicator_Common",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 15,
+        "Latinum": 930
+      },
+      "FirstAmount": 15,
+      "Dilithium": 0,
+      "Latinum": 930,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m4_firsttime",
+      "difficulty": "Hard"
+    }
+  },
+  "e7_m4_complete-Hard": {
+    "IdString": "e7_m4_complete",
+    "Difficulty": "Hard",
+    "MissionID": "episode 7 mission 4",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 930,
+    "rewardAmount": 5,
+    "rewardId": "Burnham",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 930,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Burnham": 5,
+        "Latinum": 930
+      },
+      "FirstAmount": 5,
+      "Dilithium": 0,
+      "Latinum": 930,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m4_complete",
+      "difficulty": "Hard"
+    }
+  },
+  "e7_m4_replay-Hard": {
+    "IdString": "e7_m4_replay",
+    "Difficulty": "Hard",
+    "MissionID": "episode 7 mission 4",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 465,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 465,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 465
+      },
+      "FirstAmount": 465,
+      "Dilithium": 0,
+      "Latinum": 465,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m4_replay",
+      "difficulty": "Hard"
+    }
+  },
+  "e7_m5_firsttime-Hard": {
+    "IdString": "e7_m5_firsttime",
+    "Difficulty": "Hard",
+    "MissionID": "episode 7 mission 5",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 940,
+    "rewardAmount": 15,
+    "rewardId": "Shards Basic",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 940,
+    "ItemMpId": "craft_Gear_Random_Tricorder_Common",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 15,
+        "Latinum": 940
+      },
+      "FirstAmount": 15,
+      "Dilithium": 0,
+      "Latinum": 940,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m5_firsttime",
+      "difficulty": "Hard"
+    }
+  },
+  "e7_m5_complete-Hard": {
+    "IdString": "e7_m5_complete",
+    "Difficulty": "Hard",
+    "MissionID": "episode 7 mission 5",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 940,
+    "rewardAmount": 45,
+    "rewardId": "Duranium",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 940,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Duranium": 45,
+        "Latinum": 940
+      },
+      "FirstAmount": 45,
+      "Dilithium": 0,
+      "Latinum": 940,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m5_complete",
+      "difficulty": "Hard"
+    }
+  },
+  "e7_m5_replay-Hard": {
+    "IdString": "e7_m5_replay",
+    "Difficulty": "Hard",
+    "MissionID": "episode 7 mission 5",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 470,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 470,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 470
+      },
+      "FirstAmount": 470,
+      "Dilithium": 0,
+      "Latinum": 470,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m5_replay",
+      "difficulty": "Hard"
+    }
+  },
+  "e7_m6_firsttime-Hard": {
+    "IdString": "e7_m6_firsttime",
+    "Difficulty": "Hard",
+    "MissionID": "episode 7 mission 6",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 950,
+    "rewardAmount": 15,
+    "rewardId": "Shards Basic",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 950,
+    "heroId": "Pike",
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [
+        "Pike"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 15,
+        "Latinum": 950
+      },
+      "FirstAmount": 15,
+      "Dilithium": 0,
+      "Latinum": 950,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m6_firsttime",
+      "difficulty": "Hard"
+    }
+  },
+  "e7_m6_complete-Hard": {
+    "IdString": "e7_m6_complete",
+    "Difficulty": "Hard",
+    "MissionID": "episode 7 mission 6",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 950,
+    "rewardAmount": 5,
+    "rewardId": "Pike",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 950,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Pike": 5,
+        "Latinum": 950
+      },
+      "FirstAmount": 5,
+      "Dilithium": 0,
+      "Latinum": 950,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m6_complete",
+      "difficulty": "Hard"
+    }
+  },
+  "e7_m6_replay-Hard": {
+    "IdString": "e7_m6_replay",
+    "Difficulty": "Hard",
+    "MissionID": "episode 7 mission 6",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 475,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 475,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 475
+      },
+      "FirstAmount": 475,
+      "Dilithium": 0,
+      "Latinum": 475,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m6_replay",
+      "difficulty": "Hard"
+    }
+  },
   "e1_m1_firsttime-Doom": {
     "IdString": "e1_m1_firsttime",
     "Difficulty": "Doom",
@@ -9716,6 +10850,573 @@
     },
     "id": {
       "id": "e6_m6_replay",
+      "difficulty": "Doom"
+    }
+  },
+  "e7_m1_firsttime-Doom": {
+    "IdString": "e7_m1_firsttime",
+    "Difficulty": "Doom",
+    "MissionID": "episode 7 mission 1",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 1340,
+    "rewardAmount": 20,
+    "rewardId": "Shards Basic",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1340,
+    "ItemMpId": "craft_Accessory_Random_Legendary",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 20,
+        "Latinum": 1340
+      },
+      "FirstAmount": 20,
+      "Dilithium": 0,
+      "Latinum": 1340,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m1_firsttime",
+      "difficulty": "Doom"
+    }
+  },
+  "e7_m1_complete-Doom": {
+    "IdString": "e7_m1_complete",
+    "Difficulty": "Doom",
+    "MissionID": "episode 7 mission 1",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 1340,
+    "rewardAmount": 81,
+    "rewardId": "Andorian Silk",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1340,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Andorian Silk": 81,
+        "Latinum": 1340
+      },
+      "FirstAmount": 81,
+      "Dilithium": 0,
+      "Latinum": 1340,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m1_complete",
+      "difficulty": "Doom"
+    }
+  },
+  "e7_m1_replay-Doom": {
+    "IdString": "e7_m1_replay",
+    "Difficulty": "Doom",
+    "MissionID": "episode 7 mission 1",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 670,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 670,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 670
+      },
+      "FirstAmount": 670,
+      "Dilithium": 0,
+      "Latinum": 670,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m1_replay",
+      "difficulty": "Doom"
+    }
+  },
+  "e7_m2_firsttime-Doom": {
+    "IdString": "e7_m2_firsttime",
+    "Difficulty": "Doom",
+    "MissionID": "episode 7 mission 2",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 1350,
+    "rewardAmount": 20,
+    "rewardId": "Shards Basic",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1350,
+    "ItemMpId": "craft_Gear_Random_Padd_Common",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 20,
+        "Latinum": 1350
+      },
+      "FirstAmount": 20,
+      "Dilithium": 0,
+      "Latinum": 1350,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m2_firsttime",
+      "difficulty": "Doom"
+    }
+  },
+  "e7_m2_complete-Doom": {
+    "IdString": "e7_m2_complete",
+    "Difficulty": "Doom",
+    "MissionID": "episode 7 mission 2",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 1350,
+    "rewardAmount": 5,
+    "rewardId": "Picard",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1350,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Picard": 5,
+        "Latinum": 1350
+      },
+      "FirstAmount": 5,
+      "Dilithium": 0,
+      "Latinum": 1350,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m2_complete",
+      "difficulty": "Doom"
+    }
+  },
+  "e7_m2_replay-Doom": {
+    "IdString": "e7_m2_replay",
+    "Difficulty": "Doom",
+    "MissionID": "episode 7 mission 2",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 675,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 675,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 675
+      },
+      "FirstAmount": 675,
+      "Dilithium": 0,
+      "Latinum": 675,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m2_replay",
+      "difficulty": "Doom"
+    }
+  },
+  "e7_m3_firsttime-Doom": {
+    "IdString": "e7_m3_firsttime",
+    "Difficulty": "Doom",
+    "MissionID": "episode 7 mission 3",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 1360,
+    "rewardAmount": 20,
+    "rewardId": "Shards Basic",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1360,
+    "ItemMpId": "craft_Gear_Random_Phaser_Common",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 20,
+        "Latinum": 1360
+      },
+      "FirstAmount": 20,
+      "Dilithium": 0,
+      "Latinum": 1360,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m3_firsttime",
+      "difficulty": "Doom"
+    }
+  },
+  "e7_m3_complete-Doom": {
+    "IdString": "e7_m3_complete",
+    "Difficulty": "Doom",
+    "MissionID": "episode 7 mission 3",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 1360,
+    "rewardAmount": 81,
+    "rewardId": "Antineutron",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1360,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Antineutron": 81,
+        "Latinum": 1360
+      },
+      "FirstAmount": 81,
+      "Dilithium": 0,
+      "Latinum": 1360,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m3_complete",
+      "difficulty": "Doom"
+    }
+  },
+  "e7_m3_replay-Doom": {
+    "IdString": "e7_m3_replay",
+    "Difficulty": "Doom",
+    "MissionID": "episode 7 mission 3",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 680,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 680,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 680
+      },
+      "FirstAmount": 680,
+      "Dilithium": 0,
+      "Latinum": 680,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m3_replay",
+      "difficulty": "Doom"
+    }
+  },
+  "e7_m4_firsttime-Doom": {
+    "IdString": "e7_m4_firsttime",
+    "Difficulty": "Doom",
+    "MissionID": "episode 7 mission 4",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 1380,
+    "rewardAmount": 20,
+    "rewardId": "Shards Basic",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1380,
+    "ItemMpId": "craft_Gear_Random_Communicator_Common",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 20,
+        "Latinum": 1380
+      },
+      "FirstAmount": 20,
+      "Dilithium": 0,
+      "Latinum": 1380,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m4_firsttime",
+      "difficulty": "Doom"
+    }
+  },
+  "e7_m4_complete-Doom": {
+    "IdString": "e7_m4_complete",
+    "Difficulty": "Doom",
+    "MissionID": "episode 7 mission 4",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 1380,
+    "rewardAmount": 5,
+    "rewardId": "Worf",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1380,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Worf": 5,
+        "Latinum": 1380
+      },
+      "FirstAmount": 5,
+      "Dilithium": 0,
+      "Latinum": 1380,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m4_complete",
+      "difficulty": "Doom"
+    }
+  },
+  "e7_m4_replay-Doom": {
+    "IdString": "e7_m4_replay",
+    "Difficulty": "Doom",
+    "MissionID": "episode 7 mission 4",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 690,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 690,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 690
+      },
+      "FirstAmount": 690,
+      "Dilithium": 0,
+      "Latinum": 690,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m4_replay",
+      "difficulty": "Doom"
+    }
+  },
+  "e7_m5_firsttime-Doom": {
+    "IdString": "e7_m5_firsttime",
+    "Difficulty": "Doom",
+    "MissionID": "episode 7 mission 5",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 1390,
+    "rewardAmount": 20,
+    "rewardId": "Shards Basic",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1390,
+    "ItemMpId": "craft_Gear_Random_Tricorder_Common",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 20,
+        "Latinum": 1390
+      },
+      "FirstAmount": 20,
+      "Dilithium": 0,
+      "Latinum": 1390,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m5_firsttime",
+      "difficulty": "Doom"
+    }
+  },
+  "e7_m5_complete-Doom": {
+    "IdString": "e7_m5_complete",
+    "Difficulty": "Doom",
+    "MissionID": "episode 7 mission 5",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 1390,
+    "rewardAmount": 81,
+    "rewardId": "Duranium",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1390,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Duranium": 81,
+        "Latinum": 1390
+      },
+      "FirstAmount": 81,
+      "Dilithium": 0,
+      "Latinum": 1390,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m5_complete",
+      "difficulty": "Doom"
+    }
+  },
+  "e7_m5_replay-Doom": {
+    "IdString": "e7_m5_replay",
+    "Difficulty": "Doom",
+    "MissionID": "episode 7 mission 5",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 695,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 695,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 695
+      },
+      "FirstAmount": 695,
+      "Dilithium": 0,
+      "Latinum": 695,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m5_replay",
+      "difficulty": "Doom"
+    }
+  },
+  "e7_m6_firsttime-Doom": {
+    "IdString": "e7_m6_firsttime",
+    "Difficulty": "Doom",
+    "MissionID": "episode 7 mission 6",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 1400,
+    "rewardAmount": 20,
+    "rewardId": "Shards Basic",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1400,
+    "heroId": "Picard",
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [
+        "Picard"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 20,
+        "Latinum": 1400
+      },
+      "FirstAmount": 20,
+      "Dilithium": 0,
+      "Latinum": 1400,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m6_firsttime",
+      "difficulty": "Doom"
+    }
+  },
+  "e7_m6_complete-Doom": {
+    "IdString": "e7_m6_complete",
+    "Difficulty": "Doom",
+    "MissionID": "episode 7 mission 6",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 1400,
+    "rewardAmount": 5,
+    "rewardId": "Picard",
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1400,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Picard": 5,
+        "Latinum": 1400
+      },
+      "FirstAmount": 5,
+      "Dilithium": 0,
+      "Latinum": 1400,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m6_complete",
+      "difficulty": "Doom"
+    }
+  },
+  "e7_m6_replay-Doom": {
+    "IdString": "e7_m6_replay",
+    "Difficulty": "Doom",
+    "MissionID": "episode 7 mission 6",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 700,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 700,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 700
+      },
+      "FirstAmount": 700,
+      "Dilithium": 0,
+      "Latinum": 700,
+      "PowerCell": 0,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e7_m6_replay",
       "difficulty": "Doom"
     }
   }

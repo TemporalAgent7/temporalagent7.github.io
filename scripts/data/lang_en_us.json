@@ -5,251 +5,11 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 1,
-    "m_PathID": "1277"
+    "m_FileID": 0,
+    "m_PathID": "-1649100671315775696"
   },
   "m_Name": "lang_en_us",
   "List": [
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
     {
       "key": "",
       "value": ""
@@ -2560,7 +2320,7 @@
     },
     {
       "key": "Alliance_Name_First_48",
-      "value": "Garek's"
+      "value": "Garak's"
     },
     {
       "key": "Alliance_Name_First_49",
@@ -4255,6 +4015,10 @@
       "value": "Seven of Nine"
     },
     {
+      "key": "Common_Shinzon",
+      "value": "Shinzon"
+    },
+    {
       "key": "Common_ShipsComputer",
       "value": "Ship's Computer"
     },
@@ -4880,7 +4644,7 @@
     },
     {
       "key": "Data_Character_PicardDixon_description",
-      "value": "TBD"
+      "value": "A famous fictional detective loved by Picard and occasionally played by him on the Holodeck of the Enterprise. Dixon is pure 'pulp', a two fisted hero as adept with a tommy gun as he is with the ladies."
     },
     {
       "key": "Data_Character_Pike_description",
@@ -4896,7 +4660,7 @@
     },
     {
       "key": "Data_Character_Saru_description",
-      "value": "Saru is a Kelpian, an alien species born with a unique ability to sense danger. The first of his kind to join Starfleet, his dedication and skill led him to become First Officer on the U.S.S. Discovery."
+      "value": "Saru is a Kelpien, an alien species born with a unique ability to sense danger. The first of his kind to join Starfleet, his dedication and skill led him to become First Officer on the U.S.S. Discovery."
     },
     {
       "key": "Data_Character_Scott_description",
@@ -4905,6 +4669,10 @@
     {
       "key": "Data_Character_Sela_description",
       "value": "A half-Romulan, half-Human hybrid. She has little but scorn for mankind, preferring the cool, sharp intellect and fierce passions of her father's people. Treachery is her forte."
+    },
+    {
+      "key": "Data_Character_Shinzon_description",
+      "value": "A clone of Picard, created on Romulus with the intent of using him to spy on the Federation. Instead, Shinzon became a herald of his race's eventual downfall, helping to destroy the Romulan senate and plunge the planet into a brutal conflict."
     },
     {
       "key": "Data_Character_Sisko_description",
@@ -10012,7 +9780,7 @@
     },
     {
       "key": "Data_GSCutSceneDialogue_e5_m1_story01_13",
-      "value": "As your skip's scanners have probably noticed, any attempt to beam seems distorted by the unique magnetic field of the planet."
+      "value": "As your ship's scanners have probably noticed, any attempt to beam seems distorted by the unique magnetic field of the planet."
     },
     {
       "key": "Data_GSCutSceneDialogue_e5_m1_story01_14",
@@ -13671,6 +13439,26 @@
       "value": "Today, we fight for a larger, more precious collective, and you will not stand in our way!"
     },
     {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_01",
+      "value": "We made it! Now where's our trial, mister?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_02",
+      "value": "We are here. And we congratulate you on your determination."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_03",
+      "value": "Despite being offered respite from this place multiple times, you always chose to press on."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_04",
+      "value": "Are we safe now? Are the trials over?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_05",
+      "value": "You are out of harm’s way for the moment, but two more trials await you."
+    },
+    {
       "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_01",
       "value": "Are we lost?"
     },
@@ -13880,7 +13668,7 @@
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m3_story04_03",
-      "value": "Hah! Did Kahless abandon the hunt of his brother, Morath? No, he hunted him across mountain and through valley, for his honor and the honor of their father."
+      "value": "Hah! Did Khaless abandon the hunt of his brother, Morath? No, he hunted him across mountain and through valley, for his honor and the honor of their father."
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m3_story04_04",
@@ -13936,7 +13724,7 @@
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m4_battle09_02",
-      "value": "The Beacon of Kahless is a sacred relic, said to be created by Kahless himself to unite the twenty-four great houses."
+      "value": "The Beacon of Khaless is a sacred relic, said to be created by Khaless himself to unite the twenty-four great houses."
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m4_battle09_03",
@@ -13968,7 +13756,7 @@
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_03",
-      "value": "As Kahless himself once said, \"The wind does not respect a fool.\""
+      "value": "As Khaless himself once said, \"The wind does not respect a fool.\""
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m4_battle11_01",
@@ -13988,7 +13776,7 @@
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m4_battle11_05",
-      "value": "The Klingon champion who defends the Beacon of Kahless! I had a… run in with one."
+      "value": "The Klingon champion who defends the Beacon of Khaless! I had a… run in with one."
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m4_battle11_06",
@@ -14052,7 +13840,7 @@
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_07",
-      "value": "Our route took us close to the Beacon of Kahless."
+      "value": "Our route took us close to the Beacon of Khaless."
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_08",
@@ -14700,7 +14488,7 @@
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_01",
-      "value": "The great Kahless once said, “The enemy may be so strong none can stand against them.”"
+      "value": "The great Khaless once said, “The enemy may be so strong none can stand against them.”"
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_02",
@@ -15220,7 +15008,7 @@
     },
     {
       "key": "Data_GSMissions_displayDesc_Episode5_Mission4",
-      "value": "The away team needs tor prevent the Cube from contacting the Collective for more reinforcements."
+      "value": "The away team needs to prevent the Cube from contacting the Collective for more reinforcements."
     },
     {
       "key": "Data_GSMissions_displayDesc_Episode5_Mission5",
@@ -18204,7 +17992,7 @@
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_AdvancedForward",
-      "value": "THE AWAY TEAM PUSHES FORWARD"
+      "value": "AWAY TEAM PUSHES FORWARD"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_AirFiltrationActivated",
@@ -18265,6 +18053,10 @@
     {
       "key": "Data_GSNodeExploration_ResultsHeader_ComputerHacked",
       "value": "COMPUTER HACKED"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
+      "value": "CONTINUED FORWARD"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_CoreDisabled",
@@ -18433,6 +18225,10 @@
     {
       "key": "Data_GSNodeExploration_ResultsHeader_SpeedBonus",
       "value": "SPEED BONUS"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsHeader_SpeedDown",
+      "value": "SPEED DOWN"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
@@ -18867,6 +18663,10 @@
       "value": "Xenylon"
     },
     {
+      "key": "Data_MissionObjective_e0_m1_Name",
+      "value": "Complete all battles"
+    },
+    {
       "key": "Data_MissionObjective_e1_m1_Name",
       "value": "Rescue Michael Burnham"
     },
@@ -19261,6 +19061,54 @@
     {
       "key": "Data_Quip_text_Burnham_Wounded_02",
       "value": "Dr. McCoy, I could use some help…"
+    },
+    {
+      "key": "Data_Quip_text_Chang_BattleCry_01",
+      "value": "Once more into the breach, dear friends!"
+    },
+    {
+      "key": "Data_Quip_text_Chang_BattleCry_02",
+      "value": "I have so... looked forwards to fighting you!"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Demoralized_01",
+      "value": "Misery acquaints a man with strange bedfellows."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Idle_01",
+      "value": "What was it your Shakespeare said? Life is as tedious as twice-told tale."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Inspired_01",
+      "value": "Truly an inspirational speech. Worthy of the Bard!"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Insult_01",
+      "value": "Humph. I'd beat you but I'd infect my hands."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reaction_Respond_01",
+      "value": "Well isn't this a happy band of brothers?"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reaction_Retort_01",
+      "value": "Cowards die many deaths; The valiant but once!"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reinforce_01",
+      "value": "Now... what have we here?"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Special_TeamAssist_01",
+      "value": "Ah, you called and I answer."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Thank_01",
+      "value": "I thank you for your pains and courtesy."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Wounded_01",
+      "value": "Prick me... do I not bleed?"
     },
     {
       "key": "Data_Quip_text_Chekov_BattleCry_01",
@@ -22984,7 +22832,7 @@
     },
     {
       "key": "Data_Skill_Chang_Bridge_description",
-      "value": "Klingons gain <color=#01e2ff>+3</color> Speed."
+      "value": "Klingons gain <color=#01e2ff>+5%</color> Attack."
     },
     {
       "key": "Data_Skill_Chang_Bridge_displayName",
@@ -25623,6 +25471,62 @@
       "value": "Surprise Attack"
     },
     {
+      "key": "Data_Skill_Shinzon_Attack_description_level1",
+      "value": "Deal <color=#01e2ff>100% Damage</color> (<color=#01e2ff>25% Chance</color> to <color=#01e2ff>Wound</color>)."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Attack_description_level2",
+      "value": "Deal <color=#01e2ff>125% Damage</color> (<color=#01e2ff>50% Chance</color> to <color=#01e2ff>Wound</color>)."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Attack_displayName",
+      "value": "Reman Dagger"
+    },
+    {
+      "key": "Data_Skill_Shinzon_Bridge_description",
+      "value": "Romulans gain <color=#01e2ff>+5%</color> Attack."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Bridge_displayName",
+      "value": "Echo Over The Voice"
+    },
+    {
+      "key": "Data_Skill_Shinzon_Skill1_description_level1",
+      "value": "<color=#01e2ff>-1 Morale</color> and <color=#01e2ff>Defense Down</color> to 1 enemy for 3 turns."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Skill1_description_level2",
+      "value": "<color=#01e2ff>-2 Morale</color> and <color=#01e2ff>Major Defense Down</color> to 1 enemy for 3 turns."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Skill1_displayName",
+      "value": "Deception"
+    },
+    {
+      "key": "Data_Skill_Shinzon_Skill2_description_level1",
+      "value": "<color=#01e2ff>Cloak</color> and <color=#01e2ff>Attack Up</color> to all allies for 3 turns."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Skill2_description_level2",
+      "value": "<color=#01e2ff>Cloak</color> and <color=#01e2ff>Major Attack Up</color> to all allies for 3 turns."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Skill2_displayName",
+      "value": "Reman Tactics"
+    },
+    {
+      "key": "Data_Skill_Shinzon_Skill3_description_level1",
+      "value": "Deal <color=#01e2ff>200% Tech Damage</color> (<color=#01e2ff>Ignores Cover</color>) and <color=#01e2ff>25% Chance -1 Morale</color> to all enemies."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Skill3_description_level2",
+      "value": "Deal <color=#01e2ff>300% Tech Damage</color> (<color=#01e2ff>Ignores Cover</color>) and <color=#01e2ff>50% Chance -1 Morale</color> to all enemies."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Skill3_displayName",
+      "value": "Thalaron Radiation"
+    },
+    {
       "key": "Data_Skill_Sisko_Attack_description_level1",
       "value": "Deal <color=#01e2ff>3 x 35% Damage</color>. (<color=#01e2ff>25% Chance</color> to <color=#01e2ff>Defense Down</color> for 1 turn if enemy is <color=#01e2ff>Cardassian</color>)"
     },
@@ -25880,11 +25784,11 @@
     },
     {
       "key": "Data_Skill_Sulu_Skill2_description_level1",
-      "value": "<color=#01e2ff>Counter</color> and <color=#01e2ff>Crit Chance Up</color> to all allies for 3 turns."
+      "value": "<color=#01e2ff>Counter</color> on self and <color=#01e2ff>Crit Chance Up</color> to all allies for 3 turns."
     },
     {
       "key": "Data_Skill_Sulu_Skill2_description_level2",
-      "value": "<color=#01e2ff>Counter</color> and <color=#01e2ff>Major Crit Chance Up</color> to all allies for 3 turns."
+      "value": "<color=#01e2ff>Counter</color> on self and <color=#01e2ff>Major Crit Chance Up</color> to all allies for 3 turns."
     },
     {
       "key": "Data_Skill_Sulu_Skill2_displayName",
@@ -26012,11 +25916,11 @@
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_description_level1",
-      "value": "<color=#01e2ff>Cloak</color> all allies for 3 turns."
+      "value": "<color=#01e2ff>Cloak</color> all allies for 3 turns. (<color=#01e2ff>+1 Morale</color> if ally is <color=#01e2ff>Romulan</color>)."
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_description_level2",
-      "value": "<color=#01e2ff>Cloak</color> and <color=#01e2ff>Cleanse</color> all allies for 3 turns."
+      "value": "<color=#01e2ff>Cloak</color> and <color=#01e2ff>Cleanse</color> all allies for 3 turns. (<color=#01e2ff>+2 Morale</color> if ally is <color=#01e2ff>Romulan</color>)."
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_displayName",
@@ -26024,11 +25928,11 @@
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_description_level1",
-      "value": "<color=#01e2ff>-1 Morale</color> and <color=#01e2ff>Defense Down</color> to 1 enemy for 3 turns. <color=#01e2ff>Next turn:</color> Deal <color=#01e2ff>200% Damage</color> (Deal <color=#01e2ff>300% Damage</color> if enemy <color=#01e2ff>Morale</color> < 0)"
+      "value": "Deal <color=#01e2ff>200% Tech Damage</color> to 1 enemy and <color=#01e2ff>-1 Morale</color> to all enemies."
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_description_level2",
-      "value": "<color=#01e2ff>-2 Morale</color> and <color=#01e2ff>Major Defense Down</color> to 1 enemy for 3 turns. <color=#01e2ff>Next Turn:</color> Deal <color=#01e2ff>300% Damage</color> (Deal <color=#01e2ff>450% Damage</color> if enemy <color=#01e2ff>Morale</color> < 0)"
+      "value": "Deal <color=#01e2ff>300% Tech Damage</color> to 1 enemy and <color=#01e2ff>-2 Morale</color> to all enemies."
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_displayName",
@@ -26048,7 +25952,7 @@
     },
     {
       "key": "Data_Skill_Torchbearer_Bridge_description",
-      "value": "Klingons gain <color=#01e2ff>+10%</color> Resolve."
+      "value": "Klingons gain <color=#01e2ff>+5%</color> Resolve."
     },
     {
       "key": "Data_Skill_Torchbearer_Bridge_displayName",
@@ -29027,6 +28931,10 @@
       "value": "Michael Burnham Token"
     },
     {
+      "key": "item_Chang_Token",
+      "value": "General Chang Token"
+    },
+    {
       "key": "item_Chekov_Token",
       "value": "Pavel Chekov Token"
     },
@@ -29053,6 +28961,10 @@
     {
       "key": "item_Elnor_Token",
       "value": "Elnor Token"
+    },
+    {
+      "key": "item_Garak_Token",
+      "value": "Elim Garak"
     },
     {
       "key": "item_GenBorgEng01M_Token",
@@ -29221,6 +29133,10 @@
     {
       "key": "item_Picard_Token",
       "value": "Captain Picard Token"
+    },
+    {
+      "key": "item_PicardDixon_Token",
+      "value": "Dixon Hill Picard"
     },
     {
       "key": "item_PicardOld_Token",
@@ -29792,7 +29708,7 @@
     },
     {
       "key": "PopUp_Multiplayer_LowVersion_Body",
-      "value": "In order to play online features, you need to have the latest version of the game. Please make sure you have the latest version in the AppStore"
+      "value": "Online features require an updated version of the game. Updating will make your save file incompatible with older versions of the game. Do you want to update to access online features?"
     },
     {
       "key": "PopUp_Multiplayer_LowVersion_Title",
@@ -31727,6 +31643,10 @@
       "value": "Episode 7"
     },
     {
+      "key": "UI_Common_Missions_EpisodeIdentifier_08",
+      "value": "Episode 8"
+    },
+    {
       "key": "UI_Common_New",
       "value": "New"
     },
@@ -31793,6 +31713,10 @@
     {
       "key": "UI_Common_Special",
       "value": "Special"
+    },
+    {
+      "key": "UI_Common_Splash_Start",
+      "value": "START"
     },
     {
       "key": "UI_Common_Start",
@@ -32035,6 +31959,30 @@
       "value": "In their ancient language, one of them says: “Come. We must follow them to the Reality Engine”."
     },
     {
+      "key": "UI_Cutscene_Episode7_Text1",
+      "value": "The Dreamless had been driven back from the Reality Engine, their plans for it foiled."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text2",
+      "value": "But their leader had learned a secret from the Engine’s mainframe – one that could spell disaster for the Nexus."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text3",
+      "value": "The Caretaker reveals a map, tracking the movements of the Dreamless as they race to an unknown location."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text4",
+      "value": "Even with the destructive work of the Dreamless marked across the map, their next destination stands out."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text5",
+      "value": "It is a flaw so monumental; it eclipses the smaller defects left in their wake."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text6",
+      "value": "The dread it invokes only serves to strengthen your resolve, as you command the Artemis to set course."
+    },
+    {
       "key": "UI_DailyChest_Claim",
       "value": "COLLECT REPLICATOR"
     },
@@ -32075,6 +32023,26 @@
       "value": "Header text for data sharing pop up"
     },
     {
+      "key": "UI_Demo_FullGame_Header",
+      "value": "FULL GAME"
+    },
+    {
+      "key": "UI_DemoComplete_Body",
+      "value": "Thank you for playing the Star Trek: Legends demo. Continue the adventure and play the full game!"
+    },
+    {
+      "key": "UI_DemoComplete_Header",
+      "value": "Demo Complete"
+    },
+    {
+      "key": "UI_DemoVersion_Body",
+      "value": "This version of Star Trek: Legends has been created specifically for demonstration purposes."
+    },
+    {
+      "key": "UI_DemoVersion_Header",
+      "value": "Demo Version"
+    },
+    {
       "key": "UI_DownloadConfirmation_Body",
       "value": "Captain! Our scans indicate that we require <color=##0DDADF><b>{0}MB</b></color> of additional files before we can continue."
     },
@@ -32113,6 +32081,14 @@
     {
       "key": "UI_EncounterPreview_Title",
       "value": "COMBAT ALERT!"
+    },
+    {
+      "key": "UI_Episode_MissionNotAvailable_Body",
+      "value": "You must finish this mission on the previous difficulty to unlock this mission."
+    },
+    {
+      "key": "UI_Episode_MissionNotAvailable_Title",
+      "value": "Mission Locked"
     },
     {
       "key": "UI_Error_ChangeName",
@@ -32380,7 +32356,7 @@
     },
     {
       "key": "UI_Gear_ConfirmReplace_Body",
-      "value": "If you choose to <color=#ff9d00>absorb</color>, the level of <color=#01e2ff>{0}</color> will be <color=#ff9d00>partially absorbed</color> to <color=#01e2ff>{1}</color> and the currently equipped <color=#01e2ff>{0}</color> will be <color=#FF0000>destroyed</color>. <b>Are you sure you want to proceed?</b>"
+      "value": "If you choose to <color=#ff9d00>REPLACE</color> the currently equipped <color=#01e2ff>{0}</color> will be <color=#FF0000>DESTROYED</color>. <b>Are you sure you want to proceed?</b>"
     },
     {
       "key": "UI_Gear_ConfirmReplace_Header",
@@ -32481,6 +32457,10 @@
     {
       "key": "UI_Generic_TodaysGoals",
       "value": "Today's Goals Complete!"
+    },
+    {
+      "key": "UI_Glossary_Header",
+      "value": "Glossary"
     },
     {
       "key": "UI_GoTo_Achievements",
@@ -33251,6 +33231,10 @@
       "value": "REPLAY"
     },
     {
+      "key": "UI_Mission_PopupNotAvailableSecondary_Message",
+      "value": "You must finish this episode on the previous difficulty to unlock this episode."
+    },
+    {
       "key": "ui_mission_result_completion_percent",
       "value": "COMPLETED: {0}%"
     },
@@ -33675,6 +33659,14 @@
       "value": "DELETE ALL DATA"
     },
     {
+      "key": "UI_Popup_DemoDisabled_Body",
+      "value": "Feature not enabled for this demo"
+    },
+    {
+      "key": "UI_Popup_DemoDisabled_Header",
+      "value": "Feature Disabled"
+    },
+    {
       "key": "UI_Popup_DownloadPermission_Body",
       "value": "We need your permission to download critical updates. This is also needed for multiplayer gameplay. We only download what's required for the game. Is this ok?"
     },
@@ -33701,6 +33693,14 @@
     {
       "key": "UI_Popup_FleeBattleConfirmation_Challenges",
       "value": "Are you sure you want to flee this battle? Retreating will result in the loss of your Operation Attempt."
+    },
+    {
+      "key": "UI_Popup_iCloudSaveConflict_Body",
+      "value": "There is a conflict between local and iCloud progress. Would you like to continue with your current progress and overwrite iCloud progress, or restart the game to load iCloud progress?"
+    },
+    {
+      "key": "UI_Popup_iCloudSaveConflict_Title",
+      "value": "iCLOUD SAVE CONFLICT"
     },
     {
       "key": "UI_Popup_InvalidState_Body",
@@ -34739,5 +34739,5 @@
       "value": "Morale Combo"
     }
   ],
-  "_PathID": "1449"
+  "_PathID": "-4722067981024243849"
 }

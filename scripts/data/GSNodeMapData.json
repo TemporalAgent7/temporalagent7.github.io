@@ -2820,26 +2820,26 @@
   },
   "e7_m1_story01": {
     "storyId": "e7_m1_story01",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "environmentPreset": "Combat_NexusMachineInterior_01",
+    "environmentSection": "Environment01_NexusMachineInterior_01",
     "id": "e7_m1_story01"
   },
   "e7_m1_story02": {
     "storyId": "e7_m1_story02",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "environmentPreset": "Combat_NexusMachineInterior_01",
+    "environmentSection": "Environment01_NexusMachineInterior_01",
     "id": "e7_m1_story02"
   },
   "e7_m1_story03": {
-    "storyId": "e7_m1_story03",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "storyId": "e7_m1_story02",
+    "environmentPreset": "Combat_NexusMachineInterior_02",
+    "environmentSection": "Environment01_NexusMachineInterior_02",
     "id": "e7_m1_story03"
   },
   "e7_m1_story04": {
     "storyId": "e7_m1_story04",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "environmentPreset": "Combat_NexusMachineInterior_03",
+    "environmentSection": "Environment01_NexusMachineInterior_03",
     "id": "e7_m1_story04"
   },
   "e7_m2_battle01": {
@@ -2931,26 +2931,26 @@
   },
   "e7_m2_story01": {
     "storyId": "e7_m2_story01",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "environmentPreset": "Combat_Forest_Federation_Clearing_Night",
+    "environmentSection": "Environment01_Forest_Federation_Clearing",
     "id": "e7_m2_story01"
   },
   "e7_m2_story02": {
     "storyId": "e7_m2_story02",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "environmentPreset": "Combat_Forest_Clearing_Night",
+    "environmentSection": "Environment01_Forest_Clearing",
     "id": "e7_m2_story02"
   },
   "e7_m2_story03": {
-    "storyId": "e7_m2_story03",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "storyId": "e7_m2_story02",
+    "environmentPreset": "Combat_Forest_Path_Night",
+    "environmentSection": "Environment01_Forest_Path",
     "id": "e7_m2_story03"
   },
   "e7_m2_story04": {
     "storyId": "e7_m2_story04",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "environmentPreset": "Combat_Forest_Federation_Clearing_Night",
+    "environmentSection": "Environment01_Forest_Federation_Clearing",
     "id": "e7_m2_story04"
   },
   "e7_m3_battle01": {
@@ -2974,13 +2974,13 @@
     "id": "e7_m3_battle04"
   },
   "e7_m3_battle05": {
-    "environmentPreset": "Combat_Borg_DataDistNode",
-    "environmentSection": "Environment02_Borg_DataDistNode",
+    "environmentPreset": "Combat_Borg_RechargingAlcove",
+    "environmentSection": "Environment02_Borg_RechargingAlcove",
     "id": "e7_m3_battle05"
   },
   "e7_m3_battle06": {
-    "environmentPreset": "Combat_Borg_RechargingAlcove",
-    "environmentSection": "Environment02_Borg_RechargingAlcove",
+    "environmentPreset": "Combat_Borg_DataDistNode",
+    "environmentSection": "Environment02_Borg_DataDistNode",
     "id": "e7_m3_battle06"
   },
   "e7_m3_battle07": {
@@ -3053,33 +3053,27 @@
   },
   "e7_m3_story01": {
     "storyId": "e7_m3_story01",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "environmentPreset": "Combat_Borg_DataDistNode",
+    "environmentSection": "Environment02_Borg_DataDistNode",
     "id": "e7_m3_story01"
   },
   "e7_m3_story02": {
     "storyId": "e7_m3_story02",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "environmentPreset": "Combat_Borg_DataDistNode",
+    "environmentSection": "Environment02_Borg_DataDistNode",
     "id": "e7_m3_story02"
   },
   "e7_m3_story03": {
-    "storyId": "e7_m3_story03",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "storyId": "e7_m3_story02",
+    "environmentPreset": "Combat_Borg_DataDistNode",
+    "environmentSection": "Environment02_Borg_DataDistNode",
     "id": "e7_m3_story03"
   },
   "e7_m3_story04": {
     "storyId": "e7_m3_story04",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "environmentPreset": "Combat_Borg_DataDistNode",
+    "environmentSection": "Environment02_Borg_DataDistNode",
     "id": "e7_m3_story04"
-  },
-  "e7_m3_story05": {
-    "storyId": "e7_m3_story05",
-    "environmentPreset": "",
-    "environmentSection": "",
-    "id": "e7_m3_story05"
   },
   "e7_m4_battle01": {
     "environmentPreset": "Combat_FedShip_Maru_InteriorRoom_01",
@@ -3160,20 +3154,20 @@
   },
   "e7_m4_story01": {
     "storyId": "e7_m4_story01",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "environmentPreset": "Combat_FedShip_Maru_InteriorRoom_01",
+    "environmentSection": "Environment01_FedShip_InteriorRoom",
     "id": "e7_m4_story01"
   },
   "e7_m4_story02": {
     "storyId": "e7_m4_story02",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "environmentPreset": "Combat_FedShip_Maru_InteriorRoom_01",
+    "environmentSection": "Environment01_FedShip_InteriorRoom",
     "id": "e7_m4_story02"
   },
   "e7_m4_story03": {
     "storyId": "e7_m4_story03",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "environmentPreset": "Combat_FedShip_Maru_EntryWell_01",
+    "environmentSection": "Environment01_FedShip_Maru_InteriorEntryWell",
     "id": "e7_m4_story03"
   },
   "e7_m5_battle01": {
@@ -3251,14 +3245,14 @@
   },
   "e7_m5_story01": {
     "storyId": "e7_m5_story01",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "environmentPreset": "Combat_Desert_CanyonNight",
+    "environmentSection": "Environment01_Desert_Canyon",
     "id": "e7_m5_story01"
   },
   "e7_m5_story02": {
     "storyId": "e7_m5_story02",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "environmentPreset": "Exploration_DesertNight_e7m5_RomulanShuttle",
+    "environmentSection": "Environment01_Desert",
     "id": "e7_m5_story02"
   },
   "e7_m6_battle01": {
@@ -3345,32 +3339,26 @@
   },
   "e7_m6_story01": {
     "storyId": "e7_m6_story01",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "environmentPreset": "Combat_NexusMachineInterior_03",
+    "environmentSection": "Environment01_NexusMachineInterior_03",
     "id": "e7_m6_story01"
   },
   "e7_m6_story02": {
     "storyId": "e7_m6_story02",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "environmentPreset": "Combat_NexusMachineInterior_01",
+    "environmentSection": "Environment01_NexusMachineInterior_01",
     "id": "e7_m6_story02"
   },
   "e7_m6_story03": {
     "storyId": "e7_m6_story03",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "environmentPreset": "Combat_NexusMachineInterior_01",
+    "environmentSection": "Environment01_NexusMachineInterior_01",
     "id": "e7_m6_story03"
   },
   "e7_m6_story04": {
-    "storyId": "e7_m6_story04",
-    "environmentPreset": "",
-    "environmentSection": "",
+    "storyId": "e7_m6_story03",
+    "environmentPreset": "Combat_NexusMachineInterior_02",
+    "environmentSection": "Environment01_NexusMachineInterior_02",
     "id": "e7_m6_story04"
-  },
-  "e7_m6_story05": {
-    "storyId": "e7_m6_story05",
-    "environmentPreset": "",
-    "environmentSection": "",
-    "id": "e7_m6_story05"
   }
 }

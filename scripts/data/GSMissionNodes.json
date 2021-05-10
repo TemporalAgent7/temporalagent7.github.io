@@ -1142,6 +1142,7 @@
         "EndNode": false,
         "NodeId": "e3_m2_exploration01",
         "NextNodeIds": [
+          "e3_m2_battle02",
           "e3_m2_battle01"
         ],
         "Type": "Opportunity"
@@ -1163,7 +1164,7 @@
         "NextNodeIds": [
           "e3_m2_exploration02"
         ],
-        "PreviousNodeId": "e3_m2_battle01",
+        "PreviousNodeId": "e3_m2_exploration01",
         "Type": "Encounter"
       },
       "e3_m2_exploration02": {
@@ -5918,21 +5919,11 @@
       },
       "e7_m3_battle14": {
         "StartNode": false,
-        "EndNode": false,
+        "EndNode": true,
         "NodeId": "e7_m3_battle14",
-        "NextNodeIds": [
-          "e7_m3_story05"
-        ],
+        "NextNodeIds": [],
         "PreviousNodeId": "e7_m3_story04",
         "Type": "Encounter"
-      },
-      "e7_m3_story05": {
-        "StartNode": false,
-        "EndNode": true,
-        "NodeId": "e7_m3_story05",
-        "NextNodeIds": [],
-        "PreviousNodeId": "e7_m3_battle14",
-        "Type": "Story"
       }
     },
     "id": "e7_m3"
@@ -6480,21 +6471,11 @@
       },
       "e7_m6_battle12": {
         "StartNode": false,
-        "EndNode": false,
+        "EndNode": true,
         "NodeId": "e7_m6_battle12",
-        "NextNodeIds": [
-          "e7_m6_story05"
-        ],
+        "NextNodeIds": [],
         "PreviousNodeId": "e7_m6_exploration02",
         "Type": "Encounter"
-      },
-      "e7_m6_story05": {
-        "StartNode": false,
-        "EndNode": true,
-        "NodeId": "e7_m6_story05",
-        "NextNodeIds": [],
-        "PreviousNodeId": "e7_m6_battle12",
-        "Type": "Story"
       }
     },
     "id": "e7_m6"

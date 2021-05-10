@@ -4486,6 +4486,13 @@
     "DialogueType": "CutScene",
     "id": "e7_m3_battle14"
   },
+  "e7_m3_battle14_post": {
+    "Skippable": true,
+    "Repeatable": true,
+    "StoryID": "e7_m3_battle14_post",
+    "DialogueType": "CutScene",
+    "id": "e7_m3_battle14_post"
+  },
   "e7_m4_story01": {
     "Skippable": true,
     "Repeatable": true,

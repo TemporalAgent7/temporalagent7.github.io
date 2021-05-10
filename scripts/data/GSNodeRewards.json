@@ -18097,6 +18097,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 265,
     "IconName": "Ico_Disable",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ForcefieldDisabled",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option01",
     "ProficiencyRequirements": [
       {
@@ -18129,6 +18130,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 135,
     "IconName": "Ico_Vantage",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_AlternatePath",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -18156,6 +18158,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 265,
     "IconName": "Ico_Open",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option01",
     "ProficiencyRequirements": [
       {
@@ -18188,6 +18191,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 135,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -18215,6 +18219,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 135,
     "IconName": "Ico_Vantage",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option01",
     "ProficiencyRequirements": [],
     "id": {
@@ -18242,6 +18247,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 135,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -18780,6 +18786,7 @@
     "ReplayXp": 270,
     "BonusEffectId": "Tech Up",
     "IconName": "Ico_Scan",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_TechBonus",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option01",
     "ProficiencyRequirements": [
       {
@@ -18813,6 +18820,7 @@
     "ReplayXp": 135,
     "BonusEffectId": "Speed Down Ally",
     "IconName": "Ico_Heal",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SpeedDown",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -18840,6 +18848,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 270,
     "IconName": "Ico_Search",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option03",
     "ProficiencyRequirements": [
       {
@@ -18872,6 +18881,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 270,
     "IconName": "Ico_Open",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option01",
     "ProficiencyRequirements": [
       {
@@ -18904,6 +18914,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 135,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -19469,6 +19480,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 280,
     "IconName": "Ico_Scan",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SensorsAccessed",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option01",
     "ProficiencyRequirements": [
       {
@@ -19501,6 +19513,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 140,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_AlternatePath",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -19529,6 +19542,7 @@
     "ReplayXp": 280,
     "BonusEffectId": "Defense Up",
     "IconName": "Ico_Repair",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_DefenseBonus",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option01",
     "ProficiencyRequirements": [
       {
@@ -19561,6 +19575,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 140,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -19588,6 +19603,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 280,
     "IconName": "Ico_Salvage",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option01",
     "ProficiencyRequirements": [
       {
@@ -19620,6 +19636,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 140,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -19770,29 +19787,6 @@
     "ProficiencyRequirements": [],
     "id": {
       "id": "e7_m3_story04",
-      "difficulty": "Easy"
-    }
-  },
-  "e7_m3_story05-Easy": {
-    "NodeId": "e7_m3_story05",
-    "Difficulty": "Easy",
-    "HeroTokenAmount": 0,
-    "reward": {
-      "Characters": [],
-      "Accessories": {},
-      "Gears": {},
-      "AllItems": {},
-      "FirstAmount": 0,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
-      "IsEmpty": true
-    },
-    "ReplayLatinum": 0,
-    "ReplayXp": 0,
-    "ProficiencyRequirements": [],
-    "id": {
-      "id": "e7_m3_story05",
       "difficulty": "Easy"
     }
   },
@@ -20124,6 +20118,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 285,
     "IconName": "Ico_Heal",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_PersonnelHealed",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option01",
     "ProficiencyRequirements": [
       {
@@ -20157,6 +20152,7 @@
     "ReplayXp": 145,
     "BonusEffectId": "Attack Up",
     "IconName": "Ico_Attack",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_AttackBonus",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -20184,6 +20180,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 145,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option01",
     "ProficiencyRequirements": [],
     "id": {
@@ -20211,6 +20208,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 285,
     "IconName": "Ico_Open",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option02",
     "ProficiencyRequirements": [
       {
@@ -20618,6 +20616,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 295,
     "IconName": "Ico_Diplomacy",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAvoided",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option01",
     "ProficiencyRequirements": [
       {
@@ -20650,6 +20649,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 150,
     "IconName": "Ico_Attack",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAlert",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -20677,6 +20677,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 295,
     "IconName": "Ico_Diplomacy",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAvoided",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option01",
     "ProficiencyRequirements": [
       {
@@ -20709,6 +20710,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 150,
     "IconName": "Ico_Attack",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAlert",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -20736,6 +20738,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 295,
     "IconName": "Ico_Diplomacy",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAvoided",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option01",
     "ProficiencyRequirements": [
       {
@@ -20768,6 +20771,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 150,
     "IconName": "Ico_Attack",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAlert",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -21231,6 +21235,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 150,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_LeftPath",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option01",
     "ProficiencyRequirements": [],
     "id": {
@@ -21258,6 +21263,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 150,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_RightPath",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -21286,6 +21292,7 @@
     "ReplayXp": 300,
     "BonusEffectId": "Morale Up",
     "IconName": "Ico_Diplomacy",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_MoraleBonus",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option01",
     "ProficiencyRequirements": [
       {
@@ -21318,6 +21325,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 150,
     "IconName": "Ico_Attack",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAlert",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -21346,6 +21354,7 @@
     "ReplayXp": 300,
     "BonusEffectId": "Tech Up",
     "IconName": "Ico_Scan",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_TechBonus",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option03",
     "ProficiencyRequirements": [
       {
@@ -21501,29 +21510,6 @@
     "ProficiencyRequirements": [],
     "id": {
       "id": "e7_m6_story04",
-      "difficulty": "Easy"
-    }
-  },
-  "e7_m6_story05-Easy": {
-    "NodeId": "e7_m6_story05",
-    "Difficulty": "Easy",
-    "HeroTokenAmount": 0,
-    "reward": {
-      "Characters": [],
-      "Accessories": {},
-      "Gears": {},
-      "AllItems": {},
-      "FirstAmount": 0,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
-      "IsEmpty": true
-    },
-    "ReplayLatinum": 0,
-    "ReplayXp": 0,
-    "ProficiencyRequirements": [],
-    "id": {
-      "id": "e7_m6_story05",
       "difficulty": "Easy"
     }
   },
@@ -39649,6 +39635,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 535,
     "IconName": "Ico_Disable",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ForcefieldDisabled",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option01",
     "ProficiencyRequirements": [
       {
@@ -39681,6 +39668,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 270,
     "IconName": "Ico_Vantage",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_AlternatePath",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -39708,6 +39696,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 535,
     "IconName": "Ico_Open",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option01",
     "ProficiencyRequirements": [
       {
@@ -39740,6 +39729,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 270,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -39767,6 +39757,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 270,
     "IconName": "Ico_Vantage",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option01",
     "ProficiencyRequirements": [],
     "id": {
@@ -39794,6 +39785,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 270,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -40332,6 +40324,7 @@
     "ReplayXp": 540,
     "BonusEffectId": "Tech Up",
     "IconName": "Ico_Scan",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_TechBonus",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option01",
     "ProficiencyRequirements": [
       {
@@ -40365,6 +40358,7 @@
     "ReplayXp": 270,
     "BonusEffectId": "Speed Down Ally",
     "IconName": "Ico_Heal",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SpeedDown",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -40392,6 +40386,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 540,
     "IconName": "Ico_Search",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option03",
     "ProficiencyRequirements": [
       {
@@ -40424,6 +40419,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 540,
     "IconName": "Ico_Open",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option01",
     "ProficiencyRequirements": [
       {
@@ -40456,6 +40452,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 270,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -41021,6 +41018,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 550,
     "IconName": "Ico_Scan",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SensorsAccessed",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option01",
     "ProficiencyRequirements": [
       {
@@ -41053,6 +41051,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 275,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_AlternatePath",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -41081,6 +41080,7 @@
     "ReplayXp": 550,
     "BonusEffectId": "Defense Up",
     "IconName": "Ico_Repair",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_DefenseBonus",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option01",
     "ProficiencyRequirements": [
       {
@@ -41113,6 +41113,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 275,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -41140,6 +41141,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 550,
     "IconName": "Ico_Salvage",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option01",
     "ProficiencyRequirements": [
       {
@@ -41172,6 +41174,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 275,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -41322,29 +41325,6 @@
     "ProficiencyRequirements": [],
     "id": {
       "id": "e7_m3_story04",
-      "difficulty": "Hard"
-    }
-  },
-  "e7_m3_story05-Hard": {
-    "NodeId": "e7_m3_story05",
-    "Difficulty": "Hard",
-    "HeroTokenAmount": 0,
-    "reward": {
-      "Characters": [],
-      "Accessories": {},
-      "Gears": {},
-      "AllItems": {},
-      "FirstAmount": 0,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
-      "IsEmpty": true
-    },
-    "ReplayLatinum": 0,
-    "ReplayXp": 0,
-    "ProficiencyRequirements": [],
-    "id": {
-      "id": "e7_m3_story05",
       "difficulty": "Hard"
     }
   },
@@ -41675,8 +41655,8 @@
     },
     "ReplayLatinum": 0,
     "ReplayXp": 555,
-    "BonusEffectId": "Morale Up",
     "IconName": "Ico_Heal",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_PersonnelHealed",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option01",
     "ProficiencyRequirements": [
       {
@@ -41708,7 +41688,9 @@
     },
     "ReplayLatinum": 0,
     "ReplayXp": 280,
+    "BonusEffectId": "Attack Up",
     "IconName": "Ico_Attack",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_AttackBonus",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -41736,6 +41718,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 280,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option01",
     "ProficiencyRequirements": [],
     "id": {
@@ -41763,6 +41746,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 555,
     "IconName": "Ico_Open",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option02",
     "ProficiencyRequirements": [
       {
@@ -42169,8 +42153,8 @@
     },
     "ReplayLatinum": 0,
     "ReplayXp": 565,
-    "BonusEffectId": "Morale Up",
     "IconName": "Ico_Diplomacy",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAvoided",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option01",
     "ProficiencyRequirements": [
       {
@@ -42203,6 +42187,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 285,
     "IconName": "Ico_Attack",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAlert",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -42229,8 +42214,8 @@
     },
     "ReplayLatinum": 0,
     "ReplayXp": 565,
-    "BonusEffectId": "Morale Up",
     "IconName": "Ico_Diplomacy",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAvoided",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option01",
     "ProficiencyRequirements": [
       {
@@ -42263,6 +42248,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 285,
     "IconName": "Ico_Attack",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAlert",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -42290,6 +42276,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 565,
     "IconName": "Ico_Diplomacy",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAvoided",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option01",
     "ProficiencyRequirements": [
       {
@@ -42322,6 +42309,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 285,
     "IconName": "Ico_Attack",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAlert",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -42785,6 +42773,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 285,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_LeftPath",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option01",
     "ProficiencyRequirements": [],
     "id": {
@@ -42812,6 +42801,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 285,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_RightPath",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -42840,6 +42830,7 @@
     "ReplayXp": 570,
     "BonusEffectId": "Morale Up",
     "IconName": "Ico_Diplomacy",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_MoraleBonus",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option01",
     "ProficiencyRequirements": [
       {
@@ -42872,6 +42863,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 285,
     "IconName": "Ico_Attack",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAlert",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -42898,8 +42890,9 @@
     },
     "ReplayLatinum": 0,
     "ReplayXp": 570,
-    "BonusEffectId": "Attack Up",
+    "BonusEffectId": "Tech Up",
     "IconName": "Ico_Scan",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_TechBonus",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option03",
     "ProficiencyRequirements": [
       {
@@ -43055,29 +43048,6 @@
     "ProficiencyRequirements": [],
     "id": {
       "id": "e7_m6_story04",
-      "difficulty": "Hard"
-    }
-  },
-  "e7_m6_story05-Hard": {
-    "NodeId": "e7_m6_story05",
-    "Difficulty": "Hard",
-    "HeroTokenAmount": 0,
-    "reward": {
-      "Characters": [],
-      "Accessories": {},
-      "Gears": {},
-      "AllItems": {},
-      "FirstAmount": 0,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
-      "IsEmpty": true
-    },
-    "ReplayLatinum": 0,
-    "ReplayXp": 0,
-    "ProficiencyRequirements": [],
-    "id": {
-      "id": "e7_m6_story05",
       "difficulty": "Hard"
     }
   },
@@ -61203,6 +61173,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 805,
     "IconName": "Ico_Disable",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ForcefieldDisabled",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option01",
     "ProficiencyRequirements": [
       {
@@ -61235,6 +61206,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 405,
     "IconName": "Ico_Vantage",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_AlternatePath",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -61262,6 +61234,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 805,
     "IconName": "Ico_Open",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option01",
     "ProficiencyRequirements": [
       {
@@ -61294,6 +61267,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 405,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -61321,6 +61295,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 405,
     "IconName": "Ico_Vantage",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option01",
     "ProficiencyRequirements": [],
     "id": {
@@ -61348,6 +61323,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 405,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -61886,6 +61862,7 @@
     "ReplayXp": 810,
     "BonusEffectId": "Tech Up",
     "IconName": "Ico_Scan",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_TechBonus",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option01",
     "ProficiencyRequirements": [
       {
@@ -61919,6 +61896,7 @@
     "ReplayXp": 405,
     "BonusEffectId": "Speed Down Ally",
     "IconName": "Ico_Heal",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SpeedDown",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -61946,6 +61924,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 810,
     "IconName": "Ico_Search",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option03",
     "ProficiencyRequirements": [
       {
@@ -61978,6 +61957,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 810,
     "IconName": "Ico_Open",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option01",
     "ProficiencyRequirements": [
       {
@@ -62010,6 +61990,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 405,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -62575,6 +62556,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 820,
     "IconName": "Ico_Scan",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SensorsAccessed",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option01",
     "ProficiencyRequirements": [
       {
@@ -62607,6 +62589,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 410,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_AlternatePath",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -62635,6 +62618,7 @@
     "ReplayXp": 820,
     "BonusEffectId": "Defense Up",
     "IconName": "Ico_Repair",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_DefenseBonus",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option01",
     "ProficiencyRequirements": [
       {
@@ -62667,6 +62651,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 410,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -62694,6 +62679,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 820,
     "IconName": "Ico_Salvage",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option01",
     "ProficiencyRequirements": [
       {
@@ -62726,6 +62712,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 410,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -62876,29 +62863,6 @@
     "ProficiencyRequirements": [],
     "id": {
       "id": "e7_m3_story04",
-      "difficulty": "Doom"
-    }
-  },
-  "e7_m3_story05-Doom": {
-    "NodeId": "e7_m3_story05",
-    "Difficulty": "Doom",
-    "HeroTokenAmount": 0,
-    "reward": {
-      "Characters": [],
-      "Accessories": {},
-      "Gears": {},
-      "AllItems": {},
-      "FirstAmount": 0,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
-      "IsEmpty": true
-    },
-    "ReplayLatinum": 0,
-    "ReplayXp": 0,
-    "ProficiencyRequirements": [],
-    "id": {
-      "id": "e7_m3_story05",
       "difficulty": "Doom"
     }
   },
@@ -63229,8 +63193,8 @@
     },
     "ReplayLatinum": 0,
     "ReplayXp": 825,
-    "BonusEffectId": "Morale Up",
     "IconName": "Ico_Heal",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_PersonnelHealed",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option01",
     "ProficiencyRequirements": [
       {
@@ -63262,7 +63226,9 @@
     },
     "ReplayLatinum": 0,
     "ReplayXp": 415,
+    "BonusEffectId": "Attack Up",
     "IconName": "Ico_Attack",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_AttackBonus",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -63290,6 +63256,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 415,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option01",
     "ProficiencyRequirements": [],
     "id": {
@@ -63317,6 +63284,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 825,
     "IconName": "Ico_Open",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option02",
     "ProficiencyRequirements": [
       {
@@ -63723,8 +63691,8 @@
     },
     "ReplayLatinum": 0,
     "ReplayXp": 835,
-    "BonusEffectId": "Morale Up",
     "IconName": "Ico_Diplomacy",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAvoided",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option01",
     "ProficiencyRequirements": [
       {
@@ -63757,6 +63725,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 420,
     "IconName": "Ico_Attack",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAlert",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -63783,8 +63752,8 @@
     },
     "ReplayLatinum": 0,
     "ReplayXp": 835,
-    "BonusEffectId": "Morale Up",
     "IconName": "Ico_Diplomacy",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAvoided",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option01",
     "ProficiencyRequirements": [
       {
@@ -63817,6 +63786,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 420,
     "IconName": "Ico_Attack",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAlert",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -63844,6 +63814,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 835,
     "IconName": "Ico_Diplomacy",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAvoided",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option01",
     "ProficiencyRequirements": [
       {
@@ -63876,6 +63847,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 420,
     "IconName": "Ico_Attack",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAlert",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -64339,6 +64311,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 420,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_LeftPath",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option01",
     "ProficiencyRequirements": [],
     "id": {
@@ -64366,6 +64339,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 420,
     "IconName": "Ico_Advance",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_RightPath",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -64394,6 +64368,7 @@
     "ReplayXp": 840,
     "BonusEffectId": "Morale Up",
     "IconName": "Ico_Diplomacy",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_MoraleBonus",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option01",
     "ProficiencyRequirements": [
       {
@@ -64426,6 +64401,7 @@
     "ReplayLatinum": 0,
     "ReplayXp": 420,
     "IconName": "Ico_Attack",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_CombatAlert",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option02",
     "ProficiencyRequirements": [],
     "id": {
@@ -64452,8 +64428,9 @@
     },
     "ReplayLatinum": 0,
     "ReplayXp": 840,
-    "BonusEffectId": "Attack Up",
+    "BonusEffectId": "Tech Up",
     "IconName": "Ico_Scan",
+    "HeaderLockey": "Data_GSNodeExploration_ResultsHeader_TechBonus",
     "DescLocKey": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option03",
     "ProficiencyRequirements": [
       {
@@ -64609,29 +64586,6 @@
     "ProficiencyRequirements": [],
     "id": {
       "id": "e7_m6_story04",
-      "difficulty": "Doom"
-    }
-  },
-  "e7_m6_story05-Doom": {
-    "NodeId": "e7_m6_story05",
-    "Difficulty": "Doom",
-    "HeroTokenAmount": 0,
-    "reward": {
-      "Characters": [],
-      "Accessories": {},
-      "Gears": {},
-      "AllItems": {},
-      "FirstAmount": 0,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
-      "IsEmpty": true
-    },
-    "ReplayLatinum": 0,
-    "ReplayXp": 0,
-    "ProficiencyRequirements": [],
-    "id": {
-      "id": "e7_m6_story05",
       "difficulty": "Doom"
     }
   }
