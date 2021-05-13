@@ -80,6 +80,10 @@ const accessoryCharacterAssignment = (playerData, accessoryId) => {
 };
 
 const MissionStatus = ({ data }) => {
+	if (!data) {
+		return <span style={{ color: "red" }}>ERROR</span>;
+	}
+
 	if (data.complete) {
 		return <span>{data.complete_pct}% complete</span>;
 	} else {
