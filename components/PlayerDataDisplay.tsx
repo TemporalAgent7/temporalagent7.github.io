@@ -195,7 +195,7 @@ export const PlayerDataDisplay = ({ playerData, gearIcons, allCharacters }) => {
 				xp: playerData.units[char].xp,
 				rank: playerData.units[char].rank,
 				power: playerData.units[char].power,
-				shards: playerData.items[char] || 0,
+				shards: (playerData.items && playerData.items[char]) || 0,
 				accessory1: playerData.units[char].accessories['_0'],
 				accessory2: playerData.units[char].accessories['_1'],
 				gear1: playerData.units[char].gears['_0'],
