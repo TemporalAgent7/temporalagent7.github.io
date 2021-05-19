@@ -16,5 +16,8 @@ function AesDecrypt(msg, key, ivBase64) {
 export function parse(data) {
 	let obj = bplistParser.parseBuffer(Buffer.from(data));
 
-	return AesDecrypt(obj[0]["0 data"], "K1FjcmVkc2Vhc29u", "LH75Qxpyf0prVvImu4gqxg==");
+	let result = AesDecrypt(obj[0]["0 data"], "K1FjcmVkc2Vhc29u", "LH75Qxpyf0prVvImu4gqxg==");
+	result.cloudSaveId = obj[0]["0 cloudSaveId"];
+
+	return result;
 }
