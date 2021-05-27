@@ -13,7 +13,7 @@ const ItemSkillDisplay = ({ skill, isBridge }) => {
 				<span dangerouslySetInnerHTML={{ __html: skill.locDescription }} />
 				<p><b>Effects: </b>{effects.map(entry => `${entry.effect} (${entry.fraction}x)`).join(', ')}</p>
 				{hasCasterEffect && <p><b>Caster effect: </b>{skill.casterEffect.effect} ({skill.casterEffect.fraction}x)</p>}
-				<p><b>Target:</b> {skill.numTargets} {skill.targetState} {skill.targetType} {skill.isSingleTarget ? ' (single)' : skill.isMultiRandom ? ' (multiple random)' : ' (multiple)'} <b>Cooldown:</b> {skill.cooldown} ({skill.startingCooldown} start)</p>
+				<p><b>Target:</b> {(skill.numTargets == 0) ? "All" : skill.numTargets} {skill.targetState} {skill.targetType} {skill.isSingleTarget ? ' (single)' : skill.isMultiRandom ? ' (multiple random)' : ' (multiple)'} <b>Cooldown:</b> {skill.cooldown} ({skill.startingCooldown} start)</p>
 			</Item.Description>
 		</Item.Content>
 	</Item>;
