@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": "1277"
+    "m_PathID": "1301"
   },
   "m_Name": "lang_ko",
   "List": [
@@ -1243,6 +1243,10 @@
       "value": "언어 선택"
     },
     {
+      "key": "Choose_Quality_Header",
+      "value": "매우 높음"
+    },
+    {
       "key": "Common_AccessoriesSortingType_Equipped",
       "value": "장착됨"
     },
@@ -1523,6 +1527,10 @@
       "value": "강등"
     },
     {
+      "key": "Common_Details",
+      "value": "세부 정보"
+    },
+    {
       "key": "Common_Dilithium",
       "value": "다이리튬"
     },
@@ -1623,6 +1631,10 @@
       "value": "비활성화"
     },
     {
+      "key": "Common_ExplorationOptionType_Disarm",
+      "value": "무장 해제"
+    },
+    {
       "key": "Common_ExplorationOptionType_Eject",
       "value": "탈출"
     },
@@ -1683,6 +1695,10 @@
       "value": "조사하기"
     },
     {
+      "key": "Common_ExplorationOptionType_Jump",
+      "value": "점프"
+    },
+    {
       "key": "Common_ExplorationOptionType_Leave",
       "value": "떠나기"
     },
@@ -1721,6 +1737,10 @@
     {
       "key": "Common_ExplorationOptionType_Power",
       "value": "전력"
+    },
+    {
+      "key": "Common_ExplorationOptionType_Protect",
+      "value": "보호"
     },
     {
       "key": "Common_ExplorationOptionType_Quick",
@@ -2729,6 +2749,10 @@
     {
       "key": "Common_ValosComputer",
       "value": "탈로스 컴퓨터"
+    },
+    {
+      "key": "Common_View",
+      "value": "보기"
     },
     {
       "key": "Common_Vulcan",
@@ -11183,6 +11207,1834 @@
       "value": "두고 간 보급품..."
     },
     {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_01",
+      "value": "앞에 전에 만났던 유령이 있군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_02",
+      "value": "그렇다면 드림리스가 왔다는 뜻이겠군요. 우리가 너무 늦은 걸까요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_03",
+      "value": "이 구조물은 아직 작동하는 거 같군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_04",
+      "value": "이걸 비활성화하는 건 아주 복잡한 작업이 될 것 같군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_05",
+      "value": "아직 시간이 있기를 바라는 수밖에요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_06",
+      "value": "그럼 일단 이것부터 해결하죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_01",
+      "value": "드림리스가 조종하는 '유령'이 더 나타날지도 모르죠!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_02",
+      "value": "<i>*으스스한 비명*</i>"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_03",
+      "value": "우릴 찾고 있어요... 드림리스도 우리가 온 걸 아는 거예요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_01",
+      "value": "우리 아군이 만난 자들이 당신들이군."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_02",
+      "value": "너희 나름대로의 동기는 있겠지만, 너희의 전투는 결국 패배로 이어질 것이다. 우리는 넥서스를 이해하기 위해 영원한 시간을 쓸 수 있으니까."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_03",
+      "value": "넥서스를 파괴하는 건 자비롭지 않은 짓이다. 모든 살아있는 걸 파괴할 거야. 수만...? 수백만?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_04",
+      "value": "이미 수많은 생명이 우주의 섭리에 의해 떠나갔다. 이들이 누군가의 상상 속 유토피아에 영원히 갇혀 있어야 할 이유는 없어. 우린 너희가 생각하는 그런 괴물이 아니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_05",
+      "value": "너희는 다른 누군가의 장치로부터 생명을 구한다고 주장하지만, 결과적으로는 너희도 이들의 운명을 맘대로 결정하는 거 아니야?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_06",
+      "value": "훌륭해, 마이클!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_07",
+      "value": "여기에서 너희와 철학을 논할 시간 따위 없다. 여기서 떠나지 않겠다면 너희를 제거할 수밖에!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_post_01",
+      "value": "너희는 끈질긴 종족이지. 하지만 겨우 몇 시간을 더 번 것뿐이야. 현실 엔진을 반드시 비활성화하고 말 거다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_01",
+      "value": "앞쪽에 뭔가 방어막 같은 게 있는 거 같습니다. 이런 건 본 적이 없어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_02",
+      "value": "매우 발달한 기술이라 우리 페이저는 씨알도 안 먹힐 거 같습니다. <i>아르테미스</i>에서 빔을 사용해 저쪽으로 갈 수 있지 않을까요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_03",
+      "value": "이곳이 지금 과충전된 상태라는 걸 고려하면, 송신기 사용은 최소화 하는 게 좋을 거 같은데요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_04",
+      "value": "그래요. 그리고 송신기 사고라도 일어나 워프의 샴 쌍둥이가 되어 평생 살아가고 싶진 않아요. 그럼... 다른 제안은?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_01",
+      "value": "리액터... 저기 우릴 여기로 데려왔잖아요. 그러니 저걸로 계속 나아갈 수 있지 않을까요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_02",
+      "value": "가능할지도 몰라요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_03",
+      "value": "좋은 제안이었어요, 마이클."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction02_01",
+      "value": "분명 다른 길이 있다는 데 1달러 걸죠. 어차피 이 홀을 몇 시간 더 돌아다닌다고 나쁜 일 있겠어요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_01",
+      "value": "흥미롭군요. 여긴 스테이터스 챔버인 것 같군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_02",
+      "value": "안에 다수의 컨테이너가 감지됩니다. 보급품일지 몰라요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_03",
+      "value": "우리 '넥서스 기술자'를 위한 우유와 과자일지도 모르죠?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_04",
+      "value": "박사님! 그런 생각은... 거의 불경하다고 할 만한 수준 아닌가요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction01_01",
+      "value": "리액터를 사용해서 들어가보겠습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction02_01",
+      "value": "이걸 열려면 리액터는 사용하지 말아야 할 거 같은데요. 이쪽 기술을 완전히 이해하고 있는 것도 아니고..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction02_02",
+      "value": "그렇긴 하군요. 상대의 방어 시스템이라도 건드리면 곤란하니까요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_01",
+      "value": "저쪽 플랫폼에 보급품이 더 있어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_01",
+      "value": "저 위로 뛰어서 올라갈 수 있을 거 같은데요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_02",
+      "value": "뛴다고요? 미쳤어요? 저기가 얼마나 높은데!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_03",
+      "value": "믿음을 가져요, 박사님! 난 저 정도는 뛸 수 있으니까."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_04",
+      "value": "믿음은 당신이나 가져요. 당신이 떨어져서 뼈라도 부러지면 그걸 붙이는 건 내 일이 될 테니까!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_01",
+      "value": "저 위로 갈 수 있을까요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_02",
+      "value": "내 전문가적 견해로는 못 갈 것 같군요. 시도조차 하지 말아야 한다고 생각합니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_03",
+      "value": "그런 태도로는 안 되겠죠, 박사님. 알겠습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_01",
+      "value": "이곳을 보니 어릴 때 들었던 클링온 이야기가 떠오르는군요. 전사들이 영원히 싸우는 스토-코-보르의 홀 말입니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_02",
+      "value": "발할라 같은 건가요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_03",
+      "value": "더 잔혹합니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_04",
+      "value": "멋지군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_05",
+      "value": "잔혹하다는 말이 나와서 말인데... 곧 문제가 생길 거 같은데요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_01",
+      "value": "여긴 정말 내 상상을 초월하는 곳이군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_02",
+      "value": "지금 감탄하고 있는 겁니까?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_03",
+      "value": "생각해봐요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_04",
+      "value": "꼭 <i>엔터프라이즈</i>에 있는 내 홀로덱 같아요. 풍성하고 현실적인 시뮬레이션이 말이죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_05",
+      "value": "<i>디스커버리</i>에도 그런 시설이 있으면 좋을 텐데! 스피어에서 보는 거랑 비슷한 건가요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_06",
+      "value": "아니오. 홀로덱 시뮬레이션은 뭐랄까... 상상에 가까운 거죠. 대부분은 재미로 하거든요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_07",
+      "value": "스피어에서처럼 현실을 잡아먹는 그런 느낌은 없어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_08",
+      "value": "드림리스가 넥서스를 보면 그렇게 말할 거 같군요. '잡아먹는다'고. 그쪽은 상상이라기보다 감옥 같은 느낌이라..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_01",
+      "value": "그럼 우린 여길 계속 돌아다니는 건가요, 아니면..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_02",
+      "value": "우리가 좀 끼어들어도 될까요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_03",
+      "value": "뒤를 봐요! 저건... 저게 뭔지 모르겠네요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_04",
+      "value": "우린 '지타키', 또는 당신들의 언어로 '케어테이커'라고 합니다. 우린 이 현실 엔진의 기능을 제어하기 위해 설계된 여러 개의 주요 AI 중 하나죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_05",
+      "value": "우리 스캔에 의하면 당신들에게는 6개의 리액터가 있고, 또한 이곳을 지키겠다는 굳은 의지가 있는 거 같군요. 우리의 평가가 정확한가요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_06",
+      "value": "음, 우리는 드림리스가 넥서스를 불안정하게 만들지 못하도록 하려고 하고 있어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_07",
+      "value": "그건 '기술자'의 역할입니다. 하지만 여러분은 기술자로서 훈련 받지 못했습니다. 그리고 저희는 여러분에게 현실 엔진 수리 도구 사용 권한과 침입자들을 쫓을 권한을 부여해드릴 수가 없죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_08",
+      "value": "하지만 그렇게 해드리고 싶은 의향은 있습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_09",
+      "value": "기술자로서의 자격 시험에 응하셔도 좋습니다. 물론 제대로 훈련 받지 못한 경우는 대부분 실패합니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_10",
+      "value": "실패하면 어떻게 되죠?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_11",
+      "value": "그렇다면 여러분은 기술자 자격을 얻지 못하고 엔진을 봉인할 수도 없습니다. 그리고 이 구조물과 구조물을 연결하는 스피어들도 테란 기준 3.567시간 후 붕괴하기 시작할 겁니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_12",
+      "value": "그렇다면 선택의 여지가 없군요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_01",
+      "value": "멈춰라! 너흰 여길 지날 수 없다, 이 쓰레기 같은 형체변형자 자식!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_02",
+      "value": "형체변형자라고? 우린 그런 게..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_03",
+      "value": "저쪽은 우리 말을 들을 생각이 없나 봅니다, 박사님!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_01",
+      "value": "저 앞에서 페이저 쏘는 소리가 들린 거 같은데요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_02",
+      "value": "그렇네요. 저기! 카다시안과 스타플릿 장교들이 싸우고 있어요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_03",
+      "value": "저 사람들이 진짜 스타플릿 장교일 리 없죠. 형체변형자들일 거예요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_04",
+      "value": "확실한가요, 박사님?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_05",
+      "value": "날 좀 믿어줘요, 워프. 우리 '칼잡이' 맥코이가 알아서 잘 할 거예요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_06",
+      "value": "그걸 어떻게 알죠, 박사님?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_07",
+      "value": "바디 랭귀지도 이상하고, 움직이는 것도 어색하잖아요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_08",
+      "value": "당신의 분석을 믿죠, 박사님. 그럼 계속 나아가겠습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_01",
+      "value": "스타플릿 여러분, 이쪽이에요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_02",
+      "value": "기다려요. 이제 안전해요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_01",
+      "value": "너무 노출된 곳인데요. 이 소형 우주선을 작동시킬 수 있을지 한번 보죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_02",
+      "value": "너희 종족은 이렇게 말했지? \"권선징악\"이라고. 죽어라!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_03",
+      "value": "형체변형자잖아! 카다시안들이 당신들을 찾고 있었어요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_01",
+      "value": "심하게 다친 자들도 있군요. 일단 부상부터 해결해야겠어요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_02",
+      "value": "당신은 친절하군요, 의료인."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_03",
+      "value": "그냥 의사라고 하면 될 텐데..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_04",
+      "value": "똑똑하기도 하지! 모두 제거해!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_05",
+      "value": "형체변형자잖아! 카다시안들이 당신들을 찾고 있었어요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_01",
+      "value": "주변을 살펴요. 도움이 될 만한 소형 우주선이 있을지 몰라요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_02",
+      "value": "좋은 생각이에요. 여기 보급품이 있꾼요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_03",
+      "value": "스타플릿 쥐새끼들이 우리 물건을 훔치려고 한다!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_04",
+      "value": "'스타플릿 쥐새끼'... 잠깐, 당신..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_05",
+      "value": "형체변형자잖아! 카다시안들이 당신들을 찾고 있었어요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_01",
+      "value": "누군가 여기 보급품을 버리고 간 것 같아요. 우리가 쓰면 좋겠군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_01",
+      "value": "잠깐 둘러보는 것도 나쁘지 않을 듯한데..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_02",
+      "value": "해치워라!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_03",
+      "value": "아... 다칠 수도 있겠는데요! 형체변형자의 습격입니다!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_01",
+      "value": "누군가 길 한가운데 소중한 보급품을 버리고 갔다고요? 우리가 그렇게 재수가 좋은 사람들이에요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_02",
+      "value": "박사님의 말이 옳습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_03",
+      "value": "가끔은 이렇게 뻔한 함정도 있는 법이죠..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_01",
+      "value": "이게 뭐죠? 스피어 안인가요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_02",
+      "value": "여러분은 여전히 현실 엔진 안에 있습니다. 다만 그곳은 우리가 시험을 진행하기 위해 만든 통제된 환경입니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_03",
+      "value": "케어테이커는 시스코 선장의 모습을 하고 나타났습니다..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_04",
+      "value": "이런 짓을 할 시간 없다고요! 지금 수많은 목숨이 달려 있다고 스스로도 말했잖아요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_05",
+      "value": "맞습니다. 그러니 서두르세요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_06",
+      "value": "뭘 해야 하는지부터 먼저 빨리 설명해주시죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_07",
+      "value": "여러분의 기억을 탐색하면서, 우리는 여러분이 보여준 4개의 특성 값에 기반하여 여러분이 기술자로서 적합한 종족인지 확인해보기로 했습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_08",
+      "value": "첫 번째는 시스코 선장이 보여준 믿음입니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_09",
+      "value": "우리한테... 기도를 하라는 겁니까?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_10",
+      "value": "오해하셨군요. 이 믿음은 절대적 존재에 대한 것이 아닙니다. 여러분의 목표와 실력, 그리고 동료 기술자에 대한 믿음입니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_11",
+      "value": "그리고 최초의 기술자들이 이곳을 만들 수 있게 해준 보다 큰 무언가에 대한 믿음입니다. 따라서 믿음은 이후 기술자들이 따라야 하는 미덕이 되었습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_12",
+      "value": "이 아레나에서 포털이 여러분을 기다리고 있습니다. 다음 시험으로 향하는 문입니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_13",
+      "value": "하지만 조심하세요. 모든 게 보이는 것과는 다릅니다. 오직 목표를 향한 여러분의 믿음만이 여러분을 인도할 것입니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_01",
+      "value": "케어테이커입니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_02",
+      "value": "당신들이 어떻게 하고 있는지 궁금했습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_03",
+      "value": "궁금하다니 설명해드리죠. 우린 카다시안과 형체변형자 간의 전쟁에 휘말린 상태고, 둘 다 우리만 보면 못 죽여서 안달이네요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_04",
+      "value": "힘든 상황이군요. 여기서 나가는 방법은 돌아가는 것뿐이어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_05",
+      "value": "돌아간다고요? 당신들, 진짜 스타플릿을 모르는군요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_01",
+      "value": "저게 케어테이커가 말한 포털이겠군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_02",
+      "value": "맞습니다. 여러분은 우리의 기대를 훨씬 상회하는 결과를 보여주었습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_03",
+      "value": "불가능하게 여겨지는 상황을 돌파하며 목표를 달성하고, 동료의 능력을 믿어주었습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_04",
+      "value": "이러한 믿음은 존경할 만한 것이지만, 또한 한 사람의 눈을 멀게 만들 수도 있죠. 그러나 여러분은 권력을 향한 탐욕에 휘둘리지 않는 것으로 보입니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_05",
+      "value": "이게 다예요? 시험을 통과한 겁니까?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_06",
+      "value": "첫 시험은 통과했습니다. 아직 더 있습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_07",
+      "value": "...그러시겠지."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_01",
+      "value": "잠시만요. 스캔을 해보니 위쪽에서 움직임이 감지됐어요. 매우 많은 움직임이요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_02",
+      "value": "우리는 보그다. 너는 동화될 것이다. 저항은 무의미하다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_03",
+      "value": "으으, 좀... 인사말이라도 새로 프로그래밍할 수 없나?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_04",
+      "value": "비꼬는 건 좀 덜 다급한 때 하는 게 좋겠습니다, 박사님."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_01",
+      "value": "여긴 활동이 없군요. 지나가도 안전하겠어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_02",
+      "value": "잠깐, 습격이에요! 내가 아까 경보 시스템을 건드렸나봐요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_03",
+      "value": "너는 동화될 것이다. 저항은 무의미하다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_01",
+      "value": "우리 앞에 있는 저 그림자 보여요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_02",
+      "value": "보그 퀸이에요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_03",
+      "value": "너는... 동화될 것이다. 저항은 무의미하다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_01",
+      "value": "이상하군요. 퀸인 거 같은데, 우리가 전에 만난 퀸과 말하는 게 달라요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_02",
+      "value": "모르겠는데요. 내 귀에는 충분히 보그 퀸처럼 들리던데요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_03",
+      "value": "백업용 몸일지도요? 아니면 의식을 여러 곳에 저장해뒀다든가?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_04",
+      "value": "그런 건 아무도 모르죠..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_01",
+      "value": "모두 환영한다. 집에서 멀리 떨어진 곳까지 왔군."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_02",
+      "value": "또 다른 보그 퀸이! 이번 보그 퀸은... 좀 더 현실적이네요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_03",
+      "value": "또 다른? 우리는 보그다. 그 이상도, 이하도 아니다. 모든 육신은 우리의 의지의 연장선일 뿐이다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_04",
+      "value": "너희도. 그렇지 않나, 로큐터스?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_05",
+      "value": "그렇다. 오늘 너희들은 군체의 힘 앞에 무릎 꿇고 동화될 것이다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_06",
+      "value": "오늘 우리는 더 크고 귀중한 군체를 위해 싸울 것이고, 너희는 우리를 막지 못할 것이다!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_01",
+      "value": "해냈군요! 시험은 어디 있죠?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_02",
+      "value": "우린 여기 있습니다. 여러분의 굳은 의지에 축하 인사를 보냅니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_03",
+      "value": "여러 번 그만두라는 제안을 받았음에도 여러분은 꿋꿋하게 앞으로 나아갔습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_04",
+      "value": "이제 안전한 건가? 시험이 끝난 거야?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_05",
+      "value": "지금은 무사하지만, 아직 2개의 시험이 더 기다리고 있습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_01",
+      "value": "우리 길을 잃은 건가요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_02",
+      "value": "안 잃은 때가 있었던가요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_03",
+      "value": "그렇네요, 마이클."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_04",
+      "value": "잠깐 멈추죠. 노드에 접속해서 길을 찾을 수 있을 거예요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_01",
+      "value": "찾았어요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_02",
+      "value": "내 트라이코더에 길이 표시되긴 하는데, 동시에 다른 신호도 떴어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_03",
+      "value": "걱정할 만한 건가요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_04",
+      "value": "모르겠네요. 멈췄거든요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction02_01",
+      "value": "녀석들의 시스템을 함부로 찔러보는 것보다는 그냥 정처 없이 헤매는 쪽이 나을 거 같은데요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction02_02",
+      "value": "상대가 싫어하는 거 같네요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_01",
+      "value": "여기 재충전 알코브가 있군요. 특이한데요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_02",
+      "value": "스캔에 의하면 대량의 에너지가 지나고 있어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_03",
+      "value": "보그 네트워크와 연결된 걸지도 몰라요. 조사할 가치가 있겠는데요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_01",
+      "value": "제 트라이코더로 과부하를 걸어서..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_02",
+      "value": "변하고 있어요. 올라가는 건가?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_03",
+      "value": "수리용 자동화 시스템 때문에 움직이는 거겠죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_04",
+      "value": "시스템에서 충전 스테이션을 옮기기 전에 어서 뒤에 뭐가 있는지 보죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction02_01",
+      "value": "적에게 들킬 수 있으니 그냥 지나가죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction02_02",
+      "value": "동의합니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_01",
+      "value": "여기 패널이 느슨해 보이는데..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_02",
+      "value": "그렇네요. 이걸 뜯어서 안에 뭐가 있는지 볼 수도 있겠어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction01_01",
+      "value": "알겠어요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction02_01",
+      "value": "이런 위험한 상황에서 기계공 놀이를 하고 싶어요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction02_02",
+      "value": "박사님 말에 일리가 있어요. 그냥 가죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_01",
+      "value": "여긴 또 어디죠? 보그 큐브 같은데."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_02",
+      "value": "음, 보그는 그만 보고 싶은데."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_03",
+      "value": "두 번째 시험입니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_04",
+      "value": "이제 제인웨이 선장의 모습을 하고 있군요. 뭔가 이유가 있나요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_05",
+      "value": "당신의 시간대에서 제인웨이 선장은 전설적인 여정을 한 것으로 유명합니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_06",
+      "value": "7년 동안 선장과 팀원들은 델타 사분면의 먼 곳을 탐험하고 지구로 돌아왔죠. 엄청난 의지력이었습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_07",
+      "value": "그리고 이번에 진행할 의지의 시험에 걸맞은 상징이죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_08",
+      "value": "케어테이커가 사라졌군... 보그 큐브와 '의지의 시험'이라. 왠지 사사건건 전투가 벌어질 듯한 예감이군요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_01",
+      "value": "피곤하네요. 좀 쉬어야겠어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_02",
+      "value": "박사 말을 들으면 건강해진다니까요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_03",
+      "value": "으아! 좀 뒤에서 말고 앞에서 나타나면 안 돼요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_04",
+      "value": "미안합니다. 우린 그저 조언을 해주고 싶었을 뿐입니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_05",
+      "value": "우리 계산에 의하면 여러분이 보그 큐브에서 포털을 찾을 확률은 0.00001%입니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_06",
+      "value": "현실 엔진이 붕괴되면 이곳에 있는 여러분도 함께 소멸합니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_07",
+      "value": "우리가 여러분을 안전한 곳으로 데려가겠습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_08",
+      "value": "현실 엔진이 붕괴되면 스피어와 그 안에 있는 사람도 다 없어지는 거잖아요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_09",
+      "value": "넥서스의 크기를 간과하시는군요. 넥서스에는 수많은 엔진이 있습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_10",
+      "value": "하지만 각 엔진은... 지금 우리가 있는 이 엔진도, 여러 개의 스피어를 책임지고 있는 거잖아요? 우리가 지금 포기하면 그 스피어들도 모두 사라지는 거고요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_11",
+      "value": "맞습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_12",
+      "value": "그리고 넥서스의 상태가 더 나빠지면 넥서스 밖에 있는 우리의 우주를 위협하는 파괴적인 균열이 발생하고..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_13",
+      "value": "그 말도 맞습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_14",
+      "value": "그럼 계속할게요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_15",
+      "value": "원하는 대로 하시죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_16",
+      "value": "사라졌어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_17",
+      "value": "대단하네요, 박사님. 아까는 지친 얼굴이었는데."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_18",
+      "value": "지금도 지쳤어요. 하지만 수많은 생명을 구하려면 이 정도 피로는 견딜 수 있어야죠!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_01",
+      "value": "여러분의 연약한 몸이 크게 약화된 게 느껴지는군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_02",
+      "value": "여러분은 이 이상 견딜 수 없을 것으로 추정됩니다. 즉시 이탈할 것을 권장합니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_03",
+      "value": "하! 케일레스가 자신의 형제 모라스를 사냥하는 걸 포기했나요? 그런 일은 없었죠. 케일레스는 자신과 아버지의 명예를 위해 산과 계곡을 계속 달렸습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_04",
+      "value": "우리도 그렇게 계속 싸워 저 끝에 도달하고 영광을 쟁취할 겁니다!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_01",
+      "value": "클링온입니다. 수가 매우 많습니다!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_02",
+      "value": "대화는 안 되나요, 워프? 물러나라고 말하는 게 어때요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_03",
+      "value": "브이예그베슈그 바흐 비헤그!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_04",
+      "value": "호크 야그 헤그야으!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_05",
+      "value": "클링온어를 모르지만 잘 안 됐다는 건 알겠네요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_06",
+      "value": "이들은... 협상하지 않겠다고 하네요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_post_01",
+      "value": "물러나는군요. 일단은 안전하겠어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_01",
+      "value": "클링온이 또 옵니다! 부대 하나가 통째로 왔어요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_02",
+      "value": "연방이... 애완 클링온을 하나 키우고 있었군."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_03",
+      "value": "어딜 감히?! 나는 애완동물 따위가 아니다! 나는 전사다!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_04",
+      "value": "그래! 너희들 때문에 이 친구가 화가 났어. 이 친구가 화가 나면 얼마나 무서운지 알아!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_01",
+      "value": "더 왔다고?! 끝이 없네요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_02",
+      "value": "케일레스의 봉화는 케일레스가 24개 가문을 하나로 묶기 위해 만든 겁니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_03",
+      "value": "클링온에서 이 봉화 근처에 외지인이 나타났다는 자체가 이미 엄청난 범죄이자 있어서는 안 될 일입니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_04",
+      "value": "하지만 실수였다고요! 저쪽은 그렇게 주장하고 있죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_05",
+      "value": "비록 나의 가치관은 동맹과 함께하지만, 그래도 이 사건을 들으니 본능적으로 피가 끓어오르는 건 어쩔 수 없군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_06",
+      "value": "논리는 이해하지만, 어쨌든 이게 클링온에게 얼마나 심각한 범죄인지를 이해해줬으면 합니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_07",
+      "value": "마이클, 당신 시간대에서 우리 종족은 유물로 인해 전쟁에 휘말렸습니다. 클링온이 이 선원들을 죽이기 위해 밀어붙이는 게 그렇게 놀라울 만한 일입니까? 이들은 절대 멈추지 않을 겁니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_01",
+      "value": "수백 개의 생체 신호가 이쪽으로 접근하고 있습니다. 후퇴해야 해요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_02",
+      "value": "흠. 여기 남아 싸우자고 할 줄 알았는데요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_03",
+      "value": "케일레스가 한떄 \"바람은 어리석은 자를 존중하지 않는다.\"고 말한 적이 있었죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_01",
+      "value": "더 가까워졌어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_02",
+      "value": "이 앞에서 대규모 클링온 생체 신호가 잡혀요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_03",
+      "value": "우리가 찾은 리액터를 찾고 있는 거겠군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_04",
+      "value": "젠장! 놈들은 혼자가 아니에요. 놈들 중 하나가 횃불을 든 자의 의장을 입고 있습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_05",
+      "value": "케일레스의 봉화를 지키는 클링온 챔피언! 전에... 한 명 만난 적이 있죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_06",
+      "value": "여기에서 리액터 접근은 안 돼요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_07",
+      "value": "..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_08",
+      "value": "흠. 그럴 줄 알았죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_01",
+      "value": "이제 신호의 발신원 바로 위에 왔어요. 내 트라이코더와 우리 리액터를 써서 접근할 수 있어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_02",
+      "value": "현재 이 현실을 작동시키는 기기는 스피어를 작동시키는 리액터에 비하면 확실히 아무것도 아니네요. 즉, 좋은 소식인 거죠!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_03",
+      "value": "그럼 이 시나리오를 이길 수 있는 시나리오로 바꾸는 방법은 뭐죠?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_04",
+      "value": "'이길' 필요는 없는 거 같아요. 우리의 목표는 포털을 찾는 거니까요. 물론 이전 시험에서는 '이긴' 것처럼 보였지만, 이번 경우에는 그냥... 문을 만들면 되지 않을까요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_05",
+      "value": "훌륭해요, 마이클!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_06",
+      "value": "포털 하나 열립니다!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_01",
+      "value": "저기! 앞에 부상자들이 있습니다!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_02",
+      "value": "난... 여기 있도록 하죠. 지금 클링온이 또 나타나면 상황이 악화될 거 같으니."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_03",
+      "value": "도우러 왔어요! 괜찮습니까?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_04",
+      "value": "나는... 예. 그럭저럭요. 누구시죠? 모르는 유니폼인데."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_05",
+      "value": "저희는 <i>U.S.S. 아르테미스</i>의 대원입니다. 이곳에 무슨 일이 일어난 거죠?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_06",
+      "value": "아, 다행이군요. 지금 큰일 났어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_07",
+      "value": "항해 중에 케일레스의 봉화에 가까이 다가가게 됐거든요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_08",
+      "value": "봉화는 클링온 제국의 성물이에요. 대체 무슨 생각으로 그런 짓을 한 거죠?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_09",
+      "value": "실수였어요! 우리도 그게 뭔지 몰랐다고요... 그런데 저쪽에서는 자신들의 신성한 배를 더럽히려 했다며 공격 행위로 간주하고 있어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_10",
+      "value": "그러면서 배에 탄 모두를 사형시키겠다고 했어요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_01",
+      "value": "그렇게 둘 순 없죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_02",
+      "value": "사람들을 안전한 곳으로 데려가야 해요. 이 사람들을 도와주실 수 있나요, 박사님?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_03",
+      "value": "해보죠. 내가 치료하는 동안 엄호해줘요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction02_01",
+      "value": "클링온들이 다가오고 있습니다!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction02_02",
+      "value": "놈들을 몰아내야겠군요. 그 다음 부상자들을 치료하면 돼요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_01",
+      "value": "리액터와 비슷한 신호가 잡혀요. 그렇게 큰 건 아니지만, 어쩌면 이 현실에서는 실제 스피어처럼 주요한 뭔가가 아닐 수도 있으니까요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_02",
+      "value": "그럼 우리의 리액터 이론을 수행해볼까요! 문을 '다시 프로그램'할 수 있을까요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_01",
+      "value": "그럼요! 내 트라이코더를 우리 리액터와 맞춰서..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_02",
+      "value": "이 '현실'의 기저에 있는 구조에 접근하고 있어요. 복잡하긴 한데... 잠시만요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_03",
+      "value": "문이 사라졌어요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_04",
+      "value": "대단하군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_05",
+      "value": "저것보다 더 확실하게 드러나게 하려면 신호의 원천에 다가가야 해요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction02_01",
+      "value": "리액터의 동력이나 시간을 낭비하면 안 됩니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction02_02",
+      "value": "워프, 당신은 훌륭한 전사이자 동료예요. 하지만 재미는 없군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_01",
+      "value": "흥미롭군요! 여긴 연방 함선 같은데요. 스캔에 의하면 덱에 여러 손상이 발생했습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_02",
+      "value": "공격당한 건가?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_03",
+      "value": "여러 뒤엉킨 메시지가 들어오고 있습니다. 클링온에 배에 올라타 여러 주요 구역을 점거한 모양입니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_04",
+      "value": "클링온이 스타플릿 배를 조종할 때가 보통 더 안전한 법이죠!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_05",
+      "value": "현재 이 클링온들은 제외하고요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_06",
+      "value": "흠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_07",
+      "value": "저게 시험의 본질이군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_08",
+      "value": "짐?! 잠깐... 케어테이커군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_09",
+      "value": "이 시험은 당신의 친구가 지닌 자질을 기반으로 만들어졌습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_10",
+      "value": "무모함이요? 아니면 사람들을 멍청한 모험에 끌어들이는 재주?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_11",
+      "value": "이번에는 교활함의 시험입니다. 여러분은 목표를 달성하겠다는 의지, 그리고 모든 위기를 헤쳐나가는 의지를 보여주었습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_12",
+      "value": "하지만 단순한 방법으로는 돌파할 수 없는 방해물도 있습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_13",
+      "value": "포털을 찾아 이 시험을 끝내세요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_14",
+      "value": "또 사라졌네. 참 친절하기도 해라."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_01",
+      "value": "말도 안 돼. 이건 기본... 코바야시 마루잖아요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_02",
+      "value": "사관학교 시험이요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_03",
+      "value": "그래요. 둘 다 이 시험을 쳤죠?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_04",
+      "value": "네. 그리고 다른 생도들처럼 항상 떨어졌죠. 나중에 승리가 없는 시나리오라는 걸 알고 엄청 화를 냈었어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_05",
+      "value": "선원들을 구조하거나, 클링온 제국과 전쟁을 벌이거나, 모두 죽게 내버려 두거나."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_06",
+      "value": "이 시나리오에도 오직 실패만 존재할 겁니다. 우리 종족은 절대 포기하지 않습니다. 우리가 저쪽의 공세를 이겨낼 수도 없고, 우리가 떠나면 이 사람들은 죽을 겁니다..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_07",
+      "value": "하지만 한 가지 방법이 있죠. 우리 시간대에서 커크 선장이 코바야시 마루 시험에서 승리를 거두긴 했거든요. 우리 짐은 평소처럼 매우 창의적인 해법을 내놓았는데... 시험이 시작되기 전 컴퓨터로 몰래 접근해 시험 내용을 바꿔버렸어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_08",
+      "value": "그러니 우리도 커크 선장의 본보기를 따라... 속임수를 쓰는 거죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_09",
+      "value": "어떻게요? 여긴 접속할 수 있는 컴퓨터도 없는데..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_10",
+      "value": "이 현실도 분명 다른 스피어와 비슷할 거예요. 리액터나 그 비슷한 장치가 있을 테니까요. 그걸 찾아 프로그램을 바꾸는 거예요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_11",
+      "value": "하지만 우린 아직 '기술자'가 아닌데요. 우리가 넥서스의 기술을 바꿀 순 없어요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_12",
+      "value": "홀로그램의 승인을 기다리는 건 이제 질렸어요. 우리 모두 정체 모를 초고도 외계 기술을 상대해봤잖아요. 이런 건 기본이라고요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_13",
+      "value": "내 트라이코더를 현재 가지고 있는 리액터에 맞추고 있어요. 이제 케어테이커의 시험을 무엇이 통제하고 있는지 한번 알아보죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_01",
+      "value": "왔군요. 여러분의 믿음, 의지, 그리고..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_02",
+      "value": "그래요, 그래. 교활함. 이미 다 알고 있거든요, 공자님."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_03",
+      "value": "맞습니다. 여러분은 지정된 경로를 벗어나 넥서스 자체에 접속했죠. 다른 좀 더 큰 구조물은 이번처럼 쉽게 조작할 수 없겠지만요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_04",
+      "value": "이제 마지막으로 남은 건..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_05",
+      "value": "됐어요! 시험은 이제 그만해요! 우리 능력은 이미 증명했고, 시간이 없어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_06",
+      "value": "당신들의 준비 완료 여부와 관계 없이, 기술자가 되는 과정은 바이너리 요건입니다. 즉, 현실 엔진을 사용하기 위해서는 모두 완수해야 한다는 거죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_01",
+      "value": "연방이다!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_02",
+      "value": "싸울 생각은 없어요. 우리는 U.S.S. 아르테..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_03",
+      "value": "체포해라! 놈들이 봉화에 도달하면 토말락과 셀라가 우릴 가만두지 않을 거다!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_post_01",
+      "value": "이 로뮬란들은 딱히 대화나 설득의 의지가 없는 거 같은데..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_01",
+      "value": "좀 다른 해결 방법을 찾으면 좋겠는데요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_02",
+      "value": "연방이 로뮬란에 해를 끼치고 있다고 확신하는 거 같네요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_03",
+      "value": "어쩌면 사령관과 얘기하면 뭔가 더 알아낼 수 있을지도요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_04",
+      "value": "저쪽은 우리가 자신들을 감시하고 있다고 믿고 있어요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_01",
+      "value": "제압했군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_02",
+      "value": "이 녀석을 기절시키는 게 시험의 목적이었는지 잘 모르겠지만..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_03",
+      "value": "우리 의지의 힘을 보여야 한다는 말을 하긴 했잖아요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_04",
+      "value": "뭐... 실패한 것 같지는 않으니까, 그 말이 맞겠네요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_01",
+      "value": "거기서 멈춰요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_02",
+      "value": "우린 싸우러 온 게 아니에요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_03",
+      "value": "넌 클링온이 아니다. 그럼 당연히 싸우러 온 거겠지."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_04",
+      "value": "일리가 있네."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_05",
+      "value": "흠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_01",
+      "value": "우린 대화를 하러 온 거예요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_02",
+      "value": "흥! 우리 봉화를 파괴하러 온 거겠지. 하지만 이미 늦었다. 토말락이 데이터를 들고 떠났다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_03",
+      "value": "물러나요. 우릴 보내주면 우리도 당신들을 건드리지 않겠어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_04",
+      "value": "너희 따위와 말을 섞을 생각은 없다. 우리가 찾은 데이터로 연방이 얼마나 뱀 같은 것들인지 모두가 알게 될 테니까! (사라진다)"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_05",
+      "value": "잠깐. 로뮬란이 우리를 뱀 같은 것들이라고 하네요? 이것 참 역사에 길이 남을 일인데."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_01",
+      "value": "우린 여기 문제를 일으키러 온 게 아니에요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_02",
+      "value": "하지만 너희는 여기에 와있지. 그리고 문제도 이미 일으켰고!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_01",
+      "value": "또 로뮬란이네요. 센서 비콘도 있고."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_02",
+      "value": "연방놈들. 놀랍지도 않군... 너희 배신의 흔적을 숨기러 온 거냐?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_03",
+      "value": "대체 무슨 말인지 모르겠네요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_01",
+      "value": "연방의 함선이 중립 지역을 주기적으로 드나들며 우리들을 감시하고 있었다는 걸 모른다는 거냐?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_02",
+      "value": "너희들이 수많은 조약을 위반했다는 명백한 증거도 모았다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_03",
+      "value": "우리에게 증거를 보여주면 우리가 검토하고 설명해볼게요. 아니면 정말 전면전을 하고 싶은 건가요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_04",
+      "value": "네 말에 설득력이 없진 않군. 그럼 우리 사령관님을 만나게 해주지."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_05",
+      "value": "하지만 그분을 설득하긴 쉽지 않을 거다. 그분은 네놈들을 상대해본 경험이 있으시니까."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_01",
+      "value": "우리가 바보인 줄 아나? 우리는 연방의 함선이 중립 지역을 주기적으로 드나들며 우리들을 감시하고 있었다는 걸 알고 있다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_02",
+      "value": "이건 연방의 가치에도 위배되는 행위다. 당장 무기를 내려놓지 않으면 우리가 강제로 그렇게 만들어주지!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_01",
+      "value": "로뮬란 사령관은 우리보다 앞서 떠날 준비를 마친 거 같고요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_02",
+      "value": "사령관이 떠나기 전에 막아야 해요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_01",
+      "value": "분명 서로 합의에 도달할 수 있을 거예요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_02",
+      "value": "네가 뭘 꾸미고 있는지 몰라도 난 안 속는다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_03",
+      "value": "우리 센서 비콘에 섹션 31에서 우리 사람들을 십 년 이상 감시해왔다는 증거가 기록되어 있다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_04",
+      "value": "제국의 충직한 신하로서 이 위반 사항을 원로원에 알리는 건 나의 의무다!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_05",
+      "value": "인정하긴 싫지만... 당신 말이 옳을지 몰라요. 섹션 31은 그리 믿음직한 조직은 아니거든요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_06",
+      "value": "뭐야... 인정하는 건가? 흐음. 그럼 한번 들어보지. 무슨 제안을 하고 싶은 건가?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_07",
+      "value": "당신이 가진 데이터 사본을 주세요. 우리가 스타플릿에 보고할게요. 만일 이게 사실이면 스타플릿에서 조사한 뒤 제대로 된 외교적 채널을 통해 조치하겠습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_08",
+      "value": "너희의 사본이 조작될 수 있다는 것도 알고 있겠지."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_09",
+      "value": "그건 당신 쪽도 마찬가지죠. 우린 그저 그쪽에서도 우리가 잠재적 외교 분쟁을 막기 위해 최선을 다할 거라는 걸 믿어줬으면 하는 겁니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_10",
+      "value": "알겠다. 대화는 이걸로 끝이다. 데이터를 가져가라."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_01",
+      "value": "멈춰라. 너희가 연방 정보를 들고 떠나게 할 순 없지."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_02",
+      "value": "그래요? 우릴 막을 수 있을 거 같아요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_03",
+      "value": "우리 센서 비콘에 섹션 31에서 우리 사람들을 십 년 이상 감시해왔다는 증거가 기록되어 있다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_04",
+      "value": "이 위반 사항을 원로원에 알리는 건 나의 의무다!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_05",
+      "value": "우리 얘기를 들을 생각은 없군요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_06",
+      "value": "너희들의 이야기를? 생각 없다. 너희들은 모두 배덕한 놈들이다. 로뮬란은 연방을 신뢰할 수 없다는 걸 깊이 깨달았다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_07",
+      "value": "당신 따위에게서 그런 말을 듣다니! 이성이 통하지 않는다면 페이저는 통하겠지!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_01",
+      "value": "여러분은 이제 마지막 시험대에 섰습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_02",
+      "value": "그리고 당신은 나의 전 선장인 장 뤽 피카드의 모습을 하고 있군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_03",
+      "value": "이 시험에 적절한 모습 같아서요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_04",
+      "value": "믿음, 의지, 교활함 외에 기술자가 되기 위해서는 한 가지 덕목이 더 필요합니다. 바로 넥서스를 만드는 것 같은 엄청난 업적을 위해 수많은 마음을 하나로 합칠 수 있도록 해야 한다는 거죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_05",
+      "value": "이런 과정은 주로 대화와 설득으로 이루어집니다. 하지만 가끔은 공익의 이름 아래 상대의 의지를 꺾어야 하는 경우도 있죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_06",
+      "value": "포털을 찾아 시험을 완료하세요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_01",
+      "value": "앞을 봐요! 마지막 포털이에요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_02",
+      "value": "축하합니다, <i>아르테미스</i>의 선원들."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_03",
+      "value": "여러분은 시험을 모두 통과했으며, 최초의 기술자들이 이 놀라운 성과를 성취했을 때 보여준 모든 특성을 갖추고 있음을 증명했죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_04",
+      "value": "여러분에게는 모두 기술자의 자격이 있습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_05",
+      "value": "이거 보여요? 내 트라이코더에 <i>아르테미스</i> 데이터코어로 대량의 데이터가 흘러 들어가는 게 잡혀요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_06",
+      "value": "도표, 설계도..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_07",
+      "value": "이것으로 현실 엔진 수리를 도와주면 됩니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_08",
+      "value": "하지만 우선 드림리스의 존재부터 제거해야 합니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_01",
+      "value": "엔진이 좀 더 어두워 보이네요. 안 그래요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_02",
+      "value": "케어테이커가 심하게 손상됐다고 말하긴 했죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_03",
+      "value": "우리가 얼마나 오래 케어테이커의 시험을 치르고 있었는지도 정확하지 않고..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_04",
+      "value": "어쨌든 드림리스가 이곳을 점령하기엔 충분한 시간이었죠!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle04_01",
+      "value": "너희는 우리가 이 기계를 중단시키는 걸 막지 못할 것이다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle04_02",
+      "value": "그건 두고 봐야 알지!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_01",
+      "value": "더 이상 나아가게 둘 수는 없다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_02",
+      "value": "우릴 지나가게 해줘. 수백만 명의 목숨이 우리에게 달려있어!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_03",
+      "value": "너희의 걱정은 이해한다. 우리도 이들을 구하려고 하는 거다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_04",
+      "value": "너희는 이들의 목숨을 너희 손에 쥐려고 하는 것뿐이야. 너희는 자신이 도덕적으로 올바르다고 주장하지만, 너희들에게 그런 권리는 없어."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_05",
+      "value": "우리는 사람들과 온 우주에 다시 질서를 가져다 줄 것이다. 모든 것이 끝날 것이다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_01",
+      "value": "코어예요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_02",
+      "value": "저게 드림리스의 리더 같군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_03",
+      "value": "침입자들... 우리를 막기 위해 끝없이 덤비는 자들."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_04",
+      "value": "당신이 원래 어떤 존재였는지 조금이나마 봤어. 당신이 여기 오기 전의 모습 말야."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_05",
+      "value": "당신은 부모이고 학자였지. 당신은 대량 학살범이 아니야!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_06",
+      "value": "우리가 하는 게 학살이라고 생각하나? 모든 삶은 결국 끝난다. 생명이라면 모두!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_01",
+      "value": "이제 그만! 이곳을 보호하려는 시도는 어리석은 짓이다. 이곳은 감옥이다. 우주의 섭리에 거스르는 모욕이야!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_02",
+      "value": "그럴지도 모르지. 넥서스는 고대 문명에서 만들어낸 거만하고 잘못된 창조물이고, 누구든 잡히면 가둬놓고 놓아주지 않아."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_03",
+      "value": "하지만 결국 수많은 사람들의 마음과 영혼이 여기에 존재하고 있잖아. 당신에게 그걸 모두 없애겠다고 결정할 수 있는 권한은 없어."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_04",
+      "value": "참으로 독선적이고 의지가 결연하군."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_05",
+      "value": "정말 넥서스가 선의로 만들어진 거라고 생각하나? 그렇게 생각한다면 망상이다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_06",
+      "value": "우리는 오늘 우리가 하려는 일을 해낼 것이다. 내 의식은 이곳에서도, 그리고 넥서스를 관통하는 네트워크 안에도 존재하고 있다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_07",
+      "value": "너희가 이 현실 엔진을 안정화시켜도, 이건 빙산의 일각일 뿐이야. 어차피 때가 되면 다른 엔진이 중단될 테니까. (사라진다)"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_08",
+      "value": "이런 말을 하기 싫지만... 우리는 넥서스에 대해 뭘 알고 있죠? 우리가 과연 옳은 일을 한 걸까요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_09",
+      "value": "최소한 누군가가 스위치 하나로 이곳의 모든 생명을 죽이도록 할 순 없다는 건 알죠. (모두 아르테미스로 돌아간다)"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_10",
+      "value": "그 여자는 이 엔진에서 물러갔지만, 코어와 융합하면서 그녀에게 비밀이 하나 드러나고 말았습니다. 드림리스에게 밝히고 싶지 않았던 비밀이요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_11",
+      "value": "그들의 다음 목표를 알려드리죠. 너무 늦기 전에 부디 기술자로서 의무를 다해주시기 바랍니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_01",
+      "value": "이 콘솔을 통해 두 개의 출구 중 하나의 플랫폼으로 갈 수 있어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_02",
+      "value": "그럼... 어디로 가는지 정확히 모르는 거군요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_03",
+      "value": "커크 선장이 뭐라고 했었죠? \"대담하게 전진하라\"?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_04",
+      "value": "하지만 커크 선장도 본인이 어디로 가는지는 몰랐을걸요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_01",
+      "value": "왼쪽으로 가죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_02",
+      "value": "무슨 이유라도 있어요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_03",
+      "value": "내가 투구할 때 왼팔을 쓰거든요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_04",
+      "value": "그거면 충분해요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_01",
+      "value": "지금까지 운이 좋았으니, 난 어느 쪽이든 좋아요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_02",
+      "value": "그러든가요. 수만 년의 진화 끝에 가장 기술적으로 발전한 배를 타고 우주를 항해하는 우리가, 수백만 명의 목숨을 구하기 위해 행운에 의지해야 하다니."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_03",
+      "value": "그러면 뭐, 오른쪽으로 갑시다. 못 갈 이유 있나요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_01",
+      "value": "이곳은 엔진 코어의 가장자리예요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_01",
+      "value": "우리가 이 여정을 시작했을 때 우린 넥서스에 대해 이해하지 못했죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_02",
+      "value": "우리는 한 배의 선원이 되었고, 서로 다른 문화, 배경, 시간대에도 불구하고 하나가 되었어요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_03",
+      "value": "지금 이 순간 난 여러분과 함께 있고 싶어요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_04",
+      "value": "이 노인네 눈에 눈물이 맺히려고 하네! 그럼 당장 들어가서 막아야죠!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_01",
+      "value": "위대한 케일레스께서 말씀하셨죠. \"적이 너무 강해 도저히 이길 수 없을 수도 있다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_02",
+      "value": "하지만 그래도 우리는 나아가야 한다. 중요한 순간에 전사임을 버리는 것보다 죽는 것이 차라리 낫기 때문이다.\""
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_03",
+      "value": "오늘 우리는 그 말을 지키는 겁니다! 힘을 합쳐 장애물을 타파하는 겁니다!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_04",
+      "value": "훌륭한 말이군요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_05",
+      "value": "나중에 사관학교에 가서 축구 코치 같은 거 하면 잘하겠어요, 워프!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_01",
+      "value": "빨리 일을 마치고 내가 원래 있어야 할 의무실로 돌아갈 수만 있다면야..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_02",
+      "value": "준비도 안 하고 뛰어들어가는 건 자살 행위예요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_03",
+      "value": "일단 앉아서 스캔이라도 하며 우리 상대가 어떤지 확인해야죠!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_04",
+      "value": "참 똑똑한 친구라니까!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_05",
+      "value": "그렇게 준비를 해두면 우리도 유리한 위치를 점할 수 있을지 모르고요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_01",
+      "value": "환영합니다, 기술자들."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_02",
+      "value": "와, 우리에게 멋진 칭호가 생겼네요! 이제 뭘 하죠?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_03",
+      "value": "지금 이 순간에도 드림리스는 현실 엔진의 방어를 뚫고 들어오고 있습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_04",
+      "value": "엔진을 수리하기 위해 필요한 정보를 여러분의 배에 업로드했고, 리액터를 통해 접속할 수 있습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_05",
+      "value": "그걸 엔진의 코어로 가져가 안정화시키고 시스템을 다시 가동하세요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_06",
+      "value": "자칭 '드림리스'들은 여러분을 막기 위해 전력을 다할 광신도들입니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_01",
+      "value": "피해가 심각하네요. 시간이 없어요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_02",
+      "value": "테란 시간 기준 5분 안에 심각한 손상이 발생할 예정입니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_03",
+      "value": "현재 프라이머리 드림리스가 자신의 의식을 거의 엔진에 융합시킨 상태입니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_04",
+      "value": "그건... 좋지 않군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_05",
+      "value": "이 엔진의 프로토콜은 허용되지 않은 접근을 차단하게 되어 있지만, 드림리스는 시스템을 사보타주하고 리액터를 오랫동안 조종해왔습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_06",
+      "value": "만일 그들의 지도자가 엔진에 자신의 의식을 융합하는 데 성공하면, 엔진을 중단시킬 것이고 또한 그 힘을 다음 넥서스로 뻗어가려 할 겁니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_07",
+      "value": "그런 일이 일어나지 않게 막을 방법이 있을 거 아니에요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_08",
+      "value": "여러분 역시 기술자로서 엔진에 자신의 의식을 융합시킬 수 있습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_09",
+      "value": "하지만 그러려면 엄청난 정신력이 필요하죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_10",
+      "value": "마이클, 당신은 엄청난 정신력을 갖고 있잖아요. 덕분에 당신과 함께하는 시간이 내내 즐겁다고요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_11",
+      "value": "그리고 당신은 내가 아는 정신 혼합의 일인자의 입양된 누나죠. 음, 유일하죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_12",
+      "value": "마이클, 당신을 믿어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_13",
+      "value": "나는... 해볼게요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_14",
+      "value": "이거... 되는 거 같아요. 어머니의 팔처럼 벽이 날 감싸고 있어요. 모든 게 황금색이에요. 엄청나게 크고요. 이런 건... 생각도 못했네요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_15",
+      "value": "여기에 다른 존재가 있어요. 거대해요. 산보다도 더 큰 존재가 앞에 있어요. 자신이 옳다고 믿는 여자예요. 분노했고요. 아이들, 자신의 짝, 모두를 잃었어요... 오래 전에 죽고 없어졌죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_16",
+      "value": "여자가 날 봤어요! 지금 피하고 있어요. 여자가 엔진에 대한 집중력을 잃고... 날 쫓고 있나봐요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_17",
+      "value": "여자가 날 시스템에서 밀어냈어요! 날 밀어내는 힘이 느껴졌어요... 어쩌면 여자의 속도를 좀 늦출 수 있었을지도요..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_18",
+      "value": "여기에서는 다시 엔진에 접근할 수 없어요. 코어로 가야 해요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_01",
+      "value": "저쪽의 작업이 거의 완료됐습니다. 이제 시간이 거의 없어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_02",
+      "value": "안 돼! 리액터를 통해서 다시 엔진에 접속해볼게요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_03",
+      "value": "정말요? 저번에는 당신 생체 신호가 엄청나게 날뛰었어요. 또 그런 일이 일어나면..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_04",
+      "value": "그러면 스타플릿 최고의 의사가 돌봐주겠죠. 안 그래요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_05",
+      "value": "그럼 어서 시작하죠!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_06",
+      "value": "다시 들어왔어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_07",
+      "value": "그 여자가 사방에서 느껴져요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_08",
+      "value": "슬픔도 느껴지고요. 너무나도 외로워 하네요. 자신이 알던 모든 존재가 사라지고 없어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_09",
+      "value": "여자는... 그 모든 존재들을 그리워해요. 그녀는 고독한 존재예요. 자신의 세계가 완전히 사라졌어요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_10",
+      "value": "여자가 만든 거대한 도서관, 어린 시절 헤엄치던 붉은 바다... 그 모든 게 사라졌어요. 그리고 감당할 수 없는 슬픔! 난 도저히... 으아아아!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_11",
+      "value": "박사님! 어서 꺼내요! 이러다 죽겠어요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_12",
+      "value": "난 괜찮아요. 저 여자와 같은 고통은 느껴본 적이 없어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_13",
+      "value": "슬픔이 여자 속에서 점점 커지다가 결국 그녀가 있던 스피어의 현실을 뚫고 나온 거예요. 그 스피어는 더 이상 여자의 마음과 영혼을 담을 수 없었던 거죠. 그렇게... 드림리스가 태어난 거예요. 그리고 그들이 여기에 온 거고요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_14",
+      "value": "그래서 넥서스를 이렇게 여기게 된 거군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_15",
+      "value": "하지만 그렇다고 이런 파괴 행각을 계속하며 다른 목숨까지 앗아가게 둘 순 없죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_16",
+      "value": "그녀가 또 당신을 봤나요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_17",
+      "value": "당신의 친구 덕분에 지구 시간 기준 78.9분이 더 생겼습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_18",
+      "value": "아직 시간이 있어요!"
+    },
+    {
       "key": "Data_GSCutSceneDialogue_opening_cutscene_01",
       "value": "넥서스가 돌아왔습니다."
     },
@@ -11371,6 +13223,10 @@
       "value": "기계의 유령"
     },
     {
+      "key": "Data_GSEpisodes_displayName_Episode7",
+      "value": "다타, 다야드밤과 다미야타"
+    },
+    {
       "key": "Data_GSMissionObjective_e1_m1_encounter03",
       "value": "칸을 처치하십시오"
     },
@@ -11527,6 +13383,30 @@
       "value": "이전에 아무도 가본 적 없는 곳까지 담대하게 나아가야 하죠."
     },
     {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission1",
+      "value": "<i>U.S.S. 아르테미스</i>는 점령한 별 주변에 건설한 거대한 현실 엔진 바깥쪽을 돌고 있습니다."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission2",
+      "value": "케어테이커의 도움을 받기 위해 원정 팀은 4개의 시험을 통과해야 하는데, 첫 번째 시험은 믿음의 시험입니다."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission3",
+      "value": "두 번째 시험은 의지의 시험으로, 원정 팀은 다시 한 번 보그와 맞서게 됩니다."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission4",
+      "value": "믿음과 의지만으로는 부족하죠. 원정 팀은 그다음으로 교활함의 시험을 치러야 합니다."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission5",
+      "value": "마지막인 이성의 시험에서는 대화와 전략만으로 갈등을 해결할 수 있어야 합니다."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission6",
+      "value": "기술자들의 도움을 받아 원정 팀은 드림리스를 막아내고 현실 엔진을 수리해야 합니다."
+    },
+    {
       "key": "Data_GSMissions_displayName_Episode1_Mission1",
       "value": "대담하게 전진하라"
     },
@@ -11671,12 +13551,44 @@
       "value": "커다란 총성이 아니라 가녀린 흐느낌으로"
     },
     {
+      "key": "Data_GSMissions_displayName_Episode7_Mission1",
+      "value": "반쪽짜리 바보의 낙원"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission2",
+      "value": "어딘가 낯선 곳"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission3",
+      "value": "기나긴 길을 지나"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission4",
+      "value": "와인과 장미"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission5",
+      "value": "왕관을 쓴 고독"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission6",
+      "value": "마지막 말"
+    },
+    {
       "key": "Data_GSNodeEncounter_BattleDesc_Borg",
       "value": "적대적인 보그의 생명 징후 감지. 전투를 준비하십시오."
     },
     {
       "key": "Data_GSNodeEncounter_BattleDesc_Cardassian",
       "value": "적대적인 카다시안의 생명 징후 감지. 전투를 준비하십시오."
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_CardassianShapeshifters",
+      "value": "적대적인 카다시안 및 형체변형자의 생명 징후 감지. 전투를 준비하십시오."
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+      "value": "적대적인 드림리스의 생명 징후 감지. 전투를 준비하십시오."
     },
     {
       "key": "Data_GSNodeEncounter_BattleDesc_e1_m1_battle01",
@@ -12911,8 +14823,16 @@
       "value": "적대적인 로뮬란과 곤의 생명 징후 감지. 전투를 준비하십시오."
     },
     {
+      "key": "Data_GSNodeEncounter_BattleDesc_Shapeshifters",
+      "value": "적대적인 형체변형자의 생명 징후 감지. 전투를 준비하십시오."
+    },
+    {
       "key": "Data_GSNodeEncounter_BattleDesc_Unknown",
       "value": "알 수 없는 적의 감지. 전투를 준비하십시오."
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_UnknownLife",
+      "value": "정체 모를 적대적인 존재의 생명 징후 감지. 전투를 준비하십시오."
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_AbandonedShuttle",
@@ -12975,6 +14895,10 @@
       "value": "보그 알코브"
     },
     {
+      "key": "Data_GSNodeExploration_clickableObject_BorgCube",
+      "value": "보그 큐브"
+    },
+    {
       "key": "Data_GSNodeExploration_clickableObject_BorgDevice",
       "value": "보그 기기"
     },
@@ -12989,6 +14913,10 @@
     {
       "key": "Data_GSNodeExploration_clickableObject_BorgDrones",
       "value": "보그 드론"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_BorgSensors",
+      "value": "보그 센서"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_BorgSphere",
@@ -13343,6 +15271,14 @@
       "value": "로뮬란 교대 팀"
     },
     {
+      "key": "Data_GSNodeExploration_clickableObject_Romulans",
+      "value": "로뮬란"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_Runabout",
+      "value": "소형 우주선"
+    },
+    {
       "key": "Data_GSNodeExploration_clickableObject_Sabotage",
       "value": "방해 공작"
     },
@@ -13453,6 +15389,10 @@
     {
       "key": "Data_GSNodeExploration_clickableObject_WorkerBee",
       "value": "일벌"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_Wounded",
+      "value": "부상자"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_Wreckage",
@@ -14263,6 +16203,134 @@
       "value": "감지를 피하기 위해 원정 팀은 오른쪽 길로 향하기로 결정했습니다. 원정 팀이 <b>대체 경로<b>를 발견했습니다."
     },
     {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option01",
+      "value": "원정 팀은 리액터 중 하나를 사용하여 길을 막고 있는 힘의 장을 해제할 수 있습니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option02",
+      "value": "원정 팀이 시설을 계속 탐험합니다. 원정 팀이 <b>대체 경로<b>를 발견했습니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option01",
+      "value": "원정 팀은 리액터를 사용하여 잠긴 문을 열고 보급품을 발견했습니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option02",
+      "value": "호기심보다는 안전을 택한 원정 팀이 전진합니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option01",
+      "value": "원정 팀은 성공적으로 플랫폼으로 이동하여 보급품을 발견합니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option02",
+      "value": "원정 팀은 부상의 위험이 있는 플랫폼을 무시하고 계속 나아갑니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option01",
+      "value": "소형 우주선의 손상이 있는지 확인하던 중, 연방으로 가장한 형체변형자들이 원정 팀을 공격합니다. 원정 팀은 <b>기술 보너스<b>를 받습니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option02",
+      "value": "형체변형자들이 무방비 상태인 원정 팀을 습격합니다. 원정 팀은 <b>속도 페널티</b>를 받습니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option03",
+      "value": "형체변형자들의 습격을 받기 직전, 소형 우주선을 수색하던 원정 팀은 보급품을 발견합니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option01",
+      "value": "버려진 보급품은 형체변형자들의 함정이었습니다. 전투를 준비하십시오."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option02",
+      "value": "함정일 가능성을 생각한 원정 팀은 그냥 전진합니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option01",
+      "value": "보그 센서에 액세스한 원정 팀은 새로운 길을 발견했으며, 자신들의 침투가 들키지 않기를 바랍니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option02",
+      "value": "적의 주의를 최소화하며 원정 팀은 보그 큐브를 계속 조사하기로 합니다. 원정 팀이 <b>대체 경로<b>를 발견했습니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option01",
+      "value": "보그 알코브의 전력에 과부하를 일으켜 알코브와 충전 중이던 드론을 비활성화시켰습니다. 원정 팀이 <b>방어력 보너스<b>를 받습니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option02",
+      "value": "원정 팀이 보그 알코브 사용을 피하기로 결정합니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option01",
+      "value": "보그 부품과 재료를 뒤지던 중 원정 팀은 약간의 보급품을 발견합니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option02",
+      "value": "원정 팀은 보그 부품을 무시하고 앞으로 나아갑니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option01",
+      "value": "의료 지원 기술을 사용하여 원정 팀은 부상자를 원격으로 도와줍니다. 스타플릿 의무병이 감사의 의미로 추가 보급품을 건넸습니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option02",
+      "value": "부상자를 보호하기 위해 원정 팀은 다가오는 클링온을 향해 돌진합니다. 원정 팀은 <b>공격력 보너스<b>를 받습니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option01",
+      "value": "시간이 얼마 남지 않은 원정 팀은 계속 전진합니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option02",
+      "value": "리액터 중 하나를 사용하여 '현실'을 조정하려던 원정 팀은 약간의 보급품을 발견합니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option01",
+      "value": "평화로운 해결책은 아니었지만, 어쨌든 원정 팀은 전투를 피하는 데 성공합니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option02",
+      "value": "안타깝게도 로뮬란의 적대적인 대응으로 전투가 시작되었습니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option01",
+      "value": "그리 납득은 안 되는 모양이지만, 셀라는 원정 팀이 전투 없이 지나갈 수 있게 해주었습니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option02",
+      "value": "연방을 믿지 못하는 셀라와 로뮬란이 공격합니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option01",
+      "value": "안정적으로 외교적 협상을 이루어낸 원정 팀은 전투를 피하는 데 성공합니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option02",
+      "value": "외교적 협상에 실패한 원정 팀은 전투를 준비합니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option01",
+      "value": "원정 팀은 왼쪽 길로 계속 나아갑니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option02",
+      "value": "원정 팀은 오른쪽 길로 계속 나아갑니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option01",
+      "value": "원정 팀은 드림리스를 막겠다는 일념으로 전투 준비를 합니다. 원정 팀은 <b>사기 보너스<b>를 받습니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option02",
+      "value": "원정 팀은 전투에서 드림리스에 맞서고 현실 엔진을 구하기 위해 준비합니다."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option03",
+      "value": "드림리스를 스캔하는 바람에 이후 전투에서 원정 팀의 유리한 위치가 사라졌습니다. 원정 팀은 <b>기술 보너스<b>를 받습니다."
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_AdvancedForward",
       "value": "원정 팀이 전진합니다"
     },
@@ -14327,6 +16395,10 @@
       "value": "컴퓨터를 해킹함"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
+      "value": "앞으로 계속 나아가기"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_CoreDisabled",
       "value": "워프 코어를 비활성화함"
     },
@@ -14341,6 +16413,10 @@
     {
       "key": "Data_GSNodeExploration_ResultsHeader_Diplomacy",
       "value": "외교 성공"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsHeader_DoorOpened",
+      "value": "문이 열림"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_DoorsOpened",
@@ -14431,6 +16507,10 @@
       "value": "길을 발견함"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_PersonnelHealed",
+      "value": "회복한 부상자"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_PulledBack",
       "value": "후퇴함"
     },
@@ -14467,6 +16547,10 @@
       "value": "스캔 성공"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_SensorsAccessed",
+      "value": "센서에 액세스함"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_ShieldBonus",
       "value": "쉴드 보너스"
     },
@@ -14481,6 +16565,10 @@
     {
       "key": "Data_GSNodeExploration_ResultsHeader_SpeedBonus",
       "value": "속도 보너스"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsHeader_SpeedDown",
+      "value": "속도 감소"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
@@ -15057,6 +17145,30 @@
     {
       "key": "Data_MissionObjective_e6_m6_Name",
       "value": "넥서스 수리하기"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m1_Name",
+      "value": "드림리스 막기"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m2_Name",
+      "value": "믿음의 시험"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m3_Name",
+      "value": "의지의 시험"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m4_Name",
+      "value": "교활함의 시험"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m5_Name",
+      "value": "이성의 시험"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m7_Name",
+      "value": "드림리스 막기"
     },
     {
       "key": "Data_Notification_DailyRewardOneOff_Body",
@@ -18899,6 +21011,10 @@
       "value": "물러나라"
     },
     {
+      "key": "Data_Skill_Chang_Bridge_description",
+      "value": "클링온 <color=#01e2ff>+5%</color> 공격력을(를) 획득합니다."
+    },
+    {
       "key": "Data_Skill_Chekov_Attack_description_level1",
       "value": "<color=#01e2ff>100% 피해</color>를 가합니다."
     },
@@ -18909,6 +21025,10 @@
     {
       "key": "Data_Skill_Chekov_Attack_displayName",
       "value": "페이저"
+    },
+    {
+      "key": "Data_Skill_Chekov_Bridge_description",
+      "value": "스타플릿 <color=#01e2ff>+5%</color> 공격력을(를) 획득합니다."
     },
     {
       "key": "Data_Skill_Crusher_Attack_description_level1",
@@ -19156,7 +21276,7 @@
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_description_level1",
-      "value": "<color=#01e2ff>150% 기술 피해</color>를 가합니다."
+      "value": "<color=#01e2ff>100% 기술 피해</color>를 가합니다."
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_displayName",
@@ -19256,7 +21376,7 @@
     },
     {
       "key": "Data_Skill_Elnor_Bridge_description",
-      "value": "방어력 <color=#01e2ff>+5%</color>를 획득합니다."
+      "value": "<color=#01e2ff>+3%</color> 방어력을(를) 획득합니다."
     },
     {
       "key": "Data_Skill_Elnor_Bridge_displayName",
@@ -19305,6 +21425,10 @@
     {
       "key": "Data_Skill_Garak_Attack_description_level2",
       "value": "<color=#01e2ff>150% 피해</color>를 가합니다."
+    },
+    {
+      "key": "Data_Skill_Garak_Bridge_description",
+      "value": "<color=#01e2ff>+5%</color> 치명타 확률을(를) 획득합니다."
     },
     {
       "key": "Data_Skill_GenBorgEng01M_Attack_description_level1",
@@ -20967,6 +23091,18 @@
       "value": "피카드 작전 행동"
     },
     {
+      "key": "Data_Skill_PicardDixon_Attack_description_level1",
+      "value": "<color=#01e2ff>100% 피해</color>를 가합니다."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Attack_description_level2",
+      "value": "<color=#01e2ff>150% 피해</color>를 가합니다."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Bridge_description",
+      "value": "스타플릿 <color=#01e2ff>+5%</color> 공격력을(를) 획득합니다."
+    },
+    {
       "key": "Data_Skill_PicardOld_Attack_description_level1",
       "value": "<color=#01e2ff>2 x 50% 피해</color>를 가합니다."
     },
@@ -21347,6 +23483,18 @@
       "value": "기습 공격"
     },
     {
+      "key": "Data_Skill_Shinzon_Attack_description_level1",
+      "value": "<color=#01e2ff>100% 피해</color>를 가합니다(<color=#01e2ff>25%의 확률</color>로 <color=#01e2ff>부상</color>을 입힘)."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Attack_description_level2",
+      "value": "<color=#01e2ff>125% 피해</color>를 가합니다(<color=#01e2ff>50%의 확률</color>로 <color=#01e2ff>부상</color>을 입힘)."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Bridge_description",
+      "value": "로뮬란 <color=#01e2ff>+5%</color> 공격력을(를) 획득합니다."
+    },
+    {
       "key": "Data_Skill_Sisko_Attack_description_level1",
       "value": "<color=#01e2ff>3 x 35% 피해</color>를 가합니다. (적이 <color=#01e2ff>카다시안</color>일 경우 <color=#01e2ff>25%의 확률</color>로 1턴간 <color=#01e2ff>방어력을 감소</color>시킵니다)."
     },
@@ -21528,7 +23676,7 @@
     },
     {
       "key": "Data_Skill_Stamets_Bridge_description",
-      "value": "스타플릿이 기술 <color=#01e2ff>+10%</color>를 획득합니다."
+      "value": "스타플릿 <color=#01e2ff>+5%</color> 기술을(를) 획득합니다."
     },
     {
       "key": "Data_Skill_Stamets_Bridge_displayName",
@@ -21672,7 +23820,7 @@
     },
     {
       "key": "Data_Skill_Tilly_Bridge_description",
-      "value": "기술형이 방어력 <color=#01e2ff>+10%</color>를 획득합니다."
+      "value": "스타플릿 <color=#01e2ff>+5%</color> 방어력을(를) 획득합니다."
     },
     {
       "key": "Data_Skill_Tilly_Bridge_displayName",
@@ -21736,11 +23884,11 @@
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_description_level1",
-      "value": "3턴간 모든 아군에게 <color=#01e2ff>숨기</color>를 시전합니다."
+      "value": "모든 아군을 3턴 동안 <color=#01e2ff>숨김</color> 상태로 만듭니다. (아군이 <color=#01e2ff>로뮬란</color>인 경우 <color=#01e2ff>사기 +1</color>)."
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_description_level2",
-      "value": "3턴간 모든 아군에게 <color=#01e2ff>숨기</color>와 <color=#01e2ff>정화</color>를 시전합니다."
+      "value": "모든 아군을 3턴 동안 <color=#01e2ff>숨김</color> 및 <color=#01e2ff>정화</color> 상태로 만듭니다. (아군이 <color=#01e2ff>로뮬란</color>인 경우 <color=#01e2ff>사기 +2</color>)."
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_displayName",
@@ -21748,11 +23896,11 @@
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_description_level1",
-      "value": "3턴간 적 1명의 <color=#01e2ff>사기 -1을</color>적용하며 <color=#01e2ff>방어력을 감소</color>시킵니다. <color=#01e2ff>다음 턴:</color><color=#01e2ff>200% 피해</color>를 가합니다(적의 <color=#01e2ff>사기</color>가 < 0일 경우 <color=#01e2ff>300% 피해</color>)."
+      "value": "1명의 적에게 <color=#01e2ff>200% 기술 피해</color>를 가하고 모든 적에게 <color=#01e2ff>사기 -1</color>을 부여합니다."
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_description_level2",
-      "value": "3턴간 적 1명에게 <color=#01e2ff>사기 -2</color>를 적용하며 <color=#01e2ff>방어력을 대폭 감소</color>시킵니다. <color=#01e2ff>다음 턴:</color><color=#01e2ff>300% 피해</color>를 가합니다(적의 <color=#01e2ff>사기</color>가 < 0일 경우 <color=#01e2ff>450% 피해</color>)."
+      "value": "1명의 적에게 <color=#01e2ff>300% 기술 피해</color>를 가하고 모든 적에게 <color=#01e2ff>사기 -2</color>을 부여합니다."
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_displayName",
@@ -21772,7 +23920,7 @@
     },
     {
       "key": "Data_Skill_Torchbearer_Bridge_description",
-      "value": "클링온이 결의 <color=#01e2ff>+10%</color>를 획득합니다."
+      "value": "클링온 <color=#01e2ff>+5%</color> 결의을(를) 획득합니다."
     },
     {
       "key": "Data_Skill_Torchbearer_Bridge_displayName",
@@ -21891,8 +24039,20 @@
       "value": "절제"
     },
     {
+      "key": "Data_Skill_Troi_Attack_description_level1",
+      "value": "<color=#01e2ff>100% 피해</color>를 가합니다."
+    },
+    {
+      "key": "Data_Skill_Troi_Attack_description_level2",
+      "value": "<color=#01e2ff>150% 피해</color>를 가합니다."
+    },
+    {
       "key": "Data_Skill_Troi_Attack_displayName",
       "value": "페이저"
+    },
+    {
+      "key": "Data_Skill_Troi_Bridge_description",
+      "value": "스타플릿 <color=#01e2ff>+5%</color> 결의을(를) 획득합니다."
     },
     {
       "key": "Data_Skill_Tuvok_Attack_displayName",
@@ -25079,6 +27239,26 @@
       "value": "보급품 상자 발견"
     },
     {
+      "key": "News_Crew_Generic_Headline",
+      "value": "새 선원"
+    },
+    {
+      "key": "News_Episode_Generic_Headline",
+      "value": "새 에피소드"
+    },
+    {
+      "key": "News_FactionEvent_Generic_Headline",
+      "value": "새 진영 이벤트"
+    },
+    {
+      "key": "News_SoloEvent_Generic_Headline",
+      "value": "새 솔로 이벤트"
+    },
+    {
+      "key": "News_Update_Generic_Headline",
+      "value": "새 업데이트"
+    },
+    {
       "key": "No Items Summoned",
       "value": "소환한 아이템 없음"
     },
@@ -25652,43 +27832,43 @@
     },
     {
       "key": "shop_Gear_Command_Padd_Common",
-      "value": "전설 PADD: 지휘형"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Epic",
-      "value": "초희귀 PADD: 지휘형"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Legendary",
-      "value": "에픽 PADD: 지휘형"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Rare",
       "value": "일반 PADD: 지휘형"
     },
     {
-      "key": "shop_Gear_Command_Padd_VeryRare",
+      "key": "shop_Gear_Command_Padd_Epic",
+      "value": "에픽 PADD: 지휘형"
+    },
+    {
+      "key": "shop_Gear_Command_Padd_Legendary",
+      "value": "전설 PADD: 지휘형"
+    },
+    {
+      "key": "shop_Gear_Command_Padd_Rare",
       "value": "희귀 PADD: 지휘형"
     },
     {
+      "key": "shop_Gear_Command_Padd_VeryRare",
+      "value": "초희귀 PADD: 지휘형"
+    },
+    {
       "key": "shop_Gear_Command_Phaser_Common",
-      "value": "전설 II 타입 페이저: 지휘형"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Epic",
-      "value": "초희귀 II 타입 페이저: 지휘형"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Legendary",
-      "value": "에픽 II 타입 페이저: 지휘형"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Rare",
       "value": "일반 II 타입 페이저: 지휘형"
     },
     {
-      "key": "shop_Gear_Command_Phaser_VeryRare",
+      "key": "shop_Gear_Command_Phaser_Epic",
+      "value": "에픽 II 타입 페이저: 지휘형"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_Legendary",
+      "value": "전설 II 타입 페이저: 지휘형"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_Rare",
       "value": "희귀 II 타입 페이저: 지휘형"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_VeryRare",
+      "value": "초희귀 II 타입 페이저: 지휘형"
     },
     {
       "key": "shop_Gear_Command_Tricorder_Common",
@@ -25732,43 +27912,43 @@
     },
     {
       "key": "shop_Gear_Engineer_Padd_Common",
-      "value": "전설 PADD: 기술형"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Epic",
-      "value": "초희귀 PADD: 기술형"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Legendary",
-      "value": "에픽 PADD: 기술형"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Rare",
       "value": "일반 PADD: 기술형"
     },
     {
-      "key": "shop_Gear_Engineer_Padd_VeryRare",
+      "key": "shop_Gear_Engineer_Padd_Epic",
+      "value": "에픽 PADD: 기술형"
+    },
+    {
+      "key": "shop_Gear_Engineer_Padd_Legendary",
+      "value": "전설 PADD: 기술형"
+    },
+    {
+      "key": "shop_Gear_Engineer_Padd_Rare",
       "value": "희귀 PADD: 기술형"
     },
     {
+      "key": "shop_Gear_Engineer_Padd_VeryRare",
+      "value": "초희귀 PADD: 기술형"
+    },
+    {
       "key": "shop_Gear_Engineer_Phaser_Common",
-      "value": "전설 II 타입 페이저: 기술형"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Epic",
-      "value": "초희귀 II 타입 페이저: 기술형"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Legendary",
-      "value": "에픽 II 타입 페이저: 기술형"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Rare",
       "value": "일반 II 타입 페이저: 기술형"
     },
     {
-      "key": "shop_Gear_Engineer_Phaser_VeryRare",
+      "key": "shop_Gear_Engineer_Phaser_Epic",
+      "value": "에픽 II 타입 페이저: 기술형"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_Legendary",
+      "value": "전설 II 타입 페이저: 기술형"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_Rare",
       "value": "희귀 II 타입 페이저: 기술형"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_VeryRare",
+      "value": "초희귀 II 타입 페이저: 기술형"
     },
     {
       "key": "shop_Gear_Engineer_Tricorder_Common",
@@ -25812,43 +27992,43 @@
     },
     {
       "key": "shop_Gear_Medic_Padd_Common",
-      "value": "전설 PADD: 의료형"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Epic",
-      "value": "초희귀 PADD: 의료형"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Legendary",
-      "value": "에픽 PADD: 의료형"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Rare",
       "value": "일반 PADD: 의료형"
     },
     {
-      "key": "shop_Gear_Medic_Padd_VeryRare",
+      "key": "shop_Gear_Medic_Padd_Epic",
+      "value": "에픽 PADD: 의료형"
+    },
+    {
+      "key": "shop_Gear_Medic_Padd_Legendary",
+      "value": "전설 PADD: 의료형"
+    },
+    {
+      "key": "shop_Gear_Medic_Padd_Rare",
       "value": "희귀 PADD: 의료형"
     },
     {
+      "key": "shop_Gear_Medic_Padd_VeryRare",
+      "value": "초희귀 PADD: 의료형"
+    },
+    {
       "key": "shop_Gear_Medic_Phaser_Common",
-      "value": "전설 II 타입 페이저: 의료형"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Epic",
-      "value": "초희귀 II 타입 페이저: 의료형"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Legendary",
-      "value": "에픽 II 타입 페이저: 의료형"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Rare",
       "value": "일반 II 타입 페이저: 의료형"
     },
     {
-      "key": "shop_Gear_Medic_Phaser_VeryRare",
+      "key": "shop_Gear_Medic_Phaser_Epic",
+      "value": "에픽 II 타입 페이저: 의료형"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_Legendary",
+      "value": "전설 II 타입 페이저: 의료형"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_Rare",
       "value": "희귀 II 타입 페이저: 의료형"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_VeryRare",
+      "value": "초희귀 II 타입 페이저: 의료형"
     },
     {
       "key": "shop_Gear_Medic_Tricorder_Common",
@@ -25892,43 +28072,43 @@
     },
     {
       "key": "shop_Gear_Science_Padd_Common",
-      "value": "전설 PADD: 과학형"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Epic",
-      "value": "초희귀 PADD: 과학형"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Legendary",
-      "value": "에픽 PADD: 과학형"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Rare",
       "value": "일반 PADD: 과학형"
     },
     {
-      "key": "shop_Gear_Science_Padd_VeryRare",
+      "key": "shop_Gear_Science_Padd_Epic",
+      "value": "에픽 PADD: 과학형"
+    },
+    {
+      "key": "shop_Gear_Science_Padd_Legendary",
+      "value": "전설 PADD: 과학형"
+    },
+    {
+      "key": "shop_Gear_Science_Padd_Rare",
       "value": "희귀 PADD: 과학형"
     },
     {
+      "key": "shop_Gear_Science_Padd_VeryRare",
+      "value": "초희귀 PADD: 과학형"
+    },
+    {
       "key": "shop_Gear_Science_Phaser_Common",
-      "value": "전설 II 타입 페이저: 과학형"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Epic",
-      "value": "초희귀 II 타입 페이저: 과학형"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Legendary",
-      "value": "에픽 II 타입 페이저: 과학형"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Rare",
       "value": "일반 II 타입 페이저: 과학형"
     },
     {
-      "key": "shop_Gear_Science_Phaser_VeryRare",
+      "key": "shop_Gear_Science_Phaser_Epic",
+      "value": "에픽 II 타입 페이저: 과학형"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_Legendary",
+      "value": "전설 II 타입 페이저: 과학형"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_Rare",
       "value": "희귀 II 타입 페이저: 과학형"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_VeryRare",
+      "value": "초희귀 II 타입 페이저: 과학형"
     },
     {
       "key": "shop_Gear_Science_Tricorder_Common",
@@ -27139,6 +29319,10 @@
       "value": "탭하여 계속하기"
     },
     {
+      "key": "UI_CaptainLog_Panel_FooterNote_TapToContinue_Click",
+      "value": "클릭하여 계속하기"
+    },
+    {
       "key": "UI_CaptainLog_Panel_FooterNote_TapToContinue_Gamepad",
       "value": "{0}을(를) 눌러 계속하기"
     },
@@ -27205,6 +29389,10 @@
     {
       "key": "UI_Common_Advance",
       "value": "탭하여 전진하기"
+    },
+    {
+      "key": "UI_Common_Advance_Click",
+      "value": "클릭하여 전진하기"
     },
     {
       "key": "UI_Common_Advance_Gamepad",
@@ -27311,6 +29499,10 @@
       "value": "에피소드 6"
     },
     {
+      "key": "UI_Common_Missions_EpisodeIdentifier_07",
+      "value": "에피소드 7"
+    },
+    {
       "key": "UI_Common_New",
       "value": "신규"
     },
@@ -27359,6 +29551,10 @@
       "value": "탭하여 돌아가기"
     },
     {
+      "key": "UI_Common_Return_Click",
+      "value": "클릭하여 돌아가기"
+    },
+    {
       "key": "UI_Common_Return_Gamepad",
       "value": "{0}을(를) 눌러 돌아가기"
     },
@@ -27379,12 +29575,20 @@
       "value": "탭하여 시작"
     },
     {
+      "key": "UI_Common_Start_Click",
+      "value": "클릭하여 시작"
+    },
+    {
       "key": "UI_Common_Start_Gamepad",
       "value": "{0}을(를) 눌러 시작"
     },
     {
       "key": "UI_Common_TapToClose",
       "value": "탭하여 닫기"
+    },
+    {
+      "key": "UI_Common_TapToClose_Click",
+      "value": "클릭하여 닫기"
     },
     {
       "key": "UI_Common_TapToClose_Gamepad",
@@ -27607,6 +29811,30 @@
       "value": "그리고 그중 하나가 고대어를 사용해 \"이리 와. 현실 엔진까지 그들을 쫓아가야 해.\"라고 말했습니다."
     },
     {
+      "key": "UI_Cutscene_Episode7_Text1",
+      "value": "드림리스의 계획을 막고 현실 엔진에서 몰아냈습니다."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text2",
+      "value": "하지만 그들의 지도자는 엔진의 메인프레임에서 비밀을 하나 알아냈습니다. 넥서스를 파멸로 몰고 갈 수 있는 비밀을요."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text3",
+      "value": "케어테이커는 알 수 없는 곳으로 이동하는 드림리스들의 움직임을 추적하는 지도를 하나 보여주었습니다."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text4",
+      "value": "지도 곳곳에 드림리스가 자행한 파괴가 드러나는 가운데, 그들이 향하는 곳도 명백합니다."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text5",
+      "value": "너무나도 눈에 띄는 오류 속에서 작은 오류들은 가려져 보이지 않습니다."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text6",
+      "value": "그 공포스러운 광경을 본 당신의 의지는 더욱 굳어지고, 당신은 아르테미스에게 새로운 경로를 잡도록 지시합니다."
+    },
+    {
       "key": "UI_DailyChest_Claim",
       "value": "재조합장치 수령"
     },
@@ -27685,6 +29913,14 @@
     {
       "key": "UI_EncounterPreview_Title",
       "value": "전투 경고!"
+    },
+    {
+      "key": "UI_Episode_MissionNotAvailable_Body",
+      "value": "이 미션을 해제하려면 이 미션의 이전 난이도를 완료해야 합니다."
+    },
+    {
+      "key": "UI_Episode_MissionNotAvailable_Title",
+      "value": "미션 잠김"
     },
     {
       "key": "UI_Error_ChangeName",
@@ -28053,6 +30289,10 @@
     {
       "key": "UI_Generic_TodaysGoals",
       "value": "오늘의 목표 달성!"
+    },
+    {
+      "key": "UI_Glossary_Header",
+      "value": "용어 사전"
     },
     {
       "key": "UI_GoTo_Achievements",
@@ -28703,6 +30943,10 @@
       "value": "플레이어 레벨{0}에 해제됩니다."
     },
     {
+      "key": "UI_Menu_TooltipLocked_News_Title",
+      "value": "뉴스 (잠김)"
+    },
+    {
       "key": "UI_Menu_TooltipLocked_Operations_Title",
       "value": "작전 (잠김)"
     },
@@ -28813,6 +31057,10 @@
     {
       "key": "UI_Mission_Popup_Replay",
       "value": "리플레이"
+    },
+    {
+      "key": "UI_Mission_PopupNotAvailableSecondary_Message",
+      "value": "이 에피소드를 해제하려면 이 에피소드의 이전 난이도를 완료해야 합니다."
     },
     {
       "key": "ui_mission_result_completion_percent",
@@ -28943,6 +31191,14 @@
       "value": "알림설정은 시스템 메뉴에서 변경할 수 있습니다."
     },
     {
+      "key": "UI_OnlineMode_Body",
+      "value": "온라인 모드로 전환"
+    },
+    {
+      "key": "UI_OnlineMode_Title",
+      "value": "온라인 모드"
+    },
+    {
       "key": "UI_Operations_EventPointTotal",
       "value": "총 포인트: {0}"
     },
@@ -28967,6 +31223,22 @@
       "value": "언어"
     },
     {
+      "key": "UI_Options_LocalKey_High",
+      "value": "높음"
+    },
+    {
+      "key": "UI_Options_LocalKey_Low",
+      "value": "낮음"
+    },
+    {
+      "key": "UI_Options_LocalKey_Medium",
+      "value": "보통"
+    },
+    {
+      "key": "UI_Options_LocalKey_VeryLow",
+      "value": "매우 낮음"
+    },
+    {
       "key": "UI_Options_Music_Off",
       "value": "음악 끄기"
     },
@@ -28977,6 +31249,10 @@
     {
       "key": "UI_Options_PlayerId",
       "value": "플레이어 ID"
+    },
+    {
+      "key": "UI_Options_QualitySettings",
+      "value": "품질 설정"
     },
     {
       "key": "UI_Options_ResetPlayerProgressButton",
@@ -29237,6 +31513,14 @@
     {
       "key": "UI_Popup_FleeBattleConfirmation_Challenges",
       "value": "이 전투에서 정말로 도주하시겠습니까? 후퇴할 시 작전 시도를 잃게 됩니다."
+    },
+    {
+      "key": "UI_Popup_iCloudSaveConflict_Body",
+      "value": "로컬 및 iCloud 저장 파일이 충돌하고 있습니다. 현재 진행 상황을 유지하고 iCloud 파일을 덮어쓰시겠습니까, 아니면 iCloud에 저장된 진행 상황으로 플레이하시겠습니까?"
+    },
+    {
+      "key": "UI_Popup_iCloudSaveConflict_Title",
+      "value": "iCloud 저장 파일 충돌"
     },
     {
       "key": "UI_Popup_InvalidState_Body",
@@ -30055,6 +32339,10 @@
       "value": "탭하여 원정 팀에 추가합니다."
     },
     {
+      "key": "UI_Tutorial_ToolTip_Add4thMemberGeneric_Click",
+      "value": "클릭하여 원정 팀에 추가합니다."
+    },
+    {
       "key": "UI_Tutorial_ToolTip_Add4thMemberGeneric_Gamepad",
       "value": "{0}을(를) 눌러 원정 팀을 추가하세요."
     },
@@ -30065,6 +32353,10 @@
     {
       "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton",
       "value": "탭하여 전투 시작"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton_Click",
+      "value": "클릭하여 전투 시작"
     },
     {
       "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton_Gamepad",
@@ -30087,6 +32379,10 @@
       "value": "탭하여 전진하기"
     },
     {
+      "key": "UI_Tutorial_ToolTip_ContinueButton_Click",
+      "value": "클릭하여 전진하기"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_ContinueButton_Gamepad",
       "value": "{0}을(를) 눌러 진행하기"
     },
@@ -30095,12 +32391,20 @@
       "value": "탭하여 다음  <color=#fff15c>스타플릿 훈령</color>을 확인"
     },
     {
+      "key": "UI_Tutorial_ToolTip_Directives_Click",
+      "value": "클릭하여 다음  <color=#fff15c>스타플릿 훈령</color>을 확인"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_Directives_Gamepad",
       "value": "{0}을(를) 눌러 다음 <color=#fff15c>스타플릿 훈령</color> 확인하기"
     },
     {
       "key": "UI_Tutorial_ToolTip_Disable",
       "value": "탭하여 워프의 전투 함성 사용"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_Disable_Click",
+      "value": "클릭하여 워프의 전투 함성 사용"
     },
     {
       "key": "UI_Tutorial_ToolTip_Disable_Gamepad",
@@ -30163,6 +32467,10 @@
       "value": "탭하여 함교 선원 변경"
     },
     {
+      "key": "UI_Tutorial_ToolTip_TapCrewButton_Click",
+      "value": "클릭하여 함교 선원 변경"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_TapCrewButton_Gamepad",
       "value": "{0}을(를) 눌러 함교 선원 바꾸기"
     },
@@ -30195,6 +32503,10 @@
       "value": "탭하여 다음 임무 확인"
     },
     {
+      "key": "UI_Tutorial_ToolTip_TapMissionFrame_Click",
+      "value": "클릭하여 다음 임무 확인"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_TapMissionFrame_Gamepad",
       "value": "{0}을(를) 눌러 다음 임무로 넘어가기"
     },
@@ -30209,6 +32521,10 @@
     {
       "key": "UI_Tutorial_ToolTip_TapToAttack",
       "value": "탭하여 공격 발사!"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_TapToAttack_Click",
+      "value": "클릭하여 공격 발사!"
     },
     {
       "key": "UI_Tutorial_ToolTip_TapToAttack_Gamepad",
@@ -30243,5 +32559,5 @@
       "value": "사기 콤보"
     }
   ],
-  "_PathID": "1454"
+  "_PathID": "1455"
 }

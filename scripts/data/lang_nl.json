@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": "1277"
+    "m_PathID": "1301"
   },
   "m_Name": "lang_nl",
   "List": [
@@ -712,7 +712,7 @@
     },
     {
       "key": "Alliance_Name_First_48",
-      "value": "Gareks"
+      "value": "Garaks"
     },
     {
       "key": "Alliance_Name_First_49",
@@ -1243,6 +1243,10 @@
       "value": "KIES TAAL"
     },
     {
+      "key": "Choose_Quality_Header",
+      "value": "Kies kwaliteit"
+    },
+    {
       "key": "Common_AccessoriesSortingType_Equipped",
       "value": "Gebruikt"
     },
@@ -1523,6 +1527,10 @@
       "value": "Degraderen"
     },
     {
+      "key": "Common_Details",
+      "value": "Details"
+    },
+    {
       "key": "Common_Dilithium",
       "value": "Dilithium"
     },
@@ -1623,6 +1631,10 @@
       "value": "UITSCHAKELEN"
     },
     {
+      "key": "Common_ExplorationOptionType_Disarm",
+      "value": "ONTWAPENEN"
+    },
+    {
       "key": "Common_ExplorationOptionType_Eject",
       "value": "UITWERPEN"
     },
@@ -1683,6 +1695,10 @@
       "value": "ONDERZOEKEN"
     },
     {
+      "key": "Common_ExplorationOptionType_Jump",
+      "value": "SPRINGEN"
+    },
+    {
       "key": "Common_ExplorationOptionType_Leave",
       "value": "VERTREKKEN"
     },
@@ -1721,6 +1737,10 @@
     {
       "key": "Common_ExplorationOptionType_Power",
       "value": "STROOM"
+    },
+    {
+      "key": "Common_ExplorationOptionType_Protect",
+      "value": "BESCHERMEN"
     },
     {
       "key": "Common_ExplorationOptionType_Quick",
@@ -2729,6 +2749,10 @@
     {
       "key": "Common_ValosComputer",
       "value": "Taloscomputer"
+    },
+    {
+      "key": "Common_View",
+      "value": "Weergeven"
     },
     {
       "key": "Common_Vulcan",
@@ -11183,6 +11207,1834 @@
       "value": "Achtergelaten voorraden..."
     },
     {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_01",
+      "value": "Voor ons: de fantomen die we eerder zijn tegengekomen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_02",
+      "value": "Dat moet betekenen dat de droomlozen er al zijn. Zijn we te laat?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_03",
+      "value": "Dit bouwwerk lijkt nog steeds functioneel te zijn."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_04",
+      "value": "Het uitschakelen zou een enorm gecompliceerde taak zijn."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_05",
+      "value": "We moeten hoop houden dat er genoeg tijd is."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_06",
+      "value": "Nou, laten we deze eerst maar aanpakken."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_01",
+      "value": "Meer van die door droomlozen bestuurde \"fantomen\"!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_02",
+      "value": "<i>*griezelig gekrijs*</i>"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_03",
+      "value": "Ze zoeken ons... De droomlozen moeten weten dat we hier zijn."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_01",
+      "value": "Jullie moeten de mensachtigen zijn die mijn bondgenoten tegenkwamen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_02",
+      "value": "We begrijpen dat jullie eigen motivaties hebben, maar jullie voeren een verloren strijd. We hebben eeuwen aan kennis van de werking van de Nexus."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_03",
+      "value": "Het vernietigen van de Nexus is gewetenloos. Het zal al deze levens doven... duizenden? Miljoenen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_04",
+      "value": "Massa's levens die lang geleden zijn geëindigd, zoals het universum dicteert. Ze mogen niet worden gevangen en opgeschort in andermans idee van utopie. Wij zijn niet de monsters die jullie van ons maken."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_05",
+      "value": "Jullie beweren al deze levens te bevrijden van de machinatie van iemand anders, alleen om zelf hun lot te bepalen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_06",
+      "value": "Goed gezegd, Michael!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_07",
+      "value": "We hebben geen tijd om met jullie te filosoferen. Vertrek, of we worden gedwongen jullie te elimineren!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_post_01",
+      "value": "Jullie zijn een veerkrachtige soort, maar jullie hebben jezelf slechts een paar uur tijd gekocht. Deze realiteitsaandrijving wordt uitgeschakeld."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_01",
+      "value": "De weg voor ons lijkt een of ander schild te hebben. Ik heb nog nooit zoiets gezien."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_02",
+      "value": "Gezien hoe geavanceerd deze technologie is, betwijfel ik of onze phasers meer zullen doen dan het kietelen. Kan de <i>Artemis</i> ons erlangs stralen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_03",
+      "value": "Ik stel voor dat we de transporter niet vaker gebruiken dan nodig is, gezien de overweldigende energieën in deze ruimte."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_04",
+      "value": "Ja, ik vermijd liever een transporterongeluk waardoor ik mijn leven als Worfs Siamese-tweelingbroer doorbreng. Dus... ideeën?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_01",
+      "value": "De reactoren… die hebben ons hier gebracht. Kunnen ze fungeren als sleutels om verder in het bouwwerk te komen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_02",
+      "value": "Dat zou kunnen werken!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_03",
+      "value": "Een uitstekende suggestie, Michael."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction02_01",
+      "value": "Ik zou mijn laagste cent erom verwedden dat er een andere manier is. Wat is nog een uur ploeteren door deze gangen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_01",
+      "value": "Interessant. Dit kan een soort statuskamer zijn."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_02",
+      "value": "Ik pik binnen meerdere containers op. Zouden voorraden kunnen zijn."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_03",
+      "value": "Melk en koekjes achtergelaten voor ons \"Nexus-technici\"?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_04",
+      "value": "Dokter! Die gedachte voelt bijna... heiligschennend."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction01_01",
+      "value": "Ik ga proberen de reactoren te gebruiken om binnen te komen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction02_01",
+      "value": "Ik vind dat we de reactoren niet moeten gebruiken om deze Sesam te openen. We begrijpen deze technologie niet volledig..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction02_02",
+      "value": "Je hebt een punt. We willen geen verdedigingen activeren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_01",
+      "value": "Meer voorraden op het platform daarboven."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_01",
+      "value": "Ik denk dat ik misschien naar het platform kan springen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_02",
+      "value": "Springen? Ben je wel goed bij je Klingon-hoofd? Het is veel te hoog!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_03",
+      "value": "Vertrouw me, dokter! Ik zou de sprong moeten kunnen doen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_04",
+      "value": "Heb JIJ maar vertouwen. Het enige wat ik nodig heb is medische training om met de gebroken botten om te gaan als gevolg van je aanstaande val!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_01",
+      "value": "Denk je dat we het redden daarboven te komen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_02",
+      "value": "Het is mijn professionele mening dat we dat niet kunnen en niet moeten doen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_03",
+      "value": "Niet met die houding, dokter. Goed dan."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_01",
+      "value": "Deze plek doet denken aan Klingon-verhalen die ik als kind heb gehoord. De gangen van Sto-Vo-Kor, waar krijgers eeuwig strijden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_02",
+      "value": "Een soort Walhalla?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_03",
+      "value": "Bloederiger."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_04",
+      "value": "Geweldig."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_05",
+      "value": "Nu we het erover hebben... Er is commotie daar verderop!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_01",
+      "value": "Deze plek gaat voorbij alles wat ik ooit heb gezien."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_02",
+      "value": "Bespeur ik ontzag in je stem, dokter?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_03",
+      "value": "Denk na"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_04",
+      "value": "Het doet me denken aan het holodeck op mijn <i>Enterprise</i>. Het creëert rijke realistische simulaties."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_05",
+      "value": "Ik wou dat de <i>Discovery</i> zo'n soort faciliteit had! Was de ervaring vergelijkbaar met wat we in de sferen hebben gezien?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_06",
+      "value": "Nee. holodecksimulaties leken meer op... fantasieën. Vele ervan waren grappige kleinigheden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_07",
+      "value": "Het is ongebruikelijk dat ze voelen als de verterende realiteiten die we in de sferen hebben gezien."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_08",
+      "value": "Dat klinkt als wat de droomlozen de ervaring van de Nexus zouden noemen – \"verslindend\". Ze voelen meer als een gevangenis dan een fantasie..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_01",
+      "value": "Blijven we door deze gangen dwalen, of..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_02",
+      "value": "Mogen we even onderbreken?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_03",
+      "value": "Achter je! Het is... Ik weet niet zeker wat het is."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_04",
+      "value": "Wij worden aangeduid met \"X'ytakii\", of \"de verzorger\" in jullie taal. We zijn een van de belangrijkste AI's die zijn ontworpen om de functies van deze realiteitsaandrijving te besturen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_05",
+      "value": "Onze scans geven aan dat jullie zes reactoren bezitten en vastbesloten lijken om dit bouwwerk te verdedigen. Is onze inschatting juist?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_06",
+      "value": "Nou, we proberen te voorkomen dat deze zogenaamde droomlozen de Nexus destabiliseren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_07",
+      "value": "Dat is de functie van een \"technicus\". Jullie zijn echter niet opgeleid als technicus en we kunnen jullie niet de autoriteit en hulpmiddelen geven om de realiteitsaandrijving te repareren en de indringers af te weren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_08",
+      "value": "Nou, dat willen we echter zeker doen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_09",
+      "value": "Jullie kunnen de vereiste test voor technici doen, maar zonder de juiste training zullen jullie waarschijnlijk falen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_10",
+      "value": "En als we dat wel doen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_11",
+      "value": "Dan krijgen jullie niet de bijbehorende status en kunnen de aandrijving niet verzegelen. En dus zullen het bouwwerk en de sferen die het verbindt falen over ongeveer 3,567 van jullie aardse uren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_12",
+      "value": "Jullie geven ons niet veel keus dan!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_01",
+      "value": "Halt! Je komt hier niet voorbij, gedaanteverwisselend uitschot!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_02",
+      "value": "Gedaanteverwisselend wat? Wacht, we zijn niet..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_03",
+      "value": "Ik denk niet dat ze in de stemming zijn om te luisteren, dokter!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_01",
+      "value": "Horen jullie phaservuur verderop?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_02",
+      "value": "Je hebt gelijk. Daar! Het lijkt erop dat de Cardassianen tegen Starfleet-officieren strijden!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_03",
+      "value": "Volgens mij weten we beter dan te geloven dat het echt Starfleet-officieren zijn. Waarschijnlijk meer gedaanteverwisselaars."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_04",
+      "value": "Weet je het zeker, dokter?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_05",
+      "value": "Heb een beetje vertrouwen in me, meneer Worf. Ouwe \"Bones\" McCoy weet wat hij doet."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_06",
+      "value": "Hoe weet je dat, dokter?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_07",
+      "value": "Hun lichaamstaal, de onhandigheid waarmee ze bewegen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_08",
+      "value": "Ik vertrouw je analyse hiervan, dokter. Laten we verdergaan."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_01",
+      "value": "Starfleet-officieren, hier!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_02",
+      "value": "Wacht. Jullie zijn veilig nu."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_01",
+      "value": "We worden hier blootgesteld. Laten we kijken of we dit voertuig aan de praat kunnen krijgen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_02",
+      "value": "Wat zegt jullie soort ook weer? \"Geen goede daad gaat ongestraft\". Sterf!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_03",
+      "value": "Jullie zijn gedaanteverwisselaars! Weet je, de Cardassianen zijn overal naar jullie op zoek!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_01",
+      "value": "Sommigen ogen zwaar gewond. We moeten hun wonden behandelen voor we iets anders kunnen doen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_02",
+      "value": "Je bent erg aardig, medisch persoon."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_03",
+      "value": "Dat is een rare benaming voor een dokter..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_04",
+      "value": "Ben jij even slim! Vernietig ze!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_05",
+      "value": "Jullie zijn gedaanteverwisselaars! Weet je, de Cardassianen zijn overal naar jullie op zoek!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_01",
+      "value": "Kijk rond. Misschien is er iets in het voertuig waarmee we hen kunnen helpen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_02",
+      "value": "Goed gedacht. Er zijn hier wat voorraden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_03",
+      "value": "Jullie Starfleet-ratten willen onze spullen stelen?!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_04",
+      "value": "Starfleet-ratten… Wacht, zijn jullie niet…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_05",
+      "value": "Jullie zijn gedaanteverwisselaars! Weet je, de Cardassianen zijn overal naar jullie op zoek!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_01",
+      "value": "Het lijkt erop dat iemand daar voorraden heeft achtergelaten. We kunnen wel een aanvulling gebruiken."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_01",
+      "value": "Het kan geen kwaad om even snel te kijken..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_02",
+      "value": "Pak ze!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_03",
+      "value": "Of... misschien het toch WEL kwaad! Het is een hinderlaag van gedaanteverwisselaars!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_01",
+      "value": "Dus iemand heeft gewoon waardevolle voorraden achtergelaten middenin een pad? Hebben we ooit zoveel geluk?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_02",
+      "value": "De dokter heeft een goed punt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_03",
+      "value": "Soms is een val gewoon te duidelijk..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_01",
+      "value": "Wat is dit? Zijn we in een sfeer?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_02",
+      "value": "Jullie bevinden je zich nog steeds in de realiteitsaandrijving, maar het valt binnen onze parameters om omgevingen te creëren waarin jullie kunnen worden getest."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_03",
+      "value": "De verzorger heeft de vorm aangenomen van kapitein Sisko..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_04",
+      "value": "Man, we hebben geen tijd voor deze onzin! Je zei net dat er levens op het spel stonden!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_05",
+      "value": "Correct. Het wordt aanbevolen haast te maken."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_06",
+      "value": "Ik stel voor dat jullie haast maken en uitleggen wat we moeten doen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_07",
+      "value": "Bij onze studie naar jullie herinneringen hebben we ontdekt dat de soort in jullie kwadrant bepaalde eigenschappen waardeert die aansluiten bij de rol van een technicus."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_08",
+      "value": "De eerste daarvan is geloof, zoals vertoond door jullie kapitein Sisko."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_09",
+      "value": "Jullie... willen dat we gaan bidden?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_10",
+      "value": "Jullie begrijpen ons niet. Geen geloof in een alomtegenwoordige entiteit, maar in jullie doel en vaardigheden en die van jullie medetechnici."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_11",
+      "value": "Het was geloof in iets groters waardoor de oorspronkelijke technici deze plek konden creëren en dus werd het een vereiste voor alle technicus die volgen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_12",
+      "value": "Er wacht ergens in deze arena een portaal op jullie – een uitgang naar de volgende test."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_13",
+      "value": "Maar pas op, niets wat je ziet is wat het lijkt. Alleen geloof in jullie doel zal jullie tot het einde brengen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_01",
+      "value": "Het is de verzorger."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_02",
+      "value": "We voelden een zekere nieuwsgierigheid naar hoe het met jullie gaat."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_03",
+      "value": "Laat me jullie nieuwsgierigheid bevredigen: we zitten midden in een oorlog tussen Cardassianen en gedaantewisselaars en beide partijen zijn schietgraag als ze ons zien."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_04",
+      "value": "Een onmogelijke situatie, mee eens. Het lijkt erop dat omdraaien de enige weg naar buiten is."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_05",
+      "value": "Omdraaien? Je weet duidelijk niet veel van Starfleet!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_01",
+      "value": "Dat moet het portaal zijn waar de verzorger het over had!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_02",
+      "value": "Dat is het. Jullie hebben onze verwachtingen overtroffen met jullie prestaties."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_03",
+      "value": "Jullie hebben een onmogelijke situatie doorstaan om jullie doel te bereiken en hebben vertrouwd op de vaardigheden van jullie bondgenoten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_04",
+      "value": "Een dergelijk geloof is bewonderenswaardig, maar kan iemand ook blind maken. Jullie lijken echter niet te worden gedreven door hebzucht of machtswellust."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_05",
+      "value": "Dus dat was het? Zijn we geslaagd voor jullie test?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_06",
+      "value": "Voor het eerste deel wel. Er zijn er meer."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_07",
+      "value": "...Natuurlijk."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_01",
+      "value": "Wacht. Scans laten beweging zien, verderop. Heel veel beweging."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_02",
+      "value": "Wij zijn Borg. Je zult worden geassimileerd. Verzet is zinloos."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_03",
+      "value": "Ugh, kunnen ze niet... een nieuwe vorm van begroeting bedenken?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_04",
+      "value": "Misschien kun je het sarcasme bewaren voor een minder precair moment, dokter."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_01",
+      "value": "Deze omgeving lijkt verstoken van activiteit. Ik denk dat we veilig verder kunnen gaan."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_02",
+      "value": "Wacht, het is een hinderlaag! Ik denk dat ik net het alarm geactiveerd heb!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_03",
+      "value": "Je zult worden geassimileerd. Verzet is zinloos."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_01",
+      "value": "Zie je dat silhouet verderop?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_02",
+      "value": "Het is de Borg-koningin!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_03",
+      "value": "Je zult… Worden geassimileerd. Verzet is zinloos."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_01",
+      "value": "Vreemd. Ik weet zeker dat het de koningin was, maar ze klonk niet helemaal zoals degene die we eerder hebben ontmoet."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_02",
+      "value": "Geen idee. Voor mij klonk het als koninklijk Borgs!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_03",
+      "value": "Een back-uplichaam misschien? Of een van de vele waar ze haar bewustzijn naartoe kan transporteren?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_04",
+      "value": "Onmogelijk te weten..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_01",
+      "value": "Welkom allemaal! Zo heel ver van huis."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_02",
+      "value": "Nog een Borg-koningin! Hoewel deze wat... echter klinkt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_03",
+      "value": "Nog een? Wij zijn Borg. Niet meer, niet minder. Alle lichamen zijn slechts verlengstukken van onze wil."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_04",
+      "value": "Zelfs die van jullie. Nietwaar, Locutus?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_05",
+      "value": "Ja. Je wordt geassimileerd voor de gecombineerde macht van het collectief."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_06",
+      "value": "Vandaag vechten we voor een groter, kostbaarder collectief en jullie zullen ons niet in de weg staan!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_01",
+      "value": "We hebben het gehaald! Goed, waar is onze beproeving meneer?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_02",
+      "value": "We zijn er. En we feliciteren jullie met jullie vastberadenheid."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_03",
+      "value": "Ondanks dat jullie meerdere malen respijt van deze plaats is aangeboden, kozen jullie er steeds voor om door te zetten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_04",
+      "value": "Zijn we nu veilig? Zijn de beproevingen voorbij?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_05",
+      "value": "Jullie zijn uit de gevarenzone voor nu, maar er wachten nog twee beproevingen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_01",
+      "value": "Zijn we verdwaald?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_02",
+      "value": "Zijn we dat ook weleens niet dan?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_03",
+      "value": "Touché, Michael."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_04",
+      "value": "Laten we even stoppen. Ik kan proberen toegang te krijgen tot dit knooppunt om een route voorwaarts te vinden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_01",
+      "value": "Lukt het?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_02",
+      "value": "Mijn tricorder geeft een pad aan, maar tegelijkertijd verscheen er een ander signaal."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_03",
+      "value": "Moeten we ons zorgen maken?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_04",
+      "value": "Misschien niet, het lijkt te zijn gestopt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction02_01",
+      "value": "Ik denk dat we beter blindelings rond kunnen dwalen dan in hun systeem te rommelen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction02_02",
+      "value": "Dat schijnt hen te irriteren!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_01",
+      "value": "Er is daar een oplaadalkoof. Een ongebruikelijke."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_02",
+      "value": "Scans geven aan dat er een aanzienlijke hoeveelheid energie doorheen gaat."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_03",
+      "value": "Hij zou verbonden met het Borg-netwerk kunnen zijn. Het is de moeite van het onderzoeken waard."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_01",
+      "value": "Ik overlaad hem met mijn tricorder..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_02",
+      "value": "Hij verschuift. Het lijkt erop dat hij omhoog wordt geheven?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_03",
+      "value": "Waarschijnlijk een automatisch systeem dat hem verplaatst voor reparatie."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_04",
+      "value": "Laten we kijken wat erachter zit voordat het systeem een oplaadstation in zijn plaats zet."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction02_01",
+      "value": "We kunnen het beter laten en de mogelijkheid vermijden om te worden ontdekt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction02_02",
+      "value": "Daar ben ik het mee eens."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_01",
+      "value": "Volgens mij zit een deel van het paneelwerk hier los..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_02",
+      "value": "Goed gezien. We kunnen het misschien open wrikken en kijken of er iets verborgen is."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction01_01",
+      "value": "Begrepen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction02_01",
+      "value": "Wil je monteur spelen terwijl er zoveel op het spel staat?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction02_02",
+      "value": "De dokter heeft een punt. Laten we verder gaan."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_01",
+      "value": "Waar zijn we nu? Dit lijkt op een Borg-kubus."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_02",
+      "value": "Bah, niet weer Borg, alsjeblieft."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_03",
+      "value": "Dit is jullie tweede beproeving."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_04",
+      "value": "Je verschijnt nu als kapitein Janeway. Is daar een reden voor?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_05",
+      "value": "Kapitein Janeway stond in jullie tijd bekend om haar legendarische reis."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_06",
+      "value": "Meer dan zeven lange jaren reisden de kapitein en haar bemanning van de andere kant van het Delta-kwadrant en keerden terug naar de aarde. Zo'n vastberadenheid."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_07",
+      "value": "Ze is geschikt om jullie volgende beproeving te vertegenwoordigen: de test van wilskracht."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_08",
+      "value": "De verzorger is verdwenen… Een Borg-kubus, een \"test van wilskracht\". Ik vermoed dat we elke centimeter van de weg zullen moeten vechten!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_01",
+      "value": "Ik ben uitgeput. Ik moet heel even bijkomen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_02",
+      "value": "Je doet er goed aan naar de dokter te luisteren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_03",
+      "value": "Argh! Kunnen jullie niet eens voor ons materialiseren in plaats van achter ons?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_04",
+      "value": "Onze excuses. We proberen alleen advies te geven."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_05",
+      "value": "Volgens onze berekening zijn jullie er slechts in geslaagd om 0,00001% van de Borg-kubus te verkennen tijdens jullie zoektocht naar het portaal."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_06",
+      "value": "De realiteitsaandrijving zal weldra instorten en als jullie hier binnen zijn wanneer dat gebeurt, zullen jullie omkomen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_07",
+      "value": "We kunnen jullie naar een veiligere plek transporteren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_08",
+      "value": "Als de realiteitsaandrijving het begeeft, doen de sferen dat ook en iedereen die erin zit!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_09",
+      "value": "We geloven dat jullie de grootte van de Nexus onderschatten. Het is opgebouwd uit vele aandrijvingen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_10",
+      "value": "Maar elke ervan – en deze – is verantwoordelijk voor vele sferen, correct? En alle verbonden sferen falen als we nu opgeven."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_11",
+      "value": "Dat is correct."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_12",
+      "value": "En de Nexus zal verder verslechteren, waardoor alle destructieve scheuren ontstaan die ons universum bedreigen, buiten de Nexus..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_13",
+      "value": "Wederom correct."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_14",
+      "value": "Dan gaan we verder."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_15",
+      "value": "Zoals jullie willen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_16",
+      "value": "Het is weg."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_17",
+      "value": "Ik ben onder de indruk, dokter. Ik dacht dat je uitgeput was zojuist."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_18",
+      "value": "Dat ben ik nog steeds. Maar we hebben levens te redden, in plaats van te klagen over onbenulligheden onderweg!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_01",
+      "value": "Jullie delicate vorm lijkt langzamerhand te zijn verweerd."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_02",
+      "value": "We schatten dat jullie hier niet veel meer van kunnen verdragen. We raden een onmiddellijk vertrek aan."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_03",
+      "value": "Ha! Gaf Kahless de jacht op zijn broer Morath op? Nee, hij jaagde op hem over de bergen en door de vallei, voor zijn eer en de eer van hun vader."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_04",
+      "value": "En dus zullen we ons door deze plek vechten en triomfantelijk aan de andere kant uitkomen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_01",
+      "value": "Klingons voor ons. Heel veel!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_02",
+      "value": "Kun je niet met hen communiceren, Worf? Zeggen dat ze zich moeten terugtrekken?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_03",
+      "value": "bIjeghbe'chugh vaj bIHegh!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_04",
+      "value": "Hoch jagh Heghjaj!!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_05",
+      "value": "Ik hoef niet goed te zijn in Klingon om te raden dat het niet goed ging."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_06",
+      "value": "Ze staan... niet open voor onderhandeling."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_post_01",
+      "value": "Ze trekken zich terug. We zijn veilig voor nu."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_01",
+      "value": "Meer Klingons! Een heel eskader!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_02",
+      "value": "Dus... de Federatie heeft een Klingon-schoothond..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_03",
+      "value": "Durf eens?! Ik ben niemands schoothond! Ik ben een krijger!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_04",
+      "value": "Ja! En nu heb je hem boos gemaakt. Je gaat hem niet leuk vinden als hij boos is!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_01",
+      "value": "Nog meer?! Er komt geen eind aan."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_02",
+      "value": "Het Baken van Kahless is een heilig relikwie, waarvan wordt gezegd dat het door Kahless zelf is gemaakt om de vierentwintig grote huizen te verenigen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_03",
+      "value": "Voor een Klingon is de aanwezigheid van een buitenstaander op het Baken een zware misdaad – een gruwel."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_04",
+      "value": "Maar het was een fout! Dat hebben ze min of meer toegegeven."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_05",
+      "value": "Hoewel mijn waarden in lijn zijn met die van de Federatie, voel ik mijn bloed nog steeds instinctief koken vanwege deze overtreding."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_06",
+      "value": "Ik begrijp de logica natuurlijk, maar dat zou je een idee moeten geven van hoe ernstig dit is voor een Klingon."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_07",
+      "value": "Michael, in jouw tijd ging onze soort ten oorlog vanwege het relikwie. Is het een wonder dat de Klingons zo hevig vechten om de bemanning te straffen? Ze zullen het er niet bij laten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_01",
+      "value": "Ik pik nog honderden bio-metingen op die samenkomen op onze positie. We moeten ons terugtrekken!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_02",
+      "value": "Huh. Ik dacht dat je ervoor zou pleiten om te blijven vechten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_03",
+      "value": "Zoals Kahless zelf ooit zei: \"De wind respecteert een dwaas niet.\""
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_01",
+      "value": "We zijn dichtbij."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_02",
+      "value": "Ik detecteer verderop een massa Klingon-biopatronen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_03",
+      "value": "Ze moeten op ons pad zijn geplaatst om de reactor die ik detecteer te bewaken."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_04",
+      "value": "Hu'tegh! En ze zijn niet alleen. Een van hen draagt de ceremoniële wapenrusting van de Fakkeldrager."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_05",
+      "value": "De Klingon-kampioen die het Baken van Kahless verdedigt! Ik ben... er een tegengekomen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_06",
+      "value": "En je weet zeker dat je vanaf hier niet gewoon toegang hebt tot de reactor?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_07",
+      "value": "…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_08",
+      "value": "Hmpf. Ik dacht het niet."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_01",
+      "value": "We zijn precies boven de bron van het signaal. Ik kan mijn tricorder gebruiken in combinatie met onze reactoren om er toegang toe te krijgen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_02",
+      "value": "Het apparaat dat de realiteit aandrijft waarin we ons bevinden, is beslist niet van de omvang van de reactoren die de sferen aandrijven. Wat goed nieuws is!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_03",
+      "value": "Dus, ideeën om dit scenario te herprogrammeren zodat het kan worden gewonnen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_04",
+      "value": "Ik denk niet dat het nodig is het te \"winnen\". Ons doel is altijd geweest om het portaal te vinden. Ja, het verscheen eerder toen we \"wonnen\", maar in dit geval... waarom laten we het niet gewoon verschijnen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_05",
+      "value": "Briljant, Michael!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_06",
+      "value": "Een portaal zoals u wenst!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_01",
+      "value": "Daar! Gewonde bemanningsleden voor ons!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_02",
+      "value": "Ik... wacht even en laat jullie dit afhandelen. Een Klingon die opduikt kan dingen escaleren..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_03",
+      "value": "We zijn er om te helpen! Zijn jullie in orde?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_04",
+      "value": "Ik... ja. Nauwelijks. Wie zijn jullie? Ik herken jullie uniformen niet."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_05",
+      "value": "We zijn van de <i>U.S.S. Artemis</i>. Wat is hier gebeurd?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_06",
+      "value": "Jullie zijn een welkome aanblik, we zitten in de problemen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_07",
+      "value": "Onze route bracht ons dicht bij het Baken van Kahless."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_08",
+      "value": "Het Baken is een heilig relikwie van het Klingon-rijk. Waarom zijn jullie het in vredesnaam genaderd?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_09",
+      "value": "Het was een vergissing! We hadden geen idee wat het was... maar ze beschuldigen ons van agressie en pogingen hun heilige schip te verontreinigen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_10",
+      "value": "Ze kondigden aan dat iedereen aan boord ter dood is veroordeeld!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_01",
+      "value": "Nou, dat kunnen we niet hebben."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_02",
+      "value": "We moeten deze mensen in veiligheid brengen. Kun je zorgen dat ze klaar zijn voor verplaatsing, dokter?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_03",
+      "value": "Ik zal het proberen. Geef me dekking terwijl ik hen oplap!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction02_01",
+      "value": "Er drommen Klingons samen op deze plek!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction02_02",
+      "value": "Dan drijven we hen terug. Daarna kunnen we ons om de gewonden bekommeren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_01",
+      "value": "Ik heb vergrendeld op een meting vergelijkbaar met die van de reactoren. Hij is beslist niet zo sterk, dus misschien is deze realiteit niet zo belangrijk als een echte sfeer."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_02",
+      "value": "Laten we je reactortheorie eens proberen! Denk je dat je deze deur weg kunt \"herprogrammeren\"?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_01",
+      "value": "Ja! Ik kan mijn tricorder gebruiken in combinatie met onze reactoren..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_02",
+      "value": "Ik heb toegang tot de onderliggende structuur van deze \"realiteit\". Het is complex, maar... geef me een paar tellen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_03",
+      "value": "De deur is verdwenen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_04",
+      "value": "Ongelooflijk."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_05",
+      "value": "Ik moet echter dichter bij de signaalbron zijn om iets fraaiers te doen dan dat."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction02_01",
+      "value": "We mogen geen tijd of potentieel reactorvermogen verspillen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction02_02",
+      "value": "Worf, je bent een goede krijger en een loyale bondgenoot. Maar er is geen lot met je te beleven."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_01",
+      "value": "Interessant! We lijken op een Federatie-schip te zijn. Scans geven schade aan op verschillende dekken."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_02",
+      "value": "Een aanval?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_03",
+      "value": "Ik ontvang verschillende onduidelijke berichten. Het lijkt erop dat Klingons aan boord zijn gegaan en de controle over belangrijke delen hebben overgenomen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_04",
+      "value": "Ik heb geleerd dat het over het algemeen veiliger is als Klingons hun handen van Starfleet-schepen afhouden!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_05",
+      "value": "Het huidige gezelschap uitgezonderd."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_06",
+      "value": "Hmpf."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_07",
+      "value": "En dat is de aard van jullie test."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_08",
+      "value": "Jim?! Wacht... jij bent de verzorger."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_09",
+      "value": "Deze test weerspiegelt de waarden die jullie vriend in overvloed bezit."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_10",
+      "value": "Roekeloosheid? Bereidheid om ons allemaal in een of ander dwaas avontuur te slepen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_11",
+      "value": "De test van sluwheid ligt voor jullie. Jullie hebben de bereidheid getoond om in jullie doel te geloven en ondanks alles te volharden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_12",
+      "value": "Maar sommige obstakels zijn niet te overwinnen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_13",
+      "value": "Zoek het portaal en het einde van deze beproeving."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_14",
+      "value": "En weg is hij. Hulpvaardig als altijd."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_01",
+      "value": "Dit lijkt onmogelijk. Het is een normale... het is de Kobayashi Maru!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_02",
+      "value": "De academietest?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_03",
+      "value": "Precies. Ik neem aan dat jullie hem allebei hebben gedaan?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_04",
+      "value": "Ik wel. En, zoals elke andere cadet, het elke keer niet gehaald. Ik was woedend toen ik ontdekte dat het een niet te winnen scenario was."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_05",
+      "value": "Of je redt de bemanning en veroorzaakt een oorlog met het Klingon-rijk of je laat hen achter om te sterven."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_06",
+      "value": "Ook dit scenario is bedoeld om te mislukken. Mijn mensen zullen het er niet bij laten zitten. We zullen hun aanval niet overleven en als we vertrekken, zullen deze mensen omkomen..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_07",
+      "value": "Maar het zit zo: in mijn tijd versloeg kapitein Kirk de Kobayashi Maru-test WEL. Op Jims manier werd hij... creatief: hij sloop voor de test naar binnen en herprogrammeerde de computer."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_08",
+      "value": "Dus we moeten een pagina uit het boek van kapitein Kirk nemen en... valsspelen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_09",
+      "value": "Maar hoe? We hebben geen toegang tot een computer..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_10",
+      "value": "Deze realiteit werkt waarschijnlijk net als de andere sferen. Hij wordt gevoed door een aandrijving of vergelijkbaar apparaat. We zoeken het en veranderen de programmering."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_11",
+      "value": "Maar we zijn nog geen \"technici\". We zijn niet bij machte om effect te hebben op de Nexus-technologie!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_12",
+      "value": "Ik ben klaar met wachten op autorisatie van een hologram. We hebben allemaal wel eens te maken gehad met onbekende, ultrageavanceerde buitenaardse technologie. Het is dagelijkse kost!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_13",
+      "value": "Ik stem mijn tricorder af op de reactoren die al in ons bezit zijn. Laten we kijken wat het testje van de verzorger aandrijft."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_01",
+      "value": "En hier zijn jullie dan eindelijk, door een combinatie van geloof, vastberadenheid en..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_02",
+      "value": "Ja ja, we weten het: sluwheid. Ik ben je ver vooruit, Confucius."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_03",
+      "value": "Juist, jullie hebben het gerichte pad omzeild en hebben de Nexus zelf aangeboord. Hoewel jullie zullen merken dat de belangrijkere constructen ervan niet zo eenvoudig te manipuleren zijn."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_04",
+      "value": "En nu rest nog..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_05",
+      "value": "Nee! Geen beproevingen meer! We hebben onze capaciteiten bewezen en er is geen tijd."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_06",
+      "value": "Ongeacht jullie perceptie van gereedheid, zijn de proeven voor een aspirant-technicus een binaire vereiste. Ze moeten allemaal zijn voltooid voordat jullie de realiteitsaandrijving kunnen inschakelen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_01",
+      "value": "Federatie!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_02",
+      "value": "We hebben geen kwaad in de zin, we zijn van de U.S.S. Art--"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_03",
+      "value": "Neem ze gevangen! Tomalak en Sela villen ons als we hen het baken laten bereiken!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_post_01",
+      "value": "Het lijkt er niet op dat deze Romulanen openstaan voor dialoog en rede..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_01",
+      "value": "Ik zou willen dat we dit anders op hadden kunnen lossen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_02",
+      "value": "Ze leek er zeker van te zijn dat de Federatie tegen de Romulanen werkt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_03",
+      "value": "Misschien verschaft het inhalen van haar commandant meer inzicht."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_04",
+      "value": "Ze lijken er zeker van te zijn dat we hen bespioneren!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_01",
+      "value": "Hij is bedwongen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_02",
+      "value": "Ik weet niet zeker of hem bedwelmen is waar de test om ging..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_03",
+      "value": "Hij zei dat je soms de andere kant van de kracht van je overtuigingen moet laten zien!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_04",
+      "value": "Nou… Ik zie geen teken dat we hebben gefaald, dus ik neem aan dat je gelijk hebt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_01",
+      "value": "Stop."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_02",
+      "value": "We zijn hier niet om te vechten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_03",
+      "value": "Je bent een Klingon. Natuurlijk ben je hier om te vechten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_04",
+      "value": "Fella heeft een punt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_05",
+      "value": "Hmpf."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_01",
+      "value": "We zijn hier om een dialoog te starten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_02",
+      "value": "Bah! Jullie zijn hier om het baken te saboteren. Jullie zijn toch te laat, Tomalak is al vertrokken met de gegevens."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_03",
+      "value": "Wapens neer. Laat ons vertrekken, dan doen wij hetzelfde."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_04",
+      "value": "We zouden geen kostbare adem aan jullie verspillen. De gegevens die we hebben verkregen, zullen de Federatie ontmaskeren als de verraderlijke slangen die jullie zijn! (Ze stralen weg)"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_05",
+      "value": "Wacht. Noemde een Romulaan ons zojuist verraderlijke slangen? Dat is er een voor de boeken."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_01",
+      "value": "We zoeken geen problemen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_02",
+      "value": "En toch zijn jullie hier en hebben ze gevonden!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_01",
+      "value": "Meer Romulanen. En nog een sensorbaken."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_02",
+      "value": "Federatie. Hoe... niet verrassend. Komen jullie hier om de sporen van jullie verraad te verbergen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_03",
+      "value": "Ik heb geen idee waar je het over hebt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_01",
+      "value": "Jullie beweren niets te weten over de Federatie-schepen die regelmatig door de neutrale zone glippen en mijn mensen bespioneren?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_02",
+      "value": "We hebben harde bewijzen dat jullie soort talloze verdragen schendt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_03",
+      "value": "Laten we het bewijs bekijken en proberen dit te begrijpen. Zou je dat liever proberen dan een totale oorlog te beginnen?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_04",
+      "value": "Ik zal niet ontkennen dat dat zinvol klinkt. Ik zal jullie de gelegenheid geven mijn commandant te ontmoeten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_05",
+      "value": "Ik betwijfel echter of jullie hem kunnen overtuigen. Hij heeft al eerder met jullie soort te maken gehad."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_01",
+      "value": "Zien we eruit alsof we idioten zijn? We hebben bewijs van Federatie-schepen die door de neutrale zone glippen en onze mensen bespioneren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_02",
+      "value": "Dat is tegen de Federatie-waarden. Leg nu jullie wapens neer of we zullen ze met geweld uit jullie handen nemen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_01",
+      "value": "Het lijkt erop dat de Romulaanse commandant verderop is, klaar om te vertrekken."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_02",
+      "value": "We moeten hem stoppen voor hij vertrekt!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_01",
+      "value": "Er moet een manier zijn om het eens te worden!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_02",
+      "value": "Ik zal niet vallen voor welke list je ook bedenkt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_03",
+      "value": "Ons sensorbaken heeft bewijs dat elementen in sectie 31 mijn mensen al meer dan een decennium bespioneren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_04",
+      "value": "Als trouwe dienaar van het rijk is het mijn plicht om deze overtreding aan de Hoge Raad te melden!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_05",
+      "value": "Hoe moeilijk het ook is toe te geven... je zou weleens gelijk kunnen hebben. Sectie 31 is nooit de meest betrouwbare organisatie geweest."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_06",
+      "value": "Je... je geeft dit toe? Hmmm, ik luister. Wat stel je voor?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_07",
+      "value": "Geef ons een kopie van jullie gegevens. We rapporteren het aan Starfleet. Als het waar is, zullen ze verder onderzoek doen en langs de juiste diplomatieke kanalen antwoorden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_08",
+      "value": "Je realiseert je dat een kopie kan worden gewijzigd."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_09",
+      "value": "Die van jullie ook. We vragen je erop te vertrouwen dat we elke mogelijke schending van diplomatie zullen aanpakken."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_10",
+      "value": "Goed dan. Maar ik blijf hier niet staan praten. Neem de gegevens."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_01",
+      "value": "Halt. We kunnen jullie niet laten vertrekken met Federatie-inlichtingen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_02",
+      "value": "O? Denken jullie dat jullie me tegen kunnen houden?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_03",
+      "value": "Ons sensorbaken heeft bewijs dat elementen in sectie 31 mijn mensen al meer dan een decennium bespioneren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_04",
+      "value": "Het is mijn plicht om deze overtreding aan de Hoge Raad te melden!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_05",
+      "value": "En je gaat niet naar rede luisteren, of wel?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_06",
+      "value": "Rede van jullie soort? Echt niet. Jullie zijn verraderlijk uitschot. Romulanen hebben geleerd dat de Federatie niet te vertrouwen is."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_07",
+      "value": "Dat moeten jullie nodig zeggen! Als je niet naar rede wil luisteren, luister je maar naar een phaser!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_01",
+      "value": "Jullie staan aan het begin van de laatste beproeving."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_02",
+      "value": "En jij verschijnt als mijn voormalige kapitein, Jean-Luc Picard."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_03",
+      "value": "Hij leek passend voor deze test."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_04",
+      "value": "Afgezien van geloof, wil en sluwheid, werd vastgesteld dat een technicus nog een andere eigenschap nodig heeft: het zeldzame vermogen om de veelheid van geesten te verenigen die nodig zijn bij zo'n epische inspanning als het creëren van de Nexus."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_05",
+      "value": "Dit werd vaak gedaan door middel van dialoog en rede, maar soms moet men de tegenstand ombuigen in naam van het grotere goed."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_06",
+      "value": "Zoek het portaal om jullie beproeving te voltooien."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_01",
+      "value": "Voor ons! Het is het laatste portaal!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_02",
+      "value": "Gefeliciteerd, bemanning van de <i>Artemis</i>."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_03",
+      "value": "Jullie hebben beproeving na beproeving doorgezet; eigenschappen vertoond waardoor de oorspronkelijke technici dit wonder konden bouwen waarin we staan."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_04",
+      "value": "Jullie zijn echt waardige technici."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_05",
+      "value": "Zien jullie dit? Mijn tricorder toont een stroom van informatie die omlaag stroomt naar de datakern van de <i>Artemis</i>."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_06",
+      "value": "Diagrammen, schema's..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_07",
+      "value": "Jullie zullen dit gebruiken om de realiteitsaandrijving te helpen repareren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_08",
+      "value": "Maar eerst moeten jullie hem zuiveren van de aanwezigheid van droomlozen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_01",
+      "value": "De machine oogt donkerder nu, of niet?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_02",
+      "value": "De verzorger zei dat hij ernstig beschadigd is."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_03",
+      "value": "Wie weet hoelang we bezig zijn geweest met de beproevingen van de verzorger..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_04",
+      "value": "Lang genoeg voor de droomlozen om de boel over te nemen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle04_01",
+      "value": "Jullie hebben geen kans om ons te verhinderen deze machine omver te werpen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle04_02",
+      "value": "Dat zullen we nog wel eens zien!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_01",
+      "value": "We kunnen jullie niet verder laten gaan."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_02",
+      "value": "Jullie moeten ons erlangs laten. De levens van miljoenen staan op het spel!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_03",
+      "value": "We begrijpen jullie zorgen. Wij proberen hen ook te redden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_04",
+      "value": "Jullie nemen hun lot in jullie handen. Jullie nemen een hoge morele positie in waar jullie het recht niet toe hebben."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_05",
+      "value": "We brengen orde terug voor onze mensen en het universum. Alles eindigt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_01",
+      "value": "Dat is hem, de kern!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_02",
+      "value": "En dat moet de leider van de droomlozen zijn."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_03",
+      "value": "De indringers... Meedogenloos in jullie zoektocht om ons te stoppen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_04",
+      "value": "Ik zag een glimp van wie jullie ooit waren. Voordat jullie hier kwamen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_05",
+      "value": "Jij was een geleerde, een ouder. Het ligt beslist niet in jouw aard om een moord van deze omvang te plegen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_06",
+      "value": "Denk je dat wat wij doen moord is? Al het leven moet op een bepaald moment eindigen. Al het leven!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_01",
+      "value": "Genoeg! Jullie zijn dwazen om deze plek te beschermen! Het is een gevangenis. Een belediging voor de natuurlijke stroom van het universum!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_02",
+      "value": "Misschien. De Nexus is misschien niets meer dan een misleide en hooghartige creatie van een oude beschaving, die iedereen verstrikt die erin gevangen wordt."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_03",
+      "value": "Maar al die geesten en zielen bestaan hier nu en jullie zijn niet de scheidsrechter die beslist dat ze moeten stoppen met bestaan."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_04",
+      "value": "Zo rechtschapen en vol vastberadenheid."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_05",
+      "value": "Denken jullie echt dat de Nexus is gemaakt uit pure welwillendheid? Jullie moeten wel gek zijn om dat te geloven."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_06",
+      "value": "We hebben gedaan wat we hier kwamen doen vandaag. Mijn bewustzijn bestaat nu net zo goed in het netwerk dat door de Nexus stroomt als hierbuiten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_07",
+      "value": "Jullie kunnen deze realiteitsaandrijving stabiliseren, maar het is er slechts een van velen en ze zullen binnenkort worden uitgedoofd. (Ze straalt weg)"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_08",
+      "value": "Ik zeg het niet graag, maar... wat weten we WEL over de Nexus? Hebben we het juiste gedaan?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_09",
+      "value": "Ik weet dat we niet iemand zomaar de schakelaar uit laten zetten van al deze levens. (Ze stralen terug naar de Artemis)"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_10",
+      "value": "Ze heeft zich teruggetrokken van deze aandrijving, maar het samensmelten met de kern heeft haar een geheim onthuld – een geheim dat we hadden gehoopt te verbergen voor de droomlozen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_11",
+      "value": "We hebben jullie toegang gegeven tot hun volgende doel. Eer jullie plicht als technici en haast jullie, voordat alles verloren is."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_01",
+      "value": "Deze console kan het platform naar een van de twee uitgangen leiden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_02",
+      "value": "Dus... we strompelen blindelings voorwaarts, of niet?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_03",
+      "value": "Wat zei je dat kapitein Kirk zou zeggen? \"Moedig gaan\"?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_04",
+      "value": "Toch denk ik dat hij in ieder geval een idee had in welke richting hij ging."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_01",
+      "value": "Laten we het linker pad nemen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_02",
+      "value": "Een speciale reden?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_03",
+      "value": "Links is mijn werparm."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_04",
+      "value": "Goed genoeg voor mij!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_01",
+      "value": "We hebben geluk gehad tot dusver, dus ik vind allebei best."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_02",
+      "value": "Goed. Duizenden jaren van evolutie, varend op een van de meest geavanceerde schepen ooit en we vertrouwen op geluk om miljoenen levens te redden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_03",
+      "value": "Dus zeker, ik stem voor het rechter pad. Waarom niet."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_01",
+      "value": "Jullie staan op de drempel van de kern van de aandrijving."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_01",
+      "value": "We zijn deze reis begonnen met weinig kennis van de Nexus of zijn aard."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_02",
+      "value": "We zijn samengekomen als bemanning, verenigd ondanks dat we uit verschillende culturen, achtergronden en tijdlijnen afkomstig zijn!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_03",
+      "value": "Ik kan niemand bedenken die ik op dit moment liever aan mijn zijde heb!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_04",
+      "value": "Nu heb je deze oude man aan het huilen gemaakt! Laten we naar binnen gaan en er een eind aan maken!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_01",
+      "value": "De grote Kahless zei ooit: \"De vijand is misschien zo sterk dat niemand er tegenop kan.\""
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_02",
+      "value": "Toch moeten we, want ik zou liever sterven dan te weten dat we er niet in slaagden op te staan als krijgers toen het ertoe deed."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_03",
+      "value": "Vandaag eren we die woorden! Samen zullen we alle obstakels overwinnen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_04",
+      "value": "Goed gezegd, mijn vriend!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_05",
+      "value": "Je zou het goed hebben gedaan als voetbalcoach op de academie, meneer Worf!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_01",
+      "value": "Hoe graag ik dit ook achter de rug wil hebben, zodat ik terug kan naar de ziekenboeg waar ik thuishoor..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_02",
+      "value": "Het lijkt me waanzin om daar onbesuisd naar binnen te rennen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_03",
+      "value": "Laten we in ieder geval eerst scannen en kijken waar we mee te maken hebben!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_04",
+      "value": "Verstandig als altijd, mijn vriend!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_05",
+      "value": "En die voorbereiding geeft ons misschien het voordeel dat we nodig hebben!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_01",
+      "value": "Welkom, technici."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_02",
+      "value": "O, dus we hebben de schitterende titel! Wat nu?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_03",
+      "value": "Op dit moment zijn de droomlozen doorgedrongen in de meeste verdedigingsmechanismen van de realiteitsaandrijving."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_04",
+      "value": "De informatie die nodig is om de machine te repareren, is naar jullie schip geüpload en is toegankelijk via de reactoren."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_05",
+      "value": "Breng ze naar de kern van de aandrijving om deze te stabiliseren en de systemen weer online te brengen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_06",
+      "value": "De zelfverklaarde \"droomlozen\" zijn fanatiekelingen en zullen alles riskeren om jullie tegen te houden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_01",
+      "value": "De schade is aanzienlijk. We hebben haast geen tijd meer!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_02",
+      "value": "We schatten een catastrofaal falen over minder dan 5 aardse minuten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_03",
+      "value": "Op dit moment is de primaire droomloze bijna klaar met het samenvoegen van haar bewustzijn met de aandrijving."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_04",
+      "value": "Dat klinkt… ongewenst."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_05",
+      "value": "De protocollen van deze machine zijn ontworpen om onbevoegde toegang te voorkomen, maar de droomlozen saboteren het systeem al heel lang en verzamelen de reactoren ervan."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_06",
+      "value": "Als hun leider haar bewustzijn kan samenvoegen met deze aandrijving, kan ze deze uitschakelen en zal het niet lang duren voordat ze haar macht kan uitbreiden naar de rest van de Nexus."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_07",
+      "value": "Er moet iets zijn dat we kunnen doen om dat te voorkomen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_08",
+      "value": "Als technicus kun je op dezelfde manier je bewustzijn met de aandrijving laten samensmelten."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_09",
+      "value": "Maar zo'n prestatie vereist een enorm mentaal vermogen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_10",
+      "value": "Michael, je bent een van de sterkste mensen waar ik naast heb mogen staan!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_11",
+      "value": "Om nog maar te zwijgen van het feit dat je de geadopteerde zus bent van de beste gedachtensmelter die ik ooit heb gekend. Nou ja, de enige."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_12",
+      "value": "Michael, ik geloof in je."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_13",
+      "value": "Ik… Ik zal het proberen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_14",
+      "value": "Het... het werkt. Ik voel de muren zich om me heen spreiden als de armen van mijn moeder. Alles is goud. Alles is zo groot. Ik... had geen idee."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_15",
+      "value": "Ik kan nog iemand anders voelen hier. Enorm. Groter dan een berg voor mij. Ze is zo rechtschapen. Zo boos. Haat kinderen, haar partners – allemaal weg. Allemaal gestorven, zo lang geleden."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_16",
+      "value": "Ze heeft me opgemerkt! Ik probeer haar te ontwijken. Ik denk dat ze de focus op de machine verliest... ze achtervolgt me."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_17",
+      "value": "Ze heeft me uit het systeem gegooid! Ik kon haar inspanning voelen om dat te doen... het kan haar vertraagd hebben..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_18",
+      "value": "Jullie kunnen niet meer bij de aandrijving vanaf hier. Jullie moeten de kern zien te bereiken."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_01",
+      "value": "We moeten jullie waarschuwen dat het proces bijna voltooid is. Jullie hebben praktisch geen tijd meer."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_02",
+      "value": "Nee! Ik zal proberen opnieuw toegang te krijgen tot de aandrijving met behulp van de reactor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_03",
+      "value": "Weet je het zeker? De laatste keer sloegen je bio-waarden op hol. Als je het weer doet..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_04",
+      "value": "Dan zal de beste dokter van Starfleet voor me zorgen, nietwaar?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_05",
+      "value": "Nou, aan de slag dan!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_06",
+      "value": "Ik ben weer binnen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_07",
+      "value": "Ik kan haar overal om ons heen voelen!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_08",
+      "value": "Haar rouw is overal. Ze is zo eenzaam. Iedereen die ze kende is al lang weg."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_09",
+      "value": "Ze... mist elk van hen. Haar bestaan is solitair. Haar hele wereld is verloren!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_10",
+      "value": "De grote bibliotheek die ze oprichtte, de karmozijnen zeeën waarin ze als kind zwom – allemaal verdwenen. Haar verdriet is overweldigend! Ik kan niet... agghhhhh!!!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_11",
+      "value": "Dokter! Haal haar eruit! Ze gaat dood!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_12",
+      "value": "Ik ben in orde. Ik heb nog nooit zulke pijn als die van haar gevoeld."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_13",
+      "value": "Het borrelde in haar en brak door de realiteit van de sfeer waarin ze zich bevond. Die kon haar geest en ziel niet langer bevatten. Dat is het ontstaan van al deze... droomlozen. En nu zijn ze hier."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_14",
+      "value": "Geen wonder dat ze de Nexus zien zoals ze doen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_15",
+      "value": "Maar we kunnen hen niet de beslissing laten nemen voor alle anderen en doorgaan met deze vernietiging."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_16",
+      "value": "Heeft ze je weer opgemerkt?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_17",
+      "value": "De acties van jullie vriend hebben het proces met 78,9 aardse minuten vertraagd."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_18",
+      "value": "We hebben nog tijd!"
+    },
+    {
       "key": "Data_GSCutSceneDialogue_opening_cutscene_01",
       "value": "De Nexus is teruggekeerd."
     },
@@ -11371,6 +13223,10 @@
       "value": "DE GEEST VAN DE MACHINE"
     },
     {
+      "key": "Data_GSEpisodes_displayName_Episode7",
+      "value": "DATTA, DAYADHVAM EN DAMYATA"
+    },
+    {
       "key": "Data_GSMissionObjective_e1_m1_encounter03",
       "value": "Versla Khan"
     },
@@ -11527,6 +13383,30 @@
       "value": "Om moedig te gaan waar niemand eerder is gegaan."
     },
     {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission1",
+      "value": "De <i>U.S.S. Artemis</i> zweeft buiten de enorme realiteitsaandrijving die rond een gevangen ster is gebouwd."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission2",
+      "value": "Om de hulp van de Verzorger te verdienen, moet het uitteam vier tests voltooien, waarvan de eerste de test van geloof is."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission3",
+      "value": "De tweede test is de test van wilskracht, waarbij het uitteam opnieuw tegenover de Borg komt te staan."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission4",
+      "value": "Geloof en wilskracht zijn misschien niet altijd genoeg, het uitteam staat voor de test van sluwheid."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission5",
+      "value": "De laatste test is de test van rede, om te bewijzen dat sommige conflicten kunnen worden opgelost door middel van dialoog en tact."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission6",
+      "value": "Het uitteam verdient de mantel van technici en moet de droomlozen stoppen en de realiteitsaandrijving repareren."
+    },
+    {
       "key": "Data_GSMissions_displayName_Episode1_Mission1",
       "value": "MOEDIG GAAN"
     },
@@ -11671,12 +13551,44 @@
       "value": "NIET MET EEN KNAL MAAR EEN FLUISTERING"
     },
     {
+      "key": "Data_GSMissions_displayName_Episode7_Mission1",
+      "value": "EEN HALVE GARE'S PARADIJS"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission2",
+      "value": "VREEMDE PLAATS"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission3",
+      "value": "VIA EEN LANGE WEG"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission4",
+      "value": "OVER WIJN EN ROZEN"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission5",
+      "value": "MET STERREN GEKROONDE EENZAAMHEID"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission6",
+      "value": "EEN LAATSTE WOORD"
+    },
+    {
       "key": "Data_GSNodeEncounter_BattleDesc_Borg",
       "value": "Vijandige Borg tekenen van leven gedetecteerd. Bereid je voor op het gevecht."
     },
     {
       "key": "Data_GSNodeEncounter_BattleDesc_Cardassian",
       "value": "Vijandige Cardassiaanse tekenen van leven gedetecteerd. Bereid je voor op het gevecht."
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_CardassianShapeshifters",
+      "value": "Levenstekens van vijandige Cardassianen en gedaanteverwisselaars gedetecteerd. Bereid je voor op het gevecht."
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+      "value": "Levenstekens van vijandige droomlozen gedetecteerd. Bereid je voor op het gevecht."
     },
     {
       "key": "Data_GSNodeEncounter_BattleDesc_e1_m1_battle01",
@@ -12911,8 +14823,16 @@
       "value": "Vijandige Romulaanse en Gornse tekenen van leven gedetecteerd. Bereid je voor op het gevecht."
     },
     {
+      "key": "Data_GSNodeEncounter_BattleDesc_Shapeshifters",
+      "value": "Levenstekens van vijandige gedaanteverwisselaars gedetecteerd. Bereid je voor op het gevecht."
+    },
+    {
       "key": "Data_GSNodeEncounter_BattleDesc_Unknown",
       "value": "Onbekende vijanden gedetecteerd. Bereid je voor op het gevecht."
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_UnknownLife",
+      "value": "Tekens van onbekend vijandig leven gedetecteerd. Bereid je voor op het gevecht."
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_AbandonedShuttle",
@@ -12975,6 +14895,10 @@
       "value": "Borg-alkoof"
     },
     {
+      "key": "Data_GSNodeExploration_clickableObject_BorgCube",
+      "value": "Borg-kubus"
+    },
+    {
       "key": "Data_GSNodeExploration_clickableObject_BorgDevice",
       "value": "Borg-apparaat"
     },
@@ -12989,6 +14913,10 @@
     {
       "key": "Data_GSNodeExploration_clickableObject_BorgDrones",
       "value": "Borg-drones"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_BorgSensors",
+      "value": "Borg-sensoren"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_BorgSphere",
@@ -13343,6 +15271,14 @@
       "value": "Romulaans relais"
     },
     {
+      "key": "Data_GSNodeExploration_clickableObject_Romulans",
+      "value": "Romulanen"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_Runabout",
+      "value": "Rondrennen"
+    },
+    {
       "key": "Data_GSNodeExploration_clickableObject_Sabotage",
       "value": "Sabotage"
     },
@@ -13453,6 +15389,10 @@
     {
       "key": "Data_GSNodeExploration_clickableObject_WorkerBee",
       "value": "Werkbij"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_Wounded",
+      "value": "Gewond"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_Wreckage",
@@ -14263,6 +16203,134 @@
       "value": "Het uitteam wordt niet opgemerkt en kiest het pad naar rechts. Het uitteam ontdekt een <b>alternatief pad<b>."
     },
     {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option01",
+      "value": "Met behulp van een van de reactoren kan het uitteam het krachtveld uitschakelen dat hun pad blokkeert."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option02",
+      "value": "Het uitteam blijft de faciliteit verkennen. Het uitteam ontdekt een <b>alternatief pad<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option01",
+      "value": "Het uitteam gebruikt een reactor om de gesloten deur te openen en ontdekt wat voorraden."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option02",
+      "value": "Het uitteam verkiest voorzichtigheid boven nieuwsgierigheid en gaat verder."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option01",
+      "value": "Het uitteam springt met succes naar het platform en ontdekt wat voorraden."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option02",
+      "value": "Het uitteam negeert het platform en gaat verder, omdat ze geen risico willen lopen op letsel."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option01",
+      "value": "Terwijl ze het voertuig scannen op schade, vallen de gedaanteverwisselaars die zich voordoen als Federatie het uitteam aan. Het uitteam krijgt een <b>technologiebonus<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option02",
+      "value": "De gedaanteverwisselaars overrompelen het uitteam onverhoeds. Het uitteam krijgt een <b>snelheidsstraf</b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option03",
+      "value": "Terwijl ze het voertuig doorzoeken, ontdekt het uitteam wat voorraden voordat ze worden aangevallen door de gedaanteverwisselaars."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option01",
+      "value": "De achtergelaten voorraden zijn een hinderlaag van de gedaanteverwisselaars. Bereid je voor op het gevecht."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option02",
+      "value": "Op hun hoede voor een mogelijke val, gaat het uitteam verder."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option01",
+      "value": "Na het uitlezen van de Borg-sensoren heeft het uitteam een nieuw pad voorwaarts ontdekt en hopen ze dat hun inbraak onopgemerkt is gebleven."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option02",
+      "value": "Het uitteam trekt minder aandacht en kiest ervoor om door te gaan met het verkennen van de Borg-kubus. Het uitteam ontdekt een <b>alternatief pad<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option01",
+      "value": "Door de stroom in de Borg-alkoof te overbelasten is deze uitgeschakeld, evenals de drones die werden opgeladen. Het uitteam krijgt een <b>verdedigingsbonus<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option02",
+      "value": "Het uitteam kiest ervoor om interactie met de Borg-alkoof te vermijden."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option01",
+      "value": "Het uitteam doorzoekt de onderdelen en materialen van de Borg en ontdekt wat voorraden."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option02",
+      "value": "Het uitteam negeert de achtergebleven technologie van de Borg en gaat verder."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option01",
+      "value": "Met behulp van hun medische hulp helpt het uitteam om het gewonde personeel op de been te krijgen. De Starfleet-medicus geeft hen wat extra voorraden als dank."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option02",
+      "value": "Om het gewonde personeel te beschermen, stormt het uitteam in de richting van de naderende Klingons. Het uitteam krijgt een <b>aanvalsbonus<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option01",
+      "value": "Met nog maar weinig tijd over, dringt het uitteam naar voren."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option02",
+      "value": "Met behulp van een van de reactoren om de \"realiteit\" te veranderen, ontdekt het uitteam wat voorraden."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option01",
+      "value": "Geen bepaald vreedzame oplossing, maar het uitteam heeft een gevecht weten te vermijden."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option02",
+      "value": "Een vijandige ontvangst door de Romulanen heeft helaas tot een gevecht geleid."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option01",
+      "value": "Hoewel ze niet helemaal overtuigd is, heeft Sela het uitteam toegestaan door te gaan terwijl ze een gevecht ontwijken."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option02",
+      "value": "Sela en de Romulanen zijn niet bereid de Federatie te vertrouwen en vallen aan."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option01",
+      "value": "In staat om een diplomatieke uitkomst te verzekeren, vermijdt het uitteam een gevecht."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option02",
+      "value": "Niet in staat om een diplomatieke oplossing te vinden, bereidt het uitteam zich voor op een gevecht."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option01",
+      "value": "Het uitteam kiest ervoor om langs het linker pad verder te gaan."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option02",
+      "value": "Het uitteam kiest ervoor om langs het rechter pad verder te gaan."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option01",
+      "value": "Vastbesloten om de droomlozen te stoppen, bereidt het uitteam zich voor op een gevecht. Het uitteam krijgt een <b>moreelbonus<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option02",
+      "value": "Het uitteam bereidt zich voor om de strijd met de droomlozen aan te gaan en de realiteitsaandrijving te redden."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option03",
+      "value": "Het scannen naar droomlozen heeft het uitteam een voordeel gegeven in de komende strijd. Het uitteam krijgt een <b>technologiebonus<b>."
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_AdvancedForward",
       "value": "HET UITTEAM GAAT VERDER"
     },
@@ -14327,6 +16395,10 @@
       "value": "COMPUTER GEHACKT"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
+      "value": "DOORGEZET"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_CoreDisabled",
       "value": "WARPKERN UITGESCHAKELD"
     },
@@ -14341,6 +16413,10 @@
     {
       "key": "Data_GSNodeExploration_ResultsHeader_Diplomacy",
       "value": "DIPLOMATIE SUCCESVOL"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsHeader_DoorOpened",
+      "value": "DEUR GEOPEND"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_DoorsOpened",
@@ -14431,6 +16507,10 @@
       "value": "PAD ONTDEKT"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_PersonnelHealed",
+      "value": "PERSONEEL GENEZEN"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_PulledBack",
       "value": "TERUGGETROKKEN"
     },
@@ -14467,6 +16547,10 @@
       "value": "SCAN GESLAAGD"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_SensorsAccessed",
+      "value": "SENSOREN GELEZEN"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_ShieldBonus",
       "value": "SCHILDBONUS"
     },
@@ -14481,6 +16565,10 @@
     {
       "key": "Data_GSNodeExploration_ResultsHeader_SpeedBonus",
       "value": "SNELHEIDSBONUS"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsHeader_SpeedDown",
+      "value": "SNELHEID OMLAAG"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
@@ -15057,6 +17145,30 @@
     {
       "key": "Data_MissionObjective_e6_m6_Name",
       "value": "Repareer de Nexus"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m1_Name",
+      "value": "Stop de droomlozen"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m2_Name",
+      "value": "Test van geloof"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m3_Name",
+      "value": "Test van wilskracht"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m4_Name",
+      "value": "Test van sluwheid"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m5_Name",
+      "value": "Test van rede"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m7_Name",
+      "value": "Stop de droomlozen"
     },
     {
       "key": "Data_Notification_DailyRewardOneOff_Body",
@@ -18899,6 +21011,10 @@
       "value": "Wapens neer"
     },
     {
+      "key": "Data_Skill_Chang_Bridge_description",
+      "value": "Klingons krijgen <color=#01e2ff>+5%</color> Aanval."
+    },
+    {
       "key": "Data_Skill_Chekov_Attack_description_level1",
       "value": "Breng <color=#01e2ff>100% Schade</color> toe"
     },
@@ -18909,6 +21025,10 @@
     {
       "key": "Data_Skill_Chekov_Attack_displayName",
       "value": "Phaser"
+    },
+    {
+      "key": "Data_Skill_Chekov_Bridge_description",
+      "value": "Starfleet krijgen <color=#01e2ff>+5%</color> Aanval."
     },
     {
       "key": "Data_Skill_Crusher_Attack_description_level1",
@@ -19156,7 +21276,7 @@
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_description_level1",
-      "value": "Breng <color=#01e2ff>150% Technologieschade</color> toe."
+      "value": "Breng <color=#01e2ff>100% Technologieschade</color> toe."
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_displayName",
@@ -19256,7 +21376,7 @@
     },
     {
       "key": "Data_Skill_Elnor_Bridge_description",
-      "value": "Krijg <color=#01e2ff>+5%</color> Verdediging."
+      "value": "Krijg <color=#01e2ff>+3%</color> Verdediging."
     },
     {
       "key": "Data_Skill_Elnor_Bridge_displayName",
@@ -19305,6 +21425,10 @@
     {
       "key": "Data_Skill_Garak_Attack_description_level2",
       "value": "Breng <color=#01e2ff>150% Schade</color> toe."
+    },
+    {
+      "key": "Data_Skill_Garak_Bridge_description",
+      "value": "Krijg <color=#01e2ff>+5%</color> Kritieke kans."
     },
     {
       "key": "Data_Skill_GenBorgEng01M_Attack_description_level1",
@@ -20967,6 +23091,18 @@
       "value": "Picard-manoeuvre"
     },
     {
+      "key": "Data_Skill_PicardDixon_Attack_description_level1",
+      "value": "Breng <color=#01e2ff>100% Schade</color> toe"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Attack_description_level2",
+      "value": "Breng <color=#01e2ff>150% Schade</color> toe."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Bridge_description",
+      "value": "Starfleet krijgen <color=#01e2ff>+5%</color> Aanval."
+    },
+    {
       "key": "Data_Skill_PicardOld_Attack_description_level1",
       "value": "Breng <color=#01e2ff>2 x 50% Schade</color> toe."
     },
@@ -21347,6 +23483,18 @@
       "value": "Verrassingsaanval"
     },
     {
+      "key": "Data_Skill_Shinzon_Attack_description_level1",
+      "value": "Breng <color=#01e2ff>100% Schade</color> toe (<color=#01e2ff>25% kans</color> op <color=#01e2ff>Wond</color>)."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Attack_description_level2",
+      "value": "Breng <color=#01e2ff>125% Schade</color> toe (<color=#01e2ff>50% kans</color> op <color=#01e2ff>Wond</color>)."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Bridge_description",
+      "value": "Romulanen krijgen <color=#01e2ff>+5%</color> Aanval."
+    },
+    {
       "key": "Data_Skill_Sisko_Attack_description_level1",
       "value": "Breng <color=#01e2ff>3 x 35% Schade</color> toe. (<color=#01e2ff>25% kans</color> op <color=#01e2ff>Verdediging omlaag</color> gedurende 1 beurt als de vijand <color=#01e2ff>Cardassiaans</color> is)"
     },
@@ -21528,7 +23676,7 @@
     },
     {
       "key": "Data_Skill_Stamets_Bridge_description",
-      "value": "Starfleet krijgt <color=#01e2ff>+10%</color> Technologie."
+      "value": "Starfleet krijgen <color=#01e2ff>+5%</color> Technologie."
     },
     {
       "key": "Data_Skill_Stamets_Bridge_displayName",
@@ -21672,7 +23820,7 @@
     },
     {
       "key": "Data_Skill_Tilly_Bridge_description",
-      "value": "Technici krijgen <color=#01e2ff>+10%</color> Verdediging."
+      "value": "Starfleet krijgen <color=#01e2ff>+5%</color> Verdediging."
     },
     {
       "key": "Data_Skill_Tilly_Bridge_displayName",
@@ -21736,11 +23884,11 @@
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_description_level1",
-      "value": "<color=#01e2ff>Verhullen</color> voor alle bondgenoten gedurende 3 beurten."
+      "value": "<color=#01e2ff>Verhullen</color> voor alle bondgenoten gedurende 3 beurten. (<color=#01e2ff>+1 Moreel</color> als de bondgenoot <color=#01e2ff>Romulaans</color> is)."
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_description_level2",
-      "value": "<color=#01e2ff>Verhullen</color> en <color=#01e2ff>Reinigen</color> voor alle bondgenoten gedurende 3 beurten."
+      "value": "<color=#01e2ff>Verhullen</color> en <color=#01e2ff>Reinigen</color> voor alle bondgenoten gedurende 3 beurten. (<color=#01e2ff>+2 Moreel</color> als de bondgenoot <color=#01e2ff>Romulaans</color> is)."
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_displayName",
@@ -21748,11 +23896,11 @@
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_description_level1",
-      "value": "<color=#01e2ff>-1 Moreel</color> en <color=#01e2ff>Verdediging omlaag</color> voor 1 vijand gedurende 3 beurten. <color=#01e2ff>Volgende beurt:</color> Breng <color=#01e2ff>200% Schade</color> toe (breng <color=#01e2ff>300% Schade</color> toe indien <color=#01e2ff>Moreel</color> van vijand < 0)"
+      "value": "Breng <color=#01e2ff>200% Technologieschade</color> toe aan 1 vijand en <color=#01e2ff>-1 Moreel</color> voor alle vijanden."
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_description_level2",
-      "value": "<color=#01e2ff>-2 Moreel</color> en <color=#01e2ff>sterk Verdediging omlaag</color> voor 1 vijand gedurende 3 beurten. <color=#01e2ff>Volgende beurt:</color> Breng <color=#01e2ff>300% Schade</color> toe (breng <color=#01e2ff>450% Schade</color> toe indien <color=#01e2ff>Moreel</color> van vijand < 0)"
+      "value": "Breng <color=#01e2ff>300% Technologieschade</color> toe aan 1 vijand en <color=#01e2ff>-2 Moreel</color> voor alle vijanden."
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_displayName",
@@ -21772,7 +23920,7 @@
     },
     {
       "key": "Data_Skill_Torchbearer_Bridge_description",
-      "value": "Klingons krijgen <color=#01e2ff>+10%</color> Vastberadenheid."
+      "value": "Klingons krijgen <color=#01e2ff>+5%</color> Vastberadenheid."
     },
     {
       "key": "Data_Skill_Torchbearer_Bridge_displayName",
@@ -21891,8 +24039,20 @@
       "value": "Discipline"
     },
     {
+      "key": "Data_Skill_Troi_Attack_description_level1",
+      "value": "Breng <color=#01e2ff>100% Schade</color> toe"
+    },
+    {
+      "key": "Data_Skill_Troi_Attack_description_level2",
+      "value": "Breng <color=#01e2ff>150% Schade</color> toe."
+    },
+    {
       "key": "Data_Skill_Troi_Attack_displayName",
       "value": "Phaser"
+    },
+    {
+      "key": "Data_Skill_Troi_Bridge_description",
+      "value": "Starfleet krijgen <color=#01e2ff>+5%</color> Vastberadenheid."
     },
     {
       "key": "Data_Skill_Tuvok_Attack_displayName",
@@ -25079,6 +27239,26 @@
       "value": "VOORRAADKRAT ONTDEKT"
     },
     {
+      "key": "News_Crew_Generic_Headline",
+      "value": "Nieuwe bemanning"
+    },
+    {
+      "key": "News_Episode_Generic_Headline",
+      "value": "Nieuwe aflevering"
+    },
+    {
+      "key": "News_FactionEvent_Generic_Headline",
+      "value": "Nieuw factie-evenement"
+    },
+    {
+      "key": "News_SoloEvent_Generic_Headline",
+      "value": "Nieuw solo-evenement"
+    },
+    {
+      "key": "News_Update_Generic_Headline",
+      "value": "Nieuwe update"
+    },
+    {
       "key": "No Items Summoned",
       "value": "Geen items opgeroepen"
     },
@@ -25652,43 +27832,43 @@
     },
     {
       "key": "shop_Gear_Command_Padd_Common",
-      "value": "Legendarische PADD: Bevel"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Epic",
-      "value": "Zeer zeldzame PADD: Bevel"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Legendary",
-      "value": "Epische PADD: Bevel"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Rare",
       "value": "Gewone PADD: Bevel"
     },
     {
-      "key": "shop_Gear_Command_Padd_VeryRare",
+      "key": "shop_Gear_Command_Padd_Epic",
+      "value": "Epische PADD: Bevel"
+    },
+    {
+      "key": "shop_Gear_Command_Padd_Legendary",
+      "value": "Legendarische PADD: Bevel"
+    },
+    {
+      "key": "shop_Gear_Command_Padd_Rare",
       "value": "Zeldzame PADD: Bevel"
     },
     {
+      "key": "shop_Gear_Command_Padd_VeryRare",
+      "value": "Zeer zeldzame PADD: Bevel"
+    },
+    {
       "key": "shop_Gear_Command_Phaser_Common",
-      "value": "Legendarische type II phaser: Bevel"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Epic",
-      "value": "Zeer zeldzame type II phaser: Bevel"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Legendary",
-      "value": "Epische type II phaser: Bevel"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Rare",
       "value": "Gewone type II phaser: Bevel"
     },
     {
-      "key": "shop_Gear_Command_Phaser_VeryRare",
+      "key": "shop_Gear_Command_Phaser_Epic",
+      "value": "Epische type II phaser: Bevel"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_Legendary",
+      "value": "Legendarische type II phaser: Bevel"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_Rare",
       "value": "Zeldzame type II phaser: Bevel"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_VeryRare",
+      "value": "Zeer zeldzame type II phaser: Bevel"
     },
     {
       "key": "shop_Gear_Command_Tricorder_Common",
@@ -25732,43 +27912,43 @@
     },
     {
       "key": "shop_Gear_Engineer_Padd_Common",
-      "value": "Legendarische PADD: Techniek"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Epic",
-      "value": "Zeer zeldzame PADD: Techniek"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Legendary",
-      "value": "Epische PADD: Techniek"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Rare",
       "value": "Gewone PADD: Techniek"
     },
     {
-      "key": "shop_Gear_Engineer_Padd_VeryRare",
+      "key": "shop_Gear_Engineer_Padd_Epic",
+      "value": "Epische PADD: Techniek"
+    },
+    {
+      "key": "shop_Gear_Engineer_Padd_Legendary",
+      "value": "Legendarische PADD: Techniek"
+    },
+    {
+      "key": "shop_Gear_Engineer_Padd_Rare",
       "value": "Zeldzame PADD: Techniek"
     },
     {
+      "key": "shop_Gear_Engineer_Padd_VeryRare",
+      "value": "Zeer zeldzame PADD: Techniek"
+    },
+    {
       "key": "shop_Gear_Engineer_Phaser_Common",
-      "value": "Legendarische type II phaser: Techniek"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Epic",
-      "value": "Zeer zeldzame type II phaser: Techniek"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Legendary",
-      "value": "Epische type II phaser: Techniek"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Rare",
       "value": "Gewone type II phaser: Techniek"
     },
     {
-      "key": "shop_Gear_Engineer_Phaser_VeryRare",
+      "key": "shop_Gear_Engineer_Phaser_Epic",
+      "value": "Epische type II phaser: Techniek"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_Legendary",
+      "value": "Legendarische type II phaser: Techniek"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_Rare",
       "value": "Zeldzame type II phaser: Techniek"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_VeryRare",
+      "value": "Zeer zeldzame type II phaser: Techniek"
     },
     {
       "key": "shop_Gear_Engineer_Tricorder_Common",
@@ -25812,43 +27992,43 @@
     },
     {
       "key": "shop_Gear_Medic_Padd_Common",
-      "value": "Legendarische PADD: Medisch"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Epic",
-      "value": "Zeer zeldzame PADD: Medisch"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Legendary",
-      "value": "Epische PADD: Medisch"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Rare",
       "value": "Gewone PADD: Medisch"
     },
     {
-      "key": "shop_Gear_Medic_Padd_VeryRare",
+      "key": "shop_Gear_Medic_Padd_Epic",
+      "value": "Epische PADD: Medisch"
+    },
+    {
+      "key": "shop_Gear_Medic_Padd_Legendary",
+      "value": "Legendarische PADD: Medisch"
+    },
+    {
+      "key": "shop_Gear_Medic_Padd_Rare",
       "value": "Zeldzame PADD: Medisch"
     },
     {
+      "key": "shop_Gear_Medic_Padd_VeryRare",
+      "value": "Zeer zeldzame PADD: Medisch"
+    },
+    {
       "key": "shop_Gear_Medic_Phaser_Common",
-      "value": "Legendarische type II phaser: Medisch"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Epic",
-      "value": "Zeer zeldzame type II phaser: Medisch"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Legendary",
-      "value": "Epische type II phaser: Medisch"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Rare",
       "value": "Gewone type II phaser: Medisch"
     },
     {
-      "key": "shop_Gear_Medic_Phaser_VeryRare",
+      "key": "shop_Gear_Medic_Phaser_Epic",
+      "value": "Epische type II phaser: Medisch"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_Legendary",
+      "value": "Legendarische type II phaser: Medisch"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_Rare",
       "value": "Zeldzame type II phaser: Medisch"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_VeryRare",
+      "value": "Zeer zeldzame type II phaser: Medisch"
     },
     {
       "key": "shop_Gear_Medic_Tricorder_Common",
@@ -25892,43 +28072,43 @@
     },
     {
       "key": "shop_Gear_Science_Padd_Common",
-      "value": "Legendarische PADD: Wetenschap"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Epic",
-      "value": "Zeer zeldzame PADD: Wetenschap"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Legendary",
-      "value": "Epische PADD: Wetenschap"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Rare",
       "value": "Gewone PADD: Wetenschap"
     },
     {
-      "key": "shop_Gear_Science_Padd_VeryRare",
+      "key": "shop_Gear_Science_Padd_Epic",
+      "value": "Epische PADD: Wetenschap"
+    },
+    {
+      "key": "shop_Gear_Science_Padd_Legendary",
+      "value": "Legendarische PADD: Wetenschap"
+    },
+    {
+      "key": "shop_Gear_Science_Padd_Rare",
       "value": "Zeldzame PADD: Wetenschap"
     },
     {
+      "key": "shop_Gear_Science_Padd_VeryRare",
+      "value": "Zeer zeldzame PADD: Wetenschap"
+    },
+    {
       "key": "shop_Gear_Science_Phaser_Common",
-      "value": "Legendarische type II phaser: Wetenschap"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Epic",
-      "value": "Zeer zeldzame type II phaser: Wetenschap"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Legendary",
-      "value": "Epische type II phaser: Wetenschap"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Rare",
       "value": "Gewone type II phaser: Wetenschap"
     },
     {
-      "key": "shop_Gear_Science_Phaser_VeryRare",
+      "key": "shop_Gear_Science_Phaser_Epic",
+      "value": "Epische type II phaser: Wetenschap"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_Legendary",
+      "value": "Legendarische type II phaser: Wetenschap"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_Rare",
       "value": "Zeldzame type II phaser: Wetenschap"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_VeryRare",
+      "value": "Zeer zeldzame type II phaser: Wetenschap"
     },
     {
       "key": "shop_Gear_Science_Tricorder_Common",
@@ -27139,6 +29319,10 @@
       "value": "TIK OM DOOR TE GAAN"
     },
     {
+      "key": "UI_CaptainLog_Panel_FooterNote_TapToContinue_Click",
+      "value": "KLIK OM DOOR TE GAAN"
+    },
+    {
       "key": "UI_CaptainLog_Panel_FooterNote_TapToContinue_Gamepad",
       "value": "DRUK OP {0} OM DOOR TE GAAN"
     },
@@ -27205,6 +29389,10 @@
     {
       "key": "UI_Common_Advance",
       "value": "Tik om vooruit te gaan"
+    },
+    {
+      "key": "UI_Common_Advance_Click",
+      "value": "Klik om vooruit te gaan"
     },
     {
       "key": "UI_Common_Advance_Gamepad",
@@ -27311,6 +29499,10 @@
       "value": "Aflevering 6"
     },
     {
+      "key": "UI_Common_Missions_EpisodeIdentifier_07",
+      "value": "Aflevering 7"
+    },
+    {
       "key": "UI_Common_New",
       "value": "Nieuw"
     },
@@ -27359,6 +29551,10 @@
       "value": "Tik om terug te keren"
     },
     {
+      "key": "UI_Common_Return_Click",
+      "value": "Klik om terug te keren"
+    },
+    {
       "key": "UI_Common_Return_Gamepad",
       "value": "Druk op {0} om terug te gaan"
     },
@@ -27379,12 +29575,20 @@
       "value": "Tik om te starten"
     },
     {
+      "key": "UI_Common_Start_Click",
+      "value": "Klik om te starten"
+    },
+    {
       "key": "UI_Common_Start_Gamepad",
       "value": "Druk op {0} om te starten"
     },
     {
       "key": "UI_Common_TapToClose",
       "value": "TIK OM TE SLUITEN"
+    },
+    {
+      "key": "UI_Common_TapToClose_Click",
+      "value": "KLIK OM TE SLUITEN"
     },
     {
       "key": "UI_Common_TapToClose_Gamepad",
@@ -27607,6 +29811,30 @@
       "value": "In hun oude taal zegt een van hen: \"Kom. We moeten hen volgen tot de realiteitsaandrijving\"."
     },
     {
+      "key": "UI_Cutscene_Episode7_Text1",
+      "value": "De Droomlozen waren teruggedreven van de realiteitsaandrijving, hun plannen ervoor gedwarsboomd."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text2",
+      "value": "Maar hun leider had een geheim geleerd van het mainframe van de aandrijving, een die een ramp zou kunnen zijn voor de Nexus."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text3",
+      "value": "De verzorger onthult een kaart die de bewegingen van de Droomlozen onthult terwijl ze zich naar een onbekende spoeden."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text4",
+      "value": "Zelfs met het verwoestende werk van de Droomlozen gemarkeerd op de kaart, valt hun volgende bestemming op."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text5",
+      "value": "Het is dusdanig monumentaal gebrek dat het de kleinere defecten die in hun kielzog achterblijven overschaduwt."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text6",
+      "value": "De vrees die het oproept sterkt je vastberadenheid, je beveelt de Artemis om koers te zetten."
+    },
+    {
       "key": "UI_DailyChest_Claim",
       "value": "REPLICATOR VERZAMELEN"
     },
@@ -27685,6 +29913,14 @@
     {
       "key": "UI_EncounterPreview_Title",
       "value": "GEVECHTSWAARSCHUWING!"
+    },
+    {
+      "key": "UI_Episode_MissionNotAvailable_Body",
+      "value": "Je moet deze missie voltooien op de vorige moeilijkheidsgraad om deze missie te ontgrendelen."
+    },
+    {
+      "key": "UI_Episode_MissionNotAvailable_Title",
+      "value": "Missie vergrendeld"
     },
     {
       "key": "UI_Error_ChangeName",
@@ -28053,6 +30289,10 @@
     {
       "key": "UI_Generic_TodaysGoals",
       "value": "De doelen van vandaag zijn voltooid!"
+    },
+    {
+      "key": "UI_Glossary_Header",
+      "value": "Woordenlijst"
     },
     {
       "key": "UI_GoTo_Achievements",
@@ -28703,6 +30943,10 @@
       "value": "Wordt ontgrendeld bij spelerslevel {0}."
     },
     {
+      "key": "UI_Menu_TooltipLocked_News_Title",
+      "value": "NIEUWS (VERGRENDELD)"
+    },
+    {
       "key": "UI_Menu_TooltipLocked_Operations_Title",
       "value": "OPERATIES (VERGRENDELD)"
     },
@@ -28813,6 +31057,10 @@
     {
       "key": "UI_Mission_Popup_Replay",
       "value": "OPNIEUW SPELEN"
+    },
+    {
+      "key": "UI_Mission_PopupNotAvailableSecondary_Message",
+      "value": "Je moet deze aflevering voltooien op de vorige moeilijkheidsgraad om deze aflevering te ontgrendelen."
     },
     {
       "key": "ui_mission_result_completion_percent",
@@ -28943,6 +31191,14 @@
       "value": "Ga naar het menu met systeeminstellingen om de meldingsinstellingen te beheren."
     },
     {
+      "key": "UI_OnlineMode_Body",
+      "value": "Naar online modus schakelen"
+    },
+    {
+      "key": "UI_OnlineMode_Title",
+      "value": "ONLINE MODUS"
+    },
+    {
       "key": "UI_Operations_EventPointTotal",
       "value": "Puntentotaal: {0}"
     },
@@ -28967,6 +31223,22 @@
       "value": "Taal"
     },
     {
+      "key": "UI_Options_LocalKey_High",
+      "value": "HOOG"
+    },
+    {
+      "key": "UI_Options_LocalKey_Low",
+      "value": "LAAG"
+    },
+    {
+      "key": "UI_Options_LocalKey_Medium",
+      "value": "MIDDEL"
+    },
+    {
+      "key": "UI_Options_LocalKey_VeryLow",
+      "value": "ZEER LAAG"
+    },
+    {
       "key": "UI_Options_Music_Off",
       "value": "Muziek uit"
     },
@@ -28977,6 +31249,10 @@
     {
       "key": "UI_Options_PlayerId",
       "value": "Speler-ID"
+    },
+    {
+      "key": "UI_Options_QualitySettings",
+      "value": "Kwaliteitsinstellingen"
     },
     {
       "key": "UI_Options_ResetPlayerProgressButton",
@@ -29237,6 +31513,14 @@
     {
       "key": "UI_Popup_FleeBattleConfirmation_Challenges",
       "value": "Weet je zeker dat je dit gevecht wilt ontvluchten? Terugtrekken leidt tot verlies van je operatiepoging."
+    },
+    {
+      "key": "UI_Popup_iCloudSaveConflict_Body",
+      "value": "Er is een conflict tussen de lokale en de iCloud-voortgang. Wil je doorgaan met je huidige voortgang en de iCloud-voortgang overschrijven of het spel opnieuw starten om de iCloud-voortgang te laden?"
+    },
+    {
+      "key": "UI_Popup_iCloudSaveConflict_Title",
+      "value": "iCLOUD-OPSLAGCONFLICT"
     },
     {
       "key": "UI_Popup_InvalidState_Body",
@@ -30055,6 +32339,10 @@
       "value": "Tik op om toe te voegen aan je uitteam."
     },
     {
+      "key": "UI_Tutorial_ToolTip_Add4thMemberGeneric_Click",
+      "value": "Klik om toe te voegen aan je uitteam."
+    },
+    {
       "key": "UI_Tutorial_ToolTip_Add4thMemberGeneric_Gamepad",
       "value": "Druk op {0} om toe te voegen aan je uitteam."
     },
@@ -30065,6 +32353,10 @@
     {
       "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton",
       "value": "Tik op om het gevecht aan te gaan"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton_Click",
+      "value": "Klik om het gevecht aan te gaan"
     },
     {
       "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton_Gamepad",
@@ -30087,6 +32379,10 @@
       "value": "Tik om vooruit te gaan"
     },
     {
+      "key": "UI_Tutorial_ToolTip_ContinueButton_Click",
+      "value": "Klik om vooruit te gaan"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_ContinueButton_Gamepad",
       "value": "Druk op {0} om verder te gaan"
     },
@@ -30095,12 +32391,20 @@
       "value": "Tik voor je volgende <color=#fff15c>STARFLEET-INSTRUCTIE</color>"
     },
     {
+      "key": "UI_Tutorial_ToolTip_Directives_Click",
+      "value": "Klik voor je volgende <color=#fff15c>STARFLEET-INSTRUCTIE</color>"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_Directives_Gamepad",
       "value": "Druk op {0} voor je volgende <color=#fff15c>STARFLEET-INSTRUCTIE</color>"
     },
     {
       "key": "UI_Tutorial_ToolTip_Disable",
       "value": "Tik om Worfs strijdkreet te gebruiken"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_Disable_Click",
+      "value": "Klik om Worfs strijdkreet te gebruiken"
     },
     {
       "key": "UI_Tutorial_ToolTip_Disable_Gamepad",
@@ -30163,6 +32467,10 @@
       "value": "Tik om de BRUGBEMANNING te wijzigen"
     },
     {
+      "key": "UI_Tutorial_ToolTip_TapCrewButton_Click",
+      "value": "Klik om de BRUGBEMANNING te wijzigen"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_TapCrewButton_Gamepad",
       "value": "Druk op {0} om de BRUGBEMANNING te wijzigen"
     },
@@ -30195,6 +32503,10 @@
       "value": "Tik voor de volgende MISSIE"
     },
     {
+      "key": "UI_Tutorial_ToolTip_TapMissionFrame_Click",
+      "value": "Klik voor de volgende MISSIE"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_TapMissionFrame_Gamepad",
       "value": "Druk op {0} voor de volgende MISSIE"
     },
@@ -30209,6 +32521,10 @@
     {
       "key": "UI_Tutorial_ToolTip_TapToAttack",
       "value": "Tik om een aanval te starten!"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_TapToAttack_Click",
+      "value": "Klik om een aanval te starten!"
     },
     {
       "key": "UI_Tutorial_ToolTip_TapToAttack_Gamepad",
@@ -30243,5 +32559,5 @@
       "value": "Moreelcombo"
     }
   ],
-  "_PathID": "1455"
+  "_PathID": "1456"
 }

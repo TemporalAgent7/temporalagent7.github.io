@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": "1277"
+    "m_PathID": "1301"
   },
   "m_Name": "lang_zh_cn",
   "List": [
@@ -1243,6 +1243,10 @@
       "value": "选择语言"
     },
     {
+      "key": "Choose_Quality_Header",
+      "value": "选择画质"
+    },
+    {
       "key": "Common_AccessoriesSortingType_Equipped",
       "value": "已装备"
     },
@@ -1523,6 +1527,10 @@
       "value": "降职"
     },
     {
+      "key": "Common_Details",
+      "value": "详情"
+    },
+    {
       "key": "Common_Dilithium",
       "value": "二锂"
     },
@@ -1623,6 +1631,10 @@
       "value": "关停"
     },
     {
+      "key": "Common_ExplorationOptionType_Disarm",
+      "value": "缴械"
+    },
+    {
       "key": "Common_ExplorationOptionType_Eject",
       "value": "弹射"
     },
@@ -1683,6 +1695,10 @@
       "value": "调查"
     },
     {
+      "key": "Common_ExplorationOptionType_Jump",
+      "value": "跳跃"
+    },
+    {
       "key": "Common_ExplorationOptionType_Leave",
       "value": "离开"
     },
@@ -1721,6 +1737,10 @@
     {
       "key": "Common_ExplorationOptionType_Power",
       "value": "电源"
+    },
+    {
+      "key": "Common_ExplorationOptionType_Protect",
+      "value": "保护"
     },
     {
       "key": "Common_ExplorationOptionType_Quick",
@@ -2729,6 +2749,10 @@
     {
       "key": "Common_ValosComputer",
       "value": "塔罗斯计算机"
+    },
+    {
+      "key": "Common_View",
+      "value": "查看"
     },
     {
       "key": "Common_Vulcan",
@@ -11183,6 +11207,1834 @@
       "value": "连物资都丢下了……"
     },
     {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_01",
+      "value": "看前面，是我们之前遇到过的幻影。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_02",
+      "value": "那代表无梦者肯定已经来了。我们来晚了吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_03",
+      "value": "这个构造体似乎仍在运转，"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_04",
+      "value": "关停操作将极为复杂。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_05",
+      "value": "我们只能祈祷还来得及。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_06",
+      "value": "好吧，先处理掉这些麻烦。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_01",
+      "value": "又是无梦控制的“幻影”！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_02",
+      "value": "<i>*诡异的尖叫*</i>"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_03",
+      "value": "他们在找我们……无梦者肯定知道我们在这里。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_01",
+      "value": "你们肯定就是我的盟友遇到的人形生物。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_02",
+      "value": "我们知道你们有自己的理由，但你们必输无疑。我们对“时汇”运作的理解来自亿万年的沉淀。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_03",
+      "value": "摧毁时汇并不合理。那将消灭所有生命……成千上万？或者上百万？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_04",
+      "value": "按照宇宙的规律，许多生命在很久以前就终结了。他们不应该被其他人的理想世界束缚和囚禁。我们不是你们所认为的怪物。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_05",
+      "value": "你们声称要从别人的阴谋中解放这些生命，方法却是由你们擅自决定他们的命运？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_06",
+      "value": "说得好，迈克！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_07",
+      "value": "我们没时间跟你们理论。请立即离开，否则我们只能强行消灭你们！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_post_01",
+      "value": "你们是一个坚韧不拔的物种，但你们只争取到了几个小时。这个现实引擎即将关闭。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_01",
+      "value": "前方道路似乎有某种防护罩。我从没见过这种情况。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_02",
+      "value": "考虑到此处科技的先进性，我怀疑我们的相位枪最多只能给它挠个痒痒。<i>月神号</i>能把我们传送过去吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_03",
+      "value": "鉴于这个空间里的强大能量，我不建议在非必要的情况下使用传送器。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_04",
+      "value": "是的，我非常乐意避免传送事故，以免下半辈子变成沃夫先生的孪生兄弟。那么……你们有什么提议？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_01",
+      "value": "反应器……是它们带我们来到这里的。那么它们会不会是进入构造体的关键所在？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_02",
+      "value": "也许能行！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_03",
+      "value": "这提议不错，迈克。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction02_01",
+      "value": "我敢打赌，肯定还有其他路。继续在这些走廊里转悠一小时有什么意义？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_01",
+      "value": "有意思，这可能是某种储藏室。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_02",
+      "value": "我扫描到里面有好几个容器，可能装着物资。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_03",
+      "value": "留给我们这些“时汇工程师”的牛奶饼干？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_04",
+      "value": "医生！你的想法简直是……亵渎神灵。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction01_01",
+      "value": "我要利用反应器进去。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction02_01",
+      "value": "我觉得我们最好不要用反应器来芝麻开门。我们对这项科技的了解还不够……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction02_02",
+      "value": "你说得对。我们可不想触发任何防御机制。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_01",
+      "value": "那边的平台上还有物资。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_01",
+      "value": "我也许可以跳上平台。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_02",
+      "value": "跳？你的克林贡脑袋疯了吗？那太高了！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_03",
+      "value": "相信我，医生！我应该可以跳上去。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_04",
+      "value": "你很有自信，而我只有医术，以便处理你即将因为跌倒而造成的骨折！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_01",
+      "value": "觉得我们能上去吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_02",
+      "value": "我的专业意见是，我们不能也不应该上去。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_03",
+      "value": "你这态度可不行，医生。那算了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_01",
+      "value": "这个地方让我想起年轻时听过的克林贡故事：索科沃大厅，勇士们在那里永远战斗不休。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_02",
+      "value": "就像英灵殿那样？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_03",
+      "value": "更血腥。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_04",
+      "value": "真棒。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_05",
+      "value": "说到这里……前面有动静！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_01",
+      "value": "我从没见过这样的地方。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_02",
+      "value": "医生，我从你的声音里感觉到了敬畏，是吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_03",
+      "value": "你自己想想："
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_04",
+      "value": "这里让我想起<i>进取号</i>上的全息甲板，可以创建栩栩如生的真实模拟。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_05",
+      "value": "我希望<i>发现号</i>上也有这样的设施！甲板体验和我们在球体里的经历相似吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_06",
+      "value": "不，全息甲板的模拟更像是……幻想。其中许多都是有趣的琐碎小事，"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_07",
+      "value": "很少会有我们在球体中感受到的那种虚耗现实。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_08",
+      "value": "听起来就像无梦者对时汇感受的描述：“虚耗”。他们认为这更像监狱，而不是幻想……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_01",
+      "value": "话说，我们就继续在走廊里徘徊还是……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_02",
+      "value": "打扰一下？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_03",
+      "value": "你后面！那是……我不知道那是什么。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_04",
+      "value": "我们被称为“夏塔基”，换成你们的语言就是“管理者”。我们是几个主要人工智能之一，旨在控制这台现实引擎的运转。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_05",
+      "value": "我们的扫描显示你们持有六个反应器，并且似乎立志保卫这个构造体。我们的评估准确吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_06",
+      "value": "呃，我们正试图阻止所谓的无梦者破坏时汇的稳定性。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_07",
+      "value": "那是“工程师”的职责。但你们并没有接受工程师培训，因此我们无法提供权限和工具，以修复现实引擎并击退入侵者。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_08",
+      "value": "好吧，虽然那也是我们的愿望。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_09",
+      "value": "你们可以参加所有工程师都必经的考验，但如果不接受相应的培训，你们很可能会失败。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_10",
+      "value": "如果我们一定要参加呢？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_11",
+      "value": "那么你们将无法获得相应的权限，并且无法保护引擎。因此，这个构造体与其所连接的球体将在大约3.567个人族小时内失效。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_12",
+      "value": "你就没给我们选择的余地！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_01",
+      "value": "站住！你们不能过去，变形人渣滓！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_02",
+      "value": "变形人什么？等等，我们不是……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_03",
+      "value": "我不认为他们有兴趣听你说话，医生！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_01",
+      "value": "你们听到前面有相位枪开火的声音吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_02",
+      "value": "没错，在那边！貌似卡达西人正在和星际舰队的军官交战！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_03",
+      "value": "我们都应该知道他们不是星际舰队的军官，依然是变形人的可能性更高。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_04",
+      "value": "你确定吗，医生？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_05",
+      "value": "给我点信任，沃夫先生。“老骨头”麦考伊自有分寸。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_06",
+      "value": "医生，你怎么知道的？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_07",
+      "value": "看他们的肢体语言，他们移动时的僵硬感。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_08",
+      "value": "我相信你的分析，医生。我们继续前进吧。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_01",
+      "value": "星际舰队的军官们，这边！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_02",
+      "value": "坚持住，你现在安全了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_01",
+      "value": "这里的地形太暴露了。我们试试能否将这台小车开动起来。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_02",
+      "value": "你们有句话怎么说来着？“好心没好报”。去死吧！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_03",
+      "value": "你们是变形人！卡达西人在四处找你们！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_01",
+      "value": "他们有些人看起来伤得很重。我们必须先处理他们的伤势，然后再做其他！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_02",
+      "value": "你真是个好人，医疗人员。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_03",
+      "value": "这样称呼医生太奇怪了……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_04",
+      "value": "你真聪明！消灭他们！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_05",
+      "value": "你们是变形人！卡达西人在四处找你们！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_01",
+      "value": "四处看看。小车里也许有东西可以帮助他们。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_02",
+      "value": "好主意。这里有一些物资。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_03",
+      "value": "你们这些星际舰队老鼠竟然想偷我们的东西？！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_04",
+      "value": "“星际舰队老鼠”……等等，你不是……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_05",
+      "value": "你们是变形人！卡达西人在四处找你们！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_01",
+      "value": "那里好像有废弃的物资。我们需要补给。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_01",
+      "value": "看一眼也没什么要紧……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_02",
+      "value": "抓住他们！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_03",
+      "value": "又或者……非常要紧！这是变形人的陷阱！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_01",
+      "value": "谁会把贵重的物资直接丢在路中间？我们什么时候那么走运过？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_02",
+      "value": "医生说得有道理。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_03",
+      "value": "有时候陷阱太明显了……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_01",
+      "value": "怎么回事？我们在球体里吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_02",
+      "value": "你们依然在现实引擎中，但我们可以通过参数为你们创建考验环境。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_03",
+      "value": "管理者借用了西斯科舰长的形象……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_04",
+      "value": "我们没时间胡闹了，伙计！你刚才还在说万物危在旦夕！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_05",
+      "value": "没错，因此建议你们尽快。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_06",
+      "value": "而我建议你尽快说明我们需要做些什么。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_07",
+      "value": "根据对你们记忆的研究，我们发现你们象限中的物种比较重视的某些特质恰好符合工程师的职责需求。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_08",
+      "value": "其一是信念，正如你们的西斯科舰长所展现的那样。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_09",
+      "value": "你……要我们祈祷吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_10",
+      "value": "你误解了。信念并不针对某个无所不能的实体，而是相信自己的目标和能力，以及你的工程师伙伴。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_11",
+      "value": "正是对更伟大存在的信念让最初的工程师们创造出了这个地方，因此它成为了所有工程师继任者们的先决条件。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_12",
+      "value": "竞技场里有个传送门等待着你们，那就是通往下一个考验的出口。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_13",
+      "value": "但请小心，眼见未必为实。只有对目标的信念才能让你们坚持到最后。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_01",
+      "value": "管理者。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_02",
+      "value": "我们对你们的状况感到好奇。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_03",
+      "value": "我来满足你们的好奇心：我们被夹在交战的卡达西人与变形人中间，双方看到我们都兴奋至极。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_04",
+      "value": "我们认同这是非常艰难的状况。看来唯一的出路就是撤退。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_05",
+      "value": "撤退？你们显然对星际舰队所知甚少！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_01",
+      "value": "那一定是管理者提到的传送门！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_02",
+      "value": "没错。你们的表现超出了我们的预期。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_03",
+      "value": "你们突破了艰难的局面，达成了你们的目标，并且信任盟友的能力。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_04",
+      "value": "这样的信念令人敬佩，但也会令人盲目。然而，你们的动机似乎并不是贪婪或对权力的欲望。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_05",
+      "value": "这就成了？我们通过你的考验了？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_06",
+      "value": "仅限第一部分，之后还有更多。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_07",
+      "value": "……我就知道。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_01",
+      "value": "等等，扫描显示前方有动静。动静很大。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_02",
+      "value": "我们是博格人。你们将被同化。抵抗是徒劳的。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_03",
+      "value": "呃，他们就不能……编写新的问候语吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_04",
+      "value": "医生，也许你可以把讽刺留到不那么危险的时候。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_01",
+      "value": "这片区域似乎没有动静，继续前进应该安全。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_02",
+      "value": "等等，有埋伏！我之前肯定触发了警报！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_03",
+      "value": "你们将被同化。抵抗是徒劳的。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_01",
+      "value": "看到前面的人影了吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_02",
+      "value": "是博格女王！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_03",
+      "value": "你们将被……同化。抵抗是徒劳的。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_01",
+      "value": "真奇怪。我敢肯定那是女王，但她听起来不像我们以前见过的那位。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_02",
+      "value": "不知道，我听起来很像女王的博格语！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_03",
+      "value": "可能是后备躯壳？或者是她转移良心的容器之一？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_04",
+      "value": "无从确知……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_01",
+      "value": "欢迎各位远道而来。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_02",
+      "value": "又一位博格女王！虽然这个听起来更……真实。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_03",
+      "value": "又一位？我们是博格人。不存在多一个少一个。所有躯体都只是我们意志的延伸。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_04",
+      "value": "包括你们的躯体。对吗，发言人？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_05",
+      "value": "对。你们将在集合体的伟大力量面前被同化。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_06",
+      "value": "今天，我们要为更庞大且珍贵的集合体而战，而你们别想阻挡我们的步伐！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_01",
+      "value": "我们成功了！我们的试炼先生呢？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_02",
+      "value": "我们在这里。我们为你们的果断表示祝贺。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_03",
+      "value": "尽管向你们提供了多次暂缓休息的机会，但你们总是选择继续前进。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_04",
+      "value": "我们现在安全了吗？试炼结束了吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_05",
+      "value": "你们目前已经远离伤害，但前方还有两次试炼。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_01",
+      "value": "我们迷路了吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_02",
+      "value": "我们什么时候认路过？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_03",
+      "value": "太犀利了，迈克。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_04",
+      "value": "暂停一下，我可以尝试破解这个节点，为我们找到前进路线。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_01",
+      "value": "运气如何？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_02",
+      "value": "我的三录仪显示出一条路径，但同时出现了另一个信号。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_03",
+      "value": "需要关注吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_04",
+      "value": "也许不用，那个信号好像已经停了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction02_01",
+      "value": "我觉得我们最好四处闲逛碰碰运气，而不是刺探他们的系统。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction02_02",
+      "value": "那样似乎会激怒他们！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_01",
+      "value": "那边有个正在充能的壁龛，非常特殊。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_02",
+      "value": "扫描显示大量能量流经其中。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_03",
+      "value": "它可能连接到博格网络，值得一探。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_01",
+      "value": "我正在用三录仪使它超载……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_02",
+      "value": "它在移动，好像被什么托举着？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_03",
+      "value": "很可能是某种自动系统将它移走以便修理。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_04",
+      "value": "我们赶紧看看它背后的情况，以免系统传送新的充能站过来。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction02_01",
+      "value": "别管它了，以免我们被侦测到。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction02_02",
+      "value": "我同意。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_01",
+      "value": "这里有些面板好像松了……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_02",
+      "value": "眼神真好。我们可以撬开看看里面有没有藏东西。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction01_01",
+      "value": "有了！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction02_01",
+      "value": "你想在危机重重的时候充当机械师吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction02_02",
+      "value": "医生说得有道理。我们继续前进吧。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_01",
+      "value": "我们这是在哪里？看起来像博格方块。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_02",
+      "value": "哎，别又是博格人。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_03",
+      "value": "这是你们的第二次试炼。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_04",
+      "value": "你现在看起来像珍妮薇舰长，有什么原因吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_05",
+      "value": "在你的时代，舰珍妮薇舰长以她传奇的旅程而闻名。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_06",
+      "value": "经历长达七年的时间，舰长和她的船员们从第三象限的深处返回了地球。其意志令人钦佩。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_07",
+      "value": "她很适合主持你们的下一次试炼：意志考验。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_08",
+      "value": "管理者消失了……博格方块，“意志考验”。我怀疑我们必须一路奋战！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_01",
+      "value": "我累坏了，需要休息一会儿。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_02",
+      "value": "你们最好听医生的话。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_03",
+      "value": "啊！你难道就不能现身在我们面前，而不是背后吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_04",
+      "value": "非常抱歉，我们只是想提供建议。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_05",
+      "value": "根据我们的计算，你们在寻找传送门的过程中，只成功探索了0.00001%的博格方块。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_06",
+      "value": "现实引擎很快就会崩溃，如果届时你们还在这里，则将随之灭亡。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_07",
+      "value": "我们可以将你们送到安全地带。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_08",
+      "value": "如果现实引擎崩溃，那么球体和里面的所有人都逃不掉！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_09",
+      "value": "我们认为你们低估了时汇的规模。时汇由许多引擎组成。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_10",
+      "value": "但每个引擎——包括这个——都掌控着多个球体，对吧？如果我们现在放弃，所有相连的球体都会崩溃。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_11",
+      "value": "正确。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_12",
+      "value": "并且时汇将进一步恶化，造成更多破坏性的裂隙，威胁我们位于时汇之外的宇宙……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_13",
+      "value": "依然正确。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_14",
+      "value": "那我们就要继续前进。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_15",
+      "value": "如你们所愿。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_16",
+      "value": "它走了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_17",
+      "value": "医生，我很震惊。我还以为你之前已经精疲力尽了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_18",
+      "value": "我仍然疲惫。但我们来这里是为了拯救生命，而不是抱怨路途艰辛！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_01",
+      "value": "你们的脆弱形态似乎已经到极限了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_02",
+      "value": "我们预计你们将无法继续承受。我们建议立即离开。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_03",
+      "value": "哈哈！卡勒斯放弃追捕他的兄弟莫拉什了吗？没有，他为了自己与父亲的荣誉，翻越崇山峻岭追捕他。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_04",
+      "value": "所以，我们将在这里杀出一条血路，前往出口摘取胜利的果实！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_01",
+      "value": "前面有克林贡人。数量很多！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_02",
+      "value": "你能和他们谈谈吗，沃夫？让他们不要轻举妄动？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_03",
+      "value": "bIjeghbe'chugh vaj bIHegh!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_04",
+      "value": "Hoch jagh Heghjaj!!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_05",
+      "value": "我不需要精通克林贡语也能猜到进展不太顺利。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_06",
+      "value": "他们……不愿意谈判。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_post_01",
+      "value": "他们正在撤退，我们暂时安全了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_01",
+      "value": "克林贡人又来了！这次是整个中队！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_02",
+      "value": "哟……联邦养了一只克林贡宠物……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_03",
+      "value": "大胆？！我才不是别人的宠物狗！我是个战士！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_04",
+      "value": "没错！而且现在，你们惹他生气了。他生气的时候可不招人喜欢！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_01",
+      "value": "又来了？！简直没完没了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_02",
+      "value": "卡勒斯信标是一处神圣遗迹，据说由卡勒斯本人创造，用以团结二十四个家族。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_03",
+      "value": "对克林贡人来说，外人只要出现在信标附近就是严重的罪行——罪大恶极。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_04",
+      "value": "但那只是无心之失！他们也承认了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_05",
+      "value": "尽管我的价值观与联邦一致，但本能还是令我为这种侵犯感到怒火中烧。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_06",
+      "value": "道理我都明白，但这样一来，你们应该理解这对克林贡人来说有多严重了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_07",
+      "value": "在你的时代，迈克，我们两族曾因为遗迹而开战。所以克林贡人为了惩罚船员而如此凶猛地战斗，你们还觉得奇怪吗？他们绝对不会放弃。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_01",
+      "value": "我又侦测到几百条生物数据，正在向我们的位置聚拢。我们必须撤退！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_02",
+      "value": "哈，我以为你会争取让我们留下来战斗。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_03",
+      "value": "正如卡勒斯本人说过的那样：“风不会尊重傻瓜。”"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_01",
+      "value": "我们接近了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_02",
+      "value": "我检测到前方出现大量克林贡人的生物信号。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_03",
+      "value": "他们肯定是来挡我们的路，从而保护我探测到的反应器。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_04",
+      "value": "该死！他们并非孤军奋战。其中一个穿着火炬手的仪式盔甲。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_05",
+      "value": "那是保卫卡勒斯信标的克林贡勇士！我曾经……对阵过一个。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_06",
+      "value": "你确定不能从这里破解反应器吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_07",
+      "value": "……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_08",
+      "value": "呃，应该不行。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_01",
+      "value": "我们就在信号源的正上方。我可以将三录仪与我们的反应器结合起来进行破解。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_02",
+      "value": "那是为我们所处的现实提供能源的装置，肯定没有为球体提供能源的反应器大。这是个好消息！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_03",
+      "value": "那么，关于如何重新编程场景从而获得赢面，你们有什么想法吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_04",
+      "value": "我认为我们并不需要“赢”。我们的目标一直是找到传送门。以前的传送门的确是在我们“赢”的情况下出现，但目前看来……我们为什么不能让它直接出现呢？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_05",
+      "value": "你太聪明了，迈克！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_06",
+      "value": "传送门马上到货！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_01",
+      "value": "看那里！前面有受伤的船员！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_02",
+      "value": "我先……留在后方，你们去处理这件事。克林贡人在场可能会让紧张升级……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_03",
+      "value": "我们来帮忙！你们还好吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_04",
+      "value": "我……还好，勉强支撑。你们是谁？我没见过你们的制服。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_05",
+      "value": "我们来自<i>星联月神号</i>。这里发生了什么？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_06",
+      "value": "见到你们很高兴，我们的处境非常危险。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_07",
+      "value": "导航把我们带到了卡勒斯信标附近。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_08",
+      "value": "信标是克林贡帝国的神圣遗迹。你们为什么要靠近那里？想什么呢？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_09",
+      "value": "是我们错了！我们根本不知道那是什么……但他们指控我们入侵，以及企图玷污他们的圣地。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_10",
+      "value": "他们宣称要处死船上的所有人！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_01",
+      "value": "好吧，我们不能袖手旁观。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_02",
+      "value": "我们必须把这些人带去安全的地方。医生，你能帮助他们恢复行动能力吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_03",
+      "value": "试试吧。我帮他们治疗的时候，注意掩护我！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction02_01",
+      "value": "克林贡人正在包围这里！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction02_02",
+      "value": "那就把他们赶回去，然后再处理伤员。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_01",
+      "value": "我锁定了一个类似反应器的读数。虽然不太清晰，但也许是因为这个现实没有真正的球体那么庞大。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_02",
+      "value": "我们来验证你的反应器理论吧！你觉得你能“重新编程”这扇门吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_01",
+      "value": "是的！我可以将三录仪与反应器结合起来使用……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_02",
+      "value": "我正在访问这个“现实”的底层结构。虽然很复杂，但是……给我点时间。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_03",
+      "value": "门消失了！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_04",
+      "value": "棒极了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_05",
+      "value": "不过，我需要离信号源更近一点，才能执行更深度的操作。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction02_01",
+      "value": "我们不应该浪费任何时间，或反应器的潜在能源。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction02_02",
+      "value": "沃夫先生，你是一名优秀的战士，以及忠诚的盟友。但是先生，你非常无趣。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_01",
+      "value": "有趣！我们好像在一艘联邦飞船上。扫描显示多层甲板损坏。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_02",
+      "value": "受到攻击了？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_03",
+      "value": "我收到了几条杂乱的信息。看来克林贡人已经登船，并控制了关键区域。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_04",
+      "value": "根据我的经验，克林贡人不接触星际舰队飞船的时候通常更安全！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_05",
+      "value": "不包括眼前这位同伴。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_06",
+      "value": "哼。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_07",
+      "value": "这就是本次考验的主题。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_08",
+      "value": "吉姆？！等等……你是管理者。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_09",
+      "value": "这项考验反映了你们这位朋友丰沛的价值观。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_10",
+      "value": "鲁莽？将我们卷入愚蠢冒险的爱好？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_11",
+      "value": "狡黠考验即将开始。你们已经展现了对目标的信念，以及排除万难坚定前行的意志。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_12",
+      "value": "但有些障碍是无法强行克服的。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_13",
+      "value": "找到传送门，结束这场试炼。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_14",
+      "value": "他走了，一如既往得乐于助人。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_01",
+      "value": "这是不可能完成的任务。这是根本……这是小林丸！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_02",
+      "value": "那个学院测试？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_03",
+      "value": "没错。你们应该都参加过？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_04",
+      "value": "我参加过。并且和其他学员一样，没有一次及格。发现那是个不可能取胜的局面时，我非常愤怒。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_05",
+      "value": "你要么营救船员，导致与克林贡帝国开战，要么放任他们去死。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_06",
+      "value": "现在情况也一样，这是必输的局面。我的同胞不会让步，我们也无法活过他们持续不断的攻击。但如果我们离开，这些人必死无疑……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_07",
+      "value": "但事实上，在我的时代，柯克舰长通过了小林丸测试。方法很有吉姆的风格——他发挥创意，在考试前偷偷溜进教室，重新编程了计算机。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_08",
+      "value": "所以我们应该学习柯克舰长的经验：作弊。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_09",
+      "value": "怎么作弊？我们没有类似的计算机……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_10",
+      "value": "这个现实很可能与其他球体一样，借助反应器或类似的装置运转。我们找到它，然后更改程序。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_11",
+      "value": "但我们还没成为“工程师”，无法修改时汇的科技！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_12",
+      "value": "我不想再等全息人物的授权了。我们所有人都曾应对过未知的超先进外星科技。这只是基本操作！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_13",
+      "value": "我正在将三录仪与我们已持有的反应器同步。去找到管理者控制小试炼的东西吧。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_01",
+      "value": "你们终于成功了，凭借信念、意志和……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_02",
+      "value": "是的，我们知道：狡黠。早知道你想说什么了，老学究。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_03",
+      "value": "没错，你们绕过了设定的路线，选择接触时汇本身。不过你们以后会发现，更为庞大的构造体并没有那么容易篡改。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_04",
+      "value": "现在，只剩下……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_05",
+      "value": "不！不要再试炼了！我们证明了自己的能力，已经没时间了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_06",
+      "value": "无论你们如何看待准备训练，有志成为工程师的人都必须经过考验。只有彻底完成，你们才能操作现实引擎。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_01",
+      "value": "联邦！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_02",
+      "value": "我们无意冒犯。我们来自星联月神——"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_03",
+      "value": "抓住他们！如果让他们抵达信标，托马拉克和塞拉会剥了我们的皮！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_post_01",
+      "value": "这些罗慕伦人似乎并不愿意接受对话和理论……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_01",
+      "value": "我多么希望能以其他方式解决这个问题。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_02",
+      "value": "她似乎确信联邦正在针对罗慕伦人。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_03",
+      "value": "也许和她的指挥官谈谈可以揭露更多信息。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_04",
+      "value": "他们好像确信我们在监视他们！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_01",
+      "value": "他被制服了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_02",
+      "value": "我不认为考验的目的是打晕他……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_03",
+      "value": "但那人说过，有时必须向反对者展示信念的力量！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_04",
+      "value": "好吧……我没有发现失败的迹象，所以你也许是对的。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_01",
+      "value": "别动。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_02",
+      "value": "我们不是来战斗的。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_03",
+      "value": "你是克林贡人，当然是来战斗的。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_04",
+      "value": "这家伙说得有道理。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_05",
+      "value": "哼。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_01",
+      "value": "我们是来展开对话的。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_02",
+      "value": "呸！你们是来破坏信标的。可惜来不及了，托马拉克已经带着数据离开了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_03",
+      "value": "别动。让我们离开，相安无事。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_04",
+      "value": "我们不会在你们身上浪费宝贵的时间。我们获得的数据会让联邦暴露出奸诈毒蛇的真面目！（传送离开）"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_05",
+      "value": "等等，罗慕伦人说我们是奸诈毒蛇？多新鲜呐。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_01",
+      "value": "我们不想惹事。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_02",
+      "value": "但你们出现就是惹事！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_01",
+      "value": "又是罗慕伦人。以及另一个传感器信标。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_02",
+      "value": "联邦人，真是……不出所料。你们来隐藏背叛的痕迹？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_03",
+      "value": "我不知道你在说什么。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_01",
+      "value": "你这是声称对那些经常在中立地区游荡，并且监视我族人民的联邦星舰一无所知吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_02",
+      "value": "我们有确凿的证据证明你们违反了无数条约。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_03",
+      "value": "让我们看看证据，尝试厘清状况。难道你宁愿发动全面战争，也不愿试试吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_04",
+      "value": "我不否认你说的有点道理。我允许你去见我的指挥官。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_05",
+      "value": "不过，我很怀疑你能否说服他。他以前和你这种人打过交道。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_01",
+      "value": "你把我们当傻子吗？我们有证据表明联邦星舰在中立地区游荡，并且监视我族人民。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_02",
+      "value": "那与联邦的价值观背道而驰。立即放下武器，否则我们只能强行解除你们的武装了！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_01",
+      "value": "看来罗慕伦指挥官就在前方，正准备出发。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_02",
+      "value": "我们必须阻止他离开！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_01",
+      "value": "我们肯定有办法达成某种协议！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_02",
+      "value": "不管你们耍什么花招，我都不会上当。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_03",
+      "value": "我们的传感器信标有证据表明，31区的人已经监视我族长达10年以上。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_04",
+      "value": "作为帝国的忠实仆从，我有责任向最高议会报告这种违规行为！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_05",
+      "value": "尽管我十分不想承认……但你可能是对的。31区从来都不是值得信赖的组织。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_06",
+      "value": "你……你承认了？好吧，我愿意听听，你有什么提议？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_07",
+      "value": "给我们一份数据副本，我们会向星际舰队报告。如果情况属实，他们会展开进一步调查，并通过相应的外交渠道作出答复。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_08",
+      "value": "你知道你们的副本可能会被修改吧。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_09",
+      "value": "你们的也一样。我们请求你相信，我们会处理任何可能违反外交政策的行为。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_10",
+      "value": "那算了。但我不会留在这里继续谈话。数据拿去吧。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_01",
+      "value": "别动，我们不能让你带着联邦情报离开。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_02",
+      "value": "哦？你觉得你们能够阻止我吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_03",
+      "value": "我们的传感器信标有证据表明，31区的人已经监视我族长达10年以上。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_04",
+      "value": "我有责任向最高议会报告这种违规行为！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_05",
+      "value": "你不愿意接受理论，是吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_06",
+      "value": "你们的理论？想得美。你们都是奸诈的人渣。罗慕伦人已经吸取教训，明白联邦不值得信任。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_07",
+      "value": "你们倒是有脸说这话！如果不听理论，那就听听相位枪的意思吧！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_01",
+      "value": "现在，最后的试炼即将开始。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_02",
+      "value": "而你采用了我以前的舰长——让-卢克·皮卡德的形象。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_03",
+      "value": "他似乎非常适合这项考验。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_04",
+      "value": "在创造“时汇”这样的史诗级工程中，除了信念、意志和狡黠之外，工程师还需要另一种特质：团结众多思想的罕见能力。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_05",
+      "value": "虽然团结的主要方式是对话与理论，但为了更长远的利益，有时也需要压制反对者。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_06",
+      "value": "找到传送门，完成你们的试炼。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_01",
+      "value": "看前面！最后一个传送门！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_02",
+      "value": "恭喜你们，<i>月神号</i>的船员。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_03",
+      "value": "你们在一次又一次的试炼中坚持下来，并且展现出非凡的特质，与最初创造我们所身处的这个奇迹的工程师们相同。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_04",
+      "value": "你们有资格继承工程师的衣钵。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_05",
+      "value": "你们看到了吗？我的三录仪显示一条信息流正在向<i>月神号</i>的数据核心倾泻。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_06",
+      "value": "各种图表、原理图……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_07",
+      "value": "你们将利用这些来帮助修复现实引擎。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_08",
+      "value": "但首先，你们必须清除无梦者的存在。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_01",
+      "value": "引擎现在看起来好像更暗了，不是吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_02",
+      "value": "管理者的确说它损毁严重。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_03",
+      "value": "天知道管理者的试炼耗费了多久……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_04",
+      "value": "久到足以让无梦者掌控一切！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle04_01",
+      "value": "你们没有任何机会阻止我们摧毁这台机器。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle04_02",
+      "value": "等着瞧吧！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_01",
+      "value": "我们不能让你们继续前进。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_02",
+      "value": "你们必须让我们过去。数百万生命危在旦夕！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_03",
+      "value": "我们理解你们的顾虑。我们也在努力拯救他们。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_04",
+      "value": "你们妄图掌控他们的命运。假想的道德高地并不代表你们有权利这么做。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_05",
+      "value": "我们正在将秩序归还给我们的同胞和宇宙。万物终结。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_01",
+      "value": "那就是核心！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_02",
+      "value": "所以那位肯定就是无梦者的首领了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_03",
+      "value": "入侵者……时刻企图阻止我们。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_04",
+      "value": "我曾一窥你的过去——走到今天这个地步之前的你。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_05",
+      "value": "你曾是一位学者，一位母亲。所以犯下这种规模的谋杀绝对不是你的本性！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_06",
+      "value": "你们认为我们的所作所为是谋杀？所有生命终有一死，所有！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_01",
+      "value": "够了！你们竟然保护这个地方，真是愚蠢！这是个监狱。这是对宇宙自然规律的羞辱！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_02",
+      "value": "也许吧。时汇可能只是某个古代文明错误且傲慢的造物，旨在困住所有被捕获的对象。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_03",
+      "value": "但所有这些思想和灵魂现在都存在于这里，而你并不是判定他们必须终结的裁决者。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_04",
+      "value": "如此正直又坚定不移。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_05",
+      "value": "你们真的认为时汇的诞生是出于纯粹的仁爱吗？只有妄想者才会这么认为。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_06",
+      "value": "我们今天来到这里的任务已经完成了。我的意识如今存在于流经时汇的网络中，与外界同样关联紧密。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_07",
+      "value": "你们可以稳定这台现实引擎，但它只是沧海一粟，很快就会与其他引擎一同消灭。（她传送离开）"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_08",
+      "value": "我也不想这么说，但是……我们对时汇了解多少？我们真的做对了吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_09",
+      "value": "我只知道，我们不会任由任何人随意终结所有生命。（他们传送回月神号）"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_10",
+      "value": "她已经退出了这个引擎，但与核心融合使她知晓了一个秘密——一个我们本希望能够瞒住无梦者的秘密"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_11",
+      "value": "我们已经授权你们进入他们的下一个目标。请尽快履行工程师的职责，以免失去一切。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_01",
+      "value": "这个控制台可以将平台送往两个出口中的一个。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_02",
+      "value": "所以……我们随机选择路线吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_03",
+      "value": "你之前说柯克舰长的口头禅是什么？“勇往直前”？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_04",
+      "value": "即使如此，我觉得他至少知道要往哪个方向走。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_01",
+      "value": "我们走左边的路吧。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_02",
+      "value": "有什么特别的原因吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_03",
+      "value": "我用左手投球。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_04",
+      "value": "我觉得靠谱！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_01",
+      "value": "到目前为止，我们都很幸运，所以哪边都可以。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_02",
+      "value": "好吧。经历数千年的进化，身为史上最先进飞船之一的船员，我们依旧靠运气来拯救数百万生命。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_03",
+      "value": "那么，我投右侧一票。何乐不为。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_01",
+      "value": "你们就站在引擎核心的入口。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_01",
+      "value": "开始这段旅程时，我们对时汇及其本质几乎一无所知。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_02",
+      "value": "尽管来自不同的文化、背景和时间线，我们还是凝聚起了一支团结的船员队伍！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_03",
+      "value": "此时此刻，你们是我最想并肩战斗的伙伴！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_04",
+      "value": "你让我这个老家伙的眼眶都湿了！我们赶紧进去结束这一切吧！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_01",
+      "value": "伟大的卡勒斯曾经说过：“敌人也许强大到所向披靡。”"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_02",
+      "value": "“但我们必须坚持，因为我宁愿一死，也不想知道我们在关键时刻没有像战士那样挺身而战。”"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_03",
+      "value": "今天，我们将践行这句箴言！我们将携手同心，排除万难！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_04",
+      "value": "说得好，我的朋友！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_05",
+      "value": "沃夫先生，如果你是学院的足球教练，肯定会声名远播！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_01",
+      "value": "虽然我很想尽快搞定这件事，然后回我的医疗舱老巢……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_02",
+      "value": "但毫无防备地闯进去简直就是疯子行径！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_03",
+      "value": "我们至少先扫描一下这个地方，看看情况！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_04",
+      "value": "你永远如此理智，我的朋友！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_05",
+      "value": "准备工作也许会为我们带来急需的优势！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_01",
+      "value": "欢迎你们，工程师。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_02",
+      "value": "哇，我们得到了闪亮的头衔！现在怎么办？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_03",
+      "value": "正如我们所说，无梦者已经突破了现实引擎的大部分防御。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_04",
+      "value": "修复引擎所需的信息已经上传到你们的飞船，可以通过反应器访问。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_05",
+      "value": "将反应器带到引擎的核心处从而稳定引擎，并使系统重新上线。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_06",
+      "value": "那些自称“无梦者”的狂热分子会不惜一切代价阻止你们。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_01",
+      "value": "损毁程度很高，我们没时间了！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_02",
+      "value": "我们预计在5分钟人族时间内就会发生灾难性的崩溃。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_03",
+      "value": "目前，无梦者首领将她的意识与引擎融合的进程就快结束了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_04",
+      "value": "听起来……非常棘手。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_05",
+      "value": "引擎的协议是为了防止未授权访问而设计的，但无梦者长期以来一直在破坏系统，并收集反应器。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_06",
+      "value": "如果他们的首领成功将意识与引擎融合，那么她就能够关闭它。要不了多久，她就能将力量扩散到整个时汇。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_07",
+      "value": "我们肯定有办法阻止这种情况！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_08",
+      "value": "作为工程师，你们可以通过同样的方式将意识融入引擎。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_09",
+      "value": "但这样的壮举需要非凡的意志力。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_10",
+      "value": "迈克，你是我有幸并肩战斗过的最坚强的人之一！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_11",
+      "value": "不仅如此，你还是我见过最优秀的心灵融合大师的养姐。好吧，我只见过一个大师。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_12",
+      "value": "迈克，我相信你。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_13",
+      "value": "我……我试试看。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_14",
+      "value": "有了……有反应了。我能感觉四周的墙壁就像妈妈的手臂一样舒展开来。一切都是金色的。一切都如此巨大。我……毫无头绪。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_15",
+      "value": "我能感觉到其他人的存在。在我面前，比高山更庞然。她如此正直，又如此愤怒。她的孩子们，她的伙伴们——全都不在了。很久以前都死了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_16",
+      "value": "她发现我了！我在想办法躲避她。我觉得她正在转移对引擎的关注……她在追我。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_17",
+      "value": "她把我赶出了系统！我能感觉到她在汲取能量赶走我……那可能会减缓她的速度……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_18",
+      "value": "你们将无法再从此处访问引擎。你们必须前往它的核心。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_01",
+      "value": "我们必须警告你们，进程已经将近完成。你们几乎没有时间了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_02",
+      "value": "不！让我用反应器再次进入引擎试试。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_03",
+      "value": "你确定吗？你上次的体征读数简直爆表。如果再来一次……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_04",
+      "value": "那就请星际舰队最优秀的医生照顾好我，可以吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_05",
+      "value": "好吧，你继续！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_06",
+      "value": "我回来了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_07",
+      "value": "我能感觉到她在我们身边！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_08",
+      "value": "她的悲伤无处不在。她极度孤独。她认识的所有人都早已消逝。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_09",
+      "value": "她……想念每个人。她的存在即是孤独。她已然失去了整个世界！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_10",
+      "value": "她一手打造的巨型图书馆，她小时候游过的红色海洋——全都不在了。她的悲伤令人窒息！我不能……啊啊啊！！！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_11",
+      "value": "医生！带她出来！她快死了！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_12",
+      "value": "我没事。我从来没有像她那样痛苦过。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_13",
+      "value": "她五内俱焚，甚至烧穿了她所处的球体现实。那里再也无法容纳她的思想和灵魂。这就是所有……无梦者的起源。现在，他们都来了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_14",
+      "value": "难怪他们如此看待时汇。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_15",
+      "value": "但我们不能让他们决定其他人的命运，不能继续破坏行为。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_16",
+      "value": "她这次发现你了吗？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_17",
+      "value": "你们朋友的行为已经让进程延缓了78.9分钟地球时间。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_18",
+      "value": "我们还有时间！"
+    },
+    {
       "key": "Data_GSCutSceneDialogue_opening_cutscene_01",
       "value": "时汇再度出现。"
     },
@@ -11371,6 +13223,10 @@
       "value": "机械幽灵"
     },
     {
+      "key": "Data_GSEpisodes_displayName_Episode7",
+      "value": "施舍、仁慈与自制"
+    },
+    {
       "key": "Data_GSMissionObjective_e1_m1_encounter03",
       "value": "击败可汗"
     },
@@ -11527,6 +13383,30 @@
       "value": "大胆前往人迹未至的领域。"
     },
     {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission1",
+      "value": "巨大的现实引擎围绕着一颗被捕获的恒星而建，<i>星联月神号</i>正在其外漂浮。"
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission2",
+      "value": "为了赢得管理者的帮助，外遣队必须完成四项考验，其中第一项是信念考验。"
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission3",
+      "value": "在第二项意志考验中，外遣队再次与博格人对战。"
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission4",
+      "value": "然而信念和意志并非所向无敌，外遣队继续挑战狡黠考验。"
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission5",
+      "value": "最后的考验是理论，以证明有些冲突可以通过对话和智慧来解决。"
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission6",
+      "value": "赢得工程师的衣钵后，外遣队必须阻止无梦者，修复现实引擎。"
+    },
+    {
       "key": "Data_GSMissions_displayName_Episode1_Mission1",
       "value": "勇往直前"
     },
@@ -11671,12 +13551,44 @@
       "value": "雷声大，雨点小"
     },
     {
+      "key": "Data_GSMissions_displayName_Episode7_Mission1",
+      "value": "半傻天堂"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission2",
+      "value": "诡异之地"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission3",
+      "value": "悠长小路"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission4",
+      "value": "美酒玫瑰"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission5",
+      "value": "星冕孤寂"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission6",
+      "value": "最后一言"
+    },
+    {
       "key": "Data_GSNodeEncounter_BattleDesc_Borg",
       "value": "探测到敌对博格人生命迹象。准备战斗。"
     },
     {
       "key": "Data_GSNodeEncounter_BattleDesc_Cardassian",
       "value": "探测到敌对卡达西人的生命迹象。准备战斗。"
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_CardassianShapeshifters",
+      "value": "探测到敌对卡达西人和变形人的生命迹象。准备战斗。"
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+      "value": "探测到敌对无梦者的生命迹象。准备战斗。"
     },
     {
       "key": "Data_GSNodeEncounter_BattleDesc_e1_m1_battle01",
@@ -12911,8 +14823,16 @@
       "value": "探测到敌对罗慕伦人与戈恩人生命迹象。准备战斗。"
     },
     {
+      "key": "Data_GSNodeEncounter_BattleDesc_Shapeshifters",
+      "value": "探测到敌对变形人的生命迹象。准备战斗。"
+    },
+    {
       "key": "Data_GSNodeEncounter_BattleDesc_Unknown",
       "value": "探测到未知敌人。准备战斗。"
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_UnknownLife",
+      "value": "探测到不明敌对生命迹象。准备战斗。"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_AbandonedShuttle",
@@ -12975,6 +14895,10 @@
       "value": "博格壁龛"
     },
     {
+      "key": "Data_GSNodeExploration_clickableObject_BorgCube",
+      "value": "博格方块"
+    },
+    {
       "key": "Data_GSNodeExploration_clickableObject_BorgDevice",
       "value": "博格装置"
     },
@@ -12989,6 +14913,10 @@
     {
       "key": "Data_GSNodeExploration_clickableObject_BorgDrones",
       "value": "博格雄蜂"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_BorgSensors",
+      "value": "博格传感器"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_BorgSphere",
@@ -13343,6 +15271,14 @@
       "value": "罗慕伦中继"
     },
     {
+      "key": "Data_GSNodeExploration_clickableObject_Romulans",
+      "value": "罗慕伦人"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_Runabout",
+      "value": "小车"
+    },
+    {
       "key": "Data_GSNodeExploration_clickableObject_Sabotage",
       "value": "破坏"
     },
@@ -13453,6 +15389,10 @@
     {
       "key": "Data_GSNodeExploration_clickableObject_WorkerBee",
       "value": "工蜂"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_Wounded",
+      "value": "伤员"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_Wreckage",
@@ -14263,6 +16203,134 @@
       "value": "为避免被发现，外遣队踏上右侧道路。外遣队发现一条<b>替代路线<b>。"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option01",
+      "value": "外遣队使用反应器，成功关闭阻挡他们前进的力场。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option02",
+      "value": "外遣队继续探索设施。外遣队发现一条<b>替代路线<b>。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option01",
+      "value": "外遣队使用反应器打开上锁的门，并发现了一些物资。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option02",
+      "value": "外遣队继续前进，选择谨慎行事而非满足好奇心。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option01",
+      "value": "外遣队成功跳上平台，并发现了一些物资。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option02",
+      "value": "外遣队无视平台继续前进，不愿承担受伤的风险。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option01",
+      "value": "扫描小车的损伤程度时，变形人假扮联邦对外遣队发起攻击。外遣队获得<b>科技加成<b>。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option02",
+      "value": "变形人发动伏击，让外遣队措手不及。外遣队受到<b>速度削弱</b>。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option03",
+      "value": "搜寻小车时，外遣队发现了一些物资，然后遭到变形人的攻击。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option01",
+      "value": "废弃物资又是一次变形人的伏击。准备战斗。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option02",
+      "value": "为避免潜在的陷阱，外遣队继续前进。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option01",
+      "value": "外遣队破解博格传感器后，发现了一条新的前进道路，并希望没有人发现他们潜入。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option02",
+      "value": "外遣队选择继续探索博格方块，以免引起注意。外遣队发现一条<b>替代路线<b>。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option01",
+      "value": "使博格壁龛里的能源过载，成功关闭壁龛与正在充能的雄峰。外遣队获得<b>防御加成<b>。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option02",
+      "value": "外遣队选择避免与博格壁龛互动。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option01",
+      "value": "外遣队搜索博格零件与材料，并发现了一些物资。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option02",
+      "value": "外遣队无视了博格科技零件，选择继续前进。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option01",
+      "value": "外遣队运用医疗援助帮助移动伤员。星际舰队的医疗人员提供了一些额外的物资作为感谢。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option02",
+      "value": "为保护受伤人员，外遣队向靠近的克林贡人发起进攻。外遣队获得<b>攻击加成<b>。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option01",
+      "value": "时间所剩不多，外遣队继续前进。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option02",
+      "value": "外遣队利用反应器改变“现实”，并发现了一些物资。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option01",
+      "value": "虽然称不上和平解决，但外遣队成功避免了战斗。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option02",
+      "value": "很不幸，罗慕伦人的敌意引发了战斗。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option01",
+      "value": "虽然并不完全信任外遣队，但塞拉允许他们继续进行，同时避免了战斗。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option02",
+      "value": "塞拉与罗慕伦人不愿意相信联邦，并发起了攻击。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option01",
+      "value": "外遣队成功交涉并避免了战斗。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option02",
+      "value": "由于交涉失败，外遣队准备战斗。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option01",
+      "value": "外遣队选择走左侧道路。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option02",
+      "value": "外遣队选择走右侧道路。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option01",
+      "value": "外遣队决心阻止无梦者，准备参与战斗。外遣队获得<b>士气加成<b>。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option02",
+      "value": "外遣队准备与无梦者交战，从而挽救现实引擎。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option03",
+      "value": "扫描无梦者使外遣队在即将到来的战斗中占据优势。外遣队获得<b>科技加成<b>。"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_AdvancedForward",
       "value": "外遣队向前推进"
     },
@@ -14327,6 +16395,10 @@
       "value": "已破解计算机"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
+      "value": "继续前进"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_CoreDisabled",
       "value": "已关停曲速核心"
     },
@@ -14341,6 +16413,10 @@
     {
       "key": "Data_GSNodeExploration_ResultsHeader_Diplomacy",
       "value": "交涉成功"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsHeader_DoorOpened",
+      "value": "已打开门"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_DoorsOpened",
@@ -14431,6 +16507,10 @@
       "value": "已发现通道"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_PersonnelHealed",
+      "value": "已治疗人员"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_PulledBack",
       "value": "已撤退"
     },
@@ -14467,6 +16547,10 @@
       "value": "扫描成功"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_SensorsAccessed",
+      "value": "已破解传感器"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_ShieldBonus",
       "value": "护盾加成"
     },
@@ -14481,6 +16565,10 @@
     {
       "key": "Data_GSNodeExploration_ResultsHeader_SpeedBonus",
       "value": "速度加成"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsHeader_SpeedDown",
+      "value": "速度降低"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
@@ -15057,6 +17145,30 @@
     {
       "key": "Data_MissionObjective_e6_m6_Name",
       "value": "修复时汇"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m1_Name",
+      "value": "阻止无梦者"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m2_Name",
+      "value": "信念考验"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m3_Name",
+      "value": "意志考验"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m4_Name",
+      "value": "狡黠考验"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m5_Name",
+      "value": "理论考验"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m7_Name",
+      "value": "阻止无梦者"
     },
     {
       "key": "Data_Notification_DailyRewardOneOff_Body",
@@ -18899,6 +21011,10 @@
       "value": "待命"
     },
     {
+      "key": "Data_Skill_Chang_Bridge_description",
+      "value": "克林贡人获得<color=#01e2ff>+5%</color>攻击。"
+    },
+    {
       "key": "Data_Skill_Chekov_Attack_description_level1",
       "value": "造成<color=#01e2ff>100%伤害</color>"
     },
@@ -18909,6 +21025,10 @@
     {
       "key": "Data_Skill_Chekov_Attack_displayName",
       "value": "相位枪"
+    },
+    {
+      "key": "Data_Skill_Chekov_Bridge_description",
+      "value": "星际舰队获得<color=#01e2ff>+5%</color>攻击。"
     },
     {
       "key": "Data_Skill_Crusher_Attack_description_level1",
@@ -19156,7 +21276,7 @@
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_description_level1",
-      "value": "造成<color=#01e2ff>150%科技伤害</color>。"
+      "value": "造成<color=#01e2ff>100%科技伤害</color>。"
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_displayName",
@@ -19256,7 +21376,7 @@
     },
     {
       "key": "Data_Skill_Elnor_Bridge_description",
-      "value": "获得<color=#01e2ff>+5%</color>防御。"
+      "value": "获得<color=#01e2ff>+3%</color>防御。"
     },
     {
       "key": "Data_Skill_Elnor_Bridge_displayName",
@@ -19305,6 +21425,10 @@
     {
       "key": "Data_Skill_Garak_Attack_description_level2",
       "value": "造成<color=#01e2ff>150%伤害</color>。"
+    },
+    {
+      "key": "Data_Skill_Garak_Bridge_description",
+      "value": "获得<color=#01e2ff>+5%</color>暴击几率。"
     },
     {
       "key": "Data_Skill_GenBorgEng01M_Attack_description_level1",
@@ -20967,6 +23091,18 @@
       "value": "皮卡德战术"
     },
     {
+      "key": "Data_Skill_PicardDixon_Attack_description_level1",
+      "value": "造成<color=#01e2ff>100%伤害</color>"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Attack_description_level2",
+      "value": "造成<color=#01e2ff>150%伤害</color>。"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Bridge_description",
+      "value": "星际舰队获得<color=#01e2ff>+5%</color>攻击。"
+    },
+    {
       "key": "Data_Skill_PicardOld_Attack_description_level1",
       "value": "造成<color=#01e2ff>2x50%伤害</color>。"
     },
@@ -21347,6 +23483,18 @@
       "value": "突然袭击"
     },
     {
+      "key": "Data_Skill_Shinzon_Attack_description_level1",
+      "value": "造成<color=#01e2ff>100%伤害</color>（有<color=#01e2ff>25%几率</color>造成<color=#01e2ff>创伤</color>）。"
+    },
+    {
+      "key": "Data_Skill_Shinzon_Attack_description_level2",
+      "value": "造成<color=#01e2ff>125%伤害</color>（有<color=#01e2ff>50%几率</color>导致<color=#01e2ff>创伤</color>）。"
+    },
+    {
+      "key": "Data_Skill_Shinzon_Bridge_description",
+      "value": "罗慕伦人获得<color=#01e2ff>+5%</color>攻击。"
+    },
+    {
       "key": "Data_Skill_Sisko_Attack_description_level1",
       "value": "造成<color=#01e2ff>3x35%伤害</color>。（如果敌人是<color=#01e2ff>卡达西人</color>，则有<color=#01e2ff>25%几率</color>导致<color=#01e2ff>防御降低</color>，持续1回合）。"
     },
@@ -21528,7 +23676,7 @@
     },
     {
       "key": "Data_Skill_Stamets_Bridge_description",
-      "value": "星际舰队获得<color=#01e2ff>+10%</color>科技。"
+      "value": "星际舰队获得<color=#01e2ff>+5%</color>科技。"
     },
     {
       "key": "Data_Skill_Stamets_Bridge_displayName",
@@ -21672,7 +23820,7 @@
     },
     {
       "key": "Data_Skill_Tilly_Bridge_description",
-      "value": "工程获得<color=#01e2ff>+10%</color>防御。"
+      "value": "星际舰队获得<color=#01e2ff>+5%</color>防御。"
     },
     {
       "key": "Data_Skill_Tilly_Bridge_displayName",
@@ -21736,11 +23884,11 @@
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_description_level1",
-      "value": "使所有盟友<color=#01e2ff>隐形</color>，持续3回合。"
+      "value": "使所有盟友<color=#01e2ff>隐形</color>，持续3回合（如果盟友是<color=#01e2ff>罗慕伦人</color>，则<color=#01e2ff>+1士气</color>）。"
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_description_level2",
-      "value": "使所有盟友获得<color=#01e2ff>隐形</color>和<color=#01e2ff>净化</color>，持续3回合。"
+      "value": "使所有盟友获得<color=#01e2ff>隐形</color>和<color=#01e2ff>净化</color>，持续3回合（如果盟友是<color=#01e2ff>罗慕伦人</color>，则<color=#01e2ff>+2士气</color>）。"
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_displayName",
@@ -21748,11 +23896,11 @@
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_description_level1",
-      "value": "使1名敌人<color=#01e2ff>-1士气</color>，并且<color=#01e2ff>防御降低</color>，持续3回合。<color=#01e2ff>下个回合：</color>造成<color=#01e2ff>200%伤害</color>（如果敌人的<color=#01e2ff>士气</color><0，则造成<color=#01e2ff>300%伤害</color>）"
+      "value": "对1名敌人造成<color=#01e2ff>200%科技伤害</color>并令所有敌人<color=#01e2ff>-1士气</color>。"
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_description_level2",
-      "value": "使1名敌人<color=#01e2ff>-2士气</color>，并且<color=#01e2ff>防御大幅降低</color>，持续3回合。<color=#01e2ff>下个回合：</color>造成<color=#01e2ff>300%伤害</color>（如果敌人的<color=#01e2ff>士气</color><0，则造成<color=#01e2ff>450%伤害</color>）"
+      "value": "对1名敌人造成<color=#01e2ff>300%科技伤害</color>并令所有敌人<color=#01e2ff>-2士气</color>。"
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_displayName",
@@ -21772,7 +23920,7 @@
     },
     {
       "key": "Data_Skill_Torchbearer_Bridge_description",
-      "value": "克林贡人获得<color=#01e2ff>+10%</color>意志。"
+      "value": "克林贡人获得<color=#01e2ff>+5%</color>意志。"
     },
     {
       "key": "Data_Skill_Torchbearer_Bridge_displayName",
@@ -21891,8 +24039,20 @@
       "value": "纪律"
     },
     {
+      "key": "Data_Skill_Troi_Attack_description_level1",
+      "value": "造成<color=#01e2ff>100%伤害</color>"
+    },
+    {
+      "key": "Data_Skill_Troi_Attack_description_level2",
+      "value": "造成<color=#01e2ff>150%伤害</color>。"
+    },
+    {
       "key": "Data_Skill_Troi_Attack_displayName",
       "value": "相位枪"
+    },
+    {
+      "key": "Data_Skill_Troi_Bridge_description",
+      "value": "星际舰队获得<color=#01e2ff>+5%</color>意志。"
     },
     {
       "key": "Data_Skill_Tuvok_Attack_displayName",
@@ -25079,6 +27239,26 @@
       "value": "已发现物资箱"
     },
     {
+      "key": "News_Crew_Generic_Headline",
+      "value": "新船员"
+    },
+    {
+      "key": "News_Episode_Generic_Headline",
+      "value": "新章节"
+    },
+    {
+      "key": "News_FactionEvent_Generic_Headline",
+      "value": "新阵营活动"
+    },
+    {
+      "key": "News_SoloEvent_Generic_Headline",
+      "value": "新单人活动"
+    },
+    {
+      "key": "News_Update_Generic_Headline",
+      "value": "新更新"
+    },
+    {
       "key": "No Items Summoned",
       "value": "未召唤物品"
     },
@@ -25652,43 +27832,43 @@
     },
     {
       "key": "shop_Gear_Command_Padd_Common",
-      "value": "传奇PADD：指挥"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Epic",
-      "value": "罕见PADD：指挥"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Legendary",
-      "value": "史诗PADD：指挥"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Rare",
       "value": "普通PADD：指挥"
     },
     {
-      "key": "shop_Gear_Command_Padd_VeryRare",
+      "key": "shop_Gear_Command_Padd_Epic",
+      "value": "史诗PADD：指挥"
+    },
+    {
+      "key": "shop_Gear_Command_Padd_Legendary",
+      "value": "传奇PADD：指挥"
+    },
+    {
+      "key": "shop_Gear_Command_Padd_Rare",
       "value": "稀有PADD：指挥"
     },
     {
+      "key": "shop_Gear_Command_Padd_VeryRare",
+      "value": "罕见PADD：指挥"
+    },
+    {
       "key": "shop_Gear_Command_Phaser_Common",
-      "value": "传奇II型相位枪：指挥"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Epic",
-      "value": "罕见II型相位枪：指挥"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Legendary",
-      "value": "史诗II型相位枪：指挥"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Rare",
       "value": "普通II型相位枪：指挥"
     },
     {
-      "key": "shop_Gear_Command_Phaser_VeryRare",
+      "key": "shop_Gear_Command_Phaser_Epic",
+      "value": "史诗II型相位枪：指挥"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_Legendary",
+      "value": "传奇II型相位枪：指挥"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_Rare",
       "value": "稀有II型相位枪：指挥"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_VeryRare",
+      "value": "罕见II型相位枪：指挥"
     },
     {
       "key": "shop_Gear_Command_Tricorder_Common",
@@ -25732,43 +27912,43 @@
     },
     {
       "key": "shop_Gear_Engineer_Padd_Common",
-      "value": "传奇PADD：工程"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Epic",
-      "value": "罕见PADD：工程"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Legendary",
-      "value": "史诗PADD：工程"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Rare",
       "value": "普通PADD：工程"
     },
     {
-      "key": "shop_Gear_Engineer_Padd_VeryRare",
+      "key": "shop_Gear_Engineer_Padd_Epic",
+      "value": "史诗PADD：工程"
+    },
+    {
+      "key": "shop_Gear_Engineer_Padd_Legendary",
+      "value": "传奇PADD：工程"
+    },
+    {
+      "key": "shop_Gear_Engineer_Padd_Rare",
       "value": "稀有PADD：工程"
     },
     {
+      "key": "shop_Gear_Engineer_Padd_VeryRare",
+      "value": "罕见PADD：工程"
+    },
+    {
       "key": "shop_Gear_Engineer_Phaser_Common",
-      "value": "传奇II型相位枪：工程"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Epic",
-      "value": "罕见II型相位枪：工程"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Legendary",
-      "value": "史诗II型相位枪：工程"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Rare",
       "value": "普通II型相位枪：工程"
     },
     {
-      "key": "shop_Gear_Engineer_Phaser_VeryRare",
+      "key": "shop_Gear_Engineer_Phaser_Epic",
+      "value": "史诗II型相位枪：工程"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_Legendary",
+      "value": "传奇II型相位枪：工程"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_Rare",
       "value": "稀有II型相位枪：工程"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_VeryRare",
+      "value": "罕见II型相位枪：工程"
     },
     {
       "key": "shop_Gear_Engineer_Tricorder_Common",
@@ -25812,43 +27992,43 @@
     },
     {
       "key": "shop_Gear_Medic_Padd_Common",
-      "value": "传奇PADD：医疗"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Epic",
-      "value": "罕见PADD：医疗"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Legendary",
-      "value": "史诗PADD：医疗"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Rare",
       "value": "普通PADD：医疗"
     },
     {
-      "key": "shop_Gear_Medic_Padd_VeryRare",
+      "key": "shop_Gear_Medic_Padd_Epic",
+      "value": "史诗PADD：医疗"
+    },
+    {
+      "key": "shop_Gear_Medic_Padd_Legendary",
+      "value": "传奇PADD：医疗"
+    },
+    {
+      "key": "shop_Gear_Medic_Padd_Rare",
       "value": "稀有PADD：医疗"
     },
     {
+      "key": "shop_Gear_Medic_Padd_VeryRare",
+      "value": "罕见PADD：医疗"
+    },
+    {
       "key": "shop_Gear_Medic_Phaser_Common",
-      "value": "传奇II型相位枪：医疗"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Epic",
-      "value": "罕见II型相位枪：医疗"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Legendary",
-      "value": "史诗II型相位枪：医疗"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Rare",
       "value": "普通II型相位枪：医疗"
     },
     {
-      "key": "shop_Gear_Medic_Phaser_VeryRare",
+      "key": "shop_Gear_Medic_Phaser_Epic",
+      "value": "史诗II型相位枪：医疗"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_Legendary",
+      "value": "传奇II型相位枪：医疗"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_Rare",
       "value": "稀有II型相位枪：医疗"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_VeryRare",
+      "value": "罕见II型相位枪：医疗"
     },
     {
       "key": "shop_Gear_Medic_Tricorder_Common",
@@ -25892,43 +28072,43 @@
     },
     {
       "key": "shop_Gear_Science_Padd_Common",
-      "value": "传奇PADD：科学"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Epic",
-      "value": "罕见PADD：科学"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Legendary",
-      "value": "史诗PADD：科学"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Rare",
       "value": "普通PADD：科学"
     },
     {
-      "key": "shop_Gear_Science_Padd_VeryRare",
+      "key": "shop_Gear_Science_Padd_Epic",
+      "value": "史诗PADD：科学"
+    },
+    {
+      "key": "shop_Gear_Science_Padd_Legendary",
+      "value": "传奇PADD：科学"
+    },
+    {
+      "key": "shop_Gear_Science_Padd_Rare",
       "value": "稀有PADD：科学"
     },
     {
+      "key": "shop_Gear_Science_Padd_VeryRare",
+      "value": "罕见PADD：科学"
+    },
+    {
       "key": "shop_Gear_Science_Phaser_Common",
-      "value": "传奇II型相位枪：科学"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Epic",
-      "value": "罕见II型相位枪：科学"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Legendary",
-      "value": "史诗II型相位枪：科学"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Rare",
       "value": "普通II型相位枪：科学"
     },
     {
-      "key": "shop_Gear_Science_Phaser_VeryRare",
+      "key": "shop_Gear_Science_Phaser_Epic",
+      "value": "史诗II型相位枪：科学"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_Legendary",
+      "value": "传奇II型相位枪：科学"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_Rare",
       "value": "稀有II型相位枪：科学"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_VeryRare",
+      "value": "罕见II型相位枪：科学"
     },
     {
       "key": "shop_Gear_Science_Tricorder_Common",
@@ -27139,6 +29319,10 @@
       "value": "点击以继续"
     },
     {
+      "key": "UI_CaptainLog_Panel_FooterNote_TapToContinue_Click",
+      "value": "点击以继续"
+    },
+    {
       "key": "UI_CaptainLog_Panel_FooterNote_TapToContinue_Gamepad",
       "value": "按下{0}以继续"
     },
@@ -27204,6 +29388,10 @@
     },
     {
       "key": "UI_Common_Advance",
+      "value": "点击以前进"
+    },
+    {
+      "key": "UI_Common_Advance_Click",
       "value": "点击以前进"
     },
     {
@@ -27311,6 +29499,10 @@
       "value": "第6章"
     },
     {
+      "key": "UI_Common_Missions_EpisodeIdentifier_07",
+      "value": "第7章"
+    },
+    {
       "key": "UI_Common_New",
       "value": "新"
     },
@@ -27359,6 +29551,10 @@
       "value": "点击以返回"
     },
     {
+      "key": "UI_Common_Return_Click",
+      "value": "点击以返回"
+    },
+    {
       "key": "UI_Common_Return_Gamepad",
       "value": "按下{0}以返回"
     },
@@ -27379,11 +29575,19 @@
       "value": "点击以开始"
     },
     {
+      "key": "UI_Common_Start_Click",
+      "value": "点击以开始"
+    },
+    {
       "key": "UI_Common_Start_Gamepad",
       "value": "按下{0}以开始"
     },
     {
       "key": "UI_Common_TapToClose",
+      "value": "点击以关闭"
+    },
+    {
+      "key": "UI_Common_TapToClose_Click",
       "value": "点击以关闭"
     },
     {
@@ -27607,6 +29811,30 @@
       "value": "其中一个用他们古老的语言说道：“走吧，我们必须跟随他们进入现实引擎。”"
     },
     {
+      "key": "UI_Cutscene_Episode7_Text1",
+      "value": "无梦者从现实引擎被赶了回来，他们对其的计划泡汤了。"
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text2",
+      "value": "但他们的领袖从引擎的主机了解到了一个秘密 – 一个会对时汇造成灾难的秘密。"
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text3",
+      "value": "管理者揭示了一张地图，追踪着无梦者奔往某个未知地点的行迹。"
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text4",
+      "value": "即使无梦者在地图各处作出了破坏性的行动，他们的下一个目标依然清晰。"
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text5",
+      "value": "那是一个巨大无比的缺陷；它掩盖了其后的众多较小缺陷。"
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text6",
+      "value": "它所带来的恐怖只会令你的决心更加强大，因为你是引导月神号前进之人。"
+    },
+    {
       "key": "UI_DailyChest_Claim",
       "value": "收集 复制器"
     },
@@ -27685,6 +29913,14 @@
     {
       "key": "UI_EncounterPreview_Title",
       "value": "战斗警报！"
+    },
+    {
+      "key": "UI_Episode_MissionNotAvailable_Body",
+      "value": "你必须在上一个难度下完成这一任务，才能解锁此任务。"
+    },
+    {
+      "key": "UI_Episode_MissionNotAvailable_Title",
+      "value": "任务锁定"
     },
     {
       "key": "UI_Error_ChangeName",
@@ -28053,6 +30289,10 @@
     {
       "key": "UI_Generic_TodaysGoals",
       "value": "今日目标完成！"
+    },
+    {
+      "key": "UI_Glossary_Header",
+      "value": "词汇表"
     },
     {
       "key": "UI_GoTo_Achievements",
@@ -28703,6 +30943,10 @@
       "value": "玩家等级达到{0}时解锁。"
     },
     {
+      "key": "UI_Menu_TooltipLocked_News_Title",
+      "value": "新闻（锁定）"
+    },
+    {
       "key": "UI_Menu_TooltipLocked_Operations_Title",
       "value": "行动（锁定）"
     },
@@ -28813,6 +31057,10 @@
     {
       "key": "UI_Mission_Popup_Replay",
       "value": "重玩"
+    },
+    {
+      "key": "UI_Mission_PopupNotAvailableSecondary_Message",
+      "value": "你必须在上一个难度下完成这一章节，才能解锁此章节。"
     },
     {
       "key": "ui_mission_result_completion_percent",
@@ -28943,6 +31191,14 @@
       "value": "如需编辑通知设置，请转至游戏内系统设置菜单。"
     },
     {
+      "key": "UI_OnlineMode_Body",
+      "value": "切换为在线模式"
+    },
+    {
+      "key": "UI_OnlineMode_Title",
+      "value": "在线模式"
+    },
+    {
       "key": "UI_Operations_EventPointTotal",
       "value": "总分：{0}"
     },
@@ -28967,6 +31223,22 @@
       "value": "语言"
     },
     {
+      "key": "UI_Options_LocalKey_High",
+      "value": "高"
+    },
+    {
+      "key": "UI_Options_LocalKey_Low",
+      "value": "低"
+    },
+    {
+      "key": "UI_Options_LocalKey_Medium",
+      "value": "中"
+    },
+    {
+      "key": "UI_Options_LocalKey_VeryLow",
+      "value": "极低"
+    },
+    {
       "key": "UI_Options_Music_Off",
       "value": "音乐关闭"
     },
@@ -28977,6 +31249,10 @@
     {
       "key": "UI_Options_PlayerId",
       "value": "玩家ID"
+    },
+    {
+      "key": "UI_Options_QualitySettings",
+      "value": "画质设置"
     },
     {
       "key": "UI_Options_ResetPlayerProgressButton",
@@ -29237,6 +31513,14 @@
     {
       "key": "UI_Popup_FleeBattleConfirmation_Challenges",
       "value": "你确定要逃离这场战斗吗？撤退将导致你的行动尝试失败。"
+    },
+    {
+      "key": "UI_Popup_iCloudSaveConflict_Body",
+      "value": "本地和 iCloud 进度之间存在冲突。要继续使用当前进度并覆盖 iCloud 进度，还是重新启动游戏以加载 iCloud 进度？"
+    },
+    {
+      "key": "UI_Popup_iCloudSaveConflict_Title",
+      "value": "iCLOUD 存档冲突"
     },
     {
       "key": "UI_Popup_InvalidState_Body",
@@ -30055,6 +32339,10 @@
       "value": "点击以添加到你的外遣队中。"
     },
     {
+      "key": "UI_Tutorial_ToolTip_Add4thMemberGeneric_Click",
+      "value": "点击以添加到你的外遣队中。"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_Add4thMemberGeneric_Gamepad",
       "value": "按下{0}以添加到你的外遣队中。"
     },
@@ -30064,6 +32352,10 @@
     },
     {
       "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton",
+      "value": "点击以进入战斗"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton_Click",
       "value": "点击以进入战斗"
     },
     {
@@ -30087,6 +32379,10 @@
       "value": "点击以前进"
     },
     {
+      "key": "UI_Tutorial_ToolTip_ContinueButton_Click",
+      "value": "点击以前进"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_ContinueButton_Gamepad",
       "value": "按下{0}以前进"
     },
@@ -30095,11 +32391,19 @@
       "value": "点击以查看下一条 <color=#fff15c>星际舰队指令</color>"
     },
     {
+      "key": "UI_Tutorial_ToolTip_Directives_Click",
+      "value": "点击以查看下一条 <color=#fff15c>星际舰队指令</color>"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_Directives_Gamepad",
       "value": "按下{0}以查看下一条 <color=#fff15c>星际舰队指令</color>"
     },
     {
       "key": "UI_Tutorial_ToolTip_Disable",
+      "value": "点击以使用沃夫的 战吼"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_Disable_Click",
       "value": "点击以使用沃夫的 战吼"
     },
     {
@@ -30163,6 +32467,10 @@
       "value": "点击以更换舰桥船员"
     },
     {
+      "key": "UI_Tutorial_ToolTip_TapCrewButton_Click",
+      "value": "点击以更换舰桥船员"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_TapCrewButton_Gamepad",
       "value": "按下{0}以更换舰桥船员"
     },
@@ -30195,6 +32503,10 @@
       "value": "点击以进入下一个任务"
     },
     {
+      "key": "UI_Tutorial_ToolTip_TapMissionFrame_Click",
+      "value": "点击以进入下一个任务"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_TapMissionFrame_Gamepad",
       "value": "按下{0}以进入下一个任务"
     },
@@ -30208,6 +32520,10 @@
     },
     {
       "key": "UI_Tutorial_ToolTip_TapToAttack",
+      "value": "点击以发动攻击！"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_TapToAttack_Click",
       "value": "点击以发动攻击！"
     },
     {
@@ -30243,5 +32559,5 @@
       "value": "士气连击"
     }
   ],
-  "_PathID": "1459"
+  "_PathID": "1460"
 }

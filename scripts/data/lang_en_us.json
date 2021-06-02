@@ -5,111 +5,11 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": "-1649100671315775696"
+    "m_FileID": 1,
+    "m_PathID": "1301"
   },
   "m_Name": "lang_en_us",
   "List": [
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
     {
       "key": "",
       "value": ""
@@ -13028,7 +12928,7 @@
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m1_story01_01",
-      "value": "This place brings to mind Klingon tales I heard as a youth. The halls of Sto-Ko-Vor, where warriors battle for all eternity."
+      "value": "This place brings to mind Klingon tales I heard as a youth. The halls of Sto-vo-kor, where warriors battle for all eternity."
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m1_story01_02",
@@ -19543,6 +19443,54 @@
       "value": "Tis but... actually this really hurts!"
     },
     {
+      "key": "Data_Quip_text_Garak_BattleCry_01",
+      "value": "Oh now you've gone and done it."
+    },
+    {
+      "key": "Data_Quip_text_Garak_BattleCry_02",
+      "value": "I wasn't always a humble tailor."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Demoralized_01",
+      "value": "We're in real trouble now!"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Idle_01",
+      "value": "Now some might find this a waste of time but me? I like the quiet life."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Inspired_01",
+      "value": "If only we'd had leaders like you back on Cardassia Prime"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Insult_01",
+      "value": "I've killed people like you before.  They always died badly."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reaction_Respond_01",
+      "value": "Surprisingly effective!"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reaction_Retort_01",
+      "value": "Well aren't you a loud one."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reinforce_01",
+      "value": "What can I do to help?"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Special_TeamAssist_01",
+      "value": "You rang?"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Thank_01",
+      "value": "I owe you one."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Wounded_01",
+      "value": "Ow, okay. That hurt."
+    },
+    {
       "key": "Data_Quip_text_GenBorgEng01M_BattleCry_01",
       "value": "We calculate a 98.7% chance of combat success."
     },
@@ -21559,6 +21507,54 @@
       "value": "That's not going to stop us!"
     },
     {
+      "key": "Data_Quip_text_PicardDixon_BattleCry_01",
+      "value": "Wise guys, eh?"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_BattleCry_02",
+      "value": "I always say we can play these things hard or easy. Looks like you clowns want to play it hard."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Demoralized_01",
+      "value": "This... this isn't right.  This holodeck simulation shouldn't be reacting like this!"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Idle_01",
+      "value": "Times like this a man could do with a drink.  Earl grey t... ah, bourbon. Neat."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Inspired_01",
+      "value": "You got a real way with words, don't you?"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Insult_01",
+      "value": "Shut your yap, or I'll shut it for you!"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reaction_Respond_01",
+      "value": "Say, you're a real stand up individual!"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reaction_Retort_01",
+      "value": "Computer... Can we adjust the violence setting? I'm here to relax not fight."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reinforce_01",
+      "value": "Someone rang? Dixon Hill P.I. at your service."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Special_TeamAssist_01",
+      "value": "Bullies, eh? I hate bullies."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Thank_01",
+      "value": "Y'know... you're aright, kid."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Wounded_01",
+      "value": "My grandma hits harder!"
+    },
+    {
       "key": "Data_Quip_text_PicardOld_BattleCry_01",
       "value": "You'd think we'd have evolved past this nonsense by now!"
     },
@@ -22520,7 +22516,7 @@
     },
     {
       "key": "Data_Quip_text_Tuvok_BattleCry_02",
-      "value": ""
+      "value": "This will be over quickly."
     },
     {
       "key": "Data_Quip_text_Tuvok_Demoralized_01",
@@ -22888,7 +22884,7 @@
     },
     {
       "key": "Data_Skill_Chekov_Bridge_description",
-      "value": "Starfleet gain <color=#01e2ff>+10%</color> Attack."
+      "value": "Starfleet gain <color=#01e2ff>+5%</color> Attack."
     },
     {
       "key": "Data_Skill_Chekov_Bridge_displayName",
@@ -23176,7 +23172,7 @@
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_description_level1",
-      "value": "Deal <color=#01e2ff>150% Tech Damage</color>."
+      "value": "Deal <color=#01e2ff>100% Tech Damage</color>."
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_displayName",
@@ -23276,7 +23272,7 @@
     },
     {
       "key": "Data_Skill_Elnor_Bridge_description",
-      "value": "Gain <color=#01e2ff>+5%</color> Defense."
+      "value": "Gain <color=#01e2ff>+3%</color> Defense."
     },
     {
       "key": "Data_Skill_Elnor_Bridge_displayName",
@@ -23332,7 +23328,7 @@
     },
     {
       "key": "Data_Skill_Garak_Bridge_description",
-      "value": "Gain <color=#01e2ff>+10%</color> Glancing Chance."
+      "value": "Gain <color=#01e2ff>+5%</color> Crit Chance."
     },
     {
       "key": "Data_Skill_Garak_Bridge_displayName",
@@ -25036,15 +25032,15 @@
     },
     {
       "key": "Data_Skill_PicardDixon_Attack_description_level1",
-      "value": "<color=#01e2ff>3 x 35% Damage</color>."
+      "value": "Deal <color=#01e2ff>100% Damage</color>."
     },
     {
       "key": "Data_Skill_PicardDixon_Attack_description_level2",
-      "value": "<color=#01e2ff>3 x 50% Damage</color>."
+      "value": "Deal <color=#01e2ff>150% Damage</color>."
     },
     {
       "key": "Data_Skill_PicardDixon_Attack_displayName",
-      "value": "Burst Fire"
+      "value": "Punch"
     },
     {
       "key": "Data_Skill_PicardDixon_Bridge_description",
@@ -25080,15 +25076,15 @@
     },
     {
       "key": "Data_Skill_PicardDixon_Skill3_description_level1",
-      "value": "<color=#01e2ff>20 x 15% Damage</color> (<color=#01e2ff>10% Chance</color> to <color=#01e2ff>Wound</color>) to random enemies."
+      "value": "<color=#01e2ff>3 x 80% Damage</color> (<color=#01e2ff>50% Chance</color> to <color=#01e2ff>Wound</color>) to 1 enemy. <color=#01e2ff>50% Chance +1 Morale</color> to all allies."
     },
     {
       "key": "Data_Skill_PicardDixon_Skill3_description_level2",
-      "value": "<color=#01e2ff>20 x 20% Damage</color> (<color=#01e2ff>25% Chance</color> to <color=#01e2ff>Wound</color>) to random enemies."
+      "value": "<color=#01e2ff>3 x 120% Damage</color> and <color=#01e2ff>Wound</color> to 1 enemy. <color=#01e2ff>+1 Morale</color> to all allies."
     },
     {
       "key": "Data_Skill_PicardDixon_Skill3_displayName",
-      "value": "Fury"
+      "value": "Hard-boiled"
     },
     {
       "key": "Data_Skill_PicardOld_Attack_description_level1",
@@ -25192,11 +25188,11 @@
     },
     {
       "key": "Data_Skill_Pike_Skill3_description_level1",
-      "value": "<color=#01e2ff>Attack Up</color>, <color=#01e2ff>Crit Chance Up</color>, and <color=#01e2ff>+1 Morale</color>."
+      "value": "<color=#01e2ff>Attack Up</color>, <color=#01e2ff>Crit Chance Up</color>, and <color=#01e2ff>+1 Morale</color> to all allies."
     },
     {
       "key": "Data_Skill_Pike_Skill3_description_level2",
-      "value": "<color=#01e2ff>Major Attack Up</color>, <color=#01e2ff>Major Crit Chance Up</color>, and <color=#01e2ff>+2 Morale</color>."
+      "value": "<color=#01e2ff>Major Attack Up</color>, <color=#01e2ff>Major Crit Chance Up</color>, and <color=#01e2ff>+2 Morale</color> to all allies."
     },
     {
       "key": "Data_Skill_Pike_Skill3_displayName",
@@ -25708,7 +25704,7 @@
     },
     {
       "key": "Data_Skill_Stamets_Bridge_description",
-      "value": "Starfleet gain <color=#01e2ff>+10%</color> Tech."
+      "value": "Starfleet gain <color=#01e2ff>+5%</color> Tech."
     },
     {
       "key": "Data_Skill_Stamets_Bridge_displayName",
@@ -25852,7 +25848,7 @@
     },
     {
       "key": "Data_Skill_Tilly_Bridge_description",
-      "value": "Engineering gain <color=#01e2ff>+10%</color> Defense."
+      "value": "Starfleet gain <color=#01e2ff>+5%</color> Defense."
     },
     {
       "key": "Data_Skill_Tilly_Bridge_displayName",
@@ -26140,11 +26136,11 @@
     },
     {
       "key": "Data_Skill_Tuvok_Bridge_description",
-      "value": "Starfleet gain <color=#01e2ff>+20%</color> Crit Chance."
+      "value": "Starfleet gain <color=#01e2ff>+10%</color> Crit Chance."
     },
     {
       "key": "Data_Skill_Tuvok_Bridge_displayName",
-      "value": "Vulcan Combat Tactics"
+      "value": "Chief of Security"
     },
     {
       "key": "Data_Skill_Tuvok_Skill1_description_level1",
@@ -28964,7 +28960,7 @@
     },
     {
       "key": "item_Garak_Token",
-      "value": "Elim Garak"
+      "value": "Elim Garak Token"
     },
     {
       "key": "item_GenBorgEng01M_Token",
@@ -29136,7 +29132,7 @@
     },
     {
       "key": "item_PicardDixon_Token",
-      "value": "Dixon Hill Picard"
+      "value": "Dixon Hill Picard Token"
     },
     {
       "key": "item_PicardOld_Token",
@@ -29169,6 +29165,10 @@
     {
       "key": "item_Sela_Token",
       "value": "Sela Token"
+    },
+    {
+      "key": "item_Shinzon_Token",
+      "value": "Shinzon Token"
     },
     {
       "key": "item_Sisko_Token",
@@ -34739,5 +34739,5 @@
       "value": "Morale Combo"
     }
   ],
-  "_PathID": "-4722067981024243849"
+  "_PathID": "1450"
 }

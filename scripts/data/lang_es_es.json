@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": "-1649100671315775696"
+    "m_FileID": 1,
+    "m_PathID": "1301"
   },
   "m_Name": "lang_es_es",
   "List": [
@@ -11368,7 +11368,7 @@
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m1_story01_01",
-      "value": "Este lugar me recuerda a las historias sobre Klingon que oí de joven. Los salones de Sto-Ko-Vor donde los guerreros luchan durante toda la eternidad."
+      "value": "Este lugar me recuerda a las historias sobre Klingon que oí de joven. Los salones de Sto-Vo-Kor donde los guerreros luchan durante toda la eternidad."
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m1_story01_02",
@@ -21027,6 +21027,10 @@
       "value": "Fáser"
     },
     {
+      "key": "Data_Skill_Chekov_Bridge_description",
+      "value": "Flota Estelar gana <color=#01e2ff>+5%</color> de Ataque."
+    },
+    {
       "key": "Data_Skill_Crusher_Attack_description_level1",
       "value": "Inflige <color=#01e2ff>100 % de daño</color>."
     },
@@ -21272,7 +21276,7 @@
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_description_level1",
-      "value": "Inflige <color=#01e2ff>150 % daño tecnológico</color>."
+      "value": "Inflige <color=#01e2ff>100 % daño tecnológico</color>."
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_displayName",
@@ -21372,7 +21376,7 @@
     },
     {
       "key": "Data_Skill_Elnor_Bridge_description",
-      "value": "Gana <color=#01e2ff>+5 %</color> defensa."
+      "value": "Gana <color=#01e2ff>+3%</color> de Defensa."
     },
     {
       "key": "Data_Skill_Elnor_Bridge_displayName",
@@ -21421,6 +21425,10 @@
     {
       "key": "Data_Skill_Garak_Attack_description_level2",
       "value": "Inflige <color=#01e2ff>150 % daño</color>."
+    },
+    {
+      "key": "Data_Skill_Garak_Bridge_description",
+      "value": "Gana <color=#01e2ff>+5%</color> de Probabilidad de crít.."
     },
     {
       "key": "Data_Skill_GenBorgEng01M_Attack_description_level1",
@@ -23083,6 +23091,18 @@
       "value": "Maniobra de Picard"
     },
     {
+      "key": "Data_Skill_PicardDixon_Attack_description_level1",
+      "value": "Inflige <color=#01e2ff>100 % de daño</color>."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Attack_description_level2",
+      "value": "Inflige <color=#01e2ff>150 % daño</color>."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Bridge_description",
+      "value": "Flota Estelar gana <color=#01e2ff>+5%</color> de Ataque."
+    },
+    {
       "key": "Data_Skill_PicardOld_Attack_description_level1",
       "value": "Inflige <color=#01e2ff>50 % daño x2</color>."
     },
@@ -23656,7 +23676,7 @@
     },
     {
       "key": "Data_Skill_Stamets_Bridge_description",
-      "value": "La Flota Estelar obtiene <color=#01e2ff>+10 %</color> tecnología."
+      "value": "Flota Estelar gana <color=#01e2ff>+5%</color> de Tecnología."
     },
     {
       "key": "Data_Skill_Stamets_Bridge_displayName",
@@ -23800,7 +23820,7 @@
     },
     {
       "key": "Data_Skill_Tilly_Bridge_description",
-      "value": "Ingeniería gana <color=#01e2ff>+10 %</color> defensa."
+      "value": "Flota Estelar gana <color=#01e2ff>+5%</color> de Defensa."
     },
     {
       "key": "Data_Skill_Tilly_Bridge_displayName",
@@ -24029,6 +24049,10 @@
     {
       "key": "Data_Skill_Troi_Attack_displayName",
       "value": "Fáser"
+    },
+    {
+      "key": "Data_Skill_Troi_Bridge_description",
+      "value": "Flota Estelar gana <color=#01e2ff>+5%</color> de Determinación."
     },
     {
       "key": "Data_Skill_Tuvok_Attack_displayName",
@@ -32535,5 +32559,5 @@
       "value": "Combo de moral"
     }
   ],
-  "_PathID": "-6666766757367870479"
+  "_PathID": "1451"
 }

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": "1277"
+    "m_PathID": "1301"
   },
   "m_Name": "lang_ar",
   "List": [
@@ -1243,6 +1243,10 @@
       "value": "اختيار اللغة"
     },
     {
+      "key": "Choose_Quality_Header",
+      "value": "اختيار مستوى الجودة"
+    },
+    {
       "key": "Common_AccessoriesSortingType_Equipped",
       "value": "مجهَّز"
     },
@@ -1523,6 +1527,10 @@
       "value": "خفض الرتبة"
     },
     {
+      "key": "Common_Details",
+      "value": "تفاصيل"
+    },
+    {
       "key": "Common_Dilithium",
       "value": "الدايليثيوم"
     },
@@ -1623,6 +1631,10 @@
       "value": "تعطيل"
     },
     {
+      "key": "Common_ExplorationOptionType_Disarm",
+      "value": "تجريد من السلاح"
+    },
+    {
       "key": "Common_ExplorationOptionType_Eject",
       "value": "إخراج"
     },
@@ -1683,6 +1695,10 @@
       "value": "تحقيق"
     },
     {
+      "key": "Common_ExplorationOptionType_Jump",
+      "value": "قفز"
+    },
+    {
       "key": "Common_ExplorationOptionType_Leave",
       "value": "مغادرة"
     },
@@ -1721,6 +1737,10 @@
     {
       "key": "Common_ExplorationOptionType_Power",
       "value": "الطاقة"
+    },
+    {
+      "key": "Common_ExplorationOptionType_Protect",
+      "value": "حماية"
     },
     {
       "key": "Common_ExplorationOptionType_Quick",
@@ -2729,6 +2749,10 @@
     {
       "key": "Common_ValosComputer",
       "value": "كمبيوتر تالوس"
+    },
+    {
+      "key": "Common_View",
+      "value": "عرض"
     },
     {
       "key": "Common_Vulcan",
@@ -11183,6 +11207,1834 @@
       "value": "الإمدادات متروكة..."
     },
     {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_01",
+      "value": "أمامنا: الأطياف التي واجهناها من قبل."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_02",
+      "value": "لا بد أن هذا يعني أن الدريملس قد وصلوا إلى هنا بالفعل. هل فات الأوان؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_03",
+      "value": "يبدو أن هذا الهيكل لا يزال يعمل."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_04",
+      "value": "سيكون تعطيله مهمة بالغة التعقيد."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_05",
+      "value": "يجب أن نأمل أنه لا يزال هناك وقت."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_06",
+      "value": "حسنًا، لنتولّ أمر هؤلاء أولاً."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_01",
+      "value": "المزيد من هذه \"الأطياف\" التي يسيطر عليها \"الدريملس\"!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_02",
+      "value": "<i>*صياح مخيف*</i>"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_03",
+      "value": "إنهم يسعون خلفنا... لا بد أن الدريملس يعرفون أننا هنا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_01",
+      "value": "لا بد أنكم أشباه البشر الذين قابلتهم كائناتي الفضائية."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_02",
+      "value": "نحن نعي أن لكم دوافعكم الخاصة، ولكنكم تقاتلون في معركة خاسرة. نحن نمتلك عصورًا من المعرفة والفهم لأنشطة نيكسس."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_03",
+      "value": "تدمير نيكسس أمر غير مقبول. سيقضي على حياة كل هؤلاء الأشخاص... آلاف الأشخاص؟ ملايين؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_04",
+      "value": "عدد هائل ممن انتهت حياتهم منذ زمن بعيد حسب قوانين الطبيعة. لا يجب أن يظلوا عالقين ومحتجزين في مشروع يوتوبيا أنشأه شخص ما. لسنا وحوشًا كما تصوروننا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_05",
+      "value": "أتدّعون أنكم تحررون حياة كل هؤلاء الأشخاص من آلية صنعها أحدهم، فقط لتحددوا أنتم مصيرهم؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_06",
+      "value": "أحسنتِ يا مايكل!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_07",
+      "value": "ليس لدينا الوقت لمناقشة أمور فلسفية معكم. أرجوكم تنحوا جانبًا وإلا اضطررنا إلى التخلص منكم!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_post_01",
+      "value": "إنكم جنس ماكر، ولكنكم لم تفعلوا سوى تمديد أعماركم لساعات قليلة. سيتم تعطيل محرك الواقع هذا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_01",
+      "value": "يبدو الطريق أمامنا محصنًا بطريقة ما. لم أرَ شيئًا مثله من قبل."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_02",
+      "value": "بالنظر إلى مدى تقدم هذه التقنية، أشك أن مسدسات فازر الخاصة بنا ستفعل شيئًا سوى وخزها. هل يمكن أن تنقلنا سفينة <i>أرتميس</i> إلى الناحية الأخرى؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_03",
+      "value": "أقترح ألا نستخدم منصة الانتقال إلا للضرورة، بسبب المحركات عالية الطاقة الموجودة في هذا الحيز."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_04",
+      "value": "نعم، أفضل أن أتجنب التعرض لحادث انتقال يجعلني أقضي بقية حياتي توأمًا ملتصقًا للسيد وورف. إذن... أي اقتراحات؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_01",
+      "value": "المفاعلات... لقد أوصلتنا إلى هنا. هل يمكن أن نستخدمها كمفاتيح تمكننا من التقدم أكثر داخل الهيكل؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_02",
+      "value": "قد يجدي هذا نفعًا!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_03",
+      "value": "اقتراح رائع يا مايكل."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction02_01",
+      "value": "أراهن بكل ما أملك على أن هناك طريقة أخرى. ما المانع أن نقضي ساعة أخرى من العمل الشاق في هذه القاعات؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_01",
+      "value": "هذا مثير للاهتمام. لا بد أن هذه الغرفة ذات أهمية خاصة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_02",
+      "value": "أرى حاويات عديدة في الداخل. قد تكون إمدادات."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_03",
+      "value": "حليب وبسكويت تركوه لنا نحن \"مهندسو نيكسس\"؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_04",
+      "value": "أيها الطبيب! تبدو أن هذه الفكرة تنطوي على...تدنيس للمقدسات."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction01_01",
+      "value": "سأحاول استخدام المفاعلات لفتح مدخل."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction02_01",
+      "value": "أشعر أننا يجب أن نتجنب استخدام المفاعلات لفتح هذه المغارة. فنحن لا نفهم التقنية بشكلٍ كامل..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction02_02",
+      "value": "وجهة نظر. لا نريد أن نتسبب في انطلاق أي دفاعات."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_01",
+      "value": "يوجد المزيد من الإمدادات على المنصة هناك."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_01",
+      "value": "أعتقد أنني قد أتمكن من الانتقال إلى المنصة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_02",
+      "value": "الانتقال؟ هل فقدت عقلك أيها الكلينجون؟ إنها عالية جدًا!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_03",
+      "value": "تحلّ بالإيمان أيها الطبيب! لا بد أن أتمكن من تحقيق هذه القفزة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_04",
+      "value": "تحلّ أنت به. كل ما أحتاج إليه هو تدريب طبي للتعامل مع كسور العظام الناتجة عن السقوط الوشيك!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_01",
+      "value": "أتعتقد أنه يمكننا الوصول إلى الأعلى هناك؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_02",
+      "value": "برأيي المهني، لا نستطيع ولا ينبغي أن نفعل."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_03",
+      "value": "ليس بهذا الأسلوب، أيها الطبيب. حسنًا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_01",
+      "value": "يذكرني هذا المكان بحكايات الكلينجون التي كنت أسمعها في شبابي. قاعات ستو كو فور، التي يقاتل فيها المحاربون دون توقف."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_02",
+      "value": "إنها تشبه فالهالا إذن؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_03",
+      "value": "بل أكثر عنفًا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_04",
+      "value": "رائع."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_05",
+      "value": "على ذكر العنف...ستعم الفوضى قريبًا!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_01",
+      "value": "هذا المكان يتجاوز كل شيء رأيته من قبل."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_02",
+      "value": "أهذه نبرة خوف التي أسمعها في صوتك أيها الطبيب؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_03",
+      "value": "فكّر في ذلك"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_04",
+      "value": "يُذكرني بجهاز هولوديك في سفينة <i>إنتربرايز</i>. يصنع محاكاة واقعية وغنية."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_05",
+      "value": "أتمنى لو احتوت سفينة <i>ديسكفري</i> على هذا النوع من الأجهزة! هل كانت التجربة تشبه ما رأيناه في المجالات؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_06",
+      "value": "لا. محاكاة جهاز هولوديك كانت أقرب إلى الخيال. كان الكثير منها عبارة عن طرائف مسلية."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_07",
+      "value": "من غير الشائع أن تبدو كالعوالم الواقعية المستنزِفة التي رأيناها في المجالات."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_08",
+      "value": "هذا يبدو كمصطلح قد يستخدمه الدريملس لوصف تجربة نيكسس - \"مستنزِفة\". فهم يشعرون أنها أقرب إلى السجن منها إلى الخيال..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_01",
+      "value": "إذن هل سنظل نتجول في هذه القاعات أم..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_02",
+      "value": "إن جاز لنا التدخل؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_03",
+      "value": "خلفكم! إنه... لست متأكدًا من ماهيته."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_04",
+      "value": "نحن مسؤولو ”X'ytakii” أو \"مقدم الرعاية\" في لغتكم. نحن أحد أنواع الذكاء الاصطناعي المتقدمة العديدة التي تم تصميمها للتحكم في وظائف محرك الواقع هذا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_05",
+      "value": "تُظهر عمليات المسح أنكم تمتلكون ستة مفاعلات ويبدو أنكم مصممون على الدفاع عن هذا الهيكل. هل أصبنا التقدير؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_06",
+      "value": "حسنًا، نحن نحاول أن نمنع من يُطلق عليهم الدريملس من زعزعة توازن نيكسس."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_07",
+      "value": "هذه وظيفة \"المهندس\". ولكنكم لم تحصلوا على تدريب المهندسين، ولا يمكننا منحكم السلطة أو الأدوات اللازمة لإصلاح محرك الواقع وردع الدخلاء."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_08",
+      "value": "ولكن بالتأكيد نود أن نفعل ذلك."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_09",
+      "value": "يمكنكم الخضوع للاختبار اللازم اجتيازه لأي مهندس، ولكن دون التدريب المناسب، غالبًا ستفشلون."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_10",
+      "value": "وإذا فشلنا؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_11",
+      "value": "إذن لن يتم منحكم المركز المناسب ولن تتمكنوا من قفل المحرك. ومن ثم سيحدث عطل في البنية والمجالات خلال 3,567 ساعة تقريبًا بتوقيتنا على الأرض."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_12",
+      "value": "إذن ليس أمامنا خيار!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_01",
+      "value": "توقفوا! لن تعبروا من هنا، أيها الحثالة المتحولون!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_02",
+      "value": "بماذا نعتّنا؟ لحظة، نحن لسنا..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_03",
+      "value": "لا أعتقد أنهم في المزاج المناسب للإنصات، أيها الطبيب!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_01",
+      "value": "أتسمعون صوت إطلاق مسدسات الفازر أمامنا؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_02",
+      "value": "أنتَ محق. هناك! يبدو أن الكارداسيان يقاتلون ضباط ستارفليت!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_03",
+      "value": "أعتقد أننا أذكي من أن نصدق أن هؤلاء ضباط ستارفليت بالفعل. إنهم على الأرجح المتحولون."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_04",
+      "value": "هل أنت متأكد أيها الطبيب؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_05",
+      "value": "فلتثق فيّ قليلاً يا سيد وورف. العجوز \"بونز\" ماكوي يعرف ماذا يفعل."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_06",
+      "value": "كيف تعرف أيها الطبيب؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_07",
+      "value": "لغة جسدهم، الطريقة المرتبكة التي يتحركون بها."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_08",
+      "value": "أثق في تحليلك للوضع أيها الطبيب. لنتقدم."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_01",
+      "value": "ضباط ستارفليت، مِن هنا!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_02",
+      "value": "تمهَّل. أنتم في أمان الآن."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_01",
+      "value": "سنكون مكشوفين هنا. لنرَ إن كان بإمكاننا الحصول على هذه السفينة المتجولة والفرار بها."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_02",
+      "value": "ماذا يقول بنو جنسك؟ \"اتقِ شر من أحسنت إليه\". فلتمت!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_03",
+      "value": "أنتم المتحولون! أتعلمون، كان الكارداسيان يبحثون عنكم في كل مكان!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_01",
+      "value": "يبدو أن بعضهم مصاب بجروح بالغة. يجب أن نتولى أمر إصاباتهم قبل أي شيء آخر."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_02",
+      "value": "أنت عطوف جدًا يا مسؤول الرعاية الطبية."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_03",
+      "value": "هذا لقب غريب للطبيب..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_04",
+      "value": "أولست ذكيًا! أبيدوهم!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_05",
+      "value": "أنتم المتحولون! أتعلمون، كان الكارداسيان يبحثون عنكم في كل مكان!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_01",
+      "value": "تفقدوا المناطق المجاورة. ربما يوجد شيء في السفينة المتجولة يمكننا استخدامه لمساعدتهم."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_02",
+      "value": "تفكير سديد. توجد بعض الإمدادات هنا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_03",
+      "value": "أتريدون سرقة أغراضنا يا فئران ستارفليت؟!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_04",
+      "value": "فئران ستارفليت... لحظة، ألست..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_05",
+      "value": "أنتم المتحولون! أتعلمون، كان الكارداسيان يبحثون عنكم في كل مكان!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_01",
+      "value": "يبدو أن شخصًا ما ترك إمدادات هناك. قد نستفيد من إعادة التزود بالمؤن."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_01",
+      "value": "لن يضرنا إلقاء نظرة سريعة..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_02",
+      "value": "احصلوا عليها!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_03",
+      "value": "أو... ربما تكون ضارة! إنها كمين من صنع المتحولين!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_01",
+      "value": "هل يترك أحد إمدادات قيمة في منتصف الطريق بهذه البساطة؟ هل يمكن أن يحالفنا الحظ إلى هذه الدرجة؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_02",
+      "value": "لقد أثرتَ نقطة مهمة أيها الطبيب."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_03",
+      "value": "أحيانًا يكون الفخ واضحًا جدًا..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_01",
+      "value": "ما هذا؟! هل نحن داخل أحد المجالات؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_02",
+      "value": "لا تزالون داخل محرك الواقع، ولكن في نطاق معاييرنا المصممة لإنشاء بيئات تخضعون فيها للاختبار."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_03",
+      "value": "اتخذ مقدم الرعاية شكل القائد سيسكو..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_04",
+      "value": "ليس لدينا وقت لهذا الهراء يا رجل! لقد قلت للتو إن حياة الكثير على المحك!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_05",
+      "value": "صحيح. أنصحك بأن تسرع."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_06",
+      "value": "أنصحك بأن تسرع في توضيح ما يجب أن نفعل."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_07",
+      "value": "أثناء دراستنا لذكرياتك، وجدنا أن الجنس المذكور في قيمة القطاع لديك يحمل صفات معينة تتوافق مع دور المهندس."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_08",
+      "value": "أولها هو الإيمان، الذي يُمثله قائدك سيسكو."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_09",
+      "value": "هل... تريدنا أن نصلي؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_10",
+      "value": "لقد أسأت فهمنا. الإيمان ليس بكيانٍ كلي الوجود، ولكنه يتجلى في أهدافك ومهاراتك، وكذلك في أهداف زملائك المهندسين ومهاراتهم."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_11",
+      "value": "إن الإيمان بغاية أسمى هو ما ساعد المهندسين الأوائل على تأسيس هذا المكان، ومن ثم أصبح مبدأً أساسيًا لأي مهندس يتبعهم."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_12",
+      "value": "هناك بوابة تنتظركم في مكان ما في هذه الساحة - مخرج يؤدي إلى الاختبار التالي."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_13",
+      "value": "ولكن احذروا، فالأشياء التي سترونها ليست كما تبدو في ظاهرها. إيمانكم بهدفكم فقط هو ما سيرشدكم إلى النهاية."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_01",
+      "value": "إنه مقدم الرعاية."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_02",
+      "value": "لقد انتابنا نوع من الفضول بخصوص وضعكم الحالي."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_03",
+      "value": "دعني أرضي فضولك: نحن في خضم حرب بين الكارداسيان والمتحولين، وكلا الطرفين يسعدان جدًا بإطلاق النار عند رؤيتنا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_04",
+      "value": "نتفق معك، هذا وضع معقد. يبدو أن المفر الوحيد هو التراجع."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_05",
+      "value": "التراجع؟ من الواضح أنكم لا تعرفون الكثير عن ستارفليت!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_01",
+      "value": "لا بد أن هذه هي البوابة التي ذكرها مقدم الرعاية."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_02",
+      "value": "إنها كذلك. لقد تخطيت توقعاتنا بأدائك."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_03",
+      "value": "لقد تجاوزت وضعًا معقدًا لتحقيق هدفك وآمنت بمهارات حليفك."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_04",
+      "value": "هذا الإيمان جدير بالإعجاب، ولكن قد يجعل صاحبه معميًا عن الحقيقة أيضًا. ولكن، لا يبدو أن دوافعك هي الطمع أو الرغبة في السلطة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_05",
+      "value": "إذن هذا كل شيء؟ هل اجتزنا اختبارك؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_06",
+      "value": "الجزء الأول، نعم. لا يزال هناك المزيد."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_07",
+      "value": "...بالطبع هناك المزيد."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_01",
+      "value": "تمهلوا. تُظهر عمليات المسح وجود حركة أمامنا. الكثير من الحركة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_02",
+      "value": "نحن البورج. سيتم دمجكم. لا جدوى من المقاومة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_03",
+      "value": "آه، ألا يمكنهم...برمجة طريقة جديدة لإلقاء التحية؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_04",
+      "value": "ربما يمكنك توفير السخرية لوقت أقل أهمية من هذا، أيها الطبيب."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_01",
+      "value": "تبدو هذه المنطقة خالية من النشاط. لا بد أن التقدم فيها سيكون آمنًا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_02",
+      "value": "تمهلوا، إنه كمين! لا بد أنني تسببت في تشغيل الإنذار هناك!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_03",
+      "value": "سيتم دمجكم. لا جدوى من المقاومة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_01",
+      "value": "هل رأيتم هذه الصورة الظلية أمامنا؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_02",
+      "value": "إنها ملكة البورج!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_03",
+      "value": "سيتم... دمجكم. لا جدوى من المقاومة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_01",
+      "value": "هذا غريب. متأكد أن هذه كانت الملكة، ولكنها لا تبدو كالتي قابلناها من قبل."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_02",
+      "value": "لا أعلم. بدت لي طريقة تحدثها بلغة البورج كطريقة الملكة!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_03",
+      "value": "ربما هذا جسد احتياطي؟ أو أحد الأجساد المتعددة التي تنقل وعيها بداخلها؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_04",
+      "value": "مستحيل أن نعرف..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_01",
+      "value": "مرحبًا بكم جميعًا. لقد ابتعدتم كثيرًا عن الوطن."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_02",
+      "value": "ملكة بورج أخرى! ولكن هذه الملكة تبدو... حقيقية أكثر."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_03",
+      "value": "ملكة أخرى؟ نحن البورج. لا أكثر ولا أقل. كل الأجساد مجرد امتداد لإرادتنا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_04",
+      "value": "حتى أجسادكم. أليس كذلك يا لوكيوتوس؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_05",
+      "value": "نعم. سيتم دمجكم أمام قوة المجموعة الموحدة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_06",
+      "value": "اليوم، نقاتل من أجل مجموعة أكبر وأعلى قيمة، ولن تقفوا في طريقنا!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_01",
+      "value": "لقد نجحنا! الآن أين اختبارنا أيها السيد؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_02",
+      "value": "نحن هنا. ونهنئك على إصرارك."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_03",
+      "value": "على الرغم من عرض إمكانية حصولك على الراحة من هذا المكان عدة مرات، كنت تختار الضغط دائمًا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_04",
+      "value": "هل نحن بأمان الآن؟ هل انتهت الاختبارات؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_05",
+      "value": "أنت بعيد عن الأذى في هذه اللحظة، لكن ثمة اختباران آخران بانتظارك."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_01",
+      "value": "هل ضعنا إذن؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_02",
+      "value": "أهذا غريب علينا؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_03",
+      "value": "أصبتِ يا مايكل."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_04",
+      "value": "لنتوقف للحظة. يمكنني أن أحاول الوصول إلى هذه العقدة وأجد طريقًا يأخذنا إلى الأمام."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_01",
+      "value": "هل حالفنا الحظ؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_02",
+      "value": "يُظهر جهار التريكوردر الخاص بي طريقًا، ولكن ظهرت إشارة أخرى في الوقت نفسه."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_03",
+      "value": "هل يبدو الأمر مُقلقًا؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_04",
+      "value": "ربما لا، يبدو أن الإشارة توقفت."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction02_01",
+      "value": "أعتقد أنه من الأفضل لنا أن نتجول بصورة عشوائية بدلاً من التطفل على نظامهم."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction02_02",
+      "value": "يبدو أن ذلك يزعجهم!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_01",
+      "value": "يوجد تجويف إعادة شحن هناك. تجويف غريب."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_02",
+      "value": "تُظهر عمليات المسح وجود كمية كبيرة من الطاقة تمر خلاله."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_03",
+      "value": "قد يكون متصلاً بشبكة البورج. أمر يستحق التحقق."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_01",
+      "value": "إنني أُثقل عليه التحميل بجهاز التريكوردر الخاص بي..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_02",
+      "value": "إنه يتحول. هل يبدو أنه يتم رفعه؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_03",
+      "value": "غالبًا هناك نظام تلقائي يحركه بعيدًا لإصلاحه."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_04",
+      "value": "لنرَ ما وراءه قبل أن ينقل النظام محطة شحن لتحل محله."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction02_01",
+      "value": "لنتركه ونتجنب احتمالية اكتشافنا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction02_02",
+      "value": "أوافقك الرأي."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_01",
+      "value": "أعتقد أن تركيب بعض الألواح هنا لم يكن متقنًا..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_02",
+      "value": "ملحوظة صحيحة. قد نتمكن من فتحها واختلاس النظر بداخلها لنرى إن كان هناك شيء مخفي."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction01_01",
+      "value": "فهمت!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction02_01",
+      "value": "هل تريد أن تؤدي دور الميكانيكي في هذا الوضع المصيري؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction02_02",
+      "value": "الطبيب محق. لنواصل التحرك."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_01",
+      "value": "أين نحن الآن؟ يبدو هذا مكعب بورج."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_02",
+      "value": "أوو، لا أريد المزيد من البورج، أرجوكم."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_03",
+      "value": "هذا هو اختباركم الثاني."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_04",
+      "value": "ستتخذ الآن شكل القائدة جينيواي. هل هناك سبب وراء ذلك؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_05",
+      "value": "بينما كنتَ شابًا، اشتهرت القائدة جينيواي برحلتها الأسطورية."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_06",
+      "value": "وعلى مدار سبع سنين طوال، سافرت القائدة وطاقمها من قطاع \"دلتا\" البعيد وعادت إلى الأرض. يا له من إصرار."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_07",
+      "value": "إنها خيار مناسب لتمثيل اختبارك التالي: اختبار الإرادة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_08",
+      "value": "اختفى مقدم الرعاية... مكعب البورج، \"اختبار الإرادة\". أشك أننا سنعمد إلى القتال في كل خطوة على الطريق!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_01",
+      "value": "أنا مرهق. أحتاج إلى أن أرتاح للحظة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_02",
+      "value": "سيكون من الأفضل لك أن تستمع إلى الطبيب."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_03",
+      "value": "آه! ألا يمكنكم الظهور أمامنا بدلاً من الظهور من خلفنا ولو لمرة واحدة؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_04",
+      "value": "معذرة. نحاول فقط أن ننصحكم."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_05",
+      "value": "وفق حساباتنا، لم تتمكنوا من استكشاف سوى 0,00001% من مكعب البورج خلال بحثكم عن البوابة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_06",
+      "value": "سينهار محرك الواقع قريبًا، وإن كنتم هنا أثناء حدوث ذلك، فستهلكون."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_07",
+      "value": "يمكننا نقلكم إلى مكانٍ آمن."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_08",
+      "value": "إذا تعطل محرك الواقع، فستتعطل المجالات ويهلك كل من بداخلها!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_09",
+      "value": "نظن أنكم تقللون من تقدير نيكسس. لقد بُنيت على محركات كثيرة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_10",
+      "value": "ولكن كل واحد منها - بما في ذلك هذا المحرك - مسؤول عن مجالات متعددة، أليس كذلك؟ وكل المجالات المتصلة ستتعطل إن استسلمنا الآن."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_11",
+      "value": "هذا صحيح."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_12",
+      "value": "وستتدهور نيكسس أكثر، ما سيسبب كل الصدوع المدمرة التي تهدد عالمنا - خارج نيكسس..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_13",
+      "value": "مجددًا - صحيح."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_14",
+      "value": "إذن سنستمر."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_15",
+      "value": "كما تشاؤون."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_16",
+      "value": "لقد ذهبت."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_17",
+      "value": "أنا مندهش أيها الطبيب. كنت أظنك مرهقًا منذ لحظة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_18",
+      "value": "لا أزال مرهقًا. ولكننا هنا لإنقاذ حياة آخرين، لا لنتذمر بسبب مشكلة تلف بسيطة قابلتنا في الطريق!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_01",
+      "value": "يبدو أن هيأتك الضعيفة تنهار شيئًا فشيئًا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_02",
+      "value": "حسب تقديراتنا، لن تتمكن من تحمل المزيد على هذا الوضع. نوصي بالرحيل الفوري."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_03",
+      "value": "ها! هل ترك كهاليس البحث عن أخيه يا موراث؟ لا، بل بحث عنه في السهل والجبل، من أجل شرفه وشرف والدهما."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_04",
+      "value": "وكذلك يجب أن نقاتل لعبور هذا المكان والخروج منه منتصرين إلى الجهة الأخرى!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_01",
+      "value": "كلينجون أمامنا. عدد كبير منهم!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_02",
+      "value": "ألا يمكنك التواصل معهم يا وورف؟ وهلا أخبرتهم بأن يتراجعوا؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_03",
+      "value": "bIjeghbe'chugh vaj bIHegh!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_04",
+      "value": "Hoch jagh Heghjaj!!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_05",
+      "value": "لا أحتاج إلى أن أكون فصيحًا في لغة الكلينجون لأعرف أن المحادثة لم تكن مثمرة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_06",
+      "value": "إنهم... غير متقبلين للتفاوض."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_post_01",
+      "value": "إنهم يتراجعون! نحن في أمان في الوقت الحالي."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_01",
+      "value": "مزيد من الكلينجون! إنه أسطول كامل!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_02",
+      "value": "إذن... الاتحاد يمتلك حيوان كلينجون أليفًا..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_03",
+      "value": "أتجرؤ؟! لستُ كلبًا أليفًا لأحد! أنا محارب!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_04",
+      "value": "نعم! والآن قد أغضبت هذا المحارب. ولن يعجبك الوضع عندما يغضب!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_01",
+      "value": "أهناك المزيد منهم؟! إنهم لا ينتهون!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_02",
+      "value": "مرشد كهاليس اللاسلكي أثر مقدس، يُقال إن كهاليس صنعه بنفسه لتوحيد العائلات الأربع والعشرين الكبرى."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_03",
+      "value": "وبالنسبة إلى الكلينجون، يعد مجرد وجود دخلاء في المرشد اللاسلكي جريمة نكراء- إثم شنيع."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_04",
+      "value": "ولكن كان ذلك عن طريق الخطأ! لقد أقروا بذلك."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_05",
+      "value": "رغم أن مبادئي تتسق مع مبادئ الاتحاد، ما زال دمي يغلي غريزيًا جراء هذا الاعتداء."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_06",
+      "value": "أفهم المنطق بالطبع، ولكن لا بد من أن يجعلك هذا تُدرك مدى شدة الأمر على الكلينجون."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_07",
+      "value": "في شبابكِ يا مايكل، خاض جنسنا حربًا بسبب أثر ما. فهل يُدهشك قتال الكلينجون بهذه الشراسة لمعاقبة الطاقم؟ إنهم لن يكلوا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_01",
+      "value": "ألتقط مئات من المؤشرات الحيوية تجتمع في موقعنا. يجب أن نتراجع!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_02",
+      "value": "هاه. ظننت أنك ستجادلنا لنبقى ونقاتل."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_03",
+      "value": "كما قال كهاليس نفسه ذات مرة، \"لا ترحم الريح السفن المتهورة\"."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_01",
+      "value": "لقد اقتربنا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_02",
+      "value": "ألتقط كمية كبيرة من المؤشرات الحيوية الخاصة بالكلينجون أمامنا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_03",
+      "value": "لا بد من أنهم وُضعوا في طريقنا لحماية المفاعل الذي أقوم باكتشافه."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_04",
+      "value": "اللعنة! وهم ليسوا وحدهم. أحدهم يرتدي الدرع الرسمي لحامل الشعلة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_05",
+      "value": "بطل الكلينجون الذي يدافع عن مرشد كهاليس اللاسلكي! لقد... دخلت في شجار مع أحدهم."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_06",
+      "value": "وهل أنت متأكد من أنك لا تستطيع الوصول إلى المفاعل من هنا؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_07",
+      "value": "..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_08",
+      "value": "همم. لم أعتقد ذلك."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_01",
+      "value": "لقد وصلنا إلى مصدر الإشارة. يمكنني استخدام جهاز التريكوردر الخاص بي مع مفاعلاتنا للوصول إليه."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_02",
+      "value": "بالتأكيد الجهاز الذي يشغل الواقع الذي نحن فيه ليس بضخامة المفاعلات التي تشغل المجالات. وهذا أمر جيد!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_03",
+      "value": "إذن ألديك أي فكرة عن كيفية برمجة هذا السيناريو لنتمكن من اجتيازه؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_04",
+      "value": "لا أعتقد أننا بحاجة إلى \"اجتيازه\". لقد كان هدفنا دائمًا هو العثور على البوابة. نعم، لقد ظهرت في السابق عندما \"اجتزنا\" الاختبار، ولكن في هذه الحالة... لم لا نجعلها تظهر ببساطة؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_05",
+      "value": "مدهش يا مايكل!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_06",
+      "value": "هناك بوابة قريبة!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_01",
+      "value": "هناك! أفراد طاقم مصابون أمامنا!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_02",
+      "value": "سوف... أُبطئ السرعة وأدعك تتولى الأمر. قد يؤدي ظهور فرد من الكلينجون إلى تصعيد الموقف..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_03",
+      "value": "نحن هنا للمساعدة. هل أنتم بخير؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_04",
+      "value": "أنا... نعم. بالكاد. مَن أنت؟ لا يمكنني التعرف على الزي الذي ترتدونه."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_05",
+      "value": "نحن من سفينة <i>يو إس إس أرتميس</i>. ما الذي حدث هنا؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_06",
+      "value": "مرحّب بكم هنا، نحن في أزمة شديدة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_07",
+      "value": "قادنا طريقنا إلى مكان قريب من مرشد كهاليس اللاسلكي."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_08",
+      "value": "يُعد المرشد اللاسلكي من الآثار المقدسة لإمبراطورية الكلينجون. فيم كنتم تفكرون عندما اقتربتم منه؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_09",
+      "value": "كان ذلك عن طريق الخطأ! لم تكن لدينا فكرة عن ماهية هذا الشيء... ولكنهم يتهموننا بالاعتداء على مركبتهم المقدسة ومحاولة تدنيسها."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_10",
+      "value": "لقد أعلنوا الحكم على كل من على متن السفينة بالإعدام."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_01",
+      "value": "حسنًا، لا يمكن أن نسمح بذلك."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_02",
+      "value": "يجب أن نأخذ هؤلاء الأشخاص إلى مكانٍ أمن. أيمكنك تجهيزهم للتحرك أيها الطبيب؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_03",
+      "value": "سأحاول. لتقم بتغطيتي بينما أُضمد جراحهم!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction02_01",
+      "value": "هناك كلينجون مجتمعون في هذه المنطقة!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction02_02",
+      "value": "إذن، نجبرهم على التراجع. ثم يمكننا تولي أمر المصابين."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_01",
+      "value": "لقد التقطت قراءة تشبه قراءات المفاعلات. بالتأكيد ليست إشارة قوية بهذه الدرجة، لذا ربما لا يكون هذا الواقع هائلاً بقدر المجال الفعلي."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_02",
+      "value": "لنجرب نظرية المفاعل الخاصة بنا! هل تعتقد أنك تستطيع فتح هذا الباب عبر \"إعادة البرمجة\"؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_01",
+      "value": "نعم! يمكنني استخدام جهاز التريكوردر الخاص بي مع مفاعلاتنا..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_02",
+      "value": "تمكنت من الوصول إلى الهيكل الداخلي لهذا \"الواقع\". إنه معقد، ولكن... انتظرني قليلاً."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_03",
+      "value": "لقد اختفى الباب!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_04",
+      "value": "مذهل."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_05",
+      "value": "ولكنني أحتاج إلى أن أكون أقرب إلى مصدر الإشارة لأقوم بأي إجراء أفضل من هذا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction02_01",
+      "value": "يجب ألا نهدر أي وقت أو طاقة محتملة للمفاعل."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction02_02",
+      "value": "إنك محارب جيد وحليف وفي يا سيد وورف. ولكنك لست مرحًا يا سيدي."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_01",
+      "value": "هذا مثير للاهتمام! يبدو أننا على مركبة تابعة للاتحاد. تُظهر عمليات المسح وجود ضرر في طوابق عديدة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_02",
+      "value": "أهذا هجوم؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_03",
+      "value": "أتلقى العديد من الرسائل المختلطة. يبدو أن الكلينجون صعدوا على متن السفينة واستولوا على المناطق الأساسية."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_04",
+      "value": "لقد تعلمت أن الوضع العام يكون أكثر أمانًا عندما يبتعد الكلينجون عن سفن ستارفليت!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_05",
+      "value": "باستثناء رفقتنا الحالية."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_06",
+      "value": "همم."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_07",
+      "value": "وهذه طبيعة اختبارك."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_08",
+      "value": "جيم؟! لحظة... أنت مقدم الرعاية."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_09",
+      "value": "هذا الاختبار يعكس القيَم التي يلتزم بها صديقك بغزارة؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_10",
+      "value": "التهور؟ الرغبة في إقحامنا جميعًا في مغامرة حمقاء؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_11",
+      "value": "أمامك اختبار الحِنكة. لقد أظهرتَ استعدادك للإيمان بهدفك والاستمرار وتخطي كل الصعاب."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_12",
+      "value": "ولكن بعض العقبات لا يمكن تخطيها بالمواجهة المباشرة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_13",
+      "value": "اعثر على البوابة ونهاية هذا الاختبار."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_14",
+      "value": "وها هو قد ذهب. مفيد جدًا كالعادة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_01",
+      "value": "يبدو هذا مستحيلاً. إنه اختبار عادي... اختبار كوباياشي مارو!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_02",
+      "value": "اختبار الأكاديمية؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_03",
+      "value": "بالضبط. ألم يخضع كلاكما لهذا الاختبار؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_04",
+      "value": "أنا خضته. ومثل غيري من الطلاب، فشلت كل مرة. لقد استشطت غضبًا عندما عرفت أنه سيناريو غير قابل للاجتياز."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_05",
+      "value": "إما أن تحمي الطاقم وتتسبب في اندلاع حرب مع إمبراطورية الكلينجون أو تتركهم يموتون."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_06",
+      "value": "هذا السيناريو أيضًا، مصمم لتفشل فيه. لن يكل شعبي هنا. لن نتحمل هجومهم، وإذا رحلنا، فسيفنى هؤلاء الأشخاص..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_07",
+      "value": "ولكن إليك الأمر: في شبابي، اجتاز القائد كيرك اختبار كوباياشي مارو بالفعل. بطريقة جيم العجوز الرائعة، لقد تصرف... بشكلٍ مبتكر: تسلل إلى الداخل قبل الاختبار وأعاد برمجة الكمبيوتر."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_08",
+      "value": "إذن يتعين علينا أن نحاكي أسلوب القائد كيرك... ونغش."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_09",
+      "value": "ولكن كيف؟ ليس لدينا إمكانية الوصول إلى أي كمبيوتر..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_10",
+      "value": "غالبًا يسير هذا الواقع مثل المجالات الأخرى. هناك مفاعل أو جهاز مشابه مسؤول عن تشغيله. سنجده ونغير برمجته."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_11",
+      "value": "لكننا لم نصبح \"مهندسين\" بعد. ليس لدينا القدرة على التأثير في تقنية نيكسس!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_12",
+      "value": "سئمت من انتظار تصريح من هولوجرام. لقد تعاملنا جميعًا مع تقنيات فضائية فائقة التطور من قبل. إنه أمر طبيعي!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_13",
+      "value": "أنا أضبط جهاز التريكوردر الخاص بي على المفاعلات التي في حوزتنا بالفعل. لنعثر على عنصر التحكم في الاختبار الصغير الذي صنعه مقدم الرعاية."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_01",
+      "value": "وها هي أخيرًا، بالإيمان والإصرار و..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_02",
+      "value": "نعم نعم، نعرف: الحِنكة. لقد سبقناك أيها الفيلسوف."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_03",
+      "value": "صحيح، لقد تملصتم من الطريق المحدد واخترقتم نيكسس نفسها. ولكنكم ستجدون أن التلاعب بالبنيات الأساسية بها ليس بالسهولة نفسها."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_04",
+      "value": "والآن، لا يتبقى سوى..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_05",
+      "value": "لا! لا مزيد من الاختبارات! لقد أثبتنا قدراتنا، ولا وقت لدينا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_06",
+      "value": "بعض النظر عن رؤيتك للقراءات، الاختبارات اللازمة للراغبين في أن يصبحوا مهندسين مطلب ضروري. يجب إكمالها جميعًا قبل أن تتمكنوا من التعامل مع محرك الواقع."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_01",
+      "value": "الاتحاد!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_02",
+      "value": "نحن لا ننوي أذيتكم، نحن من يو إس إس أرتـ..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_03",
+      "value": "اقبضوا عليهم! سيعاقبنا تومالاك وسيلا أشد العقاب إذا تركناهم يصلون إلى المرشد اللاسلكي!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_post_01",
+      "value": "لا يبدو أن هؤلاء الرومولان يتقبلون الحوار والمنطق..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_01",
+      "value": "أتمنى لو كان بإمكاننا حل الوضع بطريقة مختلفة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_02",
+      "value": "لقد بدَت متأكدة أن الاتحاد يعمل ضد الرومولان."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_03",
+      "value": "ربما التحدث إلى قائدها سيوضح لنا الأمر أكثر."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_04",
+      "value": "بالطبع يبدون متأكدين أننا نتجسس عليهم!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_01",
+      "value": "تم إخضاعه."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_02",
+      "value": "لا أظن أن صعقه كان المغزى من الاختبار..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_03",
+      "value": "لقد قال إن علينا أحيانًا أن نُريَ الطرف الآخر قوة قناعاتنا!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_04",
+      "value": "حسنًا... لا أرى إشارة تدل على أننا فشلنا، لذا أعتقد أنك محق."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_01",
+      "value": "توقف هناك."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_02",
+      "value": "لسنا هنا للقتال."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_03",
+      "value": "إنك من الكلينجون. بالطبع أنتم هنا للقتال."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_04",
+      "value": "لديه وجهة نظر."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_05",
+      "value": "همم."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_01",
+      "value": "نحن هنا لنجري حوارًا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_02",
+      "value": "أوه! بل أنتم هنا لتخريب المرشد اللاسلكي. على أي حال لقد تأخرتم كثيرًا، رحل تومالاك بالفعل ومعه البيانات."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_03",
+      "value": "توقفوا! دعونا نرحل وسندعكم ترحلون."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_04",
+      "value": "لن نضيع جهدنا الثمين عليكم. ستكشف البيانات التي نملكها الاتحاد على حقيقته، ثعابين غادرة (تبث سمها)"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_05",
+      "value": "لحظة. هل وصفنا أحد الرومولان للتو بالثعابين الغادرة؟ هذا غير متوقع."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_01",
+      "value": "نحن لا نبحث عن المشكلات."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_02",
+      "value": "ولكنكم وصلتم إلى هنا، وقد وجدتم المشاكل!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_01",
+      "value": "المزيد من الرومولان. ومرشد استشعار لاسلكي آخر."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_02",
+      "value": "الاتحاد. لست... متفاجئًا. هل أتيتم لإخفاء آثار خيانتكم؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_03",
+      "value": "ليس لدي أدنى فكرة عما تتحدث."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_01",
+      "value": "أتدّعون أنكم لا تعرفون شيئًا عن سفن الاتحاد التي كانت تنسل بصفة مستمرة في أرجاء المنطقة المحايدة وتتجسس على رجالي؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_02",
+      "value": "لدينا أدلة قاطعة على اختراق بني جنسكم معاهدات لا حصر لها."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_03",
+      "value": "لنراجع الأدلة ونحاول فهم هذا الموقف. أتُفضل المحاولة على شن حرب طاحنة؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_04",
+      "value": "لن أنكر أن كلامك منطقي. سأسمح لك بمقابلة ضابط القيادة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_05",
+      "value": "ولكني أشك أنك ستتمكن من إقناعه. لقد سبق له التعامل مع بني جنسك."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_01",
+      "value": "هل ترانا حمقى؟ لدينا أدلة تفيد بأن سفن الاتحاد كانت تنسل في أرجاء المنطقة المحايدة وتتجسس على رجالنا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_02",
+      "value": "هذا مخالف لمبادئ الاتحاد. أخفضوا أسلحتكم الآن، وإلا سلبناكم إياها!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_01",
+      "value": "يبدو أن قائد الرومولان أمامنا، ومستعد للرحيل."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_02",
+      "value": "يجب أن نوقفه قبل أن يفعل!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_01",
+      "value": "لا بد من طريقة للتوصل إلى اتفاق هنا!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_02",
+      "value": "لن تنجح معي الحيلة التي تدبرونها أيًا كانت."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_03",
+      "value": "ثمة أدلة وفرها مرشد الاستشعار اللاسلكي تفيد بأن عناصر من القسم 31 استمروا في التجسس على رجالي عقدًا من الزمن تقريبًا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_04",
+      "value": "وبصفتي خادمًا مخلصًا للإمبراطورية، من واجبي إبلاغ المجلس الأعلى بهذا الانتهاك!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_05",
+      "value": "بقدر ما يؤلمني الاعتراف بالأمر... ربما أنت محق. لم يكن القسم 31 أبدًا أكثر التنظيمات الجديرة بالثقة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_06",
+      "value": "هل... تعترف إذن بالأمر؟ هممم، سأستمع. ماذا تقترح؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_07",
+      "value": "أعطنا نسخة من بياناتك. سنُبلغ ستارفليت بالأمر. إن كانت الواقعة صحيحة، فسيُجرون مزيدًا من التحقيقات ويردون عبر القنوات الدبلوماسية الملائمة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_08",
+      "value": "تُدركون أنه قد يتم التلاعب بنسختكم."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_09",
+      "value": "وكذلك بنسختكم. نحن نطلب منكم أن تثقوا بأننا سنتعامل مع أي انتهاك محتمل للعلاقات الدبلوماسية."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_10",
+      "value": "حسنًا. ولكنني لن أبقى للتحدث أكثر من ذلك. خذوا البيانات."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_01",
+      "value": "توقف. لا يمكن أن نتركك تغادر بمعلومات خاصة بالاتحاد."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_02",
+      "value": "أوو؟ أتظنون أنه يمكنكم إيقافي؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_03",
+      "value": "ثمة أدلة وفرها مرشد الاستشعار اللاسلكي تفيد بأن عناصر من القسم 31 استمروا في التجسس على رجالي عقدًا من الزمن تقريبًا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_04",
+      "value": "ومن واجبي إبلاغ المجلس الأعلى بهذا الانتهاك!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_05",
+      "value": "ولن يُجدي معك الحوار المنطقي، أليس كذلك؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_06",
+      "value": "منطق من بني جنسكم؟ بالكاد. أنتم حثالة غادرة. لقد تعلم الرومولان عدم الثقة في الاتحاد."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_07",
+      "value": "وأنتم الجديرون بالثقة إذن! إن لم يُجدِ معك الحوار المنطقي، فسيُجدي مسدس فازر!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_01",
+      "value": "إنكم على أعتاب الاختبار الأخير."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_02",
+      "value": "وستتخذ شكل قائدي السابق، جين لوك بيكارد."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_03",
+      "value": "لقد بدا مناسبًا لهذا الاختبار."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_04",
+      "value": "بالإضافة إلى الإيمان والإرادة والحِنكة، قُرِّر أن المهندس يجب أن يمتلك صفة أخرى: القدرة النادرة على جمع عدد كبير من العقول اللازمة في مسعى ملحمي كإنشاء نيكسس."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_05",
+      "value": "كان يتم هذا غالبًا بالحوار والمنطق، ولكن في بعض الأوقات يجب أن يقضي المرء على المعارضة في سبيل الهدف الأسمى."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_06",
+      "value": "اعثروا على البوابة لإكمال الاختبار."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_01",
+      "value": "أمامنا! إنها البوابة الأخيرة!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_02",
+      "value": "تهانينا، يا طاقم سفينة <i>أرتميس</i>."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_03",
+      "value": "لقد اجتزتم اختبارًا بعد الآخر، وأظهرتم الصفات التي مكّنت المهندسين الأوائل من بناء هذه الأعجوبة التي نقف داخلها."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_04",
+      "value": "أنتم جديرون حقًا بمهام المهندسين."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_05",
+      "value": "هل ترون هذا؟ يُظهر جهاز التريكوردر الخاص بي سيلاً من المعلومات يتدفق داخل مركز بيانات سفينة <i>أرتميس</i>."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_06",
+      "value": "رسوم بيانية، مخططات..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_07",
+      "value": "ستستخدمون هذه المعلومات لتساعدكم على إصلاح محرك الواقع."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_08",
+      "value": "ولكن أولاً، يجب أن تطهرونا من وجود الدريملس."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_01",
+      "value": "يبدو المحرك أكثر كآبة الآن، أليس كذلك؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_02",
+      "value": "يقول مقدم الرعاية إنه تضرر بشكل كبير."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_03",
+      "value": "من يدري كم استغرقنا من الوقت في اختبارات مقدم الرعاية..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_04",
+      "value": "مدة كافية ليسيطر الدريملس على المكان!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle04_01",
+      "value": "لا فرصة لديكم في أن تمنعونا من الإطاحة بهذه الآلة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle04_02",
+      "value": "سنتبين أمر ذلك."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_01",
+      "value": "لا يمكننا السماح لكم بالتوغل أكثر من ذلك."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_02",
+      "value": "يجب أن تسمحوا لنا بالمرور. حياة الملايين على المحك!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_03",
+      "value": "نتفهم قلقكم. نحن نحاول إنقاذهم أيضًا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_04",
+      "value": "أنتم تتحكمون في مصائرهم. أنتم تقلدون أنفسكم وصاية أخلاقية سامية، في حين أنكم لا تملكون الحق في ذلك."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_05",
+      "value": "نحن نعيد النظام إلى شعبنا وإلى العالم. سينتهي كل شيء."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_01",
+      "value": "ها هو - المركز!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_02",
+      "value": "لا بد من أن هذه هي قائدة الدريملس."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_03",
+      "value": "الدخلاء... لا تكلون في مهمتكم لإيقافنا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_04",
+      "value": "لقد رأيت لمحة من هويتكِ القديمة. قبل أن ينتهي بكِ المطاف إلى هنا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_05",
+      "value": "لقد كنتِ باحثة وأمًا. بالتأكيد ارتكاب جرائم قتل بهذا المعدل ليس من طبيعتِك!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_06",
+      "value": "هل تظنون أن ما نفعله قتل؟ لا بد من أن تنتهي الحياة كلها في وقت ما. الحياة كلها!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_01",
+      "value": "هذا يكفي! أنتم حمقى لحمايتكم هذا المكان. إنه سجن. إهانة للتيار الطبيعي للعالم!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_02",
+      "value": "ربما. قد لا تكون نيكسس سوى مؤسسة مضللة استعلائية أقامتها حضارة عتيقة، تورط كل من يدخلها."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_03",
+      "value": "ولكنها مأوى كل هذه العقول والأرواح الآن، ولستم الحكم الذي سيقرر ضرورة انتهاء حياتهم."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_04",
+      "value": "سلوك صالح جدًا مليء بالإصرار."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_05",
+      "value": "هل تعتقدون حقًا أن نيكسس صُممت لأغراض خيرة بالكامل؟ ستكونون واهمين إن كنتم تظنون ذلك."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_06",
+      "value": "لقد أنجزنا مهمتنا هنا اليوم. وعيي حاضر الآن في الشبكة التي تسري خلال نيكسس بقدر ما هو حاضر هنا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_07",
+      "value": "يمكنكم إعادة الاستقرار إلى محرك الواقع هذا، ولكنه نقطة في بحر المحركات الأخرى التي سيتم إيقافها قريبًا. (تقوم بالانتقال)"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_08",
+      "value": "أكره أن أقول ذلك ولكن... ماذا نعرف بالفعل عن نيكسس؟ هل فعلنا الصواب؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_09",
+      "value": "أعرف أننا لن ندع أحدًا ينهي حياة هؤلاء الأشخاص بهذه البساطة (ينتقلون مرةً أخرى إلى سفينة أرتميس)"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_10",
+      "value": "لقد تراجعَت من المحرك، ولكن الاندماج مع مركز المحرك كشف لها سرًا - سرًا كنا نأمل أن نخفيه عن الدريملس"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_11",
+      "value": "لقد منحناكم إمكانية الوصول إلى هدفهم القادم. أرجوكم التزموا بواجبكم بصفتكم مهندسين وأسرعوا، قبل أن نفقد كل شيء."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_01",
+      "value": "وحدة التحكم هذه قادرة على توجيه المنصة إلى أحد المَخرجَين."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_02",
+      "value": "إذن... نحن نتقدّم جزافًا بشكلٍ عشوائي، أليس كذلك؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_03",
+      "value": "ما المقولة التي أخبرتنا بأن القائد كيرك كان ليستخدمها؟ \"التصرف بجرأة\"؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_04",
+      "value": "ولكن لا أزال أعتقد أنه كان لديه فكرة على الأقل عن الاتجاه الذي يسلكه."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_01",
+      "value": "لنتخذ الطريق الأيسر."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_02",
+      "value": "ألديك سبب محدد؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_03",
+      "value": "هذا لأنني أعسر."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_04",
+      "value": "سبب كافٍ بالنسبة إلي!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_01",
+      "value": "لقد حالفنا الحظ حتى الآن، لذا لا أمانع أن أسلك أيًا من الطريقين."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_02",
+      "value": "حسنًا. بعد تطور عمره آلاف السنين والسفر على متن أحد أكثر المركبات تطورًا على الإطلاق، نعتمد على الحظ لإنقاذ حياة الملايين."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_03",
+      "value": "متأكد جدًا، أؤيد اتخاذ الطريق الأيمن. لمَ لا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_01",
+      "value": "أنتم تقفون على أعتاب مركز المحرك."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_01",
+      "value": "لقد بدأنا هذه الرحلة وليس لدينا معرفة كبيرة بنيكسس أو طبيعتها."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_02",
+      "value": "اجتمعنا معًا في طاقم واتحدنا رغم اختلاف ثقافاتنا وخلفياتنا وتوقيتنا!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_03",
+      "value": "لا يمكنني أن أفكر في أي صحبة أفضل لتشاركني هذه اللحظة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_04",
+      "value": "الآن لقد أدمعتَ عينَي هذا الرجل العجوز! لندخل إلى هناك ونضع حدًا للأمر!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_01",
+      "value": "قال كهاليس العظيم ذات مرة \" قد يشتد بأس العدو ولا يقوى أحد على الوقوف في طريقه\"."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_02",
+      "value": "ولكن يجب أن نفعل، فأنا أفضل الموت على أن أعرف أننا عجزنا عن أداء دورنا بصفتنا محاربين في اللحظات المهمة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_03",
+      "value": "اليوم نُحيي ذكرى هذه الكلمات! معًا سنقضي على كل العوائق!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_04",
+      "value": "أحسنت قولاً يا صديقي!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_05",
+      "value": "كان سيلمع اسمك بصفتك مدرب كرة قدم في الأكاديمية يا سيد وورف!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_01",
+      "value": "بقدر ما أرغب في إنهاء هذه المهمة لأتمكن من العودة إلى القسم الطبي حيث أنتمي..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_02",
+      "value": "أرى أنه من الجنون أن نقتحم المكان دون الاستعداد الكافي!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_03",
+      "value": "لنجرِ عمليات مسح للمكان أولاً على الأقل ولنرَ مع ماذا نتعامل!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_04",
+      "value": "منطقي كالعادة يا صديقي!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_05",
+      "value": "وقد يمنحنا هذا الاستعداد الأفضلية التي نحتاج إليها!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_01",
+      "value": "مرحبًا، أيها المهندسون."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_02",
+      "value": "أوو، إذن حصلنا على اللقب البرّاق! ماذا بعد؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_03",
+      "value": "بينما نتحدث، يخترق الدريملس معظم دفاعات محرك الواقع."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_04",
+      "value": "تم تحميل المعلومات المطلوبة لإصلاح المحرك على سفينتكم ويمكنكم الوصول إليها عبر المفاعلات."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_05",
+      "value": "خذوا هذه المعلومات إلى مركز المهندسين لضبطها ومن ثم إعادة تشغيل النظام."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_06",
+      "value": "هؤلاء الذين يسمون أنفسهم \"الدريملس\" متعصبون جدًا وسيخاطرون بكل شيء لإيقافكم."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_01",
+      "value": "الضرر بالغ. الوقت يداهمنا!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_02",
+      "value": "نتوقّع حدوث تعطل كارثي في أقل من 5 دقائق بتوقيت أرضنا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_03",
+      "value": "في الوقت الحالي، توشك الدريملس الأم على الانتهاء من دمج وعيها في المحرك."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_04",
+      "value": "هذا يبدو... غير مرغوب."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_05",
+      "value": "صُممت بروتوكولات المحرك لمنع الوصول غير المصرح به، ولكن استمر الدريملس في تخريب النظام وجمع مفاعلاته وقتًا طويلاً."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_06",
+      "value": "إذا تمكنت قائدتهم من دمج وعيها في هذا المحرك، فستتمكن من إيقاف تشغيله، ولن تستغرق وقتًا طويلاً حتى يمتد نفوذها إلى بقية نيكسس."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_07",
+      "value": "لا بد من وجود شيء يمكننا القيام به لمنع حدوث هذا!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_08",
+      "value": "بصفتك مهندسًا، يمكنك دمج وعيك في المحرك بالطريقة نفسها."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_09",
+      "value": "ولكن مثل هذا الإنجاز يتطلب مهارة فائقة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_10",
+      "value": "أنتِ واحدة من أقوى الأشخاص الذين نلت شرف الوقوف بجانبهم يا مايكل!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_11",
+      "value": "ناهيكِ عن أنكِ أخت بالتبني لأفضل دامج عقول رأيته. حسنًا دامج العقول الوحيد."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_12",
+      "value": "أنا أؤمن بكِ يا مايكل."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_13",
+      "value": "أنا... سأحاول."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_14",
+      "value": "إنه... إنه يعمل. أشعر أن الجدران تنفتح حولي وتحيطني كذراعي أمي. كل شيء ذهبي. كل شيء ضخم جدًا. أنا... لم تكن لدي فكرة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_15",
+      "value": "يمكنني الشعور بشخص آخر هنا. ضخم. أطول من الجبل أمامي. إنها نزيهة جدًا. غاضبة جدًا. لقد مات أطفالها وزملاؤها جميعًا. ماتوا جميعًا منذ زمن بعيد."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_16",
+      "value": "لقد لاحظتني! أحاول تجنبها. أعتقد أنها تفقد تركيزها المنصب على المحرك... إنها تلاحقني."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_17",
+      "value": "لقد أخرجتي خارج النظام! يمكنني الشعور بها وهي تبذل ما في وسعها لإتمام المهمة... قد يكون الأمر أبطأها..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_18",
+      "value": "لن تتمكني من الوصول إلى المحرك مجددًا من هنا. يجب أن تصلي إلى المركز."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_01",
+      "value": "يجب أن نحذركم من أن العملية أوشكت على الاكتمال. لقد نفد منكم الوقت عمليًا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_02",
+      "value": "لا! دعني أحاول الوصول إلى المحرك مجددًا باستخدام المفاعل."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_03",
+      "value": "هل أنتِ متأكدة؟ آخر مرة تعدَّت مؤشراتك الحيوية المستوى الطبيعي. إن فعلتِها مجددًا..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_04",
+      "value": "سيعتني بي أفضل طبيب في ستارفليت، أليس كذلك؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_05",
+      "value": "حسنًا، إذن افعليها!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_06",
+      "value": "لقد رجعت."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_07",
+      "value": "أشعر بها في كل مكانٍ حولنا!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_08",
+      "value": "حزنها يخيم على المكان. إنها وحيدة جدًا. كل من عرفتْهم رحلوا منذ زمن بعيد."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_09",
+      "value": "إنها... تفتقدهم جميعًا. إنها عبارة عن كيان وحيد. لقد فقدت عالمها كله!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_10",
+      "value": "المكتبة الهائلة التي أسستها والبحار القرمزية التي سبحت فيها في صغرها - كل هذا اختفى. حزنها شديد جدًا! لا أستطيع... آآآه!!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_11",
+      "value": "أيها الطبيب! أخرجها من هناك! هذه التجربة تقتلها!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_12",
+      "value": "أنا بخير. لم أشعر بحزن كحزنها من قبل."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_13",
+      "value": "لقد انفجر بداخلها وتجاوز واقع المجال الذي كانت فيه. لم أعد أستطيع التحكم في عقلها وروحها. هذا أصل كل هؤلاء... الدريملس. والآن وصلوا إلى هنا."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_14",
+      "value": "لا عجب أنهم يرون نيكسس بهذه الطريقة."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_15",
+      "value": "ولكن لا يمكننا تركهم يتخذون القرار نيابةً عن الجميع ويواصلون هذا التدمير."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_16",
+      "value": "هل لاحظتكِ مجددًا؟"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_17",
+      "value": "أدت أفعال صديقتك إلى إبطاء العملية بمعدل 78,9 دقيقة بتوقيت الأرض."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_18",
+      "value": "لا نزال نملك الوقت!"
+    },
+    {
       "key": "Data_GSCutSceneDialogue_opening_cutscene_01",
       "value": "لقد عاد نيكسس."
     },
@@ -11371,6 +13223,10 @@
       "value": "شبح الآلة"
     },
     {
+      "key": "Data_GSEpisodes_displayName_Episode7",
+      "value": "عطاء وتعاطف وضبط نفس"
+    },
+    {
       "key": "Data_GSMissionObjective_e1_m1_encounter03",
       "value": "هزيمة خان"
     },
@@ -11527,6 +13383,30 @@
       "value": "انتقل بجسارة إلى مكان لم يذهب إليه أحد من قبل."
     },
     {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission1",
+      "value": "تطفو السفينة <i>يو إس إس أرتميس</i> خارج محرك الواقع الضخم الذي تم بناؤه حول نجم مأسور."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission2",
+      "value": "للحصول على مساعدة مقدم الرعاية، يجب أن يكمل فريق المهام البعيدة أربع مهام، أولها اختبار الإيمان."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission3",
+      "value": "أما الاختبار الثاني، فهو اختبار الإرادة، الذي سيورط فريق المهام البعيدة في مواجهة البورج مرةً أخرى."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission4",
+      "value": "قد لا يكون الإيمان والإرادة كافيين دائمًا، لذا سيواجه فريق المهام البعيدة اختبار الحِنكة."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission5",
+      "value": "أما آخر اختبار فهو اختبار المنطق، لإثبات إمكانية تسوية بعض النزاعات من خلال الحوار والتخطيط."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission6",
+      "value": "مع الحصول على وشاح المهندسين، سيتعين على فريق المهام البعيدة إيقاف الدريملس وإصلاح محرك الواقع."
+    },
+    {
       "key": "Data_GSMissions_displayName_Episode1_Mission1",
       "value": "التصرف بجرأة"
     },
@@ -11671,12 +13551,44 @@
       "value": "تذمر من دون ضجة"
     },
     {
+      "key": "Data_GSMissions_displayName_Episode7_Mission1",
+      "value": "سعادة نصف مزيفة"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission2",
+      "value": "مكان غريب"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission3",
+      "value": "عبر طريق طويل"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission4",
+      "value": "عن الشراب والزهور"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission5",
+      "value": "عزلة تكللها النجوم"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission6",
+      "value": "كلمة أخيرة"
+    },
+    {
       "key": "Data_GSNodeEncounter_BattleDesc_Borg",
       "value": "تم الكشف عن علامات حياة على وجود البورج العدائيين. استعدوا للمعركة."
     },
     {
       "key": "Data_GSNodeEncounter_BattleDesc_Cardassian",
       "value": "تم الكشف عن علامات حياة على وجود الكارداسيان العدائيين. استعدوا للمعركة."
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_CardassianShapeshifters",
+      "value": "تم اكتشاف علامات على حياة كائنات معادية من المتحولين ومجموعة الكارداسيان. استعد للمعركة."
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+      "value": "تم اكتشاف علامات على حياة كائنات معادية من الدريملس. استعد للمعركة."
     },
     {
       "key": "Data_GSNodeEncounter_BattleDesc_e1_m1_battle01",
@@ -12911,8 +14823,16 @@
       "value": "تم الكشف عن علامات حياة على وجود الرومولان والجورن العدائيين. استعدوا للمعركة."
     },
     {
+      "key": "Data_GSNodeEncounter_BattleDesc_Shapeshifters",
+      "value": "تم اكتشاف علامات على حياة كائنات معادية من المتحولين. استعد للمعركة."
+    },
+    {
       "key": "Data_GSNodeEncounter_BattleDesc_Unknown",
       "value": "تم الكشف عن وجود أعداء مجهولين. استعدوا للمعركة."
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_UnknownLife",
+      "value": "تم اكتشاف علامات على حياة كائنات معادية مجهولة. استعد للمعركة."
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_AbandonedShuttle",
@@ -12975,6 +14895,10 @@
       "value": "تجويف البورج"
     },
     {
+      "key": "Data_GSNodeExploration_clickableObject_BorgCube",
+      "value": "مكعب البورج"
+    },
+    {
       "key": "Data_GSNodeExploration_clickableObject_BorgDevice",
       "value": "جهاز البورج"
     },
@@ -12989,6 +14913,10 @@
     {
       "key": "Data_GSNodeExploration_clickableObject_BorgDrones",
       "value": "كائنات البورج"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_BorgSensors",
+      "value": "مستشعرات البورج"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_BorgSphere",
@@ -13343,6 +15271,14 @@
       "value": "جهاز إرسال تابع للرومولان"
     },
     {
+      "key": "Data_GSNodeExploration_clickableObject_Romulans",
+      "value": "الرومولان"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_Runabout",
+      "value": "السفينة المتجولة"
+    },
+    {
       "key": "Data_GSNodeExploration_clickableObject_Sabotage",
       "value": "تخريب"
     },
@@ -13453,6 +15389,10 @@
     {
       "key": "Data_GSNodeExploration_clickableObject_WorkerBee",
       "value": "النحل العامل"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_Wounded",
+      "value": "جريح"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_Wreckage",
@@ -14263,6 +16203,134 @@
       "value": "لتجنب كشفه، يتجه فريق المهام البعيدة إلى الطريق على اليمين. يكتشف فريق المهام البعيدة طريقًا بديلاً."
     },
     {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option01",
+      "value": "باستخدام أحد المفاعلات، يتمكن فريق المهام البعيدة من تعطيل حقل القوة الذي يعترض طريقه."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option02",
+      "value": "يواصل فريق المهام البعيدة استكشاف المنشأة. يكتشف فريق المهام البعيدة <b>طريقًا بديلاً<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option01",
+      "value": "يستخدم فريق المهام البعيدة مفاعلاً لفتح الباب المغلق واكتشاف بعض الإمدادات."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option02",
+      "value": "يواصل فريق المهام البعيدة التحرك، مقدِّمًا الحرص على الفضول."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option01",
+      "value": "ينجح فريق المهام البعيدة في الانتقال إلى المنصة واكتشاف بعض الإمدادات."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option02",
+      "value": "يتجاهل فريق المهام البعيدة المنصة ويواصل التحرك، لعدم رغبته في المخاطرة بتكبد الإصابات المحتملة."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option01",
+      "value": "أثناء مسح السفينة المتجولة للتأكد من عدم تضررها، يشن المتحولون الذين يظهرون بهيئة جنود الاتحاد هجومًا على فريق المهام البعيدة. يحصل فريق المهام البعيدة على أحد <b>التعزيزات التقنية<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option02",
+      "value": "ينطلق المتحولون من كمينهم ويأسرون فريق المهام البعيدة مجثيين على أقدامهم. يتلقى فريق المهام البعيدة <b>عقوبة سريعة</b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option03",
+      "value": "أثناء البحث في السفينة المتجولة، يكتشف فريق المهام البعيدة بعض الإمدادات قبل أن يتعرض للهجوم من قِبل المتحولين."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option01",
+      "value": "لم تكن الإمدادات المتروكة سوى كمين آخر أعده المتحولون. استعد للمعركة."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option02",
+      "value": "يواصل فريق المهام البعيدة التحرك مع الحذر من الفخاخ المحتملة."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option01",
+      "value": "عند الوصول إلى مستشعرات البورج، يستكشف فريق المهام البعيدة طريقًا جديدًا للتقدم آملاً ألا يلحظ أحد تدخلاتهم."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option02",
+      "value": "يختار فريق المهام البعيدة استمرار استكشاف مكعب البورج دون جذب الكثير من الانتباه. يكتشف فريق المهام البعيدة <b>طريقًا بديلاً<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option01",
+      "value": "أدت زيادة تحميل الطاقة على تجويف البورج إلى تعطله وتعطل الكائنات التي كانت تجري إعادة الشحن. يتلقى فريق المهام البعيدة <b>تعزيزًا للدفاع<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option02",
+      "value": "يختار فريق المهام البعيدة تجنب التفاعل مع تجويف البورج."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option01",
+      "value": "أثناء البحث في الأجزاء والمواد الخاصة بالبورج، يكتشف فريق المهام البعيدة بعض الإمدادات."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option02",
+      "value": "يتجاهل فريق المهام البعيدة تقنية البورج الاحتياطية ويمضي قدمًا."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option01",
+      "value": "بتقديم المساعدة الطبية، يساعد فريق المهام البعيدة الأفراد المصابين على الحركة. يقدم مركز الخدمات الطبية في ستارفليت بعض الإمدادات الإضافية تقديرًا لهم."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option02",
+      "value": "لحماية الأفراد المصابين، يصوب فريق المهام البعيدة أسلحته نحو الكلينجون القادمين. يحصل فريق المهام البعيدة على <b>تعزيز للهجوم<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option01",
+      "value": "مع قلة ما تبقى من الوقت، يمضي فريق المهام البعيدة قدمًا."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option02",
+      "value": "باستخدام أحد المفاعلات لتغيير \"الواقع\"، يكتشف فريق المهام البعيدة بعض الإمدادات."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option01",
+      "value": "دون اللجوء إلى حل سلمي صريح، تمكن فريق المهام البعيدة من تجنب القتال."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option02",
+      "value": "لسوء الحظ، أدى الاستقبال العدائي من الرومولان إلى القتال."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option01",
+      "value": "رغم عدم الاقتناع التام من سيلا، سمحت لفريق المهام البعيدة بالتقدم مع تجنب القتال."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option02",
+      "value": "تشن سيلا والرومولان هجومًا ضاريًا، بدافع عدم رغبتها في الثقة بالاتحاد."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option01",
+      "value": "بفضل القدرة على تحقيق نتيجة دبلوماسية، يتمكن فريق المهام البعيدة من تجنب القتال."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option02",
+      "value": "بسبب عدم قدرة فريق المهام البعيدة على التوصل إلى حل دبلوماسي، يعمد إلى الاستعداد للقتال."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option01",
+      "value": "يختار فريق المهام البعيدة الاستمرار في الطريق الأيسر."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option02",
+      "value": "يختار فريق المهام البعيدة الاستمرار في الطريق الأيمن."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option01",
+      "value": "بسبب إصرار فريق المهام البعيدة على إيقاف الدريملس، يستعد الفريق للقتال. يحصل فريق المهام البعيدة على <b>تعزيز للروح المعنوية<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option02",
+      "value": "يستعد فريق المهام البعيدة لمواجهة الدريملس في قتال وإنقاذ محرك الواقع."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option03",
+      "value": "من خلال مسح الدريملس، يكتسب فريق المهام البعيدة أفضلية في المعركة القادمة. يحصل فريق المهام البعيدة على أحد <b>التعزيزات التقنية<b>."
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_AdvancedForward",
       "value": "يتقدَّم فريق المهام البعيدة"
     },
@@ -14327,6 +16395,10 @@
       "value": "تم اختراق الكمبيوتر"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
+      "value": "تمت متابعة التقدم"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_CoreDisabled",
       "value": "تم تعطيل مفاعل الطاقة"
     },
@@ -14341,6 +16413,10 @@
     {
       "key": "Data_GSNodeExploration_ResultsHeader_Diplomacy",
       "value": "نجاح الدبلوماسية"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsHeader_DoorOpened",
+      "value": "تم فتح الباب"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_DoorsOpened",
@@ -14431,6 +16507,10 @@
       "value": "تم اكتشاف طريق"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_PersonnelHealed",
+      "value": "تم شفاء أفراد الطاقم"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_PulledBack",
       "value": "تم الانسحاب"
     },
@@ -14467,6 +16547,10 @@
       "value": "نجح المسح الضوئي"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_SensorsAccessed",
+      "value": "تم الوصول إلى المستشعر"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_ShieldBonus",
       "value": "تعزيز الدرع"
     },
@@ -14481,6 +16565,10 @@
     {
       "key": "Data_GSNodeExploration_ResultsHeader_SpeedBonus",
       "value": "تعزيز السرعة"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsHeader_SpeedDown",
+      "value": "انخفاض السرعة"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
@@ -15057,6 +17145,30 @@
     {
       "key": "Data_MissionObjective_e6_m6_Name",
       "value": "إصلاح نيكسس"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m1_Name",
+      "value": "إيقاف الدريملس"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m2_Name",
+      "value": "اختبار الإيمان"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m3_Name",
+      "value": "اختبار الإرادة"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m4_Name",
+      "value": "اختبار الحِنكة"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m5_Name",
+      "value": "اختبار المنطق"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m7_Name",
+      "value": "إيقاف الدريملس"
     },
     {
       "key": "Data_Notification_DailyRewardOneOff_Body",
@@ -18899,6 +21011,10 @@
       "value": "انسحاب"
     },
     {
+      "key": "Data_Skill_Chang_Bridge_description",
+      "value": "قام الكلينجون بربح +5% الهجوم."
+    },
+    {
       "key": "Data_Skill_Chekov_Attack_description_level1",
       "value": "يمكنك إحداث ضرر بنسبة 100%"
     },
@@ -18909,6 +21025,10 @@
     {
       "key": "Data_Skill_Chekov_Attack_displayName",
       "value": "مسدس فازر"
+    },
+    {
+      "key": "Data_Skill_Chekov_Bridge_description",
+      "value": "قام ستارفليت بربح +5% الهجوم."
     },
     {
       "key": "Data_Skill_Crusher_Attack_description_level1",
@@ -19156,7 +21276,7 @@
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_description_level1",
-      "value": "يمكنك إحداث ضرر في التقنية بنسبة 150%."
+      "value": "يمكنك إحداث ضرر في التقنية بنسبة 100%."
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_displayName",
@@ -19256,7 +21376,7 @@
     },
     {
       "key": "Data_Skill_Elnor_Bridge_description",
-      "value": "يمكنك الحصول على زيادة بمقدار +5% في الدفاع."
+      "value": "اربح +3% الدفاع."
     },
     {
       "key": "Data_Skill_Elnor_Bridge_displayName",
@@ -19305,6 +21425,10 @@
     {
       "key": "Data_Skill_Garak_Attack_description_level2",
       "value": "يمكنك إحداث ضرر بنسبة 150%"
+    },
+    {
+      "key": "Data_Skill_Garak_Bridge_description",
+      "value": "اربح +5% فرصة حاسمة."
     },
     {
       "key": "Data_Skill_GenBorgEng01M_Attack_description_level1",
@@ -20967,6 +23091,18 @@
       "value": "مناورة بيكارد"
     },
     {
+      "key": "Data_Skill_PicardDixon_Attack_description_level1",
+      "value": "يمكنك إحداث ضرر بنسبة 100%"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Attack_description_level2",
+      "value": "يمكنك إحداث ضرر بنسبة 150%"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Bridge_description",
+      "value": "قام ستارفليت بربح +5% الهجوم."
+    },
+    {
       "key": "Data_Skill_PicardOld_Attack_description_level1",
       "value": "يمكنك إحداث ضرر بنسبة 2 × 50%."
     },
@@ -21347,6 +23483,18 @@
       "value": "هجوم مفاجئ"
     },
     {
+      "key": "Data_Skill_Shinzon_Attack_description_level1",
+      "value": "يمكنك إحداث ضرر بنسبة 100% (مع احتمالية إحداث جروح بنسبة 25%)."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Attack_description_level2",
+      "value": "يمكنك إحداث ضرر بنسبة 125% (مع احتمالية التسبب في جروح بنسبة 50%)."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Bridge_description",
+      "value": "قام الرومولان بربح +5% الهجوم."
+    },
+    {
       "key": "Data_Skill_Sisko_Attack_description_level1",
       "value": "يمكنك إحداث ضرر بنسبة 3 × 35%. (احتمالية إحداث تقليل في الدفاع بنسبة 25% لدور واحد إذا كان العدو هو الكارداسيان)"
     },
@@ -21528,7 +23676,7 @@
     },
     {
       "key": "Data_Skill_Stamets_Bridge_description",
-      "value": "يحصل ستارفليت على زيادة تقنية بمقدار +10%."
+      "value": "قام ستارفليت بربح +5% التقنية."
     },
     {
       "key": "Data_Skill_Stamets_Bridge_displayName",
@@ -21672,7 +23820,7 @@
     },
     {
       "key": "Data_Skill_Tilly_Bridge_description",
-      "value": "تُكسبك الهندسة زيادة بمقدار +10% في الدفاع."
+      "value": "قام ستارفليت بربح +5% الدفاع."
     },
     {
       "key": "Data_Skill_Tilly_Bridge_displayName",
@@ -21736,11 +23884,11 @@
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_description_level1",
-      "value": "يمكنك استخدام التخفي لجميع الحلفاء لعدد 3 أدوار."
+      "value": "<color=#01e2ff>يمكنك استخدام التخفي</color> لجميع الحلفاء لعدد 3 أدوار. (<color=#01e2ff>يمكنك زيادة الروح المعنوية بمقدار +1</color> إذا كان الحليف هو <color=#01e2ff>رومولان</color>)."
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_description_level2",
-      "value": "يمكنك استخدام التخفي واستخدام الإزالة لجميع الحلفاء لعدد 3 أدوار."
+      "value": "<color=#01e2ff>يمكنك استخدام التخفي</color> و<color=#01e2ff>الإزالة</color>لجميع الحلفاء لعدد 3 أدوار. (<color=#01e2ff>يمكنك زيادة الروح المعنوية بمقدار +2</color> إذا كان الحليف هو <color=#01e2ff>رومولان</color>)."
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_displayName",
@@ -21748,11 +23896,11 @@
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_description_level1",
-      "value": "يمكن خفض الروح المعنوية بمقدار -1 وإحداث تقليل في الدفاع لعدو واحد لعدد 3 أدوار. الدور التالي: يمكنك إحداث ضرر بنسبة 200% (يمكنك إحداث ضرر بنسبة 300% إذا كانت الروح المعنوية للعدو أقل من 0)"
+      "value": "يمكنك إحداث <color=#01e2ff>ضرر في التقنية بنسبة 200%</color> لعدو واحد و<color=#01e2ff>يمكنك خفض الروح المعنوية بمقدار -1</color> لجميع الأعداء."
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_description_level2",
-      "value": "يمكنك خفض الروح المعنوية بمقدار -2 وإحداث تقليل كبير في الدفاع لعدو واحد لعدد 3 أدوار. الدور التالي: يمكنك إحداث ضرر بنسبة 300% (يمكنك إحداث ضرر بنسبة 450% إذا كانت الروح المعنوية للعدو أقل من 0)"
+      "value": "يمكنك إحداث <color=#01e2ff>ضرر في التقنية بنسبة 300%</color> لعدو واحد و<color=#01e2ff>يمكنك خفض الروح المعنوية بمقدار -2</color> لجميع الأعداء."
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_displayName",
@@ -21772,7 +23920,7 @@
     },
     {
       "key": "Data_Skill_Torchbearer_Bridge_description",
-      "value": "يحصل الكلينجون على زيادة بمقدار +10% في الإرادة."
+      "value": "قام الكلينجون بربح +5% الإصرار."
     },
     {
       "key": "Data_Skill_Torchbearer_Bridge_displayName",
@@ -21891,8 +24039,20 @@
       "value": "الانضباط"
     },
     {
+      "key": "Data_Skill_Troi_Attack_description_level1",
+      "value": "يمكنك إحداث ضرر بنسبة 100%"
+    },
+    {
+      "key": "Data_Skill_Troi_Attack_description_level2",
+      "value": "يمكنك إحداث ضرر بنسبة 150%"
+    },
+    {
       "key": "Data_Skill_Troi_Attack_displayName",
       "value": "مسدس فازر"
+    },
+    {
+      "key": "Data_Skill_Troi_Bridge_description",
+      "value": "قام ستارفليت بربح +5% الإصرار."
     },
     {
       "key": "Data_Skill_Tuvok_Attack_displayName",
@@ -25079,6 +27239,26 @@
       "value": "تم اكتشاف صندوق الموارد"
     },
     {
+      "key": "News_Crew_Generic_Headline",
+      "value": "طاقم جديد"
+    },
+    {
+      "key": "News_Episode_Generic_Headline",
+      "value": "حلقة جديدة"
+    },
+    {
+      "key": "News_FactionEvent_Generic_Headline",
+      "value": "فعالية فصيلة جديدة"
+    },
+    {
+      "key": "News_SoloEvent_Generic_Headline",
+      "value": "فعالية فردية جديدة"
+    },
+    {
+      "key": "News_Update_Generic_Headline",
+      "value": "تحديث جديد"
+    },
+    {
       "key": "No Items Summoned",
       "value": "لم يتم استدعاء أي عناصر"
     },
@@ -25652,43 +27832,43 @@
     },
     {
       "key": "shop_Gear_Command_Padd_Common",
-      "value": "جهاز عرض الوصول الشخصي الأسطوري: القيادة"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Epic",
-      "value": "جهاز عرض الوصول الشخصي النادر جدًا: القيادة"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Legendary",
-      "value": "جهاز عرض الوصول الشخصي الملحمي: القيادة"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Rare",
       "value": "جهاز عرض الوصول الشخصي الشائع: القيادة"
     },
     {
-      "key": "shop_Gear_Command_Padd_VeryRare",
+      "key": "shop_Gear_Command_Padd_Epic",
+      "value": "جهاز عرض الوصول الشخصي الملحمي: القيادة"
+    },
+    {
+      "key": "shop_Gear_Command_Padd_Legendary",
+      "value": "جهاز عرض الوصول الشخصي الأسطوري: القيادة"
+    },
+    {
+      "key": "shop_Gear_Command_Padd_Rare",
       "value": "جهاز عرض الوصول الشخصي النادر: القيادة"
     },
     {
+      "key": "shop_Gear_Command_Padd_VeryRare",
+      "value": "جهاز عرض الوصول الشخصي النادر جدًا: القيادة"
+    },
+    {
       "key": "shop_Gear_Command_Phaser_Common",
-      "value": "مسدس فازر من النوع الثاني الأسطوري: القيادة"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Epic",
-      "value": "مسدس فازر من النوع الثاني النادر جدًا: القيادة"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Legendary",
-      "value": "مسدس فازر من النوع الثاني الملحمي: القيادة"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Rare",
       "value": "مسدس فازر من النوع الثاني الشائع: القيادة"
     },
     {
-      "key": "shop_Gear_Command_Phaser_VeryRare",
+      "key": "shop_Gear_Command_Phaser_Epic",
+      "value": "مسدس فازر من النوع الثاني الملحمي: القيادة"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_Legendary",
+      "value": "مسدس فازر من النوع الثاني الأسطوري: القيادة"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_Rare",
       "value": "مسدس فازر من النوع الثاني النادر: القيادة"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_VeryRare",
+      "value": "مسدس فازر من النوع الثاني النادر جدًا: القيادة"
     },
     {
       "key": "shop_Gear_Command_Tricorder_Common",
@@ -25732,43 +27912,43 @@
     },
     {
       "key": "shop_Gear_Engineer_Padd_Common",
-      "value": "جهاز عرض الوصول الشخصي الأسطوري: الهندسة"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Epic",
-      "value": "جهاز عرض الوصول الشخصي النادر جدًا: الهندسة"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Legendary",
-      "value": "جهاز عرض الوصول الشخصي الملحمي: الهندسة"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Rare",
       "value": "جهاز عرض الوصول الشخصي الشائع: الهندسة"
     },
     {
-      "key": "shop_Gear_Engineer_Padd_VeryRare",
+      "key": "shop_Gear_Engineer_Padd_Epic",
+      "value": "جهاز عرض الوصول الشخصي الملحمي: الهندسة"
+    },
+    {
+      "key": "shop_Gear_Engineer_Padd_Legendary",
+      "value": "جهاز عرض الوصول الشخصي الأسطوري: الهندسة"
+    },
+    {
+      "key": "shop_Gear_Engineer_Padd_Rare",
       "value": "جهاز عرض الوصول الشخصي النادر: الهندسة"
     },
     {
+      "key": "shop_Gear_Engineer_Padd_VeryRare",
+      "value": "جهاز عرض الوصول الشخصي النادر جدًا: الهندسة"
+    },
+    {
       "key": "shop_Gear_Engineer_Phaser_Common",
-      "value": "مسدس فازر من النوع الثاني الأسطوري: الهندسة"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Epic",
-      "value": "مسدس فازر من النوع الثاني النادر جدًا: الهندسة"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Legendary",
-      "value": "مسدس فازر من النوع الثاني الملحمي: الهندسة"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Rare",
       "value": "مسدس فازر من النوع الثاني الشائع: الهندسة"
     },
     {
-      "key": "shop_Gear_Engineer_Phaser_VeryRare",
+      "key": "shop_Gear_Engineer_Phaser_Epic",
+      "value": "مسدس فازر من النوع الثاني الملحمي: الهندسة"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_Legendary",
+      "value": "مسدس فازر من النوع الثاني الأسطوري: الهندسة"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_Rare",
       "value": "مسدس فازر من النوع الثاني النادر: الهندسة"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_VeryRare",
+      "value": "مسدس فازر من النوع الثاني النادر جدًا: الهندسة"
     },
     {
       "key": "shop_Gear_Engineer_Tricorder_Common",
@@ -25812,43 +27992,43 @@
     },
     {
       "key": "shop_Gear_Medic_Padd_Common",
-      "value": "جهاز عرض الوصول الشخصي الأسطوري: الخدمات الطبية"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Epic",
-      "value": "جهاز عرض الوصول الشخصي النادر جدًا: الخدمات الطبية"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Legendary",
-      "value": "جهاز عرض الوصول الشخصي الملحمي: الخدمات الطبية"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Rare",
       "value": "جهاز عرض الوصول الشخصي الشائع: الخدمات الطبية"
     },
     {
-      "key": "shop_Gear_Medic_Padd_VeryRare",
+      "key": "shop_Gear_Medic_Padd_Epic",
+      "value": "جهاز عرض الوصول الشخصي الملحمي: الخدمات الطبية"
+    },
+    {
+      "key": "shop_Gear_Medic_Padd_Legendary",
+      "value": "جهاز عرض الوصول الشخصي الأسطوري: الخدمات الطبية"
+    },
+    {
+      "key": "shop_Gear_Medic_Padd_Rare",
       "value": "جهاز عرض الوصول الشخصي النادر: الخدمات الطبية"
     },
     {
+      "key": "shop_Gear_Medic_Padd_VeryRare",
+      "value": "جهاز عرض الوصول الشخصي النادر جدًا: الخدمات الطبية"
+    },
+    {
       "key": "shop_Gear_Medic_Phaser_Common",
-      "value": "مسدس فازر من النوع الثاني الأسطوري: الخدمات الطبية"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Epic",
-      "value": "مسدس فازر من النوع الثاني النادر جدًا: الخدمات الطبية"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Legendary",
-      "value": "مسدس فازر من النوع الثاني الملحمي: الخدمات الطبية"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Rare",
       "value": "مسدس فازر من النوع الثاني الشائع: الخدمات الطبية"
     },
     {
-      "key": "shop_Gear_Medic_Phaser_VeryRare",
+      "key": "shop_Gear_Medic_Phaser_Epic",
+      "value": "مسدس فازر من النوع الثاني الملحمي: الخدمات الطبية"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_Legendary",
+      "value": "مسدس فازر من النوع الثاني الأسطوري: الخدمات الطبية"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_Rare",
       "value": "مسدس فازر من النوع الثاني النادر: الخدمات الطبية"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_VeryRare",
+      "value": "مسدس فازر من النوع الثاني النادر جدًا: الخدمات الطبية"
     },
     {
       "key": "shop_Gear_Medic_Tricorder_Common",
@@ -25892,43 +28072,43 @@
     },
     {
       "key": "shop_Gear_Science_Padd_Common",
-      "value": "جهاز عرض الوصول الشخصي الأسطوري: العلوم"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Epic",
-      "value": "جهاز عرض الوصول الشخصي النادر جدًا: العلوم"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Legendary",
-      "value": "جهاز عرض الوصول الشخصي الملحمي: العلوم"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Rare",
       "value": "جهاز عرض الوصول الشخصي الشائع: العلوم"
     },
     {
-      "key": "shop_Gear_Science_Padd_VeryRare",
+      "key": "shop_Gear_Science_Padd_Epic",
+      "value": "جهاز عرض الوصول الشخصي الملحمي: العلوم"
+    },
+    {
+      "key": "shop_Gear_Science_Padd_Legendary",
+      "value": "جهاز عرض الوصول الشخصي الأسطوري: العلوم"
+    },
+    {
+      "key": "shop_Gear_Science_Padd_Rare",
       "value": "جهاز عرض الوصول الشخصي النادر: العلوم"
     },
     {
+      "key": "shop_Gear_Science_Padd_VeryRare",
+      "value": "جهاز عرض الوصول الشخصي النادر جدًا: العلوم"
+    },
+    {
       "key": "shop_Gear_Science_Phaser_Common",
-      "value": "مسدس فازر من النوع الثاني الأسطوري: العلوم"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Epic",
-      "value": "مسدس فازر من النوع الثاني النادر جدًا: العلوم"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Legendary",
-      "value": "مسدس فازر من النوع الثاني الملحمي: العلوم"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Rare",
       "value": "مسدس فازر من النوع الثاني الشائع: العلوم"
     },
     {
-      "key": "shop_Gear_Science_Phaser_VeryRare",
+      "key": "shop_Gear_Science_Phaser_Epic",
+      "value": "مسدس فازر من النوع الثاني الملحمي: العلوم"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_Legendary",
+      "value": "مسدس فازر من النوع الثاني الأسطوري: العلوم"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_Rare",
       "value": "مسدس فازر من النوع الثاني النادر: العلوم"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_VeryRare",
+      "value": "مسدس فازر من النوع الثاني النادر جدًا: العلوم"
     },
     {
       "key": "shop_Gear_Science_Tricorder_Common",
@@ -27139,6 +29319,10 @@
       "value": "اضغط للمتابعة"
     },
     {
+      "key": "UI_CaptainLog_Panel_FooterNote_TapToContinue_Click",
+      "value": "انقر للمتابعة"
+    },
+    {
       "key": "UI_CaptainLog_Panel_FooterNote_TapToContinue_Gamepad",
       "value": "اضغط {0} للاستمرار"
     },
@@ -27205,6 +29389,10 @@
     {
       "key": "UI_Common_Advance",
       "value": "اضغط للتقدُّم"
+    },
+    {
+      "key": "UI_Common_Advance_Click",
+      "value": "انقر للتقدُّم"
     },
     {
       "key": "UI_Common_Advance_Gamepad",
@@ -27311,6 +29499,10 @@
       "value": "الحلقة 6"
     },
     {
+      "key": "UI_Common_Missions_EpisodeIdentifier_07",
+      "value": "الحلقة 7"
+    },
+    {
       "key": "UI_Common_New",
       "value": "جديد"
     },
@@ -27359,6 +29551,10 @@
       "value": "اضغط للعودة"
     },
     {
+      "key": "UI_Common_Return_Click",
+      "value": "انقر للعودة"
+    },
+    {
       "key": "UI_Common_Return_Gamepad",
       "value": "اضغط {0} للعودة"
     },
@@ -27379,12 +29575,20 @@
       "value": "انقر للبدء"
     },
     {
+      "key": "UI_Common_Start_Click",
+      "value": "انقر للبدء"
+    },
+    {
       "key": "UI_Common_Start_Gamepad",
       "value": "اضغط {0} للبدء"
     },
     {
       "key": "UI_Common_TapToClose",
       "value": "اضغط للإغلاق"
+    },
+    {
+      "key": "UI_Common_TapToClose_Click",
+      "value": "انقر للإغلاق"
     },
     {
       "key": "UI_Common_TapToClose_Gamepad",
@@ -27607,6 +29811,30 @@
       "value": "يذكِّر أحدهم بلغتهم القديمة قائلاً: \"تقدَّموا. يجب أن نتبعهم إلى محرِّك الواقع\"."
     },
     {
+      "key": "UI_Cutscene_Episode7_Text1",
+      "value": "تم طرد دريملس من محرِّك الواقع، وأحبطت خططهم."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text2",
+      "value": "لكن قائدهم عرف سرًا من الحاسوب المركزي للمحرك - سر قد يتسبب في حدوث كارثة لنيكسس."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text3",
+      "value": "يكشف مقدم الرعاية عن خريطة، متتبعًا تحركات دريملس وهم يتسابقون إلى مكان غير معروف."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text4",
+      "value": "حتى مع أعمال دريملس المدمرة والمميزة في كل أنحاء الخريطة، تبرز وجهتهم التالية."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text5",
+      "value": "إنه خلل هائل للغاية، يغطي على أوجه الخلل البسيطة التي تركوها ورائهم."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text6",
+      "value": "فالخوف الذي يتسبب فيه يعمل فقط على تقوية عزيمتك، حيث تأمر أرتميس بتحديد المسار."
+    },
+    {
       "key": "UI_DailyChest_Claim",
       "value": "جمع الناسخ"
     },
@@ -27685,6 +29913,14 @@
     {
       "key": "UI_EncounterPreview_Title",
       "value": "إنذار بالقتال!"
+    },
+    {
+      "key": "UI_Episode_MissionNotAvailable_Body",
+      "value": "يجب أن تنهي هذه المهمة بمستوى الصعوبة السابق لفتح هذه المهمة."
+    },
+    {
+      "key": "UI_Episode_MissionNotAvailable_Title",
+      "value": "المهمة مغلقة"
     },
     {
       "key": "UI_Error_ChangeName",
@@ -28053,6 +30289,10 @@
     {
       "key": "UI_Generic_TodaysGoals",
       "value": "اكتملت أهداف اليوم!"
+    },
+    {
+      "key": "UI_Glossary_Header",
+      "value": "قائمة المصطلحات"
     },
     {
       "key": "UI_GoTo_Achievements",
@@ -28703,6 +30943,10 @@
       "value": "تفتح عند مستوى اللاعب {0}."
     },
     {
+      "key": "UI_Menu_TooltipLocked_News_Title",
+      "value": "أخبار (مغلق)"
+    },
+    {
       "key": "UI_Menu_TooltipLocked_Operations_Title",
       "value": "العمليات (مغلقة)"
     },
@@ -28813,6 +31057,10 @@
     {
       "key": "UI_Mission_Popup_Replay",
       "value": "إعادة اللعب"
+    },
+    {
+      "key": "UI_Mission_PopupNotAvailableSecondary_Message",
+      "value": "يجب أن تنهي هذه الحلقة بمستوى الصعوبة السابق لفتح هذه الحلقة."
     },
     {
       "key": "ui_mission_result_completion_percent",
@@ -28943,6 +31191,14 @@
       "value": "لإدارة إعدادات الإشعارات ، انتقل إلى قائمة إعدادات النظام."
     },
     {
+      "key": "UI_OnlineMode_Body",
+      "value": "التحويل إلى وضع اللعب عبر الإنترنت"
+    },
+    {
+      "key": "UI_OnlineMode_Title",
+      "value": "وضع اللعب عبر الإنترنت"
+    },
+    {
       "key": "UI_Operations_EventPointTotal",
       "value": "إجمالي النقاط: {0}"
     },
@@ -28967,6 +31223,22 @@
       "value": "اللغة"
     },
     {
+      "key": "UI_Options_LocalKey_High",
+      "value": "مرتفع"
+    },
+    {
+      "key": "UI_Options_LocalKey_Low",
+      "value": "منخفض"
+    },
+    {
+      "key": "UI_Options_LocalKey_Medium",
+      "value": "متوسط"
+    },
+    {
+      "key": "UI_Options_LocalKey_VeryLow",
+      "value": "منخفض جدًا"
+    },
+    {
       "key": "UI_Options_Music_Off",
       "value": "إيقاف الموسيقى"
     },
@@ -28977,6 +31249,10 @@
     {
       "key": "UI_Options_PlayerId",
       "value": "معرِّف اللاعب"
+    },
+    {
+      "key": "UI_Options_QualitySettings",
+      "value": "إعدادات مستوى الجودة"
     },
     {
       "key": "UI_Options_ResetPlayerProgressButton",
@@ -29237,6 +31513,14 @@
     {
       "key": "UI_Popup_FleeBattleConfirmation_Challenges",
       "value": "هل تريد بالتأكيد الهروب من هذه المعركة؟ سيؤدي الانسحاب إلى فقدان محاولة العمليات الخاصة بك."
+    },
+    {
+      "key": "UI_Popup_iCloudSaveConflict_Body",
+      "value": "يوجد تعارض بين التقدم المحلي وتقدم iCloud. هل تريد متابعة تقدمك الحالي واستبدال تقدم iCloud أو إعادة تشغيل اللعبة لتحميل تقدم iCloud؟"
+    },
+    {
+      "key": "UI_Popup_iCloudSaveConflict_Title",
+      "value": "تعارض في حفظ iCLOUD"
     },
     {
       "key": "UI_Popup_InvalidState_Body",
@@ -30055,6 +32339,10 @@
       "value": "اضغط للإضافة إلى فريق المهام البعيدة لديك."
     },
     {
+      "key": "UI_Tutorial_ToolTip_Add4thMemberGeneric_Click",
+      "value": "انقر للإضافة إلى فريق المهام البعيدة لديك."
+    },
+    {
       "key": "UI_Tutorial_ToolTip_Add4thMemberGeneric_Gamepad",
       "value": "اضغط {0} للإضافة إلى فريق المهام البعيدة لديك."
     },
@@ -30065,6 +32353,10 @@
     {
       "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton",
       "value": "اضغط لدخول القتال"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton_Click",
+      "value": "انقر لدخول القتال"
     },
     {
       "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton_Gamepad",
@@ -30087,6 +32379,10 @@
       "value": "اضغط للتقدُّم"
     },
     {
+      "key": "UI_Tutorial_ToolTip_ContinueButton_Click",
+      "value": "انقر للتقدُّم"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_ContinueButton_Gamepad",
       "value": "اضغط {0} للتقدُّم"
     },
@@ -30095,12 +32391,20 @@
       "value": "اضغط للحصول على توجيهات ستارفليتالتالية"
     },
     {
+      "key": "UI_Tutorial_ToolTip_Directives_Click",
+      "value": "انقر للحصول على توجيهات ستارفليتالتالية"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_Directives_Gamepad",
       "value": "اضغط   للحصول على{0}<color=#fff15c>توجيهات ستارفليت</color> التالية"
     },
     {
       "key": "UI_Tutorial_ToolTip_Disable",
       "value": "اضغط لاستخدام صيحة المعركة الخاصة بوورف"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_Disable_Click",
+      "value": "انقر لاستخدام صيحة المعركة الخاصة بوورف"
     },
     {
       "key": "UI_Tutorial_ToolTip_Disable_Gamepad",
@@ -30163,6 +32467,10 @@
       "value": "اضغط لتغيير طاقم مركز العمليات"
     },
     {
+      "key": "UI_Tutorial_ToolTip_TapCrewButton_Click",
+      "value": "انقر لتغيير طاقم مركز العمليات"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_TapCrewButton_Gamepad",
       "value": "اضغط {0}لتغيير طاقم مركز العمليات"
     },
@@ -30195,6 +32503,10 @@
       "value": "اضغط للانتقال إلى المهمة التالية"
     },
     {
+      "key": "UI_Tutorial_ToolTip_TapMissionFrame_Click",
+      "value": "انقر للانتقال إلى المهمة التالية"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_TapMissionFrame_Gamepad",
       "value": "اضغط {0} للانتقال إلى المهمة التالية"
     },
@@ -30209,6 +32521,10 @@
     {
       "key": "UI_Tutorial_ToolTip_TapToAttack",
       "value": "اضغط لشن هجوم!"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_TapToAttack_Click",
+      "value": "انقر لشن هجوم!"
     },
     {
       "key": "UI_Tutorial_ToolTip_TapToAttack_Gamepad",
@@ -30243,5 +32559,5 @@
       "value": "مجموعة ضربات الروح المعنوية"
     }
   ],
-  "_PathID": "1447"
+  "_PathID": "1448"
 }

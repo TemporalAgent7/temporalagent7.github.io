@@ -3069,7 +3069,7 @@
     "isPassive": false,
     "effects": [
       {
-        "effect": "100% Tech Damage (6 hits)",
+        "effect": "100% Tech Damage (1 hit)",
         "fraction": 0.35
       },
       {
@@ -3105,7 +3105,7 @@
     "isPassive": false,
     "effects": [
       {
-        "effect": "100% Tech Damage (6 hits)",
+        "effect": "100% Tech Damage (1 hit)",
         "fraction": 0.5
       },
       {
@@ -3627,10 +3627,6 @@
       {
         "effect": "100% Damage (1 hit)",
         "fraction": 1.0
-      },
-      {
-        "effect": "100% Damage (1 hit)",
-        "fraction": 1.0
       }
     ],
     "casterEffect": {
@@ -3663,10 +3659,6 @@
       {
         "effect": "100% Damage (1 hit)",
         "fraction": 1.5
-      },
-      {
-        "effect": "100% Damage (1 hit)",
-        "fraction": 1.0
       }
     ],
     "casterEffect": {
@@ -3785,7 +3777,7 @@
       "fraction": 0.0
     },
     "sequenceID": "",
-    "img": "Skill_DISTricorder",
+    "img": "Skill_SterilizationField",
     "description": "Data_Skill_Culber_Skill2_description_level1",
     "controller": "Forced_Skill2",
     "aiUsable": true,
@@ -3825,7 +3817,7 @@
       "fraction": 0.0
     },
     "sequenceID": "",
-    "img": "Skill_DISTricorder",
+    "img": "Skill_SterilizationField",
     "description": "Data_Skill_Culber_Skill2_description_level2",
     "controller": "Forced_Skill2",
     "aiUsable": true,
@@ -4584,7 +4576,7 @@
     "effects": [
       {
         "effect": "100% Tech Damage (1 hit)",
-        "fraction": 1.5
+        "fraction": 1.0
       }
     ],
     "casterEffect": {
@@ -13642,7 +13634,7 @@
       "fraction": 1.0
     },
     "sequenceID": "",
-    "img": "Skill_VulcanHello",
+    "img": "Skill_TOSEnterprise",
     "description": "Data_Skill_Nine_Skill1_description_level1",
     "controller": "Forced_Skill1",
     "aiUsable": true,
@@ -13679,7 +13671,7 @@
       "fraction": 1.5
     },
     "sequenceID": "",
-    "img": "Skill_VulcanHello",
+    "img": "Skill_TOSEnterprise",
     "description": "Data_Skill_Nine_Skill1_description_level2",
     "controller": "Forced_Skill1",
     "aiUsable": true,
@@ -14885,7 +14877,7 @@
       "fraction": 0.0
     },
     "sequenceID": "",
-    "img": "Skill_TOSCommunicator",
+    "img": "Skill_CaptainsResolve",
     "description": "Data_Skill_Pike_Skill1_description_level1",
     "controller": "Forced_Skill1",
     "aiUsable": true,
@@ -14921,7 +14913,7 @@
       "fraction": 0.0
     },
     "sequenceID": "",
-    "img": "Skill_TOSCommunicator",
+    "img": "Skill_CaptainsResolve",
     "description": "Data_Skill_Pike_Skill1_description_level2",
     "controller": "Forced_Skill1",
     "aiUsable": true,
@@ -15015,7 +15007,7 @@
     "hidden": false,
     "cooldown": 4,
     "startingCooldown": 2,
-    "numTargets": 1,
+    "numTargets": 0,
     "targetType": "Allies",
     "targetState": "Alive",
     "isPassive": false,
@@ -15045,9 +15037,9 @@
       "id": "pike_skill3",
       "level": 1
     },
-    "isSingleTarget": true,
+    "isSingleTarget": false,
     "isMultiRandom": false,
-    "isAOE": false
+    "isAOE": true
   },
   "GSSkillKey(id = \"pike_skill3\", level = \"2\")": {
     "level": 2,
@@ -15055,7 +15047,7 @@
     "hidden": false,
     "cooldown": 4,
     "startingCooldown": 2,
-    "numTargets": 1,
+    "numTargets": 0,
     "targetType": "Allies",
     "targetState": "Alive",
     "isPassive": false,
@@ -15085,9 +15077,9 @@
       "id": "pike_skill3",
       "level": 2
     },
-    "isSingleTarget": true,
+    "isSingleTarget": false,
     "isMultiRandom": false,
-    "isAOE": false
+    "isAOE": true
   },
   "GSSkillKey(id = \"quark_attack\", level = \"1\")": {
     "level": 1,
@@ -21853,7 +21845,7 @@
     "isPassive": false,
     "effects": [
       {
-        "effect": "100% Damage (4 hits)",
+        "effect": "100% Damage (1 hit)",
         "fraction": 0.5
       }
     ],
@@ -21885,7 +21877,7 @@
     "isPassive": false,
     "effects": [
       {
-        "effect": "100% Damage (4 hits)",
+        "effect": "100% Damage (1 hit)",
         "fraction": 0.65
       }
     ],
@@ -23083,15 +23075,15 @@
     "isPassive": false,
     "effects": [
       {
-        "effect": "100% Damage (3 hits)",
-        "fraction": 0.35
+        "effect": "100% Damage (1 hit)",
+        "fraction": 1.0
       }
     ],
     "casterEffect": {
       "fraction": 0.0
     },
     "sequenceID": "",
-    "img": "Skill_CompressionRifle",
+    "img": "Skill_DoubleFist",
     "description": "Data_Skill_PicardDixon_Attack_description_level1",
     "controller": "Forced_Attack",
     "aiUsable": true,
@@ -23115,15 +23107,15 @@
     "isPassive": false,
     "effects": [
       {
-        "effect": "100% Damage (3 hits)",
-        "fraction": 0.5
+        "effect": "100% Damage (1 hit)",
+        "fraction": 1.5
       }
     ],
     "casterEffect": {
       "fraction": 0.0
     },
     "sequenceID": "",
-    "img": "Skill_CompressionRifle",
+    "img": "Skill_DoubleFist",
     "description": "Data_Skill_PicardDixon_Attack_description_level2",
     "controller": "Forced_Attack",
     "aiUsable": true,
@@ -23289,25 +23281,26 @@
     "hidden": false,
     "cooldown": 4,
     "startingCooldown": 2,
-    "numTargets": 20,
+    "numTargets": 1,
     "targetType": "Enemies",
     "targetState": "Alive",
     "isPassive": false,
     "effects": [
       {
-        "effect": "100% Damage (20 hits)",
-        "fraction": 0.15
+        "effect": "100% Damage (3 hits)",
+        "fraction": 0.8
       },
       {
-        "effect": "Wound (10% Chance)",
+        "effect": "Wound (50% Chance)",
         "fraction": 1.0
       }
     ],
     "casterEffect": {
-      "fraction": 0.0
+      "effect": "Morale Up (50% Chance)",
+      "fraction": 1.0
     },
     "sequenceID": "",
-    "img": "Skill_CardassianBarrage",
+    "img": "Skill_ThickSkin",
     "description": "Data_Skill_PicardDixon_Skill3_description_level1",
     "controller": "Forced_Skill3",
     "aiUsable": true,
@@ -23315,8 +23308,8 @@
       "id": "picarddixon_skill3",
       "level": 1
     },
-    "isSingleTarget": false,
-    "isMultiRandom": true,
+    "isSingleTarget": true,
+    "isMultiRandom": false,
     "isAOE": false
   },
   "GSSkillKey(id = \"picarddixon_skill3\", level = \"2\")": {
@@ -23325,25 +23318,26 @@
     "hidden": false,
     "cooldown": 4,
     "startingCooldown": 2,
-    "numTargets": 20,
+    "numTargets": 1,
     "targetType": "Enemies",
     "targetState": "Alive",
     "isPassive": false,
     "effects": [
       {
-        "effect": "100% Damage (20 hits)",
-        "fraction": 0.2
+        "effect": "100% Damage (3 hits)",
+        "fraction": 1.2
       },
       {
-        "effect": "Wound (25% Chance)",
+        "effect": "Wound",
         "fraction": 1.0
       }
     ],
     "casterEffect": {
-      "fraction": 0.0
+      "effect": "Morale Up",
+      "fraction": 1.0
     },
     "sequenceID": "",
-    "img": "Skill_CardassianBarrage",
+    "img": "Skill_ThickSkin",
     "description": "Data_Skill_PicardDixon_Skill3_description_level2",
     "controller": "Forced_Skill3",
     "aiUsable": true,
@@ -23351,8 +23345,8 @@
       "id": "picarddixon_skill3",
       "level": 2
     },
-    "isSingleTarget": false,
-    "isMultiRandom": true,
+    "isSingleTarget": true,
+    "isMultiRandom": false,
     "isAOE": false
   },
   "GSSkillKey(id = \"picarddixon_bridge\", level = \"1\")": {

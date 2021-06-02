@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": "1277"
+    "m_PathID": "1301"
   },
   "m_Name": "lang_ru",
   "List": [
@@ -1243,6 +1243,10 @@
       "value": "ВЫБРАТЬ ЯЗЫК"
     },
     {
+      "key": "Choose_Quality_Header",
+      "value": "Выберите уровень качества"
+    },
+    {
       "key": "Common_AccessoriesSortingType_Equipped",
       "value": "Экипировано"
     },
@@ -1523,6 +1527,10 @@
       "value": "Понизить в звании"
     },
     {
+      "key": "Common_Details",
+      "value": "Подробности"
+    },
+    {
       "key": "Common_Dilithium",
       "value": "Дилитий"
     },
@@ -1623,6 +1631,10 @@
       "value": "ОТКЛЮЧИТЬ"
     },
     {
+      "key": "Common_ExplorationOptionType_Disarm",
+      "value": "ОБЕЗВРЕДИТЬ"
+    },
+    {
       "key": "Common_ExplorationOptionType_Eject",
       "value": "ИЗВЛЕЧЬ"
     },
@@ -1683,6 +1695,10 @@
       "value": "ИССЛЕДОВАТЬ"
     },
     {
+      "key": "Common_ExplorationOptionType_Jump",
+      "value": "ПРЫГНУТЬ"
+    },
+    {
       "key": "Common_ExplorationOptionType_Leave",
       "value": "НЕ ТРОГАТЬ"
     },
@@ -1721,6 +1737,10 @@
     {
       "key": "Common_ExplorationOptionType_Power",
       "value": "ЭНЕРГИЯ"
+    },
+    {
+      "key": "Common_ExplorationOptionType_Protect",
+      "value": "ЗАЩИТИТЬ"
     },
     {
       "key": "Common_ExplorationOptionType_Quick",
@@ -2729,6 +2749,10 @@
     {
       "key": "Common_ValosComputer",
       "value": "Компьютер «Талос»"
+    },
+    {
+      "key": "Common_View",
+      "value": "Показать"
     },
     {
       "key": "Common_Vulcan",
@@ -11183,6 +11207,1834 @@
       "value": "Оставленные здесь припасы..."
     },
     {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_01",
+      "value": "Впереди фантомы, с которыми мы уже встречались."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_02",
+      "value": "Значит, Бессонные были здесь до нас. Неужели мы опоздали?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_03",
+      "value": "Это сооружение, похоже, еще работает."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_04",
+      "value": "Отключить его было бы невероятно сложно."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_05",
+      "value": "Остается лишь надеяться, что время еще есть."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_06",
+      "value": "Давайте сначала разберемся с этой проблемой."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_01",
+      "value": "Появятся еще эти «фантомы» под управлением бессонных!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_02",
+      "value": "<i>*жутко кричит*</i>"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_03",
+      "value": "Они ищут нас… Бессонные наверняка знают, что мы здесь."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_01",
+      "value": "Вы, должно быть, гуманоиды, которых повстречали мои союзники."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_02",
+      "value": "Мы понимаем, что у вас есть какие-то мотивы, но ваша битва уже проиграна. Наше понимание того, как работает Нексус, простирается на миллиарды лет."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_03",
+      "value": "Уничтожение Нексуса бесчестно. Будет истреблено множество жизней… тысячи? Миллионы?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_04",
+      "value": "Многие и многие жизни, которые давно закончились, — как указывает Вселенная. Их нельзя оставлять подвешенными в ловушке чьих-то утопичных идей. Мы не чудовища, которыми вы нас изображаете."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_05",
+      "value": "Вы хотите освободить эти жизни от чужих манипуляций — но лишь для того, чтобы вы сами решили их судьбу!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_06",
+      "value": "Хорошо сказано, Майкл!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_07",
+      "value": "У нас нет времени с вами тут философствовать. Отступитесь, или мы будем вынуждены устранить вас!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_post_01",
+      "value": "Вы упрямый вид, но выиграли лишь несколько часов. Этот двигатель реальности будет отключен."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_01",
+      "value": "Впереди, похоже, стоит какая-то защита. Ничего похоже мне раньше не встречалось."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_02",
+      "value": "Технология очень продвинутая — думаю, наши фазеры эту штуку разве что пощекочут. Может, <i>«Артемида»</i> перенесет нас?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_03",
+      "value": "Не стоит использовать транспортер больше, чем необходимо, — учитывая огромную энергию в этом пространстве."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_04",
+      "value": "Ага, мне совсем не по вкусу идея из-за аварии транспортера оставшиеся годы прожить сиамским близнецом мистера Ворфа. Есть предложения?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_01",
+      "value": "Реакторы… с их помощью мы оказались здесь. Может, они сработают как ключи для продвижения в этой штуке?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_02",
+      "value": "Может получиться!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_03",
+      "value": "Отличное предложение, Майкл."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction02_01",
+      "value": "Ставлю последние деньги, что есть и другой способ. Что случится, если мы еще час проблуждаем по этим коридорам?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_01",
+      "value": "Интересно. Похоже на контрольную камеру."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_02",
+      "value": "Внутри несколько контейнеров — возможно, припасы."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_03",
+      "value": "Оставили для нас, «инженеров Нексуса», молоко и печенье?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_04",
+      "value": "Доктор! Эта мысль кажется… почти кощунственной."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction01_01",
+      "value": "Попытаюсь открыть проход с помощью реакторов."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction02_01",
+      "value": "Мне кажется, для этого сим-сима реакторы лучше не использовать. Мы не до конца понимаем эту технологию…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction02_02",
+      "value": "Звучит разумно. Не хотелось бы, чтобы сработали защитные системы."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_01",
+      "value": "Там на платформе еще припасы."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_01",
+      "value": "Думаю, у меня получится запрыгнуть на нее."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_02",
+      "value": "Запрыгнуть? Вы в своем клингонском уме? Слишком высоко!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_03",
+      "value": "Не волнуйтесь, доктор! Должно получиться."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_04",
+      "value": "Я не волнуюсь. Мне-то хватит медподготовки, чтобы лечить переломы в результате неизбежного падения!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_01",
+      "value": "Думаете, получится забраться наверх?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_02",
+      "value": "Скажу как специалист: не получится, и пробовать не надо."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_03",
+      "value": "Слишком пессимистичный настрой, доктор. Ну да ладно."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_01",
+      "value": "Это место напоминает сказки клингонов, которые мне рассказывали в детстве, и залы Сто-Ко-Вора, в которых воины сражаются целую вечность."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_02",
+      "value": "Что-то вроде Вальгаллы, да?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_03",
+      "value": "Только больше крови."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_04",
+      "value": "Очаровательно."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_05",
+      "value": "Кстати говоря… Там дальше какая-то суета!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_01",
+      "value": "Это самое впечатляющее место из всех, что мне встречались."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_02",
+      "value": "Не трепет ли я слышу в вашем голосе, доктор?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_03",
+      "value": "Задумайтесь…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_04",
+      "value": "Мне это напоминает голопалубу на <i>«Энтерпрайзе»</i>: такие глубокие реалистичные симуляции."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_05",
+      "value": "Вот если бы на <i>«Дискавери»</i> такая штука была! Мы что-то похожее видели в сферах, верно?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_06",
+      "value": "Нет. Симуляции голопалубы больше похожи… на фантазии. Многие были просто забавными пустяками."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_07",
+      "value": "Им несвойственно ощущение поглощающей реальности, а именно это мы видели в сферах."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_08",
+      "value": "Да, Бессонные наверняка могли бы назвать впечатления от Нексуса «поглощающими». Им кажется, что это больше тюрьма, чем фантазия…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_01",
+      "value": "Так что, будем просто бродить по коридорам или…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_02",
+      "value": "Можем вторгнуться?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_03",
+      "value": "Сзади! Это… Даже не знаю, что это такое."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_04",
+      "value": "Мы называемся «Кс'итаки», или «Смотритель» на вашем языке. Мы — один из нескольких высших ИИ, созданных для управления функциями этого двигателя реальности."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_05",
+      "value": "Наше сканирование показывает, что у вас есть шесть реакторов и вы полны решимости защитить это сооружение. Соответствует ли действительности наша оценка?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_06",
+      "value": "Ну, мы пытаемся помешать этим так называемым «Бессонным» дестабилизировать Нексус."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_07",
+      "value": "Это — функция «инженера». Однако вы не прошли подготовку инженеров, и мы не можем дать вам полномочия и инструменты для ремонта двигателя реальности и отражения атаки нарушителей."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_08",
+      "value": "Тем не менее, мы с радостью этим занялись бы."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_09",
+      "value": "Вы можете пройти испытание, которое проходит каждый инженер, но без надлежащей подготовки вы, скорее всего, потерпите неудачу."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_10",
+      "value": "И что тогда?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_11",
+      "value": "Тогда не получите соответствующий статус и не сможете изолировать двигатель. И тогда это сооружение и сферы, которые оно соединяет, выйдут из строя — примерно через 3,567 земного часа."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_12",
+      "value": "Значит, выбора у нас в целом нет!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_01",
+      "value": "Стой! Тебе не пройти, грязный метаморф!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_02",
+      "value": "Грязный кто? Подождите, мы не…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_03",
+      "value": "Не думаю, что они будут слушать, доктор!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_01",
+      "value": "Слышите впереди стрельбу из фазера?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_02",
+      "value": "Точно. Вон там! Похоже, кардассиане сражаются с офицерами Звездного флота!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_03",
+      "value": "Должно быть уже очевидно, что это вряд ли офицеры Звездного флота — скорее метаморфы."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_04",
+      "value": "Уверены, доктор?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_05",
+      "value": "Можете мне верить, мистер Ворф. Старый Маккой по прозвищу «Боунс» знает свое дело."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_06",
+      "value": "С чего вы взяли, доктор?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_07",
+      "value": "Жесты и неуклюжесть их движений."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_08",
+      "value": "Доверюсь вашему анализу, доктор. Двигаемся вперед."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_01",
+      "value": "Офицеры Звездного флота, сюда!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_02",
+      "value": "Стойте. Вы в безопасности."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_01",
+      "value": "Здесь мы будем под ударом. Посмотрим, удастся ли запустить этот катер."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_02",
+      "value": "Как там у вас говорят? «Ни одно доброе дело не остается безнаказанным». Умри!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_03",
+      "value": "Метаморфы! А знаете, кардассиане повсюду вас разыскивают!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_01",
+      "value": "Похоже, некоторые из них серьезно ранены. Сначала нужно разобраться с ранеными!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_02",
+      "value": "Вы очень добры, медицинский сотрудник."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_03",
+      "value": "Странное обращение к доктору…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_04",
+      "value": "Еще бы! Уничтожить их!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_05",
+      "value": "Метаморфы! А знаете, кардассиане повсюду вас разыскивают!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_01",
+      "value": "Осмотритесь. В катере может найтись то, что сможет им помочь."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_02",
+      "value": "Хорошая мысль. Здесь как раз есть кое-какие припасы."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_03",
+      "value": "Крысы из Звездного флота хотят нас обокрасть?!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_04",
+      "value": "«Крысы из Звездного флота»… Постойте, а разве вы не…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_05",
+      "value": "Метаморфы! А знаете, кардассиане повсюду вас разыскивают!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_01",
+      "value": "Похоже, кто-то бросил там припасы. Можно этим воспользоваться."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_01",
+      "value": "Быстро глянем — вреда не будет…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_02",
+      "value": "Взять их!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_03",
+      "value": "А может… и БУДЕТ! Засада метаморфов!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_01",
+      "value": "Значит, кто-то бросил ценные припасы посреди дороги? И нам просто повезло?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_02",
+      "value": "Верно подмечено, доктор."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_03",
+      "value": "Некоторые ловушки слишком очевидны…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_01",
+      "value": "Что это? Мы внутри сферы?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_02",
+      "value": "Вы по-прежнему внутри двигателя реальности, но в наших возможностях — создание среды, в которой вы пройдете испытание."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_03",
+      "value": "Смотритель принял форму капитана Сиско…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_04",
+      "value": "На это нет времени! Вы же сказали, что на карту поставлены жизни!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_05",
+      "value": "Именно. Вам рекомендуется поторопиться."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_06",
+      "value": "А вам рекомендуется поторопиться с объяснением того, что нам нужно делать."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_07",
+      "value": "Изучив ваши воспоминания, мы обнаружили, что виды в вашем квадранте ценят определенные черты, присущие инженерам."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_08",
+      "value": "Первая из них — это вера, продемонстрированная вашим капитаном Сиско."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_09",
+      "value": "Мы должны… молиться?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_10",
+      "value": "Вы неправильно поняли. Вера не в вездесущее создание, а в свои цели и умения, а также в умения коллег-инженеров."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_11",
+      "value": "Именно вера в нечто большее позволила первым инженерам создать это место, и поэтому эта черта стала обязательной для всех остальных инженеров."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_12",
+      "value": "Где-то на арене вас ждет портал —выход к следующему испытанию."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_13",
+      "value": "Но будьте осторожны: видимое — не то, чем кажется. Только вера в цель сможет провести вас до конца."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_01",
+      "value": "Это смотритель."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_02",
+      "value": "Нам было любопытно, как у вас дела."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_03",
+      "value": "Позвольте удовлетворить ваше любопытство: мы попали в разгар войны между кардассианами и метаморфами, и обе стороны с радостью открывают огонь, как только видят нас."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_04",
+      "value": "Ситуация невозможная, мы согласны. Похоже, единственный выход — повернуть назад."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_05",
+      "value": "Назад? Вы, очевидно, мало знаете о Звездном флоте!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_01",
+      "value": "Это наверняка портал, о котором упоминал смотритель."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_02",
+      "value": "Да. Ваши действия превзошли наши ожидания."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_03",
+      "value": "Чтобы достичь цели, вы справились с невозможной ситуацией и поверили в умения своего союзника."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_04",
+      "value": "Такая вера достойна восхищения — но она может и ослеплять. Однако похоже, что вами движет не жадность и не жажда власти."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_05",
+      "value": "Так что, всё? Мы прошли испытание?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_06",
+      "value": "Первую часть — да. Но это не всё."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_07",
+      "value": "…кто бы сомневался."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_01",
+      "value": "Стойте. Сканирование показывает движение впереди. Много движения."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_02",
+      "value": "Мы — борг. Вы будете ассимилированы. Сопротивление бесполезно."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_03",
+      "value": "Неужели они не могут… рассчитать новую форму приветствия?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_04",
+      "value": "Неужели вы не можете приберечь сарказм на менее опасный момент, доктор?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_01",
+      "value": "Похоже, в этой зоне активности нет — можно безопасно двигаться."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_02",
+      "value": "Стойте! Засада! Наверное, из-за меня сработал сигнал тревоги!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_03",
+      "value": "Вы будете ассимилированы. Сопротивление бесполезно."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_01",
+      "value": "Видите силуэт впереди?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_02",
+      "value": "Это королева борг!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_03",
+      "value": "Вы будете... Ассимилированы. Сопротивление бесполезно."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_01",
+      "value": "Странно. Это наверняка была королева, но она совсем не похожа на ту, что мы встречали раньше."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_02",
+      "value": "Не знаю. Говорила она точь-в-точь как королева борг!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_03",
+      "value": "Может, резервное тело? Или одно из тел, в которые она может перенести сознание?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_04",
+      "value": "Вряд ли мы узнаем…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_01",
+      "value": "Добро пожаловать всем. Так далеко от дома."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_02",
+      "value": "Еще одна королева борг! Но эта звучит более… реалистично."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_03",
+      "value": "Еще одна? Мы — борг. Ни больше ни меньше. Все тела — лишь продолжение нашей воли."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_04",
+      "value": "Даже ваши. Верно, Локутус?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_05",
+      "value": "Да. Вы будете ассимилированы объединенной мощью коллектива."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_06",
+      "value": "Сегодня мы боремся за больший и более ценный коллектив — и вы нам не помешаете!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_01",
+      "value": "Мы это сделали! Где же наше испытание, мистер?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_02",
+      "value": "Мы здесь. Поздравляем, вы весьма решительны."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_03",
+      "value": "Вам несколько раз предлагали покинуть это место, но вы принимали решение продолжить работу."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_04",
+      "value": "Мы теперь в безопасности? Испытания закончились?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_05",
+      "value": "Сейчас вы в безопасности, но должны пройти еще два испытания."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_01",
+      "value": "Мы заблудились?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_02",
+      "value": "А бывало иначе?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_03",
+      "value": "Туше, Майкл."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_04",
+      "value": "Остановимся на минутку. Я попытаюсь получить доступ к этому узлу и найти путь вперед."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_01",
+      "value": "Получается?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_02",
+      "value": "Трикодер показывает путь, но появился еще один сигнал."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_03",
+      "value": "Надо беспокоиться?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_04",
+      "value": "Может, и нет: он вроде бы остановился."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction02_01",
+      "value": "Чувствую, что лучше бродить вслепую, чем копаться в их системе."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction02_02",
+      "value": "Кажется, это их раздражает!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_01",
+      "value": "Там альков для подзарядки. Не такой, как обычно."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_02",
+      "value": "Сканирование показывает, что через него идет значительное количество энергии."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_03",
+      "value": "Возможно, он подключен к сети борг. Стоит взглянуть."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_01",
+      "value": "Перегружаю его трикодером…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_02",
+      "value": "Он движется. Кажется, его поднимают."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_03",
+      "value": "Это, скорее, автоматическая система, которая отправляет его в ремонт."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_04",
+      "value": "Посмотрим, что там за ним, прежде чем система поставит сюда станцию подзарядки."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction02_01",
+      "value": "Не будем трогать — чтобы нас не обнаружили."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction02_02",
+      "value": "Соглашусь."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_01",
+      "value": "Кажется, часть обшивки здесь отходит…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_02",
+      "value": "Отличная наблюдательность. Попробуем открыть и посмотреть, не спрятано ли там что-нибудь."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction01_01",
+      "value": "Есть!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction02_01",
+      "value": "Хотите поиграть в механика, когда ставки так высоки?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction02_02",
+      "value": "Доктор прав. Идем дальше."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_01",
+      "value": "Где мы? Это похоже на куб борг."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_02",
+      "value": "Ой, хватит уже борг, пожалуйста."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_03",
+      "value": "Это второе испытание."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_04",
+      "value": "Теперь вы — капитан Джейнвэй. В этом есть какой-то смысл?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_05",
+      "value": "В ваше время капитан Джейнвэй стала известна благодаря своему легендарному путешествию."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_06",
+      "value": "За семь долгих лет капитан и ее команда проделали путь с дальнего края квадранта «Дельта» до самой Земли. Удивительная целеустремленность."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_07",
+      "value": "Она подходит для представления следующего испытания — испытания воли."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_08",
+      "value": "Смотритель исчез… Куб борг, «Испытание воли». Подозреваю, нам придется сражаться на каждом шагу!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_01",
+      "value": "Я больше не могу. Нужно отдохнуть."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_02",
+      "value": "Вам следует послушать доктора."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_03",
+      "value": "Ой! А нельзя было в этот раз материализоваться перед нами, а не сзади?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_04",
+      "value": "Наши извинения. Мы всего лишь хотели дать совет."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_05",
+      "value": "По нашим расчетам, в поисках портала вам удалось исследовать всего лишь 0,00001% куба борг."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_06",
+      "value": "Двигатель реальности скоро выйдет из строя, и если в этот момент вы будете здесь, то погибнете."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_07",
+      "value": "Мы можем перенести вас в безопасное место."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_08",
+      "value": "Если двигатель реальности выйдет из строя, это же случится со сферами и со всеми, кто внутри них!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_09",
+      "value": "Мы считаем, вы недооцениваете размер Нексуса. В его основе множество двигателей."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_10",
+      "value": "Но каждый, включая этот, отвечает за множество сфер, верно? И если мы сдадимся, все подключенные к нему сферы выйдут из строя."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_11",
+      "value": "Верно."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_12",
+      "value": "И состояние Нексуса ухудшится еще больше: появятся разломы, которые будут угрожать нашей Вселенной, — за пределами Нексуса…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_13",
+      "value": "И снова верно."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_14",
+      "value": "Тогда мы продолжим."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_15",
+      "value": "Как пожелаете."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_16",
+      "value": "Исчез."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_17",
+      "value": "Ничего себе, доктор. Вы же вроде как «больше не могли» минуту назад."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_18",
+      "value": "Я не отказываюсь от своих слов. Но мы здесь, чтобы спасать жизни, а не жаловаться на неудобства!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_01",
+      "value": "Похоже, ваша хрупкая форма всё больше поддается отрицательному воздействию."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_02",
+      "value": "Мы полагаем, вы не сможете выдержать дальнейшее движение. Рекомендуем немедленно отступить."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_03",
+      "value": "Ха! Разве Кейлес бросил охоту на своего брата Мората? Нет, он преследовал его по горам и долинам — ради своей чести и чести отца."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_04",
+      "value": "Так и мы пройдем с боем и победоносно выйдем с другой стороны!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_01",
+      "value": "Впереди клингоны. И много!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_02",
+      "value": "Можете с ними пообщаться, Ворф? Сказать, чтобы отступили?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_03",
+      "value": "бижегхбе'чуг важ биХег!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_04",
+      "value": "Хох жаг Хегжаж!!!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_05",
+      "value": "Не нужно знать клингонский, чтобы понять, что ничего хорошего не вышло."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_06",
+      "value": "Они… не открыты для переговоров."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_post_01",
+      "value": "Они отступают. Мы в безопасности — пока что."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_01",
+      "value": "Еще клингоны! Большой отряд!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_02",
+      "value": "Итак… у Федерации есть клингонский питомец…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_03",
+      "value": "Как вы смеете! Я не питомец! Я воин!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_04",
+      "value": "Да-да! А теперь вы еще и разозлили его. Не советую вам его злить, ой не советую!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_01",
+      "value": "Еще?! Когда они уже закончатся…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_02",
+      "value": "Маяк Кейлеса — священная реликвия, которую, согласно преданию, создал сам Кейлес, чтобы объединить двадцать четыре великих дома."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_03",
+      "value": "Для клингона само присутствие постороннего на маяке — серьезное преступление, осквернение."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_04",
+      "value": "Но это была случайность! Они признали свою ошибку."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_05",
+      "value": "Мои ценности совпадают с ценностями Федерации, но я чувствую, как из-за этого проступка моя кровь закипает."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_06",
+      "value": "Я, конечно, понимаю вашу логику, но мне хотелось дать вам представление о том, насколько это серьезно для клингона."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_07",
+      "value": "В ваше время, Майкл, наш вид воевал из-за этой реликвии. Стоит ли удивляться, что клингоны так отчаянно хотят наказать команду? Они не уступят."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_01",
+      "value": "Датчики показывают, что к нам приближаются биологические объекты. Нужно отступить!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_02",
+      "value": "Хм. Мне казалось, вы захотите сражаться."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_03",
+      "value": "Как однажды сказал сам Кейлес, «ветер не любит дураков»."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_01",
+      "value": "Мы уже близко."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_02",
+      "value": "Впереди большое количество клингонских биосигнатур."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_03",
+      "value": "Они, должно быть, охраняют от нас реактора, на который указывают датчики."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_04",
+      "value": "Ху'тег! И они не одни. У одного из них церемониальные доспехи факелоносца."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_05",
+      "value": "Клингонский воин, который защищает маяк Кейлеса! Мне как-то приходилось… иметь дело с таким."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_06",
+      "value": "Уверены, что не можете получить доступ к реактору отсюда?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_07",
+      "value": "…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_08",
+      "value": "Ох. Не думаю."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_01",
+      "value": "Мы прямо над источником сигнала. Я могу получить к нему доступ с помощью трикодера и наших реакторов."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_02",
+      "value": "Устройство, питающее реальность, в которой мы находимся, определенно не такое мощное, как реакторы сфер. И это хорошая новость!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_03",
+      "value": "Есть идеи, как перепрограммировать сценарий, чтобы можно было выиграть?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_04",
+      "value": "Не думаю, что нам нужно «выиграть» — нашей целью было найти портал. Да, раньше он появлялся, когда мы «выигрывали», но в данном случае… почему бы просто не сделать так, чтобы он появился?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_05",
+      "value": "Гениально, Майкл!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_06",
+      "value": "И… появляется портал!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_01",
+      "value": "Смотрите! Впереди раненые члены экипажа!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_02",
+      "value": "Я… подожду, а вы разберитесь с этим. Появление клингона может усложнить ситуацию…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_03",
+      "value": "Мы хотим помочь! Вы в порядке?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_04",
+      "value": "Я… да. Почти. Кто вы? Форма у вас незнакомая."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_05",
+      "value": "Мы с USS <i>«Артемида»</i>. Что здесь произошло?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_06",
+      "value": "Приятно вас видеть. Мы в тяжелом положении."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_07",
+      "value": "Маршрут привел нас к маяку Кейлеса."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_08",
+      "value": "Этот маяк — священная реликвия клингонской империи. О чем вы думали, приближаясь к нему?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_09",
+      "value": "Мы не нарочно! Мы понятия не имели, что это такое… но нас обвинили в нападении и попытке осквернить святыню."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_10",
+      "value": "Они объявили, что все на борту приговорены к смертной казни!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_01",
+      "value": "Этого нельзя допустить."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_02",
+      "value": "Нужно переместить их в безопасное место. Можете поставить их на ноги?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_03",
+      "value": "Попытаюсь. Прикройте меня, пока я буду их латать!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction02_01",
+      "value": "Сюда стягиваются клингоны!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction02_02",
+      "value": "Заставим их отступить. Тогда можно будет заняться ранеными."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_01",
+      "value": "Есть показатели, похожие на реактор. Цифры не очень большие — возможно, эта реальность не так велика, как настоящая сфера."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_02",
+      "value": "Попробуем вашу гипотезу с реактором! Сможете «перепрограммировать» и убрать эту дверь?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_01",
+      "value": "Да! Я могу использовать трикодер вместе с нашими реакторами…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_02",
+      "value": "Получаю доступ к базовой структуре этой «реальности». Это сложно… дайте мне пару минут."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_03",
+      "value": "Дверь исчезла!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_04",
+      "value": "Невероятно."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_05",
+      "value": "Чтобы сделать нечто более значительное, нужно приблизиться к источнику сигнала."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction02_01",
+      "value": "Не будем терять время и потенциальную мощность реактора."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction02_02",
+      "value": "Мистер Ворф, вы отличный воин и верный союзник. Но вы, сэр, — не подарок."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_01",
+      "value": "Интересно! Похоже, мы на корабле Федерации. Сканирование показывает повреждение нескольких палуб."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_02",
+      "value": "Атака?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_03",
+      "value": "Вижу несколько разрозненных сообщений. Похоже, клингоны поднялись на корабль и взяли под контроль ключевые зоны."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_04",
+      "value": "Мой опыт подсказывает, что безопаснее, когда клингоны держат руки подальше от кораблей Звездного флота!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_05",
+      "value": "Исключая тех, что в нашей компании."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_06",
+      "value": "Ох."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_07",
+      "value": "Так вот в чем суть испытания."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_08",
+      "value": "Джим?! Стоп… это же смотритель."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_09",
+      "value": "Этот испытание отражает качества, которые очень свойственны вашему другу."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_10",
+      "value": "Безрассудство? Готовность втянуть всех в дурацкое приключение?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_11",
+      "value": "Вам предстоит испытание хитрости. Вы показали готовность поверить в свою цель и упорство в преодолении трудностей."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_12",
+      "value": "Но не все препятствия преодолеваются в лоб."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_13",
+      "value": "Найдите портал, а с ним и конец этого испытания."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_14",
+      "value": "И снова исчез. Очень помог, как всегда."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_01",
+      "value": "Невозможно. Это же обычный… «Кобаяси Мару»!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_02",
+      "value": "Учебный тест?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_03",
+      "value": "Именно. Полагаю, вы оба его проходили?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_04",
+      "value": "Да. И, как и любой курсант, всегда неудачно. Когда мне стало понятно, что это безвыигрышный сценарий, моей ярости не было предела!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_05",
+      "value": "Либо спасаешь экипаж и начинается война с клингонской империей, либо бросаешь людей умирать."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_06",
+      "value": "Этот сценарий тоже рассчитан на поражение. Мой народ не отступит. Мы не выдержим их натиска, а если уйдем, эти люди погибнут…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_07",
+      "value": "Но есть нюанс: в мое время капитан Кирк ПРОШЕЛ тест «Кобаяси Мару». Действуя в своем стиле, он проявил изобретательность: до начала теста пробрался в помещение и перепрограммировал компьютер."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_08",
+      "value": "Так что нам следует взять пример с капитана Кирка и… схитрить."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_09",
+      "value": "Но как? У нас нет доступа ни к одному компьютеру…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_10",
+      "value": "Эта реальность наверняка работает так же, как другие сферы, — с помощью реактора или подобного устройства. Найдем его и перепрограммируем."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_11",
+      "value": "Но мы еще не «инженеры» — у нас не получится повлиять на технику Нексуса!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_12",
+      "value": "Мне надоело ждать разрешения от голограммы. Нам уже приходилось иметь дело с неизвестными сверхсовременными технологиями пришельцев. Ничего необычного!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_13",
+      "value": "Уже настраиваю трикодер на реакторы, имеющиеся в нашем распоряжении. Найдем, откуда управляется испытание Смотрителя."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_01",
+      "value": "И вот, наконец, вы здесь — благодаря сочетанию веры, целеустремленности и…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_02",
+      "value": "Да-да, мы знаем: хитрости. Обыграли вас, Конфуций."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_03",
+      "value": "Верно, вы обошли указанный путь и попали в сам Нексус. Тем не менее, вы увидите, что более крупные его конструкции не так легко взломать."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_04",
+      "value": "А теперь осталось лишь…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_05",
+      "value": "Нет! Больше никаких испытаний! Мы доказали свои способности — у нас нет времени."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_06",
+      "value": "Как бы вы ни оценивали собственную готовность, испытания для начинающего инженера — это бинарное требование. Они должны быть пройдены — лишь тогда вы сможете задействовать двигатель реальности."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_01",
+      "value": "Федерация!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_02",
+      "value": "Мы не собираемся причинять вам вред, мы из USS «Ар…»"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_03",
+      "value": "Взять их! Томалак и Села сдерут с нас шкуру, если мы позволим им добраться до маяка!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_post_01",
+      "value": "Не похоже, чтобы ромулане были открыты к диалогу и убеждению…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_01",
+      "value": "Хотелось бы, чтобы всё решилось иначе."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_02",
+      "value": "Она была уверена, что Федерация действует против ромулан."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_03",
+      "value": "Возможно, общение с ее коммандером даст больше информации."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_04",
+      "value": "Они совершенно уверены, что мы за ними шпионим!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_01",
+      "value": "Он больше не проблема."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_02",
+      "value": "Не думаю, что смысл испытания в том, чтобы оглушить его…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_03",
+      "value": "Иногда он говорил, что нужно показать другой стороне силу своих убеждений!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_04",
+      "value": "Что ж… Не вижу признаков того, что мы потерпели неудачу, так что, полагаю, вы правы."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_01",
+      "value": "Стойте там."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_02",
+      "value": "Мы здесь не для того, чтобы сражаться."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_03",
+      "value": "Вы клингон — для чего еще вы здесь, если не для битвы?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_04",
+      "value": "Верно."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_05",
+      "value": "Ох."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_01",
+      "value": "Мы хотим начать диалог."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_02",
+      "value": "Вот еще! Вы хотите сломать маяк. В любом случае, вы опоздали: Томалак уже улетел с данными."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_03",
+      "value": "Отступите. Дайте нам уйти, и мы сделаем то же самое."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_04",
+      "value": "Мы бы и вдоха не потратили на вас. Полученные нами данные разоблачат Федерацию как коварных змей! (Телепортируются.)"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_05",
+      "value": "Минуточку. Ромулане назвали нас коварными змеями? Ничего себе."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_01",
+      "value": "Нам не нужны неприятности."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_02",
+      "value": "Но вы же здесь — значит, нужны!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_01",
+      "value": "Еще ромулане. И еще один маяк-сенсор."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_02",
+      "value": "Федерация. Как… предсказуемо. Пришли скрыть следы своего предательства?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_03",
+      "value": "Понятия не имею, о чем вы."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_01",
+      "value": "Хотите сказать, что ничего не знаете о кораблях Федерации, которые регулярно пробирались через Нейтральную зону и шпионили за нами?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_02",
+      "value": "У нас есть веские доказательства того, что вы нарушили множество договоренностей."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_03",
+      "value": "Давайте изучим факты и попытаемся разобраться — прежде чем начинать полномасштабную войну, а?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_04",
+      "value": "Не буду отрицать: в этом есть смысл. Я разрешу вам встретиться с командиром корабля."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_05",
+      "value": "Но сомневаюсь, что вам удастся его убедить — он с вашей породой уже имел дело."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_01",
+      "value": "За дураков нас принимаете? У нас есть свидетельства того, что корабли Федерации пробирались через Нейтральную зону и шпионили за нами."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_02",
+      "value": "Это противоречит ценностям Федерации. Сложите оружие, или мы отберем его силой!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_01",
+      "value": "Похоже, коммандер ромулан нас опередил и готов исчезнуть."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_02",
+      "value": "Нужно успеть остановить его!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_01",
+      "value": "Должен же быть способ договориться!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_02",
+      "value": "Я не попадусь на ваши уловки."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_03",
+      "value": "У нашего маяка-сенсора есть данные о том, что объекты из «Секции 31» шпионили за моими людьми более десяти лет."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_04",
+      "value": "Как верный слуга империи я обязан сообщить об этом нарушении в Высший совет!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_05",
+      "value": "Как ни больно это признавать… возможно, вы и правы. «Секция 31» никогда ни у кого не вызывала особого доверия."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_06",
+      "value": "Вы… признаете это? Что ж, я слушаю. Что вы предлагаете?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_07",
+      "value": "Дайте нам копию этих данных — мы передадим их Звездному флоту. Если информация подтвердится, они проведут расследование и ответят по соответствующим дипломатическим каналам."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_08",
+      "value": "Вы же понимаете, что ваша копия может быть модифицирована."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_09",
+      "value": "Как и ваша. Но мы просим вас поверить, что мы разберемся с нарушением дипломатических соглашений, если таковое обнаружится."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_10",
+      "value": "Ну да ладно. Но я не буду дальше с вами разговаривать. Берите данные."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_01",
+      "value": "Стойте. Мы не можем позволить вам уйти с данными, касающимися Федерации."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_02",
+      "value": "О, правда? Думаете, можете меня остановить?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_03",
+      "value": "У нашего маяка-сенсора есть данные о том, что объекты из «Секции 31» шпионили за моими людьми более десяти лет."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_04",
+      "value": "Моя обязанность — сообщить об этом нарушении в Высший совет!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_05",
+      "value": "И вы не собираетесь прислушаться к здравому смыслу?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_06",
+      "value": "Здравому смыслу вашего вида? Вряд ли. Вы — коварное отребье. Ромулане поняли, что Федерации нельзя доверять."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_07",
+      "value": "Ничего себе заявление! Не здравый смысл — так фазер!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_01",
+      "value": "Вы на пороге финального испытания."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_02",
+      "value": "И вы — в образе моего бывшего капитана Жана-Люка Пикара."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_03",
+      "value": "Мы посчитали его подходящим для этого испытания."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_04",
+      "value": "Было определено, что помимо веры, воли и хитрости инженеру нужна еще одна черта: редкая способность объединять множество умов — без нее не обойтись в таком грандиозном деле, как создание Нексуса."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_05",
+      "value": "Часто эта цель достигалась посредством диалога и убеждений, но иногда приходится преодолевать сопротивление — во имя высшего блага."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_06",
+      "value": "Чтобы завершить испытание, найдите портал."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_01",
+      "value": "Впереди! Последний портал!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_02",
+      "value": "Поздравляю, экипаж <i>«Артемиды»</i>."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_03",
+      "value": "Вы преодолели все испытания и продемонстрировали черты, позволившие первым инженерам построить чудо, в котором мы сейчас находимся."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_04",
+      "value": "Вы достойны звания инженеров."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_05",
+      "value": "Вы это видите? Мой трикодер показывает, что в ядро данных <i>«Артемиды»</i> льется поток информации."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_06",
+      "value": "Диаграммы, схемы…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_07",
+      "value": "С помощью этой информации вы восстановите двигатель реальности."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_08",
+      "value": "Но сначала вы должны освободить его от присутствия Бессонных."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_01",
+      "value": "Двигатель потемнел, или мне кажется?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_02",
+      "value": "Смотритель сказал, что он сильно поврежден."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_03",
+      "value": "Кто знает, как долго мы проходили испытания смотрителя…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_04",
+      "value": "Достаточно, чтобы Бессонные получили преимущество!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle04_01",
+      "value": "У вас нет ни малейшего шанса помешать нам расправиться с этой машиной."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle04_02",
+      "value": "Еще посмотрим!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_01",
+      "value": "Мы не можем позволить вам идти дальше."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_02",
+      "value": "Вы должны пропустить нас. На карту поставлены миллионы жизней!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_03",
+      "value": "Мы понимаем — мы тоже пытаемся их спасти."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_04",
+      "value": "Вы решаете их судьбу за них. Вы действуете, исходя из морального превосходства, но у вас нет на это права."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_05",
+      "value": "Мы вернем порядок нашему народу и Вселенной. Всё заканчивается."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_01",
+      "value": "А вот, наконец, и ядро!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_02",
+      "value": "А это, должно быть, предводительница Бессонных."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_03",
+      "value": "Нарушители… Упорствующие в стремлении остановить нас."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_04",
+      "value": "Мне довелось мельком увидеть, кем вы были когда-то, — до того, как оказались здесь."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_05",
+      "value": "Вы занимались наукой, у вас были дети. Убийство таких масштабов противоречит вашей природе!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_06",
+      "value": "Думаете, то, что мы делаем, — это убийство? Любая жизнь должна когда-то завершиться. Любая!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_01",
+      "value": "Довольно! Вы зря защищаете это место! Это тюрьма. Оскорбление естественного течения Вселенной!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_02",
+      "value": "Может быть. Возможно, Нексус — не более чем ошибочное, презренное творение древней цивилизации, которое заманивает всех в свою ловушку."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_03",
+      "value": "Но все эти разумы и души уже существуют, и не вы тот судья, которому решать, что они должны быть уничтожены."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_04",
+      "value": "Сколько надменности и решительности…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_05",
+      "value": "Вы правда думаете, что Нексус был создан из великодушия? Чтобы поверить в такое, нужно сойти с ума."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_06",
+      "value": "Мы сделали то, что хотели сделать здесь сегодня. Мое сознание сейчас находится внутри протекающей через Нексус сети — и одновременно здесь."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_07",
+      "value": "Вы можете стабилизировать этот двигатель реальности, но он лишь один из многих, и скоро они будут уничтожены. (Телепортируется.)"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_08",
+      "value": "Не хотелось бы это начинать, но… что мы знаем о Нексусе? Правильно ли мы поступили?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_09",
+      "value": "Я знаю, что мы не позволим просто так уничтожить миллионы жизней. (Телепортируются назад на «Артемиду».)"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_10",
+      "value": "От этого двигателя она отступилась, но слияние с ядром раскрыло ей секрет — тот, который мы надеялись утаить от Бессонных."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_11",
+      "value": "Мы открыли вам доступ к их следующей цели. Выполните свой долг инженера и поспешите — пока еще не всё потеряно."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_01",
+      "value": "Эта консоль может направить платформу к одному из двух выходов."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_02",
+      "value": "Получатся, мы вслепую идем вперед, да?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_03",
+      "value": "Как там говорил капитан Кирк? «Смелее в путь»?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_04",
+      "value": "Мне кажется, он хотя бы имел представление, в каком направлении движется."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_01",
+      "value": "Пойдем по левому пути."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_02",
+      "value": "Этому есть какая-то причина?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_03",
+      "value": "Левой я хорошо бросаю."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_04",
+      "value": "Хорошая причина!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_01",
+      "value": "Пока что нам везло, так что меня устраивает любой вариант."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_02",
+      "value": "Отлично. Тысячи лет эволюции, подбор экипажа для одного из самых совершенных судов из когда-либо созданных — и мы спасаем миллионы жизней, полагаясь на удачу."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_03",
+      "value": "Я голосую за правый путь. Почему нет?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_01",
+      "value": "Вы находитесь на пороге ядра двигателя."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_01",
+      "value": "Мы начали этот путь, мало понимая, что такое Нексус."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_02",
+      "value": "Мы действовали как сплоченный экипаж — несмотря на различия в культуре, временных линиях и мировоззрении!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_03",
+      "value": "Я без тени сомнения доверю свою жизнь любому из них!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_04",
+      "value": "Теперь у этого старика слезы на глазах! Вперед, положим этому конец!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_01",
+      "value": "Великий Кейлес однажды сказал: «Враг может быть столь сильным, что никто не сможет ему противостоять»."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_02",
+      "value": "«Но мы должны бороться: лучше умереть, чем узнать, что мы не проявили себя как воины, когда пришло время действовать»."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_03",
+      "value": "Почтим же сегодня эти слова! Вместе мы преодолеем все препятствия!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_04",
+      "value": "Хорошо сказано, друг мой!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_05",
+      "value": "Вы бы заработали себе хорошую репутацию, тренируя футбольную команду в Академии, мистер Ворф!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_01",
+      "value": "Мне, конечно, тоже хочется побыстрее всё это закончить и вернуться в любимый медотсек…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_02",
+      "value": "Но это же безумие — врываться туда совсем без подготовки!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_03",
+      "value": "Давайте хотя бы просканируем это место и посмотрим, с чем предстоит иметь дело!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_04",
+      "value": "Очень здравая мысль, друг мой!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_05",
+      "value": "И подготовка может дать нам желанное преимущество!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_01",
+      "value": "Приветствую, инженеры."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_02",
+      "value": "Ура, мы получили этот титул! Что теперь?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_03",
+      "value": "Пока мы говорили, Бессонные проникли через большинство систем защиты двигателя реальности."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_04",
+      "value": "Необходимая для ремонта двигателя информация отправлена на ваш корабль и может быть использована посредством реакторов."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_05",
+      "value": "Переместив их в ядро двигателя, вы стабилизируете его и вернете системы в рабочее состояние."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_06",
+      "value": "«Бессонные», как они себя называют, — фанатики; они будут пытаться остановить вас любыми силами."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_01",
+      "value": "Повреждения достаточно обширны. У нас мало времени!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_02",
+      "value": "По нашей оценке, полный отказ наступит менее чем через 5 земных минут."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_03",
+      "value": "В настоящее время главная особь Бессонных почти завершила слияние своего сознания с двигателем."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_04",
+      "value": "Звучит… не очень хорошо."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_05",
+      "value": "Протоколы двигателя предназначены для предотвращения несанкционированного доступа, но Бессонные уже давно пробивают бреши в системе и собирают ее реакторы."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_06",
+      "value": "Если их предводительница объединит свое сознание с двигателем, то сможет отключить его, а затем и распространить свое влияние на остальную часть Нексуса."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_07",
+      "value": "Мы должны предотвратить это!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_08",
+      "value": "Вы как инженер можете таким же образом слить свое сознание с двигателем."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_09",
+      "value": "Но такой подвиг требует невероятного ментального мастерства."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_10",
+      "value": "Майкл, вы одна из самых сильных личностей, с которыми мне доводилось иметь дело!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_11",
+      "value": "И вы — приемная сестра лучшего специалиста по слиянию разумов, что я знаю. То есть единственного."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_12",
+      "value": "Майкл, я верю в вас."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_13",
+      "value": "Я… попробую."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_14",
+      "value": "Похоже… сработало. Я чувствую, как стены охватывают меня, будто руки матери. Всё из золота. И такое большое. Ничего себе…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_15",
+      "value": "Я чувствую здесь еще кого-то. Кого-то огромного. Выше горы передо мной. Она такая надменная. Разъяренная. Ее дети, ее товарищи — их нет. Они давно мертвы."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_16",
+      "value": "Она меня заметила! Пытаюсь уклониться. Думаю, она теряет фокус на двигателе… преследует меня."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_17",
+      "value": "Она выбросила меня из системы! Мне казалось, я чувствую энергию, которую она вложила в это… возможно, это ее замедлило…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_18",
+      "value": "Вы больше не сможете получить доступ к двигателю отсюда. Нужно добраться до его ядра."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_01",
+      "value": "Мы должны предупредить, что процесс почти завершен. Время на исходе."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_02",
+      "value": "Нет! Дайте я еще раз попробую получить доступ к двигателю с помощью реактора."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_03",
+      "value": "Уверены? В прошлый раз ваши биологические показатели зашкаливали. Если попытаетесь снова…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_04",
+      "value": "Тогда за мной присмотрит лучший врач Звездного флота, не так ли?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_05",
+      "value": "Что ж, тогда вперед!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_06",
+      "value": "Я снова там."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_07",
+      "value": "Чувствую ее вокруг нас!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_08",
+      "value": "Ее горе повсюду. Она так одинока. Все, кого она знала, давно ушли."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_09",
+      "value": "Она… тоскует по каждому. В ее существовании есть лишь одиночество. Она потеряла целый мир!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_10",
+      "value": "Библиотека, которую она собрала, багровые моря, где она плавала в детстве, — всё исчезло. Ее тоска невыносима! Не могу… а-а-а!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_11",
+      "value": "Доктор! Вытащите ее оттуда! Это ее убивает!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_12",
+      "value": "Со мной всё в порядке. Никогда раньше не чувствовала такой боли, как она."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_13",
+      "value": "Боль ширилась в ней и прорвалась сквозь реальность сферы, в которой она была. И сфера не смогла больше вмещать ее разум и душу. Так и появились все эти… Бессонные. И теперь они здесь."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_14",
+      "value": "Неудивительно, что они так воспринимают Нексус."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_15",
+      "value": "Нельзя позволить им решать за остальных и продолжать это разрушение."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_16",
+      "value": "Она снова вас заметила?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_17",
+      "value": "Действия вашей подруги замедлили процесс на 78,9 земной минуты."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_18",
+      "value": "У нас еще есть время!"
+    },
+    {
       "key": "Data_GSCutSceneDialogue_opening_cutscene_01",
       "value": "Нексус вернулся."
     },
@@ -11371,6 +13223,10 @@
       "value": "ПРИЗРАК МАШИНЫ"
     },
     {
+      "key": "Data_GSEpisodes_displayName_Episode7",
+      "value": "ДАТТА, ДАЯДХВАМ, ДАМЬЯТА"
+    },
+    {
       "key": "Data_GSMissionObjective_e1_m1_encounter03",
       "value": "Победить Хана"
     },
@@ -11527,6 +13383,30 @@
       "value": "Отважно направляемся туда, куда еще не ступала нога человека."
     },
     {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission1",
+      "value": "<i>USS «Артемида»</i> находится у огромного двигателя реальности, построенного вокруг захваченной звезды."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission2",
+      "value": "Чтобы заслужить помощь смотрителя, группа высадки должна пройти четыре испытания, первое из которых — испытание веры."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission3",
+      "value": "Второе — испытание воли, в котором группа высадки снова будет сражаться с борг."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission4",
+      "value": "Веры и воли не всегда достаточно — поэтому группе высадки предстоит также испытание хитрости."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission5",
+      "value": "И последним будет испытание разума, которое докажет, что некоторые конфликты можно разрешить с помощью диалога и здравого смысла."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission6",
+      "value": "Получив звание инженеров, группа высадки должна остановить Бессонных и починить двигатель реальности."
+    },
+    {
       "key": "Data_GSMissions_displayName_Episode1_Mission1",
       "value": "СМЕЛЕЕ В ПУТЬ"
     },
@@ -11671,12 +13551,44 @@
       "value": "ПЛАЧЕВНЫЙ КОНЕЦ"
     },
     {
+      "key": "Data_GSMissions_displayName_Episode7_Mission1",
+      "value": "РЕАЛЬНОСТЬ, НО НЕ СОВСЕМ"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission2",
+      "value": "НЕЧТО СТРАННОЕ"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission3",
+      "value": "ПО ДЛИННОМУ ПУТИ"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission4",
+      "value": "ИЗ ВИНА И РОЗ"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission5",
+      "value": "УВЕНЧАННОЕ ЗВЕЗДАМИ ОДИНОЧЕСТВО"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission6",
+      "value": "ПОСЛЕДНЕЕ СЛОВО"
+    },
+    {
       "key": "Data_GSNodeEncounter_BattleDesc_Borg",
       "value": "Обнаружены признаки жизни враждебных борг. Приготовьтесь к бою."
     },
     {
       "key": "Data_GSNodeEncounter_BattleDesc_Cardassian",
       "value": "Обнаружены признаки жизни враждебных кардассиан. Приготовьтесь к бою."
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_CardassianShapeshifters",
+      "value": "Обнаружены признаки враждебных кардассиан и метаморфов. Приготовьтесь к бою."
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+      "value": "Обнаружены признаки враждебных бессонных. Приготовьтесь к бою."
     },
     {
       "key": "Data_GSNodeEncounter_BattleDesc_e1_m1_battle01",
@@ -12911,8 +14823,16 @@
       "value": "Обнаружены признаки жизни враждебных ромулан и горнов. Приготовьтесь к бою."
     },
     {
+      "key": "Data_GSNodeEncounter_BattleDesc_Shapeshifters",
+      "value": "Обнаружены признаки враждебных метаморфов. Приготовьтесь к бою."
+    },
+    {
       "key": "Data_GSNodeEncounter_BattleDesc_Unknown",
       "value": "Обнаружены неизвестные враги. Приготовьтесь к бою."
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_UnknownLife",
+      "value": "Обнаружены признаки неизвестной враждебной формы жизни. Приготовьтесь к бою."
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_AbandonedShuttle",
@@ -12975,6 +14895,10 @@
       "value": "Альков борг"
     },
     {
+      "key": "Data_GSNodeExploration_clickableObject_BorgCube",
+      "value": "Куб борг"
+    },
+    {
       "key": "Data_GSNodeExploration_clickableObject_BorgDevice",
       "value": "Прибор борг"
     },
@@ -12989,6 +14913,10 @@
     {
       "key": "Data_GSNodeExploration_clickableObject_BorgDrones",
       "value": "Дроны борг"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_BorgSensors",
+      "value": "Сенсоры борг"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_BorgSphere",
@@ -13343,6 +15271,14 @@
       "value": "Ромуланский ретранслятор"
     },
     {
+      "key": "Data_GSNodeExploration_clickableObject_Romulans",
+      "value": "Ромулане"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_Runabout",
+      "value": "Катер"
+    },
+    {
       "key": "Data_GSNodeExploration_clickableObject_Sabotage",
       "value": "Диверсия"
     },
@@ -13453,6 +15389,10 @@
     {
       "key": "Data_GSNodeExploration_clickableObject_WorkerBee",
       "value": "Рабочая пчела"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_Wounded",
+      "value": "Раненые"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_Wreckage",
@@ -14263,6 +16203,134 @@
       "value": "Оставшись незамеченной, группа высадки направляется направо. Группа высадки находит <b>альтернативный путь<b>."
     },
     {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option01",
+      "value": "С помощью одного из реакторов группа высадки может отключить силовое поле, преграждающее путь."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option02",
+      "value": "Группа высадки продолжает изучать объект. Группа высадки находит <b>альтернативный путь<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option01",
+      "value": "Группа высадки открывает запертую дверь с помощью реактора и находит припасы."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option02",
+      "value": "Сдержав любопытство и действуя осторожно, группа высадки движется дальше."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option01",
+      "value": "Группа высадки запрыгивает на платформу и находит припасы."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option02",
+      "value": "Группа высадки не хочет рисковать получить травму, а поэтому пропускает платформу и движется дальше."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option01",
+      "value": "После сканирования катера на предмет повреждений на группу высадки нападают метаморфы, изображающие Федерацию. Группа высадки получает <b>бонус техн. умения<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option02",
+      "value": "Метаморфы устраивают засаду и застигают группу высадки врасплох. Группа высадки получает <b>штраф скорости</b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option03",
+      "value": "Обыскивая катер, группа высадки находит припасы, но после этого их атакуют метаморфы."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option01",
+      "value": "Брошенные припасы — очередная засада метаморфов. Приготовьтесь к бою."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option02",
+      "value": "Опасаясь возможной ловушки, группа высадки движется дальше."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option01",
+      "value": "Получив доступ к сенсорам борг, группа высадки открыла новый путь вперед и надеется, что вторжение осталось незамеченным."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option02",
+      "value": "Группа высадки предпочитает продолжить исследование куба борг, привлекая меньше внимания. Группа высадки находит <b>альтернативный путь<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option01",
+      "value": "Из-за энергетической перегрузки альков борг и дроны, которые заряжались, оказались отключены. Группа высадки получает <b>бонус защиты<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option02",
+      "value": "Группа высадки решает не взаимодействовать с альковом борг."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option01",
+      "value": "Изучая детали и материалы борг, группа высадки находит кое-какие припасы."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option02",
+      "value": "Группа высадки игнорирует остатки техники борг и движется вперед."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option01",
+      "value": "Оказав медицинскую помощь, группа высадки поднимает раненых на ноги. В благодарность медик Звездного флота передает немного припасов."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option02",
+      "value": "Чтобы защитить раненых, группа высадки атакует приближающихся клингонов. Группа высадки получает <b>бонус атаки<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option01",
+      "value": "Времени мало, поэтому группа высадки движется вперед."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option02",
+      "value": "Меняя «реальность» с помощью одного из реакторов, группа высадки находит кое-какие припасы."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option01",
+      "value": "Группа высадки смогла избежать боя, хотя это решение и не было самым мирным."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option02",
+      "value": "К сожалению, враждебный прием ромулан привел к сражению."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option01",
+      "value": "Села колебалась, но всё-таки позволила группе высадки уйти без боя."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option02",
+      "value": "Не желая доверять Федерации, Села и ромулане атакуют."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option01",
+      "value": "Группе высадки удалось решить вопрос дипломатически и избежать боя."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option02",
+      "value": "Не достигнув дипломатического решения, группа высадки готовится к бою."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option01",
+      "value": "Группа высадки решает двигаться по левому пути."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option02",
+      "value": "Группа высадки решает двигаться по правому пути."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option01",
+      "value": "Группа высадки полна решимости остановить Бессонных, и поэтому готовится к бою. Группа высадки получает <b>бонус боевого духа<b>."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option02",
+      "value": "Группа высадки готовится сразиться с Бессонными и спасти двигатель реальности."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option03",
+      "value": "Сканирование Бессонных дало группе высадки преимущество в предстоящей битве. Группа высадки получает <b>бонус техн. умения<b>."
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_AdvancedForward",
       "value": "ГРУППА ВЫСАДКИ ИДЕТ ВПЕРЕД"
     },
@@ -14327,6 +16395,10 @@
       "value": "КОМПЬЮТЕР ВЗЛОМАН"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
+      "value": "ДВИЖЕНИЕ ВПЕРЕД ПРОДОЛЖЕНО"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_CoreDisabled",
       "value": "ВАРП-ЯДРО ОТКЛЮЧЕНО"
     },
@@ -14341,6 +16413,10 @@
     {
       "key": "Data_GSNodeExploration_ResultsHeader_Diplomacy",
       "value": "УСПЕШНАЯ ДИПЛОМАТИЯ"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsHeader_DoorOpened",
+      "value": "ДВЕРЬ ОТКРЫТА"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_DoorsOpened",
@@ -14431,6 +16507,10 @@
       "value": "ПУТЬ ОБНАРУЖЕН"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_PersonnelHealed",
+      "value": "ЛИЧНЫЙ СОСТАВ ВЫЛЕЧЕН"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_PulledBack",
       "value": "ОТСТУПЛЕНИЕ"
     },
@@ -14467,6 +16547,10 @@
       "value": "СКАНИРОВАНИЕ ЗАВЕРШЕНО"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_SensorsAccessed",
+      "value": "ПОЛУЧЕН ДОСТУП К СЕНСОРАМ"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_ShieldBonus",
       "value": "БОНУС ЩИТА"
     },
@@ -14481,6 +16565,10 @@
     {
       "key": "Data_GSNodeExploration_ResultsHeader_SpeedBonus",
       "value": "БОНУС СКОРОСТИ"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsHeader_SpeedDown",
+      "value": "УМЕНЬШ. СКОРОСТЬ"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
@@ -15057,6 +17145,30 @@
     {
       "key": "Data_MissionObjective_e6_m6_Name",
       "value": "Починить Нексус"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m1_Name",
+      "value": "Остановить Бессонных"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m2_Name",
+      "value": "Испытание веры"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m3_Name",
+      "value": "Испытание воли"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m4_Name",
+      "value": "Испытание хитрости"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m5_Name",
+      "value": "Испытание разума"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m7_Name",
+      "value": "Остановить Бессонных"
     },
     {
       "key": "Data_Notification_DailyRewardOneOff_Body",
@@ -18899,6 +21011,10 @@
       "value": "Призыв сдаться"
     },
     {
+      "key": "Data_Skill_Chang_Bridge_description",
+      "value": "Клингоны получает <color=#01e2ff>+5%</color> Атака."
+    },
+    {
       "key": "Data_Skill_Chekov_Attack_description_level1",
       "value": "<color=#01e2ff>100% урона</color>"
     },
@@ -18909,6 +21025,10 @@
     {
       "key": "Data_Skill_Chekov_Attack_displayName",
       "value": "Фазер"
+    },
+    {
+      "key": "Data_Skill_Chekov_Bridge_description",
+      "value": "Звездный флот получает <color=#01e2ff>+5%</color> Атака."
     },
     {
       "key": "Data_Skill_Crusher_Attack_description_level1",
@@ -19156,7 +21276,7 @@
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_description_level1",
-      "value": "<color=#01e2ff>150% техн. урона</color>."
+      "value": "<color=#01e2ff>100% техн. урона</color>."
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_displayName",
@@ -19256,7 +21376,7 @@
     },
     {
       "key": "Data_Skill_Elnor_Bridge_description",
-      "value": "Получите <color=#01e2ff>+5%</color> защиты."
+      "value": "<color=#01e2ff>+3%</color> Защита."
     },
     {
       "key": "Data_Skill_Elnor_Bridge_displayName",
@@ -19305,6 +21425,10 @@
     {
       "key": "Data_Skill_Garak_Attack_description_level2",
       "value": "<color=#01e2ff>150% урона</color>"
+    },
+    {
+      "key": "Data_Skill_Garak_Bridge_description",
+      "value": "<color=#01e2ff>+5%</color> Вероятность крит. удара."
     },
     {
       "key": "Data_Skill_GenBorgEng01M_Attack_description_level1",
@@ -20967,6 +23091,18 @@
       "value": "Маневр Пикара"
     },
     {
+      "key": "Data_Skill_PicardDixon_Attack_description_level1",
+      "value": "<color=#01e2ff>100% урона</color>"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Attack_description_level2",
+      "value": "<color=#01e2ff>150% урона</color>"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Bridge_description",
+      "value": "Звездный флот получает <color=#01e2ff>+5%</color> Атака."
+    },
+    {
       "key": "Data_Skill_PicardOld_Attack_description_level1",
       "value": "<color=#01e2ff>2 x 50% урона</color>."
     },
@@ -21347,6 +23483,18 @@
       "value": "Неожиданная атака"
     },
     {
+      "key": "Data_Skill_Shinzon_Attack_description_level1",
+      "value": "<color=#01e2ff>100% урона</color> (<color=#01e2ff>25% шанс</color> нанести <color=#01e2ff>рану</color>)."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Attack_description_level2",
+      "value": "<color=#01e2ff>125% урона</color> (<color=#01e2ff>50% шанс</color> нанести <color=#01e2ff>рану</color>)."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Bridge_description",
+      "value": "Ромулане получает <color=#01e2ff>+5%</color> Атака."
+    },
+    {
       "key": "Data_Skill_Sisko_Attack_description_level1",
       "value": "<color=#01e2ff>3 x 35% урона</color>. (<color=#01e2ff>25% шанс</color> на <color=#01e2ff>уменьшение защиты</color> на 1 ход для врагов-<color=#01e2ff>кардассиан</color>)"
     },
@@ -21528,7 +23676,7 @@
     },
     {
       "key": "Data_Skill_Stamets_Bridge_description",
-      "value": "Звездный флот получает <color=#01e2ff>+10%</color> техн. умения."
+      "value": "Звездный флот получает <color=#01e2ff>+5%</color> Техн. умение."
     },
     {
       "key": "Data_Skill_Stamets_Bridge_displayName",
@@ -21672,7 +23820,7 @@
     },
     {
       "key": "Data_Skill_Tilly_Bridge_description",
-      "value": "Инженеры получают <color=#01e2ff>+10%</color> защиты."
+      "value": "Звездный флот получает <color=#01e2ff>+5%</color> Защита."
     },
     {
       "key": "Data_Skill_Tilly_Bridge_displayName",
@@ -21736,11 +23884,11 @@
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_description_level1",
-      "value": "<color=#01e2ff>Маскировка</color> для всех союзников на 3 хода."
+      "value": "<color=#01e2ff>Маскировка</color> для всех союзников на 3 хода. (<color=#01e2ff>+1 к боевому духу</color> для союзников-<color=#01e2ff>ромулан</color>)."
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_description_level2",
-      "value": "<color=#01e2ff>Маскировка</color> и <color=#01e2ff>очистка</color> для всех союзников на 3 хода."
+      "value": "<color=#01e2ff>Маскировка</color> и <color=#01e2ff>очистка</color> для всех союзников на 3 хода. (<color=#01e2ff>+2 к боевому духу</color> для союзников-<color=#01e2ff>ромулан</color>)."
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_displayName",
@@ -21748,11 +23896,11 @@
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_description_level1",
-      "value": "<color=#01e2ff>-1 от боевого духа</color> и <color=#01e2ff>уменьшение защиты</color> для 1 врага на 3 хода. <color=#01e2ff>На следующий ход:</color> <color=#01e2ff>200% урона</color> (<color=#01e2ff>300% урона</color>, если <color=#01e2ff>боевой дух</color> врага < 0)"
+      "value": "<color=#01e2ff>200% техн. урона</color> для 1 противника и <color=#01e2ff>-1 от боевого духа</color> всех противников."
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_description_level2",
-      "value": "<color=#01e2ff>-2 от боевого духа</color> и <color=#01e2ff>значительное уменьшение защиты</color> для 1 врага на 3 хода. <color=#01e2ff>На следующий ход:</color> <color=#01e2ff>300% урона</color> (<color=#01e2ff>450% урона</color>, если <color=#01e2ff>боевой дух</color> врага < 0)"
+      "value": "<color=#01e2ff>300% техн. урона</color> для 1 противника и <color=#01e2ff>-2 от боевого духа</color> всех противников."
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_displayName",
@@ -21772,7 +23920,7 @@
     },
     {
       "key": "Data_Skill_Torchbearer_Bridge_description",
-      "value": "Клингоны получают <color=#01e2ff>+10%</color> силы воли."
+      "value": "Клингоны получает <color=#01e2ff>+5%</color> Сила воли."
     },
     {
       "key": "Data_Skill_Torchbearer_Bridge_displayName",
@@ -21891,8 +24039,20 @@
       "value": "Дисциплина"
     },
     {
+      "key": "Data_Skill_Troi_Attack_description_level1",
+      "value": "<color=#01e2ff>100% урона</color>"
+    },
+    {
+      "key": "Data_Skill_Troi_Attack_description_level2",
+      "value": "<color=#01e2ff>150% урона</color>"
+    },
+    {
       "key": "Data_Skill_Troi_Attack_displayName",
       "value": "Фазер"
+    },
+    {
+      "key": "Data_Skill_Troi_Bridge_description",
+      "value": "Звездный флот получает <color=#01e2ff>+5%</color> Сила воли."
     },
     {
       "key": "Data_Skill_Tuvok_Attack_displayName",
@@ -25079,6 +27239,26 @@
       "value": "ОБНАРУЖЕН ЯЩИК С ПРИПАСАМИ"
     },
     {
+      "key": "News_Crew_Generic_Headline",
+      "value": "Новых членов экипажа"
+    },
+    {
+      "key": "News_Episode_Generic_Headline",
+      "value": "Новый эпизод"
+    },
+    {
+      "key": "News_FactionEvent_Generic_Headline",
+      "value": "Новое событие фракций"
+    },
+    {
+      "key": "News_SoloEvent_Generic_Headline",
+      "value": "Новое одиночное событие"
+    },
+    {
+      "key": "News_Update_Generic_Headline",
+      "value": "Новое обновление"
+    },
+    {
       "key": "No Items Summoned",
       "value": "Нет вызванных предметов"
     },
@@ -25652,43 +27832,43 @@
     },
     {
       "key": "shop_Gear_Command_Padd_Common",
-      "value": "Легендарный PADD: Командование"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Epic",
-      "value": "Очень редкий PADD: Командование"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Legendary",
-      "value": "Эпический PADD: Командование"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Rare",
       "value": "Обычный PADD: Командование"
     },
     {
-      "key": "shop_Gear_Command_Padd_VeryRare",
+      "key": "shop_Gear_Command_Padd_Epic",
+      "value": "Эпический PADD: Командование"
+    },
+    {
+      "key": "shop_Gear_Command_Padd_Legendary",
+      "value": "Легендарный PADD: Командование"
+    },
+    {
+      "key": "shop_Gear_Command_Padd_Rare",
       "value": "Редкий PADD: Командование"
     },
     {
+      "key": "shop_Gear_Command_Padd_VeryRare",
+      "value": "Очень редкий PADD: Командование"
+    },
+    {
       "key": "shop_Gear_Command_Phaser_Common",
-      "value": "Легендарный фазер, тип II: Командование"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Epic",
-      "value": "Очень редкий фазер, тип II: Командование"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Legendary",
-      "value": "Эпический фазер, тип II: Командование"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Rare",
       "value": "Обычный фазер, тип II: Командование"
     },
     {
-      "key": "shop_Gear_Command_Phaser_VeryRare",
+      "key": "shop_Gear_Command_Phaser_Epic",
+      "value": "Эпический фазер, тип II: Командование"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_Legendary",
+      "value": "Легендарный фазер, тип II: Командование"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_Rare",
       "value": "Редкий фазер, тип II: Командование"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_VeryRare",
+      "value": "Очень редкий фазер, тип II: Командование"
     },
     {
       "key": "shop_Gear_Command_Tricorder_Common",
@@ -25732,43 +27912,43 @@
     },
     {
       "key": "shop_Gear_Engineer_Padd_Common",
-      "value": "Легендарный PADD: Инженерная служба"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Epic",
-      "value": "Очень редкий PADD: Инженерная служба"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Legendary",
-      "value": "Эпический PADD: Инженерная служба"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Rare",
       "value": "Обычный PADD: Инженерная служба"
     },
     {
-      "key": "shop_Gear_Engineer_Padd_VeryRare",
+      "key": "shop_Gear_Engineer_Padd_Epic",
+      "value": "Эпический PADD: Инженерная служба"
+    },
+    {
+      "key": "shop_Gear_Engineer_Padd_Legendary",
+      "value": "Легендарный PADD: Инженерная служба"
+    },
+    {
+      "key": "shop_Gear_Engineer_Padd_Rare",
       "value": "Редкий PADD: Инженерная служба"
     },
     {
+      "key": "shop_Gear_Engineer_Padd_VeryRare",
+      "value": "Очень редкий PADD: Инженерная служба"
+    },
+    {
       "key": "shop_Gear_Engineer_Phaser_Common",
-      "value": "Легендарный фазер, тип II: Инженерная служба"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Epic",
-      "value": "Очень редкий фазер, тип II: Инженерная служба"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Legendary",
-      "value": "Эпический фазер, тип II: Инженерная служба"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Rare",
       "value": "Обычный фазер, тип II: Инженерная служба"
     },
     {
-      "key": "shop_Gear_Engineer_Phaser_VeryRare",
+      "key": "shop_Gear_Engineer_Phaser_Epic",
+      "value": "Эпический фазер, тип II: Инженерная служба"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_Legendary",
+      "value": "Легендарный фазер, тип II: Инженерная служба"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_Rare",
       "value": "Редкий фазер, тип II: Инженерная служба"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_VeryRare",
+      "value": "Очень редкий фазер, тип II: Инженерная служба"
     },
     {
       "key": "shop_Gear_Engineer_Tricorder_Common",
@@ -25812,43 +27992,43 @@
     },
     {
       "key": "shop_Gear_Medic_Padd_Common",
-      "value": "Легендарный PADD: Медицинская служба"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Epic",
-      "value": "Очень редкий PADD: Медицинская служба"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Legendary",
-      "value": "Эпический PADD: Медицинская служба"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Rare",
       "value": "Обычный PADD: Медицинская служба"
     },
     {
-      "key": "shop_Gear_Medic_Padd_VeryRare",
+      "key": "shop_Gear_Medic_Padd_Epic",
+      "value": "Эпический PADD: Медицинская служба"
+    },
+    {
+      "key": "shop_Gear_Medic_Padd_Legendary",
+      "value": "Легендарный PADD: Медицинская служба"
+    },
+    {
+      "key": "shop_Gear_Medic_Padd_Rare",
       "value": "Редкий PADD: Медицинская служба"
     },
     {
+      "key": "shop_Gear_Medic_Padd_VeryRare",
+      "value": "Очень редкий PADD: Медицинская служба"
+    },
+    {
       "key": "shop_Gear_Medic_Phaser_Common",
-      "value": "Легендарный фазер, тип II: Медицинская служба"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Epic",
-      "value": "Очень редкий фазер, тип II: Медицинская служба"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Legendary",
-      "value": "Эпический фазер, тип II: Медицинская служба"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Rare",
       "value": "Обычный фазер, тип II: Медицинская служба"
     },
     {
-      "key": "shop_Gear_Medic_Phaser_VeryRare",
+      "key": "shop_Gear_Medic_Phaser_Epic",
+      "value": "Эпический фазер, тип II: Медицинская служба"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_Legendary",
+      "value": "Легендарный фазер, тип II: Медицинская служба"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_Rare",
       "value": "Редкий фазер, тип II: Медицинская служба"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_VeryRare",
+      "value": "Очень редкий фазер, тип II: Медицинская служба"
     },
     {
       "key": "shop_Gear_Medic_Tricorder_Common",
@@ -25892,43 +28072,43 @@
     },
     {
       "key": "shop_Gear_Science_Padd_Common",
-      "value": "Легендарный PADD: Научная служба"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Epic",
-      "value": "Очень редкий PADD: Научная служба"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Legendary",
-      "value": "Эпический PADD: Научная служба"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Rare",
       "value": "Обычный PADD: Научная служба"
     },
     {
-      "key": "shop_Gear_Science_Padd_VeryRare",
+      "key": "shop_Gear_Science_Padd_Epic",
+      "value": "Эпический PADD: Научная служба"
+    },
+    {
+      "key": "shop_Gear_Science_Padd_Legendary",
+      "value": "Легендарный PADD: Научная служба"
+    },
+    {
+      "key": "shop_Gear_Science_Padd_Rare",
       "value": "Редкий PADD: Научная служба"
     },
     {
+      "key": "shop_Gear_Science_Padd_VeryRare",
+      "value": "Очень редкий PADD: Научная служба"
+    },
+    {
       "key": "shop_Gear_Science_Phaser_Common",
-      "value": "Легендарный фазер, тип II: Научная служба"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Epic",
-      "value": "Очень редкий фазер, тип II: Научная служба"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Legendary",
-      "value": "Эпический фазер, тип II: Научная служба"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Rare",
       "value": "Обычный фазер, тип II: Научная служба"
     },
     {
-      "key": "shop_Gear_Science_Phaser_VeryRare",
+      "key": "shop_Gear_Science_Phaser_Epic",
+      "value": "Эпический фазер, тип II: Научная служба"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_Legendary",
+      "value": "Легендарный фазер, тип II: Научная служба"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_Rare",
       "value": "Редкий фазер, тип II: Научная служба"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_VeryRare",
+      "value": "Очень редкий фазер, тип II: Научная служба"
     },
     {
       "key": "shop_Gear_Science_Tricorder_Common",
@@ -27139,6 +29319,10 @@
       "value": "КОСНИТЕСЬ, ЧТОБЫ ПРОДОЛЖИТЬ"
     },
     {
+      "key": "UI_CaptainLog_Panel_FooterNote_TapToContinue_Click",
+      "value": "ЩЕЛКНИТЕ, ЧТОБЫ ПРОДОЛЖИТЬ"
+    },
+    {
       "key": "UI_CaptainLog_Panel_FooterNote_TapToContinue_Gamepad",
       "value": "{0} — ПРОДОЛЖИТЬ"
     },
@@ -27205,6 +29389,10 @@
     {
       "key": "UI_Common_Advance",
       "value": "Коснитесь, чтобы идти дальше"
+    },
+    {
+      "key": "UI_Common_Advance_Click",
+      "value": "Щелкните, чтобы идти дальше"
     },
     {
       "key": "UI_Common_Advance_Gamepad",
@@ -27311,6 +29499,10 @@
       "value": "Эпизод 6"
     },
     {
+      "key": "UI_Common_Missions_EpisodeIdentifier_07",
+      "value": "Эпизод 7"
+    },
+    {
       "key": "UI_Common_New",
       "value": "Новое"
     },
@@ -27359,6 +29551,10 @@
       "value": "Коснитесь, чтобы вернуться"
     },
     {
+      "key": "UI_Common_Return_Click",
+      "value": "Щелкните, чтобы вернуться"
+    },
+    {
       "key": "UI_Common_Return_Gamepad",
       "value": "{0} — вернуться"
     },
@@ -27379,12 +29575,20 @@
       "value": "Коснитесь, чтобы начать"
     },
     {
+      "key": "UI_Common_Start_Click",
+      "value": "Щелкните, чтобы начать"
+    },
+    {
       "key": "UI_Common_Start_Gamepad",
       "value": "{0} — начать"
     },
     {
       "key": "UI_Common_TapToClose",
       "value": "КОСНИТЕСЬ, ЧТОБЫ ЗАКРЫТЬ"
+    },
+    {
+      "key": "UI_Common_TapToClose_Click",
+      "value": "ЩЕЛКНИТЕ, ЧТОБЫ ЗАКРЫТЬ"
     },
     {
       "key": "UI_Common_TapToClose_Gamepad",
@@ -27607,6 +29811,30 @@
       "value": "Один из них произносит на древнем языке: «Идемте! Мы должны последовать за ними к двигателю реальности»."
     },
     {
+      "key": "UI_Cutscene_Episode7_Text1",
+      "value": "Бессонных отбросили от двигателя реальности, не дав им воплотить планы в жизнь."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text2",
+      "value": "Но их предводительница узнала тайну от мейнфрейма двигателя, и эта тайна может привести к катастрофе для Нексуса."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text3",
+      "value": "Смотритель обнаруживает карту, на которой видно передвижение Бессонных, спешащих к неизвестной точке."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text4",
+      "value": "На карте видно всю разрушительную деятельность Бессонных, но их следующий пункт назначения вызывает еще больше беспокойства."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text5",
+      "value": "Это настолько серьезная беда, что она затмевает все остальные мелкие неприятности, причиненные врагами."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text6",
+      "value": "Одна мысль о ней вызывает у вас ужас, однако в то же время укрепляет ваши намерения, и вы приказываете «Артемиде» лечь на новый курс."
+    },
+    {
       "key": "UI_DailyChest_Claim",
       "value": "ПОЛУЧИТЬ РЕПЛИКАТОР"
     },
@@ -27685,6 +29913,14 @@
     {
       "key": "UI_EncounterPreview_Title",
       "value": "БОЕВАЯ ТРЕВОГА!"
+    },
+    {
+      "key": "UI_Episode_MissionNotAvailable_Body",
+      "value": "Завершите эту миссию на предыдущем уровне сложности, чтобы разблокировать ее."
+    },
+    {
+      "key": "UI_Episode_MissionNotAvailable_Title",
+      "value": "Миссия заблокирована"
     },
     {
       "key": "UI_Error_ChangeName",
@@ -28053,6 +30289,10 @@
     {
       "key": "UI_Generic_TodaysGoals",
       "value": "Сегодняшние цели выполнены!"
+    },
+    {
+      "key": "UI_Glossary_Header",
+      "value": "глоссарий"
     },
     {
       "key": "UI_GoTo_Achievements",
@@ -28703,6 +30943,10 @@
       "value": "Разблокируется на уровне игрока {0}."
     },
     {
+      "key": "UI_Menu_TooltipLocked_News_Title",
+      "value": "НОВОСТИ (ЗАБЛОКИР.)"
+    },
+    {
       "key": "UI_Menu_TooltipLocked_Operations_Title",
       "value": "ДЕЙСТВИЯ (ЗАБЛОКИР.)"
     },
@@ -28813,6 +31057,10 @@
     {
       "key": "UI_Mission_Popup_Replay",
       "value": "ПОВТОР"
+    },
+    {
+      "key": "UI_Mission_PopupNotAvailableSecondary_Message",
+      "value": "Завершите этот эпизод на предыдущем уровне сложности, чтобы разблокировать его."
     },
     {
       "key": "ui_mission_result_completion_percent",
@@ -28943,6 +31191,14 @@
       "value": "Для управления настройками уведомлений перейдите в меню настроек системы."
     },
     {
+      "key": "UI_OnlineMode_Body",
+      "value": "Переключиться на сетевой режим"
+    },
+    {
+      "key": "UI_OnlineMode_Title",
+      "value": "СЕТЕВОЙ РЕЖИМ"
+    },
+    {
       "key": "UI_Operations_EventPointTotal",
       "value": "Всего очков: {0}"
     },
@@ -28967,6 +31223,22 @@
       "value": "Язык"
     },
     {
+      "key": "UI_Options_LocalKey_High",
+      "value": "ВЫСОК."
+    },
+    {
+      "key": "UI_Options_LocalKey_Low",
+      "value": "НИЗК."
+    },
+    {
+      "key": "UI_Options_LocalKey_Medium",
+      "value": "СРЕДН."
+    },
+    {
+      "key": "UI_Options_LocalKey_VeryLow",
+      "value": "ОЧЕНЬ НИЗК."
+    },
+    {
       "key": "UI_Options_Music_Off",
       "value": "Выкл. музыку"
     },
@@ -28977,6 +31249,10 @@
     {
       "key": "UI_Options_PlayerId",
       "value": "Идентификатор игрока"
+    },
+    {
+      "key": "UI_Options_QualitySettings",
+      "value": "Настройки качества"
     },
     {
       "key": "UI_Options_ResetPlayerProgressButton",
@@ -29237,6 +31513,14 @@
     {
       "key": "UI_Popup_FleeBattleConfirmation_Challenges",
       "value": "Уверены, что хотите сбежать с поля боя? Отступление приведет к потере попытки действия."
+    },
+    {
+      "key": "UI_Popup_iCloudSaveConflict_Body",
+      "value": "Возник конфликт между сохранениями на устройстве и в iCloud. Хотите продолжить с текущим прогрессом и переписать прогресс, сохраненный в iCloud, или перезапустить игру, чтобы загрузить прогресс с iCloud?"
+    },
+    {
+      "key": "UI_Popup_iCloudSaveConflict_Title",
+      "value": "КОНФЛИКТ СОХРАНЕНИЯ В iCLOUD"
     },
     {
       "key": "UI_Popup_InvalidState_Body",
@@ -30055,6 +32339,10 @@
       "value": "Коснитесь, чтобы добавить к группе высадки."
     },
     {
+      "key": "UI_Tutorial_ToolTip_Add4thMemberGeneric_Click",
+      "value": "Щелкните, чтобы добавить к группе высадки."
+    },
+    {
       "key": "UI_Tutorial_ToolTip_Add4thMemberGeneric_Gamepad",
       "value": "{0} — добавить к группе высадки."
     },
@@ -30065,6 +32353,10 @@
     {
       "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton",
       "value": "Коснитесь, чтобы начать бой"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton_Click",
+      "value": "Щелкните, чтобы начать бой"
     },
     {
       "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton_Gamepad",
@@ -30087,6 +32379,10 @@
       "value": "Коснитесь, чтобы идти дальше"
     },
     {
+      "key": "UI_Tutorial_ToolTip_ContinueButton_Click",
+      "value": "Щелкните, чтобы идти дальше"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_ContinueButton_Gamepad",
       "value": "{0} — идти дальше"
     },
@@ -30095,12 +32391,20 @@
       "value": "Коснитесь для следующей <color=#fff15c>ДИРЕКТИВЫ ЗВЕЗДНОГО ФЛОТА</color>"
     },
     {
+      "key": "UI_Tutorial_ToolTip_Directives_Click",
+      "value": "Щелкните для следующей <color=#fff15c>ДИРЕКТИВЫ ЗВЕЗДНОГО ФЛОТА</color>"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_Directives_Gamepad",
       "value": "{0} — следующая <color=#fff15c>ДИРЕКТИВА ЗВЕЗДНОГО ФЛОТА</color>"
     },
     {
       "key": "UI_Tutorial_ToolTip_Disable",
       "value": "Коснитесь, чтобы использовать  боевой клич Ворфа"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_Disable_Click",
+      "value": "Щелкните, чтобы использовать  боевой клич Ворфа"
     },
     {
       "key": "UI_Tutorial_ToolTip_Disable_Gamepad",
@@ -30163,6 +32467,10 @@
       "value": "Коснитесь, чтобы изменить ЭКИПАЖ МОСТИКА"
     },
     {
+      "key": "UI_Tutorial_ToolTip_TapCrewButton_Click",
+      "value": "Щелкните, чтобы изменить ЭКИПАЖ МОСТИКА"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_TapCrewButton_Gamepad",
       "value": "{0} — изменить ЭКИПАЖ МОСТИКА"
     },
@@ -30195,6 +32503,10 @@
       "value": "Коснитесь для след. миссии"
     },
     {
+      "key": "UI_Tutorial_ToolTip_TapMissionFrame_Click",
+      "value": "Щелкните для след. миссии"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_TapMissionFrame_Gamepad",
       "value": "{0} — следующая МИССИЯ"
     },
@@ -30209,6 +32521,10 @@
     {
       "key": "UI_Tutorial_ToolTip_TapToAttack",
       "value": "Коснитесь, чтобы начать атаку!"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_TapToAttack_Click",
+      "value": "Щелкните, чтобы начать атаку!"
     },
     {
       "key": "UI_Tutorial_ToolTip_TapToAttack_Gamepad",
@@ -30243,5 +32559,5 @@
       "value": "Боевой дух (комбо)"
     }
   ],
-  "_PathID": "1457"
+  "_PathID": "1458"
 }

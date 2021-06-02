@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": "1277"
+    "m_PathID": "1301"
   },
   "m_Name": "lang_zh_tw",
   "List": [
@@ -1243,6 +1243,10 @@
       "value": "選擇語言"
     },
     {
+      "key": "Choose_Quality_Header",
+      "value": "選擇品質"
+    },
+    {
       "key": "Common_AccessoriesSortingType_Equipped",
       "value": "已裝備"
     },
@@ -1523,6 +1527,10 @@
       "value": "降職"
     },
     {
+      "key": "Common_Details",
+      "value": "詳情"
+    },
+    {
       "key": "Common_Dilithium",
       "value": "二鋰"
     },
@@ -1623,6 +1631,10 @@
       "value": "關閉"
     },
     {
+      "key": "Common_ExplorationOptionType_Disarm",
+      "value": "繳械"
+    },
+    {
       "key": "Common_ExplorationOptionType_Eject",
       "value": "彈射"
     },
@@ -1683,6 +1695,10 @@
       "value": "研究"
     },
     {
+      "key": "Common_ExplorationOptionType_Jump",
+      "value": "跳"
+    },
+    {
       "key": "Common_ExplorationOptionType_Leave",
       "value": "離開"
     },
@@ -1721,6 +1737,10 @@
     {
       "key": "Common_ExplorationOptionType_Power",
       "value": "動力"
+    },
+    {
+      "key": "Common_ExplorationOptionType_Protect",
+      "value": "保護"
     },
     {
       "key": "Common_ExplorationOptionType_Quick",
@@ -2729,6 +2749,10 @@
     {
       "key": "Common_ValosComputer",
       "value": "塔洛斯電腦"
+    },
+    {
+      "key": "Common_View",
+      "value": "檢視"
     },
     {
       "key": "Common_Vulcan",
@@ -11183,6 +11207,1834 @@
       "value": "他們留下了補給品..."
     },
     {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_01",
+      "value": "看前面！是我們交手過的幻影！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_02",
+      "value": "這就代表無夢者一定已經在這裡了。我們來遲了嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_03",
+      "value": "整個構造看起來還在運作中。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_04",
+      "value": "要使之停止難上加難啊。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_05",
+      "value": "我們只能相信還來得及了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_06",
+      "value": "好吧，我們先處理這些傢伙。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_01",
+      "value": "那些無夢者控制的幻影又來了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_02",
+      "value": "<i>*奇異的尖叫聲*</i>"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_03",
+      "value": "他們在找尋我們…無夢者一定知道我們在這。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_01",
+      "value": "你們一定是我盟友們遇到的人形生物。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_02",
+      "value": "我們理解你們有自己的動機與理由，但你們必輸無疑呀！我們對時匯的運作已有億萬年的了解。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_03",
+      "value": "摧毀時匯根本是個毫無良心的做法。會消滅所有的生命…有成千上萬？或上百萬？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_04",
+      "value": "按照宇宙的定律，許多生命早已終結。他們不該被束縛、囚禁在某人理想中的烏托邦中。我們不是你口中的怪物。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_05",
+      "value": "你說你要從他人的陰謀中解放這些生命，就為了自己決定他們的命運嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_06",
+      "value": "說得好，麥珂。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_07",
+      "value": "我們沒時間跟你討論哲學問題。請自行離開，不然我們格殺無論！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_post_01",
+      "value": "你們是個堅忍不拔的物種，雖然也就只是爭取了幾個小時罷了。現實引擎將被關閉。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_01",
+      "value": "前方的路似乎被擋住了。我從未看過這種東西。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_02",
+      "value": "這科技是如此先進，我懷疑我們的相位槍能否造成任何實質傷害。<i>阿提米絲號</i>能把我們傳送過去嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_03",
+      "value": "考量到這個空間裡的強大能量，我建議若非必要，不要使用傳送器。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_04",
+      "value": "是啊。我可是很想盡量避免跟沃爾夫先生成為連體嬰呢。所以…有什麼建議嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_01",
+      "value": "反應爐…把我們帶到了這裡。它們能成為進入結構的關鍵嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_02",
+      "value": "也許可行喔！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_03",
+      "value": "麥珂，非常好！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction02_01",
+      "value": "我打賭一定有其他辦法。多花一小時再探探路又何妨呢？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_01",
+      "value": "有意思。這大概是某種靜滯室？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_02",
+      "value": "我發現幾個容器。應該是補給品。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_03",
+      "value": "是要幫我們「時匯工程師」留了牛奶跟餅乾嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_04",
+      "value": "醫生！這個念頭真是…褻瀆神靈。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction01_01",
+      "value": "我要試著用反應爐將門開啟。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction02_01",
+      "value": "我認為我們不該用反應爐來芝麻開門。我們還不太能完整掌握這項科技。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction02_02",
+      "value": "有道理。必須預防觸發任何防禦機制才是。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_01",
+      "value": "那邊的平台上有更多補給品。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_01",
+      "value": "我應該能跳上那個平台。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_02",
+      "value": "跳？你的克林貢腦是壞了嗎？平台那麼高！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_03",
+      "value": "給我一點信心吧，醫生。我應該能跳過去。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_04",
+      "value": "需要信心的是你吧。我不過是需要一些治療你跌落後斷骨的醫療訓練而已！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_01",
+      "value": "你覺得我們能上得去嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_02",
+      "value": "不能，也不應該上去。這是我的專業意見。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_03",
+      "value": "你這種態度當然行不通啊，醫生。那好吧。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_01",
+      "value": "此地使我想起年輕時聽過的克林貢傳說。戰士永生永世都於索沃科殿堂戰鬥著。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_02",
+      "value": "像是瓦爾哈拉神殿？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_03",
+      "value": "更血腥。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_04",
+      "value": "真棒。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_05",
+      "value": "說到這個…前方有動靜！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_01",
+      "value": "我從未看過像這樣的地方。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_02",
+      "value": "醫生，你那語氣是驚嘆嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_03",
+      "value": "想想看"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_04",
+      "value": "這讓我想起<i>企業號</i>上的全像甲板。它能創造栩栩如生的虛擬實境。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_05",
+      "value": "真希望<i>發現號</i>上也有這樣的設施。和我們在球體裡體驗到的相似嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_06",
+      "value": "不。全像甲板模擬更像是…幻象。很多都是有趣的瑣碎片段，"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_07",
+      "value": "不像是在球體中的感覺，如此強烈地被現實淹沒。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_08",
+      "value": "怎麼聽起來像無夢者會用來形容時匯的詞？對他們來說其實更像監獄而非幻象吧。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_01",
+      "value": "所以我們就繼續在走廊徘徊還是…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_02",
+      "value": "打擾一下？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_03",
+      "value": "你後面！是…我不太確定這是什麼。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_04",
+      "value": "我們被稱為「夏塔基」，或者說你們語言中的「守護者」。我們是控制這台現實引擎運轉的幾個主要人工智慧。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_05",
+      "value": "我們的掃描結果指出你們手裡有六個反應爐，也致力於保護這個建物。我們的評估準確嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_06",
+      "value": "嗯，我們正試著阻止那些所謂的無夢者擾亂時匯上的和平。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_07",
+      "value": "這就是「工程師」的職責。無論如何，你們並沒有受到工程師的訓練，我們無法提供權限及工具來修理現實引擎並抵禦入侵者。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_08",
+      "value": "嗯，我們其實就是很想要這麼做。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_09",
+      "value": "你們可以參加設計給工程師的考驗。但沒受過正確的訓練，你們大概會失敗。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_10",
+      "value": "如果失敗呢？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_11",
+      "value": "你們將會失去現在的地位的且無法封閉引擎。此建物與其所連接的球體將在大約 3.567 個地球小時後失效。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_12",
+      "value": "我們別無選擇啊！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_01",
+      "value": "站住！不准通過！會變形的渾蛋！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_02",
+      "value": "什麼變形？等一下，我們不是…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_03",
+      "value": "感覺他們沒心情聽我們解釋，醫生。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_01",
+      "value": "你有聽到相位槍開火的聲音從前面傳來嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_02",
+      "value": "沒錯。在那邊！看起來卡達西人和星際艦隊軍官正在交火中！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_03",
+      "value": "我們應該都知道那不是星際艦隊軍官了吧。是變形人的機率比較高。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_04",
+      "value": "你確定嗎，醫生？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_05",
+      "value": "沃爾夫先生，對我有點信心好嗎？老骨頭麥考伊可是知道自己在幹嘛的。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_06",
+      "value": "醫生，你是怎麼知道的？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_07",
+      "value": "他們的身體語言很是尷尬。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_08",
+      "value": "我相信你的分析，醫生。我們前進吧。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_01",
+      "value": "星際艦隊軍官！在這裡！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_02",
+      "value": "撐住啊。你們現在安全了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_01",
+      "value": "待在這會被看到。來看看我們能不能讓這個小艇重新運作吧！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_02",
+      "value": "你們有句話，什麼來著？「好心無好報？」去死吧！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_03",
+      "value": "你們是變形人！你知道嗎？卡達西人正四處尋覓你們呢！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_01",
+      "value": "有些看起來受了重傷。我們必須先幫他們包紮才能做其他的事！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_02",
+      "value": "你人很好，醫療先生。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_03",
+      "value": "這樣叫醫生太怪了…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_04",
+      "value": "你真聰明！消滅他們！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_05",
+      "value": "你們是變形人！你知道嗎？卡達西人正四處尋覓你們呢！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_01",
+      "value": "四處看看。小艇裡應該有些可以用來幫他們的補給品。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_02",
+      "value": "好主意。這邊有些補給品。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_03",
+      "value": "你們星際艦隊的鼠輩也敢偷我們的東西？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_04",
+      "value": "「星際艦隊的鼠輩？」…等等，你不是…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_05",
+      "value": "你們是變形人！你知道嗎？卡達西人正四處尋覓你們呢！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_01",
+      "value": "看起來是一堆某人棄置的補給品呢。我們蠻需要補個貨的。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_01",
+      "value": "只是看看，不會少塊肉吧。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_02",
+      "value": "拿下他們！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_03",
+      "value": "看來會少塊肉呢，要被大卸八塊了！是變形人的伏擊！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_01",
+      "value": "所以某人就這樣把珍貴的補給品棄置於路中央？我們有這麼幸運過嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_02",
+      "value": "醫生說得很有道理。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_03",
+      "value": "有時候陷阱真的是太明顯了…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_01",
+      "value": "這是什麼？我們在球體內嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_02",
+      "value": "你們依然在現實引擎中，但我們可以透過參數為你們建造考驗環境。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_03",
+      "value": "守護者變成了席斯可艦長的模樣…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_04",
+      "value": "現在可沒時間管這個！你剛剛才說事態危急，命懸一線！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_05",
+      "value": "正確。建議你們盡快行動。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_06",
+      "value": "我也建議你盡快跟我們解釋該做什麼。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_07",
+      "value": "根據對你們記憶的研究，我們發現你們象限中的物種比較重視某些符合工程師的特質。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_08",
+      "value": "第一個試煉是信念，就像你們的席斯可艦長展現的那樣。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_09",
+      "value": "你…要我們祈禱嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_10",
+      "value": "你誤解了。在此說的「信念」對象並不是某個無所不能的神祇，而是相信自己的目標和能力，以及你的工程師夥伴。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_11",
+      "value": "正是對更崇高理想的信仰才讓最初的工程師們創造出了這個地方，因此信念便成為了所有工程師繼任者們的先決條件。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_12",
+      "value": "競技場裡某處有個傳送們，也就是離開並前往下一個試煉的出口。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_13",
+      "value": "請注意，眼見未必為實。只有對目標的信念才會引領你們走到最後。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_01",
+      "value": "是守護者。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_02",
+      "value": "我們對你們的狀況有點好奇。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_03",
+      "value": "讓我滿足你的好奇心吧：我們正處於卡達西人和變形人之間的戰爭之中，而無論雙方哪時看到我們，拿著槍的手都會開始發癢。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_04",
+      "value": "我們都同意這實在是艱難的情況。所以唯一出路就是撤退嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_05",
+      "value": "撤退？你看來是不太了解星際艦隊嘛！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_01",
+      "value": "這一定就是守護者說的那個傳送門了！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_02",
+      "value": "正是。你的表現超出了我們的預期。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_03",
+      "value": "你努力克服了不可能的情況以實現自己的目標，並對盟友充滿信心。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_04",
+      "value": "如此的信心非常令人欽佩，卻也有可能蒙蔽人們的雙眼。不過，你都沒有被貪婪或權力所誘惑。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_05",
+      "value": "就這樣嗎？我們通過試煉了？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_06",
+      "value": "第一階段，沒錯。還有更多。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_07",
+      "value": "…當然囉。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_01",
+      "value": "等等。掃描顯示前方有動靜。很大的動靜。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_02",
+      "value": "我們是博格人。你們將會被同化。反抗無用。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_03",
+      "value": "呃，他們就不能…寫一條新的招呼語嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_04",
+      "value": "也許等不那麼危險時再來酸他們吧，醫生？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_01",
+      "value": "這片區域似乎沒有問題。應該能安全前進。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_02",
+      "value": "等等，是場伏擊！我剛剛一定是觸發了警報！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_03",
+      "value": "你們將會被同化。反抗無用。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_01",
+      "value": "你有看到前面那個人影嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_02",
+      "value": "博格女王！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_03",
+      "value": "你們將會被...同化。反抗無用。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_01",
+      "value": "真奇怪。我很確定這是博格女王，但是她似乎聽起來不像我們之前遇到的那個。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_02",
+      "value": "我不知道。對我來說聽起來蠻像女王的博格語啊！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_03",
+      "value": "也許是個分身？或者她能轉移意志的眾多分身其中一個？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_04",
+      "value": "不知道…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_01",
+      "value": "歡迎各位遠道而來。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_02",
+      "value": "另一個博格女王！這次這個聽起來比較…真實。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_03",
+      "value": "另一個？我們是博格人。合為一體，不多一個、不少一個。所有軀殼都是我們意志的延伸。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_04",
+      "value": "包括你的。對嗎，羅丘特斯？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_05",
+      "value": "對。你們將在集合體的偉大力量前被同化。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_06",
+      "value": "今天，我們要為更龐大且珍貴的集合體而戰，別想阻擋我們！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_01",
+      "value": "我們做到了！試煉先生在哪？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_02",
+      "value": "我們在這裡。祝賀你們有如此決斷力。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_03",
+      "value": "雖然有多次機會可以逃避，你們始終選擇了繼續前進。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_04",
+      "value": "我們安全了嗎？試煉結束了嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_05",
+      "value": "目前已經沒有危險了，不過前面還有兩個試煉等著你們。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_01",
+      "value": "我們迷路了嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_02",
+      "value": "我們哪時候沒迷路了？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_03",
+      "value": "麥珂，說得好。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_04",
+      "value": "我們暫停一下。我可以試著分析這個節點，找到往前的路徑。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_01",
+      "value": "如何？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_02",
+      "value": "我的三度儀顯示出一條路徑，但另一個訊號同時出現了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_03",
+      "value": "我們該擔心嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_04",
+      "value": "應該不用吧，訊號似乎停了下來。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction02_01",
+      "value": "與其刺探他們的系統，我們還不如四處晃晃碰碰運氣。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction02_02",
+      "value": "系統被探似乎會激怒他們！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_01",
+      "value": "那裡有個重新充能艙房。看似不太尋常。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_02",
+      "value": "掃描結果顯示龐大的能量流經其中。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_03",
+      "value": "它有可能連結至博格網路。值得好好調查。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_01",
+      "value": "現在用我的三度儀使之超載。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_02",
+      "value": "它在移動！看起來像是被什麼舉起了？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_03",
+      "value": "看來是一個自動系統，要把它移去修理。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_04",
+      "value": "趕緊來看看它背後是什麼，以免系統將另一個充能站運送過來。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction02_01",
+      "value": "按兵不動，避免被偵測到我們的動靜。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction02_02",
+      "value": "我同意。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_01",
+      "value": "我覺得這裡有塊面板鬆了…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_02",
+      "value": "好眼力！我們可以試著把它撬開，看有沒有藏些什麼？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction01_01",
+      "value": "有了！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction02_01",
+      "value": "你確定想在這麼危急的時刻充當機械技師嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction02_02",
+      "value": "醫生說的有道理。走吧。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_01",
+      "value": "我們身在何方?看起來像是個博格立方。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_02",
+      "value": "噢，不要又是博格人，拜託。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_03",
+      "value": "這是你的第二場試煉。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_04",
+      "value": "你現在看起來像珍葳艦長。有原因嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_05",
+      "value": "在你那個時代，珍葳艦長以她傳奇的旅程所聞名。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_06",
+      "value": "艦長和她的船員們從第三象限的深處返回地球，過程長達七年的時間。真是堅忍不拔。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_07",
+      "value": "她很適合主持你們的下一場考驗：意志試煉。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_08",
+      "value": "守護者消失了…博格立方，一場「意志試煉」我猜我們必須一路奮戰到底！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_01",
+      "value": "我好累。我需要休息一下。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_02",
+      "value": "最好聽醫生的話吧。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_03",
+      "value": "啊！你就不能在我們面前現身嗎？一定要從後面？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_04",
+      "value": "非常抱歉，我們只是想提供建議。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_05",
+      "value": "根據我們的計算，你們在尋找傳送門時只成功探索了博格立方的 0.00001%。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_06",
+      "value": "現實引擎會很快就會崩毀，如果你們還在這裡，將會同歸於盡。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_07",
+      "value": "我們能把你們傳送到安全的地方。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_08",
+      "value": "現實引擎若是毀了，裡面的球體和人都逃不掉。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_09",
+      "value": "我們相信你們應該低估了時匯的大小。時匯是由很多引擎所組成的。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_10",
+      "value": "但每個引擎——包括這個——都掌控著多個球體，對吧？如果我們現在放棄，所有的球體都會崩毀。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_11",
+      "value": "正確。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_12",
+      "value": "時匯也將進一步惡化，造成更多破壞性的裂隙，威脅位於時匯之外的、我們的宇宙……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_13",
+      "value": "也正確。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_14",
+      "value": "那我們就繼續。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_15",
+      "value": "如你所願。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_16",
+      "value": "它消失了！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_17",
+      "value": "真不賴啊，醫生。我以為你已經精疲力竭了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_18",
+      "value": "我是啊。但我們來這裡是來救人的，不是來抱怨路途艱辛的。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_01",
+      "value": "你們的脆弱模樣真是每況愈下。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_02",
+      "value": "我們預測你們大概已經到達極限了。我們建議立即撤離。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_03",
+      "value": "哈！卡勒斯有放棄追殺弟弟莫拉什嗎？沒有，他翻山越嶺，為了父親及自己的榮譽追捕他。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_04",
+      "value": "所以，我們該在這裡殺出一條血路，在另一端品嚐到勝利的滋味！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_01",
+      "value": "前方出現克林貢人！數量龐大！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_02",
+      "value": "你不能跟他們談談嗎，沃爾夫？能不能穩住他們？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_03",
+      "value": "bIjeghbe'chugh vaj bIHegh!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_04",
+      "value": "Hoch jagh Heghjaj！！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_05",
+      "value": "我不用精通克林貢語，也能猜到他們不太爽。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_06",
+      "value": "他們…不接受談判。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_post_01",
+      "value": "他們撤退了。我們暫時安全了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_01",
+      "value": "更多克林貢人來襲！出現艦隊！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_02",
+      "value": "居然…有克林貢人去當聯邦的走狗…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_03",
+      "value": "你說什麼？！我才不是走狗！我是名戰士！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_04",
+      "value": "妙哉！現在你把他惹毛了。他生氣的時候可不是好惹的！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_01",
+      "value": "又出現了嗎？！沒完沒了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_02",
+      "value": "卡勒斯信標乃聖遺物，據說是卡勒斯本人親手打造，目的是為了集結二十四個家族。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_03",
+      "value": "對克林貢人來說，外人出現在信標是重罪——極大不敬。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_04",
+      "value": "但那是個失誤！他們也都承認了這一點。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_05",
+      "value": "雖然我的價值觀與聯邦一致，但身體還是本能地為這踰矩行為感到血液沸騰。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_06",
+      "value": "我也懂這個邏輯，但相信我的反應能讓你瞭解這對克林貢人來說有多嚴重。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_07",
+      "value": "麥珂，在你們的時代，我們一族就是為了聖遺物而開戰。克林貢人會為此大動干戈要懲罰船員，就不難理解了吧？他們不會善罷甘休的。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_01",
+      "value": "有數以百計的生物讀數正朝我們的位置聚集。我們必須撤退！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_02",
+      "value": "哼。我還以為你會吵著要我們留下來戰鬥。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_03",
+      "value": "卡勒斯本人說過：「風可不會尊敬傻瓜。」"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_01",
+      "value": "我們很接近了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_02",
+      "value": "偵測到前方有大量的克林貢人生物訊號。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_03",
+      "value": "他們肯定是為了保衛我發現到的反應爐，才在此處設下障礙。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_04",
+      "value": "Hu'tegh！而且對方數量不少。他們其中一人身穿火炬手的儀式戰士盔甲。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_05",
+      "value": "那是守護卡勒斯信標的克林貢鬥士！我曾經…跟其中一個有過衝突。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_06",
+      "value": "你確定真的不能從這裡存取反應爐嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_07",
+      "value": "…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_08",
+      "value": "哼。我想也是行不通。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_01",
+      "value": "我們就在訊號源的上方。我可以用我的三度儀連接我們的反應爐，以試著存取。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_02",
+      "value": "那個為我們所在現實提供能量的裝置，尺寸絕對比為球體提供能量的反應爐要小。這算是好消息！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_03",
+      "value": "那麼，有什麼是能改寫這局面，好讓我們取勝的點子嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_04",
+      "value": "我想我們不需要「取勝」。我們的目標一直都是找到傳送門。沒錯，之前傳送門是在我們「獲勝」時才出現的，但以這種情況來看…我們何不讓它直接出現？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_05",
+      "value": "聰明，麥珂！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_06",
+      "value": "傳送門馬上送到眼前！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_01",
+      "value": "看！前方有幾名受傷的船員！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_02",
+      "value": "我…先迴避，交給你處理了。我一個克林貢人出現在那，可能導致事態升級…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_03",
+      "value": "我們是友軍！你還好嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_04",
+      "value": "我...還好。勉強能動。你們是？我不認得你們的制服。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_05",
+      "value": "我們是<i>聯邦星艦阿提米絲號</i>的人。這裡發生了什麼事？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_06",
+      "value": "見到你們真好，但我們目前處境不妙。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_07",
+      "value": "我們的路徑駛近了卡勒斯信標。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_08",
+      "value": "卡勒斯信標是克林貢帝國的聖遺物。你們沒事去那附近幹嘛？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_09",
+      "value": "那是個失誤！我們當時根本不知道那是聖遺物…對方就指控我們侵略，甚至說我們玷汙聖飛船。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_10",
+      "value": "他們宣告要處死船上的所有人！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_01",
+      "value": "我們當然不能讓他們這麼做。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_02",
+      "value": "我們必須保證這些人的安全。你能想辦法讓他們起身嗎，醫生？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_03",
+      "value": "我會盡力。在我包紮時掩護我！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction02_01",
+      "value": "克林貢人正在朝這個點聚集！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction02_02",
+      "value": "那我們就把他們趕回去。再來就能處理傷患了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_01",
+      "value": "我已經鎖定與反應爐相似的讀數了。數值比想像中小，所以或許這個現實比起實際球體要小。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_02",
+      "value": "讓我們來試試你的反應爐理論吧！你覺得能「改寫」這扇門的程式嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_01",
+      "value": "能！我可以使用三度儀連接我們的反應爐…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_02",
+      "value": "我正在進入這個「現實」的底層結構。它很複雜，但…給我幾分鐘。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_03",
+      "value": "門消失了！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_04",
+      "value": "值得讚賞。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_05",
+      "value": "不過，我還必須再離訊號來源再近一點，才能做更厲害的事。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction02_01",
+      "value": "我們不應該再浪費時間，或消耗反應爐的潛在能量。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction02_02",
+      "value": "沃爾夫先生，你是一名優秀的戰士，也是忠誠的盟友。但先生你這個人啊，還真是無趣。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_01",
+      "value": "有意思！我們似乎身在一艘聯邦飛船上。掃描顯示多層甲板損壞。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_02",
+      "value": "受到了攻擊？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_03",
+      "value": "我收到了幾則雜亂的訊息。克林貢人似乎已經登船並控制了關鍵區域。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_04",
+      "value": "根據過往經驗，克林貢人沒在打星際艦隊的主意時對大家來說都比較安全。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_05",
+      "value": "不包括眼前這位。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_06",
+      "value": "哼。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_07",
+      "value": "這就是本次考驗的主題。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_08",
+      "value": "吉姆？！等等…你是守護者。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_09",
+      "value": "這場試驗反映了你們這位朋友強烈的價值觀。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_10",
+      "value": "魯莽？想脫我們下水、把我們捲入愚蠢的旅程中？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_11",
+      "value": "狡黠考驗即將開始！你們已展現深信目標與排除萬難的意志力。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_12",
+      "value": "但有些困難是無法正面取勝的。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_13",
+      "value": "尋找傳送門，結束這場試煉。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_14",
+      "value": "他就這樣消失了。一如既往地有幫助。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_01",
+      "value": "這樣不可能通過。這是普通的…這就像是小林丸號！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_02",
+      "value": "那個學院測驗嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_03",
+      "value": "正是。我想你們兩個都參加過了吧？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_04",
+      "value": "我參加過。跟其他學員一樣，從沒成功過。當我知道那是註定失敗的劇本時，真是火冒三丈。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_05",
+      "value": "如果你救了船員就是向克林貢帝國開戰；如果你拋下船員就只能讓他們等死。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_06",
+      "value": "這局面也是如此，註定會失敗。我的族人不會在此屈服。我們撐不過他們的猛攻，但如果我們離開，這些人就完了…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_07",
+      "value": "但重點是：在我的時代，寇克艦長確實通過了小林丸測試。老詹姆呢…他很有創意：他在測試開始前，就駭進電腦改寫了程式。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_08",
+      "value": "因此，我們應該借鑑寇克艦長的例子，然後…作弊。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_09",
+      "value": "但要怎麼做？又沒有電腦可以駭進去…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_10",
+      "value": "這個現實很可能也和其他球體一樣。會有反應爐或類似裝置在運作。我們要找到它，然後改寫程式。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_11",
+      "value": "但我們還不算「工程師」。我們無法對時匯技術造成影響！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_12",
+      "value": "我受夠再浪費時間，等待全像投影授權了。我們這裡所有人，都曾跟未知的極先進外星人科技交過手。這只是基本操作！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_13",
+      "value": "我在用三度儀連接我們手上的反應爐了。讓我們來看看，究竟是什麼在控制守護者的小試煉。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_01",
+      "value": "終於到了這一步，在結合了命運、決心與…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_02",
+      "value": "對對對，我們知道：狡黠。搶先你一步，孔老夫子。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_03",
+      "value": "沒錯，你們已經繞過指定路徑，進入了時匯本體。不過你們會發現主體結構沒有那麼容易竄改。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_04",
+      "value": "現在，就只剩下…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_05",
+      "value": "不！別再提試煉了！我們已經證明了自身能力，而且也已經沒有時間了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_06",
+      "value": "無論你們認為自己準備得如何，要成為志向遠大的工程師，試煉是不可或缺的。在能夠操作現實引擎前，必須完成試煉。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_01",
+      "value": "是聯邦的人！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_02",
+      "value": "我們沒有惡意，我們來自阿提—"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_03",
+      "value": "逮捕他們！要是讓他們到達信標的地方，托馬拉克和瑟拉非把我們的皮剝了不可！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_post_01",
+      "value": "這些羅慕倫人對於交涉和解釋似乎沒興趣…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_01",
+      "value": "真希望有別的解決辦法。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_02",
+      "value": "她一口咬定聯邦與羅慕倫人為敵。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_03",
+      "value": "如果能找到她的指揮官，或許能有更多資訊。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_04",
+      "value": "他們看來堅信我們在監視他們！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_01",
+      "value": "總算制服他了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_02",
+      "value": "我不確定打暈他算不算考驗的一環…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_03",
+      "value": "他確實說過，你們必須向對方展現自身的信念！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_04",
+      "value": "嗯…目前都很順利，所以我猜你說的沒錯。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_01",
+      "value": "站住別動。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_02",
+      "value": "我們不是來找麻煩的。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_03",
+      "value": "你是克林貢人。當然是來找麻煩的。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_04",
+      "value": "他說的也不是沒道理。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_05",
+      "value": "哼。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_01",
+      "value": "我們是來交涉的。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_02",
+      "value": "呸！你們是來破壞信標的。反正來不及了，托馬拉克已經把資料帶走了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_03",
+      "value": "放下武器，讓我們走，我們也不會動武。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_04",
+      "value": "我們不想在你們身上浪費時間。我們取得的資料會證明聯邦跟你們一樣都是陰險小人！（傳送離開）"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_05",
+      "value": "等等。羅慕倫人說我們是陰險小人？真讓人意外啊。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_01",
+      "value": "我們不是來找麻煩的。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_02",
+      "value": "你們來了，麻煩就會找上你們！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_01",
+      "value": "又是羅慕倫人，還有另一個感測信標。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_02",
+      "value": "聯邦。真是…不意外啊。來這裡是要湮滅你們背叛的證據？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_03",
+      "value": "我不知道你在說什麼。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_01",
+      "value": "你是說你對那些在中立區定期巡航、監視我們的聯邦星艦一無所知嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_02",
+      "value": "我們有確切證據顯示你們違背了無數的條約。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_03",
+      "value": "提出證據，讓我們釐清一下狀況好嗎？不然難道你寧願全面開戰？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_04",
+      "value": "不得不承認你說得有理。我會帶你去見指揮官。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_05",
+      "value": "不過我不覺得你說服得了他。他跟你們這種人打過交道。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_01",
+      "value": "你把我們當白痴嗎？我們有證據顯示，聯邦星艦在中立區巡航並監視我們。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_02",
+      "value": "那是有違聯邦價值觀的。立即放下武器，否則我們要強制繳械了！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_01",
+      "value": "羅慕倫指揮官就在前方，正準備離開。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_02",
+      "value": "我們得趕在他離開前阻止他！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_01",
+      "value": "我們一定有辦法在這裡達成共識！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_02",
+      "value": "我才不會中你的計。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_03",
+      "value": "我們的感測信標可以證明，31 區一直有監視我們同胞的跡象，時間長達十幾年。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_04",
+      "value": "身為帝國的忠僕，我有義務將此違規情事呈報高等議會！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_05",
+      "value": "雖然令人難以承認…但你或許說得對。31 區向來不是最令人信賴的機構。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_06",
+      "value": "你…你承認這一點？嗯，那請說吧，你有什麼建議？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_07",
+      "value": "給我們一份資料副本。我們會向星際艦隊回報。如果情節屬實，他們會進一步加以調查，並以適當的外交管道回覆。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_08",
+      "value": "你有可能拿到變造過的副本。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_09",
+      "value": "你也是。請相信我們，我們會秉公處理任何有違外交規定的行為。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_10",
+      "value": "好吧，但我不會留在這裡繼續討論這件事。資料拿去吧。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_01",
+      "value": "站住。我們不能讓你帶著聯邦情資離開這裡。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_02",
+      "value": "噢？你們以為阻止得了我嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_03",
+      "value": "我們的感測信標可以證明，31 區一直有監視我們同胞的跡象，時間長達十幾年。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_04",
+      "value": "我有義務將此違規情事呈報高等議會！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_05",
+      "value": "你不打算聽我們解釋嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_06",
+      "value": "聽你們解釋？省省吧，你們這些叛徒雜碎。羅慕倫人早就知道聯邦根本不可信任。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_07",
+      "value": "還真敢說！不聽解釋的話，我們只好動手了！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_01",
+      "value": "你們正處於最終試煉的絕境中。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_02",
+      "value": "而你以我前任艦長的姿態現身——尚路克·畢凱。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_03",
+      "value": "他似乎很適合這次的測試。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_04",
+      "value": "除了信念、意志與狡黠，工程師還需要另外一項特質：能統合眾多意見的罕見能力，這對建立時匯這樣史詩級的工作來說，有其必要。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_05",
+      "value": "這通常是藉由對話和理論來實踐，但有時必須為大局著想，壓制反對者。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_06",
+      "value": "找到傳送門完成試煉。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_01",
+      "value": "最後一道傳送門！就在前面！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_02",
+      "value": "恭喜你們，<i>阿提米絲號</i>的船員。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_03",
+      "value": "你們在一次次的考驗中堅持不懈，體現了最初打造此奇蹟的工程師精神。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_04",
+      "value": "你們確實不負工程師的名號。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_05",
+      "value": "你有看到嗎？我的三度儀顯示，資訊流正導入<i>阿提米絲號</i>的資料核心中。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_06",
+      "value": "圖表、結構圖…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_07",
+      "value": "你們可以利用這些資訊來修復現實引擎。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_08",
+      "value": "不過，你們必須先消滅無夢者。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_01",
+      "value": "不覺得引擎變得更灰暗了嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_02",
+      "value": "守護者說過引擎受損非常嚴重。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_03",
+      "value": "天知道守護者的考驗已經進行了多久。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_04",
+      "value": "久到足以讓無夢者接管了！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle04_01",
+      "value": "別想阻止我們破壞這台機器。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle04_02",
+      "value": "我們走著瞧！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_01",
+      "value": "請在此止步。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_02",
+      "value": "你必須讓我們通過這裡。數以百萬計的生命危在旦夕！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_03",
+      "value": "我們瞭解你的顧慮。我們也試著拯救他們。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_04",
+      "value": "你們這是把生殺大權緊握在自己手中，滿口仁義道德，但你們根本無權這麼做。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_05",
+      "value": "我們要把秩序歸還給同胞和宇宙，讓一切到此為止。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_01",
+      "value": "找到了──核心！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_02",
+      "value": "而那位肯定就是無夢者的首領了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_03",
+      "value": "入侵者…你們不計一切地阻止我們。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_04",
+      "value": "我在匆匆一瞥間看見了你曾經的模樣，是你還沒變成這樣時的樣子。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_05",
+      "value": "你曾是一位學者，為人父母。如此的屠殺行為絕不是你的本性！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_06",
+      "value": "你覺得我們這叫屠殺？所有生命都會在某一刻迎向終結，無一例外！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_01",
+      "value": "夠了！你們守護此處的行為簡直蠢得可以！這裡是座監獄，玷污了宇宙自然的流動！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_02",
+      "value": "或許是吧。或許時匯只是古代文明某種誤入歧途、傲慢自大的造物，使陷入的任何人受困其中。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_03",
+      "value": "但所有的精神與心靈仍存在於此，而你並不是有權判人生死的仲裁者。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_04",
+      "value": "多麼義無反顧啊！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_05",
+      "value": "你該不會真以為時匯是出自純粹善意的造物？會相信這種事情簡直是瘋了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_06",
+      "value": "我們今天已經達成了目的。現在，我的意識存在於流經時匯的網路裡，正如我身在此處。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_07",
+      "value": "你或許能讓這具現實引擎維持穩定，但它只不過是滄海一粟，不久後一切都將化為烏有。（傳送離開）"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_08",
+      "value": "我不想這麼說，但…我們對時匯究竟瞭解多少？我們做的事情是對的嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_09",
+      "value": "我只知道，我們不會讓任何人將生命玩弄在股掌之上。（眾人傳送回阿提米絲號）"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_10",
+      "value": "雖然她已從這部引擎撤離，但她在與引擎核心融合後，也得知了一個祕密──我們一直不願讓無夢者得知的秘密"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_11",
+      "value": "我們已授權各位前往無夢者的下一個目標。請履行工程師的職責並把握時間，否則將城池盡失。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_01",
+      "value": "這個控制器可以將平台導引到那兩個出口之一。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_02",
+      "value": "所以…我們現在是要碰運氣嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_03",
+      "value": "你之前提過寇克艦長那句話，是怎麼說的？「勇踏未知」？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_04",
+      "value": "不過，我想他起碼對自己前進的方向有幾分瞭解。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_01",
+      "value": "走左邊這條路好了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_02",
+      "value": "有什麼特別的原因嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_03",
+      "value": "我是左撇子。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_04",
+      "value": "你說服我了！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_01",
+      "value": "我們到目前為止運氣都不錯，走哪條都好。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_02",
+      "value": "好吧。我們歷經了數千年的演化、任職於有史以來最先進的星艦，現在卻要仰賴運氣來拯救數以百萬計的生命。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_03",
+      "value": "所以呢，我選右邊這條路。好啊。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_01",
+      "value": "你們位在引擎核心的入口處。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_01",
+      "value": "我們對時匯或其本質還不甚瞭解，就踏上了這趟旅程。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_02",
+      "value": "儘管出身於不同的文化、背景或時間線，我們依然同舟共濟、團結一心。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_03",
+      "value": "我想不出此時還有誰比你們更適合與我並肩作戰！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_04",
+      "value": "說得我都要老淚縱橫了！進去阻止這一切吧！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_01",
+      "value": "偉人卡勒斯曾說過：「哪怕敵人強大得無可匹敵，」"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_02",
+      "value": "「我們仍須迎戰，因為我寧可一死，也不願眼見我們在緊要關頭未以戰士之姿挺身而出。」"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_03",
+      "value": "我們今天要謹記這段話！同心協力，所向無敵！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_04",
+      "value": "說得好啊，朋友！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_05",
+      "value": "沃爾夫先生，你不回學院裡當美式足球教練真是太可惜了！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_01",
+      "value": "雖然我很想妥妥貼貼地把問題搞定，然後回熟悉的醫務室窩著…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_02",
+      "value": "但倉促地闖進去也太瘋狂了吧！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_03",
+      "value": "起碼先把這地方掃描一遍，看看要應付怎樣的情況吧！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_04",
+      "value": "你還是一樣理智啊，朋友！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_05",
+      "value": "多一份準備，我們或許就能取得先機！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_01",
+      "value": "歡迎各位工程師。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_02",
+      "value": "噢，我們有了新名號啊！現在呢？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_03",
+      "value": "正如我們所言，無夢者已經滲透進現實引擎大部分的防禦系統內。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_04",
+      "value": "我們已將用於維修引擎的必要資訊上傳至星艦上，你們可以透過反應爐來使用這些資訊。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_05",
+      "value": "只要把資訊導入引擎核心，就能使其保持穩定，讓系統恢復上線。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_06",
+      "value": "自稱為「無夢者」的那群狂熱份子將會不顧一切阻止你們。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_01",
+      "value": "受損範圍相當大。我們快沒時間了！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_02",
+      "value": "我們估計在 5 個地球分內就會發生毀滅性的崩毀。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_03",
+      "value": "目前，無夢者的首領只差一點就要將自我意識完全融入引擎當中。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_04",
+      "value": "聽起來…讓人不舒服。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_05",
+      "value": "引擎的協定原本可以防止未經授權的存取，但無夢者長期以來都在破壞系統並收集反應爐。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_06",
+      "value": "他們的首領只要能將自我意識融入引擎，就能將引擎關閉，而且很快就可以掌控整個時匯。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_07",
+      "value": "我們必須想辦法來阻止這一切發生！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_08",
+      "value": "身為工程師，你也可以透過類似的方式將自我意識融入引擎。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_09",
+      "value": "不過，這麼做需要相當強大的精神能量。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_10",
+      "value": "麥珂，在我曾並肩共事的人當中，你是能力最強的人之一。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_11",
+      "value": "更不用說，你是我所見過最強心靈融合者的乾妹妹。呃，雖然我只見過一個啦。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_12",
+      "value": "麥珂，我相信你。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_13",
+      "value": "我…我會盡力。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_14",
+      "value": "我…成功了。牆壁像母親的雙臂般展開，環繞著我。一切都化為金色，一切都變得巨大。我…不知道怎麼回事。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_15",
+      "value": "這裡還有別人。很龐大，在我眼前比山還要高。她是如此威嚴、如此憤怒。她的子女、她的友人──都不在了。在很久以前就喪命了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_16",
+      "value": "她發現我了！我想要閃避她，我想她的注意力從引擎上移開了…她在追逐我。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_17",
+      "value": "她把我趕出系統了！我感受得到她為此耗盡精力…或許減緩了她的速度……"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_18",
+      "value": "你無法再從這裡存取引擎了，必須到核心去。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_01",
+      "value": "我們必須警告你們，融合程序幾近完成，刻不容緩。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_02",
+      "value": "等等！讓我用反應爐再試著存取引擎一次。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_03",
+      "value": "確定嗎？你前一次的生物讀數已經破表，如果再一次的話…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_04",
+      "value": "全星際艦隊最高明的醫生會照顧我，對吧？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_05",
+      "value": "好，那就這麼辦吧！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_06",
+      "value": "我進來了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_07",
+      "value": "我感覺到她就在我們身邊！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_08",
+      "value": "無處不是她的哀痛。她是如此孤寂，認識的每個人早已消失無蹤。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_09",
+      "value": "她…想念這些人。她的存在是孤獨的，她失去了整個世界！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_10",
+      "value": "她建立的大圖書館、年幼時潛泳的緋紅色海洋──都已不再。她的悲傷席捲而來！我不能…呃啊！！！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_11",
+      "value": "醫生！快帶她出來！她快死了！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_12",
+      "value": "我沒事。我只是不曾體驗過跟她一樣龐大的痛楚。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_13",
+      "value": "痛苦在她的心中如氣泡般滋生，突破了她所在的現實球體，也無法再承載她的精神與心靈。無夢者…正是因此而誕生。而現在，他們來了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_14",
+      "value": "難怪他們對時匯如此肆無忌憚。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_15",
+      "value": "但我們不能讓他們決定世人的生死，繼續破壞下去。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_16",
+      "value": "這次她有發現你嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_17",
+      "value": "你朋友的行動讓程序的進度減緩了 78.9 個地球分。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_18",
+      "value": "我們還來得及！"
+    },
+    {
       "key": "Data_GSCutSceneDialogue_opening_cutscene_01",
       "value": "時匯再現。"
     },
@@ -11371,6 +13223,10 @@
       "value": "機械亡魂"
     },
     {
+      "key": "Data_GSEpisodes_displayName_Episode7",
+      "value": "奉獻、仁慈與自制"
+    },
+    {
       "key": "Data_GSMissionObjective_e1_m1_encounter03",
       "value": "打倒可汗"
     },
@@ -11527,6 +13383,30 @@
       "value": "大膽地前往無人抵達之處。"
     },
     {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission1",
+      "value": "巨大的現實引擎包圍著被捕獲的恆星，<i>聯邦星艦阿提米絲號</i>漂浮於外。"
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission2",
+      "value": "為了贏得守護者的幫助，特遣隊必須完成四項考驗，首項便為信念試煉。"
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission3",
+      "value": "第二項考驗為意志試煉，特遣隊必須再次與博格人交手。"
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission4",
+      "value": "信念與意志試煉後，還必須面對狡黠試煉。"
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission5",
+      "value": "最終的試驗為理智試煉，為證明有些衝突是能夠透過對話與智慧迎刃而解的。"
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission6",
+      "value": "接下了工程師的責任，特遣隊必須阻止無夢者並修理現實引擎。"
+    },
+    {
       "key": "Data_GSMissions_displayName_Episode1_Mission1",
       "value": "勇踏未知"
     },
@@ -11671,12 +13551,44 @@
       "value": "是悲鳴不是響聲"
     },
     {
+      "key": "Data_GSMissions_displayName_Episode7_Mission1",
+      "value": "半個愚者天堂"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission2",
+      "value": "事有蹊蹺"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission3",
+      "value": "漫漫長路"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission4",
+      "value": "玫酒之間"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission5",
+      "value": "星冕孤寂"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission6",
+      "value": "最終之言"
+    },
+    {
       "key": "Data_GSNodeEncounter_BattleDesc_Borg",
       "value": "偵測到充滿敵意的博格人生命跡象。準備作戰。"
     },
     {
       "key": "Data_GSNodeEncounter_BattleDesc_Cardassian",
       "value": "偵測到充滿敵意的卡達西人生命跡象。準備作戰。"
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_CardassianShapeshifters",
+      "value": "偵測到充滿敵意的卡達西與變形人生命跡象。準備作戰。"
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+      "value": "偵測到充滿敵意的無夢者生命跡象。準備作戰。"
     },
     {
       "key": "Data_GSNodeEncounter_BattleDesc_e1_m1_battle01",
@@ -12911,8 +14823,16 @@
       "value": "偵測到充滿敵意的羅慕倫人和葛恩人生命跡象。準備作戰。"
     },
     {
+      "key": "Data_GSNodeEncounter_BattleDesc_Shapeshifters",
+      "value": "偵測到充滿敵意的的變形人生命跡象。準備作戰。"
+    },
+    {
       "key": "Data_GSNodeEncounter_BattleDesc_Unknown",
       "value": "偵測到敵人。準備作戰。"
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_UnknownLife",
+      "value": "偵測到充滿敵意的未知生命跡象。準備作戰。"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_AbandonedShuttle",
@@ -12975,6 +14895,10 @@
       "value": "博格艙房"
     },
     {
+      "key": "Data_GSNodeExploration_clickableObject_BorgCube",
+      "value": "博格立方"
+    },
+    {
       "key": "Data_GSNodeExploration_clickableObject_BorgDevice",
       "value": "博格裝置"
     },
@@ -12989,6 +14913,10 @@
     {
       "key": "Data_GSNodeExploration_clickableObject_BorgDrones",
       "value": "博格機器人"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_BorgSensors",
+      "value": "博格感應器"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_BorgSphere",
@@ -13343,6 +15271,14 @@
       "value": "羅慕倫中繼設備"
     },
     {
+      "key": "Data_GSNodeExploration_clickableObject_Romulans",
+      "value": "羅慕倫人"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_Runabout",
+      "value": "小型快艇"
+    },
+    {
       "key": "Data_GSNodeExploration_clickableObject_Sabotage",
       "value": "破壞"
     },
@@ -13453,6 +15389,10 @@
     {
       "key": "Data_GSNodeExploration_clickableObject_WorkerBee",
       "value": "工蜂"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_Wounded",
+      "value": "傷者"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_Wreckage",
@@ -14263,6 +16203,134 @@
       "value": "為避免被發現，特遣隊朝右路前進。特遣隊發現了一條<b>替代路線<b>。"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option01",
+      "value": "特遣隊能利用反應爐關閉阻擋去路的力場。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option02",
+      "value": "特遣隊繼續探索設施。特遣隊發現了一條<b>替代路線<b>。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option01",
+      "value": "特遣隊能利用反應爐開啟緊鎖的大門並尋得補給品。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option02",
+      "value": "特遣隊持續前進，小心為上策。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option01",
+      "value": "特遣隊成功跳至平台上，發現了些許補給品。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option02",
+      "value": "特遣隊選擇忽略平台，繼續前進，安全第一。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option01",
+      "value": "檢查小艇，審視是否有損傷。變形人假扮聯邦人員、攻擊特遣隊。特遣隊<b>科技提高<b>。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option02",
+      "value": "變形人伏擊，抓住了措手不及的特遣隊。特遣隊<b>速度減低</b>。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option03",
+      "value": "搜索小艇時特遣隊找到更多補給品，不過旋即被變形人攻擊。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option01",
+      "value": "這些棄置補給品是變形人的埋伏。準備作戰。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option02",
+      "value": "抱持著小心的態度，特遣隊繼續前進。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option01",
+      "value": "連結博格感應器後，特遣隊尋得另一條新路徑，並希望他們偷偷潛入不會被發現。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option02",
+      "value": "沒弄出什麼大動靜，特遣隊選擇繼續探索博格立方。特遣隊發現了一條<b>替代路線<b>。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option01",
+      "value": "使博格艙房的能源超載，成功關閉艙房並中止博格個體的充電進度。特遣隊<b>防禦提高<b>。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option02",
+      "value": "特遣隊選擇避開博格艙房。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option01",
+      "value": "搜尋博格零件與材料後，特遣隊尋得了更多補給品。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option02",
+      "value": "特遣隊無視多餘的博格零件，直接往前進。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option01",
+      "value": "特遣隊運用醫療援助幫助移動傷員。星際艦隊醫療兵為了感謝他們，提供了額外的補給品。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option02",
+      "value": "為了保護傷員，特遣隊朝克林貢人衝去。特遣隊<b>攻擊力提高<b>。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option01",
+      "value": "剩餘的時間不多，特遣隊繼續推進。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option02",
+      "value": "用其中一個反應爐改變「現實」後，特遣隊發現了些許補給品。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option01",
+      "value": "雖然稱不上和平解決，但特遣隊成功避免了戰鬥。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option02",
+      "value": "羅慕倫人敵意滿滿，展開了戰鬥。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option01",
+      "value": "雖然還沒有全然的信任特遣隊，瑟拉仍允許特遣隊通過，同時避免了戰鬥。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option02",
+      "value": "不信任聯邦的瑟拉和羅慕倫人發動了攻擊。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option01",
+      "value": "特遣隊成功的交涉避免了戰鬥。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option02",
+      "value": "特遣隊無法成功與對方交涉，準備進入戰鬥。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option01",
+      "value": "特遣隊選擇走左方路線。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option02",
+      "value": "特遣隊選擇走右方路線。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option01",
+      "value": "特遣隊決心阻止無夢者，準備作戰。特遣隊<b>士氣提高<b>。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option02",
+      "value": "特遣隊準備與無夢者進入戰鬥並拯救現實引擎。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option03",
+      "value": "戰鬥即將到來，掃描無夢者為特遣隊帶來了優勢。特遣隊<b>科技提高<b>。"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_AdvancedForward",
       "value": "特遣隊繼續推進"
     },
@@ -14327,6 +16395,10 @@
       "value": "駭入電腦"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
+      "value": "繼續前進"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_CoreDisabled",
       "value": "躍傳核心關閉"
     },
@@ -14341,6 +16413,10 @@
     {
       "key": "Data_GSNodeExploration_ResultsHeader_Diplomacy",
       "value": "外交手段成功"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsHeader_DoorOpened",
+      "value": "大門開啟"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_DoorsOpened",
@@ -14431,6 +16507,10 @@
       "value": "發現路線"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_PersonnelHealed",
+      "value": "成功治療人員"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_PulledBack",
       "value": "已後撤"
     },
@@ -14467,6 +16547,10 @@
       "value": "掃描成功"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_SensorsAccessed",
+      "value": "已存取感應器"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_ShieldBonus",
       "value": "護盾加成"
     },
@@ -14481,6 +16565,10 @@
     {
       "key": "Data_GSNodeExploration_ResultsHeader_SpeedBonus",
       "value": "速度加成"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsHeader_SpeedDown",
+      "value": "速度降低"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
@@ -15057,6 +17145,30 @@
     {
       "key": "Data_MissionObjective_e6_m6_Name",
       "value": "修復時匯"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m1_Name",
+      "value": "阻止無夢者"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m2_Name",
+      "value": "信念試煉"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m3_Name",
+      "value": "意志試煉"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m4_Name",
+      "value": "狡黠試煉"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m5_Name",
+      "value": "理智試煉"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m7_Name",
+      "value": "阻止無夢者"
     },
     {
       "key": "Data_Notification_DailyRewardOneOff_Body",
@@ -18899,6 +21011,10 @@
       "value": "投降吧"
     },
     {
+      "key": "Data_Skill_Chang_Bridge_description",
+      "value": "克林貢人 得到 <color=#01e2ff>+5%</color> 攻擊。"
+    },
+    {
       "key": "Data_Skill_Chekov_Attack_description_level1",
       "value": "造成 <color=#01e2ff>100% 傷害</color>"
     },
@@ -18909,6 +21025,10 @@
     {
       "key": "Data_Skill_Chekov_Attack_displayName",
       "value": "相位槍"
+    },
+    {
+      "key": "Data_Skill_Chekov_Bridge_description",
+      "value": "星際艦隊 得到 <color=#01e2ff>+5%</color> 攻擊。"
     },
     {
       "key": "Data_Skill_Crusher_Attack_description_level1",
@@ -19156,7 +21276,7 @@
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_description_level1",
-      "value": "造成 <color=#01e2ff>150% 科技傷害</color>。"
+      "value": "造成 <color=#01e2ff>100% 科技傷害</color>。"
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_displayName",
@@ -19256,7 +21376,7 @@
     },
     {
       "key": "Data_Skill_Elnor_Bridge_description",
-      "value": "得到<color=#01e2ff>+5%</color>防禦。"
+      "value": "得到 <color=#01e2ff>+3%</color> 防禦."
     },
     {
       "key": "Data_Skill_Elnor_Bridge_displayName",
@@ -19305,6 +21425,10 @@
     {
       "key": "Data_Skill_Garak_Attack_description_level2",
       "value": "造成 <color=#01e2ff>150% 傷害</color>。"
+    },
+    {
+      "key": "Data_Skill_Garak_Bridge_description",
+      "value": "得到 <color=#01e2ff>+5%</color> 暴擊機率."
     },
     {
       "key": "Data_Skill_GenBorgEng01M_Attack_description_level1",
@@ -20967,6 +23091,18 @@
       "value": "畢凱演習"
     },
     {
+      "key": "Data_Skill_PicardDixon_Attack_description_level1",
+      "value": "造成 <color=#01e2ff>100% 傷害</color>"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Attack_description_level2",
+      "value": "造成 <color=#01e2ff>150% 傷害</color>。"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Bridge_description",
+      "value": "星際艦隊 得到 <color=#01e2ff>+5%</color> 攻擊。"
+    },
+    {
       "key": "Data_Skill_PicardOld_Attack_description_level1",
       "value": "造成 <color=#01e2ff>2 次 50% 傷害</color>。"
     },
@@ -21347,6 +23483,18 @@
       "value": "意外攻擊"
     },
     {
+      "key": "Data_Skill_Shinzon_Attack_description_level1",
+      "value": "造成<color=#01e2ff>100%傷害</color>（有<color=#01e2ff>25%機率</color>造成<color=#01e2ff>創傷</color>）。"
+    },
+    {
+      "key": "Data_Skill_Shinzon_Attack_description_level2",
+      "value": "造成 <color=#01e2ff>125% 傷害</color>（有<color=#01e2ff>50% 機率</color>造成<color=#01e2ff>創傷</color>）。"
+    },
+    {
+      "key": "Data_Skill_Shinzon_Bridge_description",
+      "value": "羅慕倫人 得到 <color=#01e2ff>+5%</color> 攻擊。"
+    },
+    {
       "key": "Data_Skill_Sisko_Attack_description_level1",
       "value": "造成 <color=#01e2ff>3 次 35% 傷害</color>。（若敵人為<color=#01e2ff>卡達西人</color>，有 <color=#01e2ff>25% 機率</color><color=#01e2ff>防禦降低</color>，持續 1 回合）"
     },
@@ -21528,7 +23676,7 @@
     },
     {
       "key": "Data_Skill_Stamets_Bridge_description",
-      "value": "星際艦隊得到<color=#01e2ff>+10%</color> 科技。"
+      "value": "星際艦隊 得到 <color=#01e2ff>+5%</color> 科技。"
     },
     {
       "key": "Data_Skill_Stamets_Bridge_displayName",
@@ -21672,7 +23820,7 @@
     },
     {
       "key": "Data_Skill_Tilly_Bridge_description",
-      "value": "工程獲得<color=#01e2ff>+10%</color>防禦。"
+      "value": "星際艦隊 得到 <color=#01e2ff>+5%</color> 防禦。"
     },
     {
       "key": "Data_Skill_Tilly_Bridge_displayName",
@@ -21736,11 +23884,11 @@
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_description_level1",
-      "value": "所有盟友<color=#01e2ff>匿蹤</color>，持續 3 回合。"
+      "value": "使所有盟友<color=#01e2ff>匿蹤</color>，持續 3 回合。（若盟友為<color=#01e2ff>羅慕倫人</color>，<color=#01e2ff>提高 1 點士氣</color>）。"
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_description_level2",
-      "value": "<color=#01e2ff>匿蹤</color>並<color=#01e2ff>淨化</color>所有盟友，持續 3 回合。"
+      "value": "使所有盟友<color=#01e2ff>匿蹤</color>且<color=#01e2ff>淨化</color>，持續 3 回合。（若盟友為<color=#01e2ff>羅慕倫人</color>，<color=#01e2ff>提高 2 點士氣</color>）。"
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_displayName",
@@ -21748,11 +23896,11 @@
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_description_level1",
-      "value": "使 1 名敵人<color=#01e2ff>降低 1 點士氣</color>且<color=#01e2ff>防禦降低</color>，持續 3 回合。<color=#01e2ff>下一回合：</color>造成 <color=#01e2ff>200% 傷害</color>（若敵人<color=#01e2ff>士氣</color>低於 0，造成 <color=#01e2ff>300% 傷害</color>）"
+      "value": "對 1 名敵人造成 <color=#01e2ff>200% 科技傷害</color>，使所有敵人<color=#01e2ff>降低 1 點士氣</color> 。"
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_description_level2",
-      "value": "使 1 名敵人<color=#01e2ff>降低 2 點士氣</color>且<color=#01e2ff>防禦大幅降低</color>，持續 3 回合。<color=#01e2ff>下一回合：</color>造成 <color=#01e2ff>300% 傷害</color>（若敵人<color=#01e2ff>士氣</color>低於 0，造成 <color=#01e2ff>450% 傷害</color>）"
+      "value": "對 1 名敵人造成 <color=#01e2ff>300% 科技傷害</color>，使所有敵人<color=#01e2ff>降低 2 點士氣</color> 。"
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_displayName",
@@ -21772,7 +23920,7 @@
     },
     {
       "key": "Data_Skill_Torchbearer_Bridge_description",
-      "value": "克林貢人得到<color=#01e2ff>+10%</color> 決心。"
+      "value": "克林貢人 得到 <color=#01e2ff>+5%</color> 決心。"
     },
     {
       "key": "Data_Skill_Torchbearer_Bridge_displayName",
@@ -21891,8 +24039,20 @@
       "value": "紀律"
     },
     {
+      "key": "Data_Skill_Troi_Attack_description_level1",
+      "value": "造成 <color=#01e2ff>100% 傷害</color>"
+    },
+    {
+      "key": "Data_Skill_Troi_Attack_description_level2",
+      "value": "造成 <color=#01e2ff>150% 傷害</color>。"
+    },
+    {
       "key": "Data_Skill_Troi_Attack_displayName",
       "value": "相位槍"
+    },
+    {
+      "key": "Data_Skill_Troi_Bridge_description",
+      "value": "星際艦隊 得到 <color=#01e2ff>+5%</color> 決心。"
     },
     {
       "key": "Data_Skill_Tuvok_Attack_displayName",
@@ -25079,6 +27239,26 @@
       "value": "發現補給箱"
     },
     {
+      "key": "News_Crew_Generic_Headline",
+      "value": "新船員"
+    },
+    {
+      "key": "News_Episode_Generic_Headline",
+      "value": "新章節"
+    },
+    {
+      "key": "News_FactionEvent_Generic_Headline",
+      "value": "新陣營活動"
+    },
+    {
+      "key": "News_SoloEvent_Generic_Headline",
+      "value": "新單人活動"
+    },
+    {
+      "key": "News_Update_Generic_Headline",
+      "value": "新更新"
+    },
+    {
       "key": "No Items Summoned",
       "value": "沒有召喚的物品"
     },
@@ -25652,43 +27832,43 @@
     },
     {
       "key": "shop_Gear_Command_Padd_Common",
-      "value": "傳奇 PADD：指揮官"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Epic",
-      "value": "非常稀有 PADD：指揮官"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Legendary",
-      "value": "史詩 PADD：指揮官"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Rare",
       "value": "普通 PADD：指揮官"
     },
     {
-      "key": "shop_Gear_Command_Padd_VeryRare",
+      "key": "shop_Gear_Command_Padd_Epic",
+      "value": "史詩 PADD：指揮官"
+    },
+    {
+      "key": "shop_Gear_Command_Padd_Legendary",
+      "value": "傳奇 PADD：指揮官"
+    },
+    {
+      "key": "shop_Gear_Command_Padd_Rare",
       "value": "稀有 PADD：指揮官"
     },
     {
+      "key": "shop_Gear_Command_Padd_VeryRare",
+      "value": "非常稀有 PADD：指揮官"
+    },
+    {
       "key": "shop_Gear_Command_Phaser_Common",
-      "value": "傳奇類型 II 相位槍：指揮官"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Epic",
-      "value": "非常稀有類型 II 相位槍：指揮官"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Legendary",
-      "value": "史詩類型 II 相位槍：指揮官"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Rare",
       "value": "普通類型 II 相位槍：指揮官"
     },
     {
-      "key": "shop_Gear_Command_Phaser_VeryRare",
+      "key": "shop_Gear_Command_Phaser_Epic",
+      "value": "史詩類型 II 相位槍：指揮官"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_Legendary",
+      "value": "傳奇類型 II 相位槍：指揮官"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_Rare",
       "value": "稀有類型 II 相位槍：指揮官"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_VeryRare",
+      "value": "非常稀有類型 II 相位槍：指揮官"
     },
     {
       "key": "shop_Gear_Command_Tricorder_Common",
@@ -25732,43 +27912,43 @@
     },
     {
       "key": "shop_Gear_Engineer_Padd_Common",
-      "value": "傳奇 PADD：工程師"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Epic",
-      "value": "非常稀有 PADD：工程師"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Legendary",
-      "value": "史詩 PADD：工程師"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Rare",
       "value": "普通 PADD：工程師"
     },
     {
-      "key": "shop_Gear_Engineer_Padd_VeryRare",
+      "key": "shop_Gear_Engineer_Padd_Epic",
+      "value": "史詩 PADD：工程師"
+    },
+    {
+      "key": "shop_Gear_Engineer_Padd_Legendary",
+      "value": "傳奇 PADD：工程師"
+    },
+    {
+      "key": "shop_Gear_Engineer_Padd_Rare",
       "value": "稀有 PADD：工程師"
     },
     {
+      "key": "shop_Gear_Engineer_Padd_VeryRare",
+      "value": "非常稀有 PADD：工程師"
+    },
+    {
       "key": "shop_Gear_Engineer_Phaser_Common",
-      "value": "傳奇類型 II 相位槍：工程師"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Epic",
-      "value": "非常稀有類型 II 相位槍：工程師"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Legendary",
-      "value": "史詩類型 II 相位槍：工程師"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Rare",
       "value": "普通類型 II 相位槍：工程師"
     },
     {
-      "key": "shop_Gear_Engineer_Phaser_VeryRare",
+      "key": "shop_Gear_Engineer_Phaser_Epic",
+      "value": "史詩類型 II 相位槍：工程師"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_Legendary",
+      "value": "傳奇類型 II 相位槍：工程師"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_Rare",
       "value": "稀有類型 II 相位槍：工程師"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_VeryRare",
+      "value": "非常稀有類型 II 相位槍：工程師"
     },
     {
       "key": "shop_Gear_Engineer_Tricorder_Common",
@@ -25812,43 +27992,43 @@
     },
     {
       "key": "shop_Gear_Medic_Padd_Common",
-      "value": "傳奇 PADD：醫官"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Epic",
-      "value": "非常稀有 PADD：醫官"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Legendary",
-      "value": "史詩 PADD：醫官"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Rare",
       "value": "普通 PADD：醫官"
     },
     {
-      "key": "shop_Gear_Medic_Padd_VeryRare",
+      "key": "shop_Gear_Medic_Padd_Epic",
+      "value": "史詩 PADD：醫官"
+    },
+    {
+      "key": "shop_Gear_Medic_Padd_Legendary",
+      "value": "傳奇 PADD：醫官"
+    },
+    {
+      "key": "shop_Gear_Medic_Padd_Rare",
       "value": "稀有 PADD：醫官"
     },
     {
+      "key": "shop_Gear_Medic_Padd_VeryRare",
+      "value": "非常稀有 PADD：醫官"
+    },
+    {
       "key": "shop_Gear_Medic_Phaser_Common",
-      "value": "傳奇類型 II 相位槍：醫官"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Epic",
-      "value": "非常稀有類型 II 相位槍：醫官"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Legendary",
-      "value": "史詩類型 II 相位槍：醫官"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Rare",
       "value": "普通類型 II 相位槍：醫官"
     },
     {
-      "key": "shop_Gear_Medic_Phaser_VeryRare",
+      "key": "shop_Gear_Medic_Phaser_Epic",
+      "value": "史詩類型 II 相位槍：醫官"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_Legendary",
+      "value": "傳奇類型 II 相位槍：醫官"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_Rare",
       "value": "稀有類型 II 相位槍：醫官"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_VeryRare",
+      "value": "非常稀有類型 II 相位槍：醫官"
     },
     {
       "key": "shop_Gear_Medic_Tricorder_Common",
@@ -25892,43 +28072,43 @@
     },
     {
       "key": "shop_Gear_Science_Padd_Common",
-      "value": "傳奇 PADD：科學官"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Epic",
-      "value": "非常稀有 PADD：科學官"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Legendary",
-      "value": "史詩 PADD：科學官"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Rare",
       "value": "普通 PADD：科學官"
     },
     {
-      "key": "shop_Gear_Science_Padd_VeryRare",
+      "key": "shop_Gear_Science_Padd_Epic",
+      "value": "史詩 PADD：科學官"
+    },
+    {
+      "key": "shop_Gear_Science_Padd_Legendary",
+      "value": "傳奇 PADD：科學官"
+    },
+    {
+      "key": "shop_Gear_Science_Padd_Rare",
       "value": "稀有 PADD：科學官"
     },
     {
+      "key": "shop_Gear_Science_Padd_VeryRare",
+      "value": "非常稀有 PADD：科學官"
+    },
+    {
       "key": "shop_Gear_Science_Phaser_Common",
-      "value": "傳奇類型 II 相位槍：科學官"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Epic",
-      "value": "非常稀有類型 II 相位槍：科學官"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Legendary",
-      "value": "史詩類型 II 相位槍：科學官"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Rare",
       "value": "普通類型 II 相位槍：科學官"
     },
     {
-      "key": "shop_Gear_Science_Phaser_VeryRare",
+      "key": "shop_Gear_Science_Phaser_Epic",
+      "value": "史詩類型 II 相位槍：科學官"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_Legendary",
+      "value": "傳奇類型 II 相位槍：科學官"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_Rare",
       "value": "稀有類型 II 相位槍：科學官"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_VeryRare",
+      "value": "非常稀有類型 II 相位槍：科學官"
     },
     {
       "key": "shop_Gear_Science_Tricorder_Common",
@@ -27139,6 +29319,10 @@
       "value": "點擊以繼續"
     },
     {
+      "key": "UI_CaptainLog_Panel_FooterNote_TapToContinue_Click",
+      "value": "點擊以繼續"
+    },
+    {
       "key": "UI_CaptainLog_Panel_FooterNote_TapToContinue_Gamepad",
       "value": "按下 {0} 繼續"
     },
@@ -27204,6 +29388,10 @@
     },
     {
       "key": "UI_Common_Advance",
+      "value": "點擊以繼續"
+    },
+    {
+      "key": "UI_Common_Advance_Click",
       "value": "點擊以繼續"
     },
     {
@@ -27311,6 +29499,10 @@
       "value": "第 6 章節"
     },
     {
+      "key": "UI_Common_Missions_EpisodeIdentifier_07",
+      "value": "第 7 章節"
+    },
+    {
       "key": "UI_Common_New",
       "value": "新"
     },
@@ -27359,6 +29551,10 @@
       "value": "點擊以返回"
     },
     {
+      "key": "UI_Common_Return_Click",
+      "value": "點擊以返回"
+    },
+    {
       "key": "UI_Common_Return_Gamepad",
       "value": "按下 {0} 返回"
     },
@@ -27379,11 +29575,19 @@
       "value": "點擊以開始"
     },
     {
+      "key": "UI_Common_Start_Click",
+      "value": "點擊以開始"
+    },
+    {
       "key": "UI_Common_Start_Gamepad",
       "value": "按下 {0} 開始"
     },
     {
       "key": "UI_Common_TapToClose",
+      "value": "點擊以關閉"
+    },
+    {
+      "key": "UI_Common_TapToClose_Click",
       "value": "點擊以關閉"
     },
     {
@@ -27607,6 +29811,30 @@
       "value": "其中之一使用他們的古語說道：「走吧，我們必須追上去，尋找現實引擎。」"
     },
     {
+      "key": "UI_Cutscene_Episode7_Text1",
+      "value": "無夢者被驅離現實引擎，他們的計畫遭到挫敗。"
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text2",
+      "value": "不過，他們的首領從引擎主機得知了一個秘密 – 足以對時匯造成災難的秘密。"
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text3",
+      "value": "守護者展示出一份地圖，追蹤著無夢者衝往未知地點的行跡。"
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text4",
+      "value": "儘管地圖上顯示無夢者一路大肆破壞，他們的下一個目標依然非常顯眼。"
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text5",
+      "value": "那是一個巨大的缺陷，在它面前，無夢者留下的破壞痕跡相形見絀。"
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text6",
+      "value": "這難免令人恐懼，但只會讓你的決心更強 – 你命令阿提米絲號啟航。"
+    },
+    {
       "key": "UI_DailyChest_Claim",
       "value": "收集 複製器"
     },
@@ -27685,6 +29913,14 @@
     {
       "key": "UI_EncounterPreview_Title",
       "value": "戰鬥警告！"
+    },
+    {
+      "key": "UI_Episode_MissionNotAvailable_Body",
+      "value": "你必須在前一難度下完成此任務，才能解鎖這個任務。"
+    },
+    {
+      "key": "UI_Episode_MissionNotAvailable_Title",
+      "value": "任務鎖定"
     },
     {
       "key": "UI_Error_ChangeName",
@@ -28053,6 +30289,10 @@
     {
       "key": "UI_Generic_TodaysGoals",
       "value": "完成今日目標！"
+    },
+    {
+      "key": "UI_Glossary_Header",
+      "value": "詞彙表"
     },
     {
       "key": "UI_GoTo_Achievements",
@@ -28703,6 +30943,10 @@
       "value": "達到第{0}級時可解鎖。"
     },
     {
+      "key": "UI_Menu_TooltipLocked_News_Title",
+      "value": "新聞（鎖定）"
+    },
+    {
       "key": "UI_Menu_TooltipLocked_Operations_Title",
       "value": "行動（鎖定）"
     },
@@ -28813,6 +31057,10 @@
     {
       "key": "UI_Mission_Popup_Replay",
       "value": "重玩"
+    },
+    {
+      "key": "UI_Mission_PopupNotAvailableSecondary_Message",
+      "value": "你必須在前一難度下完成此章節，才能解鎖這個章節。"
     },
     {
       "key": "ui_mission_result_completion_percent",
@@ -28943,6 +31191,14 @@
       "value": "如需編輯通知設置，請轉至遊戲內系統設置菜單。"
     },
     {
+      "key": "UI_OnlineMode_Body",
+      "value": "切換至線上模式"
+    },
+    {
+      "key": "UI_OnlineMode_Title",
+      "value": "線上模式"
+    },
+    {
       "key": "UI_Operations_EventPointTotal",
       "value": "總分：{0}"
     },
@@ -28967,6 +31223,22 @@
       "value": "語言"
     },
     {
+      "key": "UI_Options_LocalKey_High",
+      "value": "高"
+    },
+    {
+      "key": "UI_Options_LocalKey_Low",
+      "value": "低"
+    },
+    {
+      "key": "UI_Options_LocalKey_Medium",
+      "value": "中"
+    },
+    {
+      "key": "UI_Options_LocalKey_VeryLow",
+      "value": "非常低"
+    },
+    {
       "key": "UI_Options_Music_Off",
       "value": "關閉音樂"
     },
@@ -28977,6 +31249,10 @@
     {
       "key": "UI_Options_PlayerId",
       "value": "玩家 ID"
+    },
+    {
+      "key": "UI_Options_QualitySettings",
+      "value": "品質設定"
     },
     {
       "key": "UI_Options_ResetPlayerProgressButton",
@@ -29237,6 +31513,14 @@
     {
       "key": "UI_Popup_FleeBattleConfirmation_Challenges",
       "value": "你確定要逃離戰鬥？撤退會導致你失去行動計畫。"
+    },
+    {
+      "key": "UI_Popup_iCloudSaveConflict_Body",
+      "value": "本機與iCloud之間存在進度衝突。是希望繼續使用目前的進度並覆寫iCloud進度，還是重啟遊戲以載入iCloud進度？"
+    },
+    {
+      "key": "UI_Popup_iCloudSaveConflict_Title",
+      "value": "iCLOUD存檔衝突"
     },
     {
       "key": "UI_Popup_InvalidState_Body",
@@ -30055,6 +32339,10 @@
       "value": "點擊以加入至你的特遣隊。"
     },
     {
+      "key": "UI_Tutorial_ToolTip_Add4thMemberGeneric_Click",
+      "value": "點擊以加入至你的特遣隊。"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_Add4thMemberGeneric_Gamepad",
       "value": "按下 {0} 新增至特遣隊"
     },
@@ -30064,6 +32352,10 @@
     },
     {
       "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton",
+      "value": "點擊以加入戰鬥"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton_Click",
       "value": "點擊以加入戰鬥"
     },
     {
@@ -30087,6 +32379,10 @@
       "value": "點擊以繼續"
     },
     {
+      "key": "UI_Tutorial_ToolTip_ContinueButton_Click",
+      "value": "點擊以繼續"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_ContinueButton_Gamepad",
       "value": "按下 {0} 前進"
     },
@@ -30095,11 +32391,19 @@
       "value": "點擊以進行下一個 <color=#fff15c>星際艦隊命令</color>"
     },
     {
+      "key": "UI_Tutorial_ToolTip_Directives_Click",
+      "value": "點擊以進行下一個 <color=#fff15c>星際艦隊命令</color>"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_Directives_Gamepad",
       "value": "按下 {0} 進行下一個 <color=#fff15c>星際艦隊命令</color>"
     },
     {
       "key": "UI_Tutorial_ToolTip_Disable",
+      "value": "點擊以使用沃爾夫的 戰吼"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_Disable_Click",
       "value": "點擊以使用沃爾夫的 戰吼"
     },
     {
@@ -30163,6 +32467,10 @@
       "value": "點擊以更換艦橋船員"
     },
     {
+      "key": "UI_Tutorial_ToolTip_TapCrewButton_Click",
+      "value": "點擊以更換艦橋船員"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_TapCrewButton_Gamepad",
       "value": "按下 {0} 更換艦橋船員"
     },
@@ -30195,6 +32503,10 @@
       "value": "點擊以進行下個任務"
     },
     {
+      "key": "UI_Tutorial_ToolTip_TapMissionFrame_Click",
+      "value": "點擊以進行下個任務"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_TapMissionFrame_Gamepad",
       "value": "按下 {0} 進行下一個任務"
     },
@@ -30208,6 +32520,10 @@
     },
     {
       "key": "UI_Tutorial_ToolTip_TapToAttack",
+      "value": "點擊以發動攻擊！"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_TapToAttack_Click",
       "value": "點擊以發動攻擊！"
     },
     {
@@ -30243,5 +32559,5 @@
       "value": "士氣連擊"
     }
   ],
-  "_PathID": "1460"
+  "_PathID": "1461"
 }

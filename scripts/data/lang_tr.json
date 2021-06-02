@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": "1277"
+    "m_PathID": "1301"
   },
   "m_Name": "lang_tr",
   "List": [
@@ -712,7 +712,7 @@
     },
     {
       "key": "Alliance_Name_First_48",
-      "value": "Garek'in"
+      "value": "Garak'in"
     },
     {
       "key": "Alliance_Name_First_49",
@@ -1239,6 +1239,10 @@
       "value": "DİL SEÇ"
     },
     {
+      "key": "Choose_Quality_Header",
+      "value": "Kalite Seç"
+    },
+    {
       "key": "Common_AccessoriesSortingType_Equipped",
       "value": "Kuşanıldı"
     },
@@ -1519,6 +1523,10 @@
       "value": "Rütbe Düşür"
     },
     {
+      "key": "Common_Details",
+      "value": "Ayrıntılar"
+    },
+    {
       "key": "Common_Dilithium",
       "value": "Dilityum"
     },
@@ -1619,6 +1627,10 @@
       "value": "DEVRE DIŞI BIRAK"
     },
     {
+      "key": "Common_ExplorationOptionType_Disarm",
+      "value": "SİLAHSIZLAŞTIR"
+    },
+    {
       "key": "Common_ExplorationOptionType_Eject",
       "value": "DIŞARI AT"
     },
@@ -1679,6 +1691,10 @@
       "value": "SORUŞTUR"
     },
     {
+      "key": "Common_ExplorationOptionType_Jump",
+      "value": "ZIPLA"
+    },
+    {
       "key": "Common_ExplorationOptionType_Leave",
       "value": "BIRAK"
     },
@@ -1717,6 +1733,10 @@
     {
       "key": "Common_ExplorationOptionType_Power",
       "value": "GÜÇ"
+    },
+    {
+      "key": "Common_ExplorationOptionType_Protect",
+      "value": "KORU"
     },
     {
       "key": "Common_ExplorationOptionType_Quick",
@@ -2725,6 +2745,10 @@
     {
       "key": "Common_ValosComputer",
       "value": "Talos Bilgisayar"
+    },
+    {
+      "key": "Common_View",
+      "value": "Görüntüle"
     },
     {
       "key": "Common_Vulcan",
@@ -11179,6 +11203,1834 @@
       "value": "Arkada bırakılan malzemeler..."
     },
     {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_01",
+      "value": "Önümüzdeler. Daha önce hiç karşılaşmadığımız hayaletler."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_02",
+      "value": "Rüyasızlar çoktan buraya gelmiş olsa gerek. Çok mu geç kaldık?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_03",
+      "value": "Bu yapı, çalışmaya devam ediyor gibi duruyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_04",
+      "value": "Yapıyı devre dışı bırakmak inanılmaz karmaşık bir iş."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_05",
+      "value": "Hâlâ zamanımız olduğuna dair umutlarımızı kaybetmeyelim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_06",
+      "value": "Pekala, önce bunları halledelim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_01",
+      "value": "Rüyasızların kontrol ettiği \"hayaletlerden\" daha fazla var!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_02",
+      "value": "<i>*ürkütücü çığlık*</i>"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_03",
+      "value": "Bizi arıyorlar… Rüyasızlar burada olduğumuzu biliyor olmalı."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_01",
+      "value": "Siz benim müttefiklerimin karşılaştığı insansılar olmalısınız."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_02",
+      "value": "Kendinize göre motivasyonlarınız olduğunu anlıyoruz ancak kazanamayacağınız bir savaştasınız. Neksus'un işleyişini anlamak için sonsuzluk kadar bilgimiz var."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_03",
+      "value": "Neksus'u yok etmek vicdana aykırı. Bütün hayatlar yok olacak… Binlerce mi? Milyonlarca mı?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_04",
+      "value": "Evrenin istediği gibi, çok uzun zaman önce sona eren pek çok yaşam. Birilerinin ütopya fikrinde sıkışıp kalmamalılar. Biz sizin düşündüğünüz gibi canavar değiliz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_05",
+      "value": "Bu hayatları birilerinin entrikalarından kurtardığınızı iddia ediyorsunuz, peki ne için? Kaderlerini kendiniz belirleyebilmek için mi?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_06",
+      "value": "İyi dedin Michael!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_07",
+      "value": "Sizinle felsefi konuşmalar yapacak vaktimiz yok. Lütfen kendiniz gidin, aksi takdirde sizi ortadan kaldırmamız gerekecek!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_post_01",
+      "value": "Dirençli bir türsünüz ancak kendinize birkaç saat kazandırdınız sadece. Bu Gerçeklik Makinesi devre dışı kalacak."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_01",
+      "value": "Önümüzdeki yol bir şekilde korunuyor gibi görünüyor. Daha önce hiç böylesini görmemiştim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_02",
+      "value": "Ne kadar ileri bir teknoloji olduğunu göz önünde bulundurduğumuzda fazerlerimizin pek etki edeceğini sanmam. <i>Artemis</i> bizi ışınlayabilir mi?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_03",
+      "value": "Bu uzaydaki baskın enerjileri dikkate alırsak Işınlayıcıyı gerektiğinden fazla kullanmayalım derim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_04",
+      "value": "Evet, hayatımı Bay Worf'un yapışık ikizi olarak geçirmeme neden olacak bir Işınlayıcı kazasını göze almak istemem. Pekala… Önerisi olan var mı?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_01",
+      "value": "Reaktörler… Bizi buraya Reaktörler getirdi. Yapının içine daha fazla ilerlemek için anahtar görevi görebilirler mi?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_02",
+      "value": "Bu cidden işe yarayabilir!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_03",
+      "value": "Harika bir öneri Michael."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction02_01",
+      "value": "Başka bir yol olduğuna kalıbımı basarım. Bu koridorlarda bir saat daha zar zor ilerlemeye ne dersiniz?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_01",
+      "value": "İlginç. Bir çeşit statü odası olabilir."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_02",
+      "value": "İçinden birkaç konteyner sinyali alıyorum. Malzeme olabilir."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_03",
+      "value": "Neksus Mühendisleri için bırakılmış süt ve kurabiye mi?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_04",
+      "value": "Doktor! Bu düşünce neredeyse... Kutsala hakaret gibi geliyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction01_01",
+      "value": "Giriş yapmak için Reaktörleri kullanmayı deneyeceğim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction02_01",
+      "value": "Bence bu susamı açmak için Reaktörleri kullanmaktan kaçınalım. Teknolojiyi tam olarak anlamıyoruz…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction02_02",
+      "value": "Doğru söylüyorsun. Savunmaları tetiklemek istemeyiz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_01",
+      "value": "Buradaki platformda daha fazla malzeme var."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_01",
+      "value": "Galiba platforma zıplayabilirim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_02",
+      "value": "Zıplamak mı? Klingon aklını mı kaçırdın? Çok yüksek!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_03",
+      "value": "İnançlı ol Doktor! Sanırım oraya zıplayabilirim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_04",
+      "value": "SEN inançlı ol. Benim ihtiyacım olan şeyi inanç değil, az sonra düştüğünde kırılacak olan kemiklerinle ilgilenmek için gereken tıp eğitimi!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_01",
+      "value": "Sizce oraya ulaşabilir miyiz?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_02",
+      "value": "Profesyonel görüşümü sorarsanız ulaşamayız ve ulaşmamalıyız da."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_03",
+      "value": "Bu bakış açısıyla olmaz tabii Doktor. Pekala."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_01",
+      "value": "Burası aklıma çocukken duyduğum Klingon masallarını getiriyor. Savaşçıların sonsuza dek savaştığı Sto-Vo-Kor koridorları."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_02",
+      "value": "Bir nevi Valhalla gibi yani?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_03",
+      "value": "Daha kanlısı."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_04",
+      "value": "Harika."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_05",
+      "value": "Lafı açılmışken… Yolun aşağısında bir kargaşa var!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_01",
+      "value": "Burası gördüğüm her şeyin ötesinde."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_02",
+      "value": "O sesindeki korku mu Doktor?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_03",
+      "value": "Bir düşünsene."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_04",
+      "value": "Bana <i>Enterprise</i>'ımdaki Holodeck'imi hatırlatıyor. Zengin gerçekçi simülasyonlar oluşturuyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_05",
+      "value": "Keşke <i>Discovery</i>'de de böyle bir olanak olsaydı! Kürelerde gördüklerimizle benzer bir deneyim miydi?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_06",
+      "value": "Hayır. Holodeck simülasyonları daha çok... Hayallere benziyor. Pek çoğu eğlendirici, ufak tefek önemsiz ayrıntılardan ibaret."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_07",
+      "value": "Kürelerde gördüğümüz tüketici gerçekliklere benzer bir şey hissetmeleri alışılmadık bir durum."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_08",
+      "value": "Tüketici tam da Rüyasızların Neksus deneyimine vereceği bir sıfat gibi geliyor kulağa. Onlara göre hayalden çok hapishaneye yakın bir deneyim…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_01",
+      "value": "Bu koridorlarda boş boş dolaşıp duracak mıyız yoksa…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_02",
+      "value": "İzinsiz girebilir miyiz acaba?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_03",
+      "value": "Arkanda! Bu bir... Ne olduğunu bilmiyorum."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_04",
+      "value": "Adımız \"X'ytakii\", sizin dilinizde \"Bekçi\" diyorlar. Bu Gerçeklik Makinesinin işlevlerini kontrol etmek için tasarlanan birkaç temel yapay zekadan biriyiz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_05",
+      "value": "Taramalarımız altı Reaktörünüz olduğunu ve bu yapıyı korumaya kararlı olduğunuzu gösteriyor. Değerlendirmemiz doğru mu?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_06",
+      "value": "Bu Rüyasız denen varlıkların Neksus'un dengesini bozmasını engellemeye çalışıyoruz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_07",
+      "value": "Bu bir \"Mühendislik\" işlevi. Ancak siz Mühendislik eğitimi almadığınız için Gerçeklik Makinesini onarmanız ve izinsiz giriş yapanları defetmeniz için gereken yetkiyi ve araçları veremiyoruz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_08",
+      "value": "Yine de bunları yapmak istiyoruz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_09",
+      "value": "Mühendisler için gereken testi yapabilirsiniz. Ancak uygun eğitimi almadan testi geçmeniz pek mümkün değil."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_10",
+      "value": "Testi geçemezsek ne olur?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_11",
+      "value": "Bu durumda ilgili statüyü alamaz ve Makineyi kilitleyemezsiniz. Dahası, yapı ve bağlı olduğu Küreler, yaklaşık olarak 3,567 Terran saati sonra bozulur."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_12",
+      "value": "Pek bir seçeneğimiz yok o zaman!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_01",
+      "value": "Durun! Buradan geçemezsiniz şekil değiştiren süprüntüler!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_02",
+      "value": "Şekil değiştiren neler? Dur biraz, biz…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_03",
+      "value": "Pek dinleyecek gibi durmuyorlar Doktor!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_01",
+      "value": "Önümüzdeki fazer ateşini duyuyor musunuz?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_02",
+      "value": "Doğru söylüyorsun. Şuradan geliyor! Kardasyalılar Yıldız Filosu ile savaşıyor gibi görünüyor!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_03",
+      "value": "Bence bunların gerçekten Yıldız Filosu subayı olduklarına inanmamamız gerektiğini gayet iyi biliyoruz. Daha fazla şekil değiştiren olması muhtemel."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_04",
+      "value": "Emin misin Doktor?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_05",
+      "value": "Bana biraz inanın Bay Worf. İhtiyar \"Bones\" McCoy ne yaptığını biliyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_06",
+      "value": "Nasıl anladınız Doktor?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_07",
+      "value": "Vücut dilleri, hareketlerindeki tuhaflık."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_08",
+      "value": "Bu konudaki analizinize güveniyorum Doktor. Hadi devam edelim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_01",
+      "value": "Yıldız Filosu subayları, şurada!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_02",
+      "value": "Dayanın. Artık güvendesiniz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_01",
+      "value": "Burada çok ortada kaldık. Bu aracı çalıştırabilecek miyiz bakalım."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_02",
+      "value": "Sizin türünüz nasıl diyor? \"Hiçbir iyilik cezasız kalmaz.\" Geberin!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_03",
+      "value": "Siz şekil değiştirenlersiniz! Haberiniz olsun, Kardasyalılar her yerde sizi arıyor!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_01",
+      "value": "Bazıları ağır yara almış gibi görünüyor. Her şeyden önce yaralarıyla ilgilenmemiz lazım!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_02",
+      "value": "Ne kadar kibarsın sağlık insanı."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_03",
+      "value": "Doktora verilecek ilginç bir isim…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_04",
+      "value": "Ne kadar da zekisin! Yok edin onları!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_05",
+      "value": "Siz şekil değiştirenlersiniz! Haberiniz olsun, Kardasyalılar her yerde sizi arıyor!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_01",
+      "value": "Etrafa bakın. Araçta, onlara yardım etmek için kullanabileceğimiz bir şeyler olabilir."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_02",
+      "value": "İyi düşündün. Burada birkaç malzeme var."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_03",
+      "value": "Siz Yıldız Filosu fareleri bizim eşyalarımızı çalmak istiyorsunuz demek!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_04",
+      "value": "Yıldız Filosu fareleri… Durun biraz, siz…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_05",
+      "value": "Siz şekil değiştirenlersiniz! Haberiniz olsun, Kardasyalılar her yerde sizi arıyor!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_01",
+      "value": "Görünüşe göre birileri buraya malzeme bırakmış. Stok yapsak fena olmaz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_01",
+      "value": "Hızlıca göz atmaktan zarar gelmez..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_02",
+      "value": "Yakalayın!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_03",
+      "value": "Zarar GELEBİLİRMİŞ demek ki! Şekil değiştirenlerin tuzağı!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_01",
+      "value": "Birileri yolun ortasına değerli malzemeleri öylece bıraktı mı yani? Şansımız o kadar yaver gider mi cidden?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_02",
+      "value": "Doktor doğru söylüyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_03",
+      "value": "Bazen tuzak olduğu çok bellidir..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_01",
+      "value": "Bu da ne? Bir Kürenin içinde miyiz?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_02",
+      "value": "Hâlâ Gerçeklik Makinesinin içindesiniz ama makine, test edilebileceğiniz ortamlar yaratmak için bizim parametrelerimizin içinde."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_03",
+      "value": "Bekçi, Kaptan Sisko'nun şeklini aldı…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_04",
+      "value": "Bu saçmalığa ayıracak vaktimiz yok dostum! Az önce hayatların tehlikede olduğunu söyledin!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_05",
+      "value": "Doğru. Acele etmeniz tavsiye edilir."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_06",
+      "value": "Siz ne yapmamız gerektiğini açıklamak için acele etseniz?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_07",
+      "value": "Anılarınızla ilgili yaptığımız çalışmada, kadranınızdaki türlerin Mühendis rolüyle uyumlu belirli özelliklere değer verdiğini tespit ettik."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_08",
+      "value": "Bunlardan ilki, Kaptanınız Sisko tarafından gösterildiği üzere İnanç."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_09",
+      "value": "Dua... Dua mı edelim?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_10",
+      "value": "Bizi yanlış anladınız. Her zaman her yerde var olan bir varlığa inanç değil; hedefinize ve becerilerinize olan inancınız, aynı zamanda Mühendis arkadaşlarınıza olan inancınız."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_11",
+      "value": "Başlangıçta Mühendislerin burayı yaratmasını sağlayan şey, daha büyük bir şeye olan inançlarıydı. Bu nedenle sonraki tüm Mühendisler için de bir ön koşul hâline geldi."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_12",
+      "value": "Bu arenanın bir yerinde sonraki teste geçiş yapabileceğiniz bir portal sizi bekliyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_13",
+      "value": "Dikkatli olun, hiçbir şey göründüğü gibi değil. Yalnızca amacınıza olan inancınız sizi sonuna kadar götürebilir."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_01",
+      "value": "Bekçi bu."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_02",
+      "value": "Ne kadar ilerlediğinizi merak ettik."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_03",
+      "value": "Merakınızı gidereyim: Kardasyalılar ve şekil değiştirenler arasındaki savaşın ortasında kaldık ve her iki taraf da bizi gördüğünde savaş çıkarmaya meraklı oluyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_04",
+      "value": "Kabul ediyoruz, içinden çıkılması imkansız bir durum. Görünüşe göre tek çıkar yol geri dönmek."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_05",
+      "value": "Geri dönmek mi? Belli ki siz, Yıldız Filosu'nu hiç tanımamışsınız!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_01",
+      "value": "Bekçinin bahsettiği portal bu olsa gerek."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_02",
+      "value": "Aynen öyle. Performansınızla beklentilerimizin ötesine geçtiniz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_03",
+      "value": "Hedefinize ulaşmak için büyük bir zorluğun üstesinden geldiniz ve müttefikinizin becerilerine inandınız."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_04",
+      "value": "Böylesi bir inanç takdire şayan, tabii kişinin gözünü kör de edebilir. Ancak siz açgözlülükle veya güç hırsıyla hareket ediyor gibi görünmüyorsunuz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_05",
+      "value": "Bu kadar mı yani? Testinizi geçtik mi?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_06",
+      "value": "İlk bölümünü geçtiniz, evet. Dahası var."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_07",
+      "value": "... Vardır tabii."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_01",
+      "value": "Bekleyin. Taramalar ileride hareket olduğunu gösteriyor. Oldukça fazla hareket."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_02",
+      "value": "Biz Borg'uz. Asimile edileceksiniz. Direniş boşuna."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_03",
+      "value": "Üff, yeni bir… Yeni bir selamlama şekli hesaplamak çok mu zor?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_04",
+      "value": "Acaba alaycılığı daha az tehlikeli bir ana mı saklasan Doktor?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_01",
+      "value": "Bu alanda hareket yok gibi duruyor. Güvenli bir şekilde ilerleyebiliriz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_02",
+      "value": "Durun, tuzak! Orada alarmı tetikledim sanırım!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_03",
+      "value": "Asimile edileceksiniz. Direniş boşuna."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_01",
+      "value": "Önümüzdeki silüeti görüyor musunuz?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_02",
+      "value": "Borg Kraliçesi bu!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_03",
+      "value": "Asimile... Asimile edileceksiniz. Direniş boşuna."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_01",
+      "value": "Tuhaf. Kraliçe olduğundan eminim ama daha önce tanıştığımız kraliçeye pek benzemiyordu."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_02",
+      "value": "Bilemiyorum. Kraliçenin Borgçası gibi geldi bana!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_03",
+      "value": "Yedek bir bedendir belki? Ya da bilincini aktarabileceği birkaç bedenden biridir?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_04",
+      "value": "Bilmek imkansız…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_01",
+      "value": "Hepiniz hoş geldiniz. Evinizden çok uzaktasınız."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_02",
+      "value": "Bir Borg Kraliçe daha! Gerçi bu daha çok... Kraliçeye benziyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_03",
+      "value": "Bir tane daha mı? Biz Borg'uz. Ne eksik, ne fazla. Tüm bedenler bizim irademizin uzantılarından ibarettir."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_04",
+      "value": "Sizinkiler bile. Haksız mıyım Locutus?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_05",
+      "value": "Haklısınız. Kolektifin birleşmiş gücünün önünde asimile edileceksiniz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_06",
+      "value": "Bugün biz daha büyük, daha kıymetli bir kolektif için savaşıyoruz ve siz yolumuzda duramayacaksınız!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_01",
+      "value": "Başardık! Testimiz nerede olacak efendim?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_02",
+      "value": "Buradayız. Kararlılığınız için tebrik ederiz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_03",
+      "value": "Birçok kez buradan uzaklaşmanız teklif edilse de sürekli devam etmeyi seçtiniz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_04",
+      "value": "Artık güvende miyiz? Testler bitti mi?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_05",
+      "value": "Şimdilik güvendesiniz ama sizi bekleyen iki test daha var."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_01",
+      "value": "Kayıp mı olduk?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_02",
+      "value": "Değil miydik ki?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_03",
+      "value": "Doğru dedin Michael."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_04",
+      "value": "Hadi biraz duralım. Bu düğüme erişmeyi ve bir rota bulmayı deneyebilirim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_01",
+      "value": "Şansımız var mı?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_02",
+      "value": "Trikorderim bir yol gösteriyor ancak aynı zamanda başka bir sinyal de göründü."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_03",
+      "value": "Endişelenmeli miyiz?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_04",
+      "value": "Gerek olmayabilir, durmuş gibi görünüyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction02_01",
+      "value": "Bence sistemlerini kurcalamaktansa körü körüne dolaşmamız çok daha iyi olur."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction02_02",
+      "value": "Bu onları kızdırıyor sanki!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_01",
+      "value": "Şurada bir şarj dehlizi var. Epey tuhaf bir şarj dehlizi."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_02",
+      "value": "Taramalar, içinden büyük miktarda enerji geçtiğini gösteriyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_03",
+      "value": "Borg ağına bağlanıyor olabilir. İncelemeye değer."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_01",
+      "value": "Trikorderimi kullanarak bunu aşırı yüklüyorum…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_02",
+      "value": "Yeri değişiyor. Kaldırılıyor gibi görünüyor sanki."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_03",
+      "value": "Muhtemelen onu onarım için götüren otomatik bir sistem."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_04",
+      "value": "Sistem, onun yerini alacak bir şarj istasyonu iletmeden önce arkasında ne olduğuna bakalım."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction02_01",
+      "value": "Hadi bırakalım, böylece tespit edilme olasılığından kaçınmış oluruz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction02_02",
+      "value": "Aynı fikirdeyim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_01",
+      "value": "Galiba buradaki panellerin bir kısmı gevşek…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_02",
+      "value": "İyi yakalamışsın. Belki zorlayarak açıp saklı bir şeyler var mı diye bakabiliriz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction01_01",
+      "value": "Aldım!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction02_01",
+      "value": "Riskler bu kadar yüksekken tamircilik mi oynamak istiyorsun?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction02_02",
+      "value": "Doktor haklı. Hadi devam edelim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_01",
+      "value": "Neredeyiz şimdi? Burası Borg Küpüne benziyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_02",
+      "value": "Üff, daha fazla Borg olmasın lütfen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_03",
+      "value": "Bu sizin ikinci testiniz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_04",
+      "value": "Şimdi de Kaptan Janeway olarak görünüyorsun. Bunun bir nedeni var mı?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_05",
+      "value": "Sizin zamanınızda, Kaptan Janeway efsanevi yolculuğuyla bilinirdi."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_06",
+      "value": "Uzun yedi yıl boyunca, Kaptan ve mürettebatı, Delta kadranının uzak tarafından yolculuk yaparak Dünya'ya geri döndü. İnanılmaz bir azim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_07",
+      "value": "Sonraki testinizi temsil etmesi uygun olacaktır: İrade Testi."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_08",
+      "value": "Bekçi kayboldu… Bir Borg Küpü, bir \"İrade Testi\". Sanırım yolun her santimetresinde savaşacağız!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_01",
+      "value": "Canım çıktı. Biraz dinlenmem lazım."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_02",
+      "value": "Doktoru dinleseniz iyi edersiniz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_03",
+      "value": "Aah! Bir kez olsun arkamızda değil de önümüzde görünseniz nasıl olur?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_04",
+      "value": "Özür dileriz. Tek amacımız size tavsiye vermek."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_05",
+      "value": "Hesaplarımıza göre, portalı ararken Borg Küpünün yalnızca %0,00001'ini başarılı bir şekilde keşfettiniz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_06",
+      "value": "Gerçeklik Makinesi yakında çökecek, o sırada burada olursanız yok olacaksınız."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_07",
+      "value": "Sizi güvenli bir yere götürebiliriz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_08",
+      "value": "Gerçeklik Makinesi çökerse Küreler de çöker, yani içindeki herkes de!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_09",
+      "value": "Neksus'un boyutunu küçümsüyorsunuz. Neksus, pek çok Makine üzerine kurulmuştur."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_10",
+      "value": "Ancak her bir makine, yani bu da dâhil, çok sayıda Küreden sorumlu, değil mi? Yani şu anda vazgeçersek birbirine bağlı olan tüm Küreler bozulacak."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_11",
+      "value": "Evet."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_12",
+      "value": "Neksus, gittikçe kötüye giderek Neksus dışındaki evrenimizi de tehdit eden yıkıcı yarıklara neden olacak…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_13",
+      "value": "Bu da doğru."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_14",
+      "value": "Öyleyse devam ediyoruz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_15",
+      "value": "Nasıl isterseniz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_16",
+      "value": "Gitti."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_17",
+      "value": "Etkilendim Doktor. Bir dakika önce yorgunluktan canın çıkmıştı."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_18",
+      "value": "Hâlâ öyle. Ama buraya hayat kurtarmaya geldik, yolda biraz yorulduk diye yakınmaya değil!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_01",
+      "value": "Narin formunuz gittikçe yıpranıyor gibi görünüyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_02",
+      "value": "Buna daha fazla dayanamayacağınızı tahmin ediyoruz. Hemen ayrılmanızı tavsiye ediyoruz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_03",
+      "value": "Hah! Kahless kardeşi Morath'ın peşini bıraktı mı? Hayır, hem kendisinin hem de babasının şerefi uğruna dağı ve vadiyi aşarak onun izini sürdü."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_04",
+      "value": "Biz de aynı öyle burada savaşıp diğer taraftan muzaffer olarak çıkacağız!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_01",
+      "value": "Önümüzde Klingonlar var. Hem de bir sürü!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_02",
+      "value": "Onlarla iletişim kurabilir misin Worf? Saldırı pozisyonundan çıkmalarını söyleyebilir misin?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_03",
+      "value": "bIjeghbe'chugh vaj bIHegh!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_04",
+      "value": "Hoch jagh Heghjaj!!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_05",
+      "value": "Bunun işe yaramadığını anlamak için Klingonca bilmeme gerek yok sanırım."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_06",
+      "value": "Uzlaşmaya... Pek açık değiller."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_post_01",
+      "value": "Geri çekiliyorlar. Şimdilik güvendeyiz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_01",
+      "value": "Daha fazla Klingon! Koskoca bir filo!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_02",
+      "value": "Demek... Federasyon'un bir Klingon evcil hayvanı var..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_03",
+      "value": "Bu ne cüret? Ben kimsenin süs köpeği değilim! Ben bir savaşçıyım!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_04",
+      "value": "Evet! Şimdi gittin ve onu kızdırdın. Kızgın hâlini sevmezsin!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_01",
+      "value": "Daha fazla mı? Bitmiyorlar."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_02",
+      "value": "Kahless'in Sinyali kutsal bir kalıntıdır. Kahless tarafından yirmi dört büyük hanedanlığı birleştirmek için yaratıldığı söylenir."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_03",
+      "value": "Bir Klingon için, Sinyalde bir yabancının varlığı çok büyük bir suçtur."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_04",
+      "value": "Hata yapmışlar işte! Bunu kabul ettiler."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_05",
+      "value": "Değerlerim Federasyon'unkilerle uyuşsa da içgüdüsel olarak kanımın bu ihlalle kaynadığını hissedebiliyorum."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_06",
+      "value": "Mantığı anlıyorum tabii ama bunun bir Klingon için ne kadar ciddi olduğunu anlamanı sağlayacaktır."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_07",
+      "value": "Sizin devrinizde, türümüz bu kalıntıdan dolayı savaştı Michael. Klingonların mürettebatı cezalandırmak için böyle savaşması şaşılacak şey mi? Merhamet etmeyecekler."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_01",
+      "value": "Bizim konumumuza toplanan yüzlerce biyolojik değer sinyali alıyorum. Geri çekilmeliyiz!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_02",
+      "value": "Hah. Kalıp savaşalım diye diretirsin sanmıştım."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_03",
+      "value": "Kahless'in bir defasına kendi kendine söylediği gibi, \"Rüzgarın aptallara saygısı yoktur.\""
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_01",
+      "value": "Yaklaştık."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_02",
+      "value": "Önümüzde Klingonlara ait biyolojik izler tespit ediyorum."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_03",
+      "value": "Tespit ettiğim Reaktörü korumak üzere yolumuza yerleştirilmiş olmalılar."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_04",
+      "value": "Hu'tegh! Üstelik yalnız da değiller. Aralarından birinin üzerinde Meşale Taşıyıcının tören zırhı var."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_05",
+      "value": "Kahless'in Sinyalini koruyan Klingon şampiyonu! Biriyle... Biriyle anlaşmazlığım olmuştu."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_06",
+      "value": "Reaktöre buradan erişemeyeceğinden emin misin?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_07",
+      "value": "…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_08",
+      "value": "Peh. Hiç sanmıyordum."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_01",
+      "value": "Sinyalin kaynağının hemen üzerindeyiz. Kaynağa erişmek için trikorderimi Reaktörlerimizle birlikte kullanabilirim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_02",
+      "value": "İçinde bulunduğumuz gerçekliğe güç veren cihazın Kürelere güç veren Reaktörlerin büyüklüğünde olmadığı kesin. Bu da iyi bir haber tabii!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_03",
+      "value": "Pekala, bu senaryoyu kazanılabilir kılmak için nasıl yeniden programlanacağına dair fikri olan var mı?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_04",
+      "value": "İlla da \"kazanmamız\" gerekmiyor bence. Hedefimiz en başından beri portalı bulmaktı. Evet, önceki sefer \"kazandığımızda\" görünmüştü ancak bu sefer... Sadece görünmesini sağlasak olmaz mı?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_05",
+      "value": "Çok zekice Michael!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_06",
+      "value": "Bir portal ortaya çıkıyor!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_01",
+      "value": "İşte! Önümüzde yaralı mürettebat üyeleri var!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_02",
+      "value": "Ben... Geri çekileyim de bunu siz halledin. Bir Klingon ortaya çıkarsa işler kızışabilir…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_03",
+      "value": "Yardıma geldik! İyi misiniz?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_04",
+      "value": "Ben... Evet. Sayılır. Siz kimsiniz? Üniformalarınızı tanıyamadım."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_05",
+      "value": "Biz <i>U.S.S. Artemis</i>'teniz. Burada neler oldu?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_06",
+      "value": "İyi ki geldiniz, epey zor durumdayız."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_07",
+      "value": "Rotamız bizi Kahless'in Sinyaline yaklaştırdı."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_08",
+      "value": "Sinyal, Klingon imparatorluğunun kutsal bir kalıntısı. Sinyale yaklaşırken ne düşünüyordunuz ki?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_09",
+      "value": "Hata yaptık! Ne olduğunu bilmiyorduk ki... Şimdi ise bizi saldırganlıkla ve kutsal gemilerine saygısızlık yapmaya teşebbüs etmekle suçluyorlar."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_10",
+      "value": "Gemideki herkesin idam cezasına çarptırıldığını duyurdular!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_01",
+      "value": "Buna izin veremeyiz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_02",
+      "value": "Bu insanları güvenli bir yere götürmemiz gerek. Onları hareket etmeye hazırlayabilir misin Doktor?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_03",
+      "value": "Elimden geleni yaparım. Ben yaralarıyla ilgilenirken beni koruyun!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction02_01",
+      "value": "Bu noktada birleşen Klingonlar var!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction02_02",
+      "value": "Öyleyse onları geri püskürtelim. Yaralılarla sonra ilgileniriz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_01",
+      "value": "Reaktörlerdeki değerlere benzer bir değere kilitlendim. O kadar büyük olmadığı kesin, bu yüzden belki de bu gerçeklik, asıl Küre kadar büyük değildir."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_02",
+      "value": "Reaktör teorine bir şans verelim! Bu kapıyı \"yeniden programlayabileceğini\" düşünüyor musun?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_01",
+      "value": "Evet! Trikorderimi Reaktörlerimizle birlikte kullanabilirim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_02",
+      "value": "Bu \"gerçekliğin\" altındaki yapıya erişiyorum. Karmaşık ancak… Bana biraz zaman verin."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_03",
+      "value": "Kapı yok oldu!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_04",
+      "value": "İnanılmaz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_05",
+      "value": "Bundan daha çarpıcı bir şey yapmam için sinyal kaynağına daha yakın olmam gerekiyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction02_01",
+      "value": "Ne zamanımızı ne de potansiyel Reaktör gücünü boşa harcayalım."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction02_02",
+      "value": "Bay Worf, siz iyi bir asker ve sadık bir müttefiksiniz. Ancak Bayım, çok sıkıcısınız."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_01",
+      "value": "İlginç! Federasyon gemisindeyiz gibi duruyor. Taramalar bazı güvertelerde hasar olduğunu gösteriyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_02",
+      "value": "Saldırı mı?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_03",
+      "value": "Birkaç karmakarışık mesaj alıyorum. Görünüşe göre gemiye Klingonlar binmiş ve kilit bölgelerin kontrolünü ele geçirmişler."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_04",
+      "value": "Klingonların Yıldız Filosu gemilerinden uzak durmasının genellikle daha güvenli olduğunu öğrendim!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_05",
+      "value": "Sözüm meclisten dışarı."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_06",
+      "value": "Peh."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_07",
+      "value": "Bu da testinizin doğası."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_08",
+      "value": "Jim! Dur biraz... Sen Bekçisin."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_09",
+      "value": "Bu test, arkadaşınızın sahip olduğu değerleri yansıtır."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_10",
+      "value": "Pervasızlık mı? Bizi saçma sapan bir maceranın içine çekme isteği mi?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_11",
+      "value": "Kurnazlık Testi sizi bekliyor. Hedefinize olan inancınızı ve her şeye rağmen azimle devam edebileceğinizi gösterdiniz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_12",
+      "value": "Ancak bazı engelleri düz yoldan aşamazsınız."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_13",
+      "value": "Portalı ve bu testin sonunu bulun."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_14",
+      "value": "Evet, gitti. Her zamanki gibi çok yardımcı oldu."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_01",
+      "value": "Bu, imkansız görünüyor. Bu bildiğimiz... Kobayashi Maru!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_02",
+      "value": "Akademi sınavı mı?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_03",
+      "value": "Aynen öyle. İkiniz de girdiniz bu sınava, değil mi?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_04",
+      "value": "Ben girdim. Diğer tüm adaylar gibi, her seferinde kaldım. Bunun, kazanma ihtimalinin olmadığı bir senaryo olduğunu öğrendiğimde küplere binmiştim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_05",
+      "value": "Ya mürettebatı kurtarırsın ve Klingon imparatorluğu ile savaşa girersin ya da onları ölüme terk edersin."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_06",
+      "value": "Bu senaryo da başarısız olmak üzere tasarlanmış. Benim halkım burada merhamet göstermez. Onların saldırısından sağ çıkamayız, terk edersek de bu insanlar yok olacak…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_07",
+      "value": "Şunu dinleyin: Benim zamanımda Kaptan Kirk, Kobayashi Maru testini GEÇMİŞTİ. İhtiyar Jim tarzında yaratıcılığını kullandı: Test başlamadan önce içeri sızdı ve bilgisayarı yeniden programladı."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_08",
+      "value": "Yani Kaptan Kirk'ün kitabından bir sayfa koparıp… Kopya çekmemiz gerekiyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_09",
+      "value": "Peki ama nasıl? Erişebileceğimiz bir bilgisayar yok…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_10",
+      "value": "Bu gerçeklik muhtemelen diğer Kürelere benzer şekilde çalışıyor. Onu çalıştıran bir Reaktör veya benzer bir cihaz var. Onu bulup programlamasını değiştirelim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_11",
+      "value": "Ama henüz \"Mühendis\" değiliz. Neksus'un teknolojisini etkileyemeyiz!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_12",
+      "value": "Bir hologramdan yetki beklemekten sıkıldım. Hepimiz daha önce bilinmeyen, ultra gelişmiş uzaylı teknolojisi gördük. Beklenenden farklı değil!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_13",
+      "value": "Trikorderimi elimizde halihazırda bulunan Reaktörlere ayarlıyorum. Bekçinin küçük sınavını kontrol eden şeyin ne olduğunu bulalım."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_01",
+      "value": "Nihayet geldiniz. İnanç, azim ve…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_02",
+      "value": "Biliyoruz biliyoruz, kurnazlıkla. Senden önce davrandım Konfüçyüs."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_03",
+      "value": "Doğru. Size dayatılan yolu kullanmadınız ve Neksus'un kendisine ulaştınız. Yine de Neksus'un daha büyük yapılarının kurcalanmasının bu kadar kolay olmadığını göreceksiniz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_04",
+      "value": "Şimdi geriye sadece..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_05",
+      "value": "Olmaz! Daha fazla test olmaz! Yeteneklerimizi kanıtladık ve hiç zamanımız kalmadı."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_06",
+      "value": "Sizin hazır olma algınız ne olursa olsun gelecek vadeden bir Mühendis için yapılan bu testler ikili bir gerekliliktir. Gerçeklik Makinesini devreye sokabilmeniz için hepsini tamamlamanız gerekiyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_01",
+      "value": "Federasyon!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_02",
+      "value": "Size zarar verme niyetinde değiliz, biz U.S.S. Art..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_03",
+      "value": "Yakalayın! Sinyale ulaşmalarına izin verirsek Tomalak ve Sela bize bunu ödetir!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_post_01",
+      "value": "Bu Romulanlar meseleyi diyalogla veya mantıkla çözmeye yanaşacak gibi durmuyorlar…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_01",
+      "value": "Keşke bunu farklı yollarla çözebilseydik."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_02",
+      "value": "Federasyon'un Romulanlara karşı çalıştığından emin bir hâli vardı."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_03",
+      "value": "Komutanını yakalarsak belki daha fazlasını öğrenebiliriz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_04",
+      "value": "Onları gözetlediğimizden emin gibi görünüyorlardı!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_01",
+      "value": "Yatıştı."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_02",
+      "value": "Testin olayı onu sersemletmek miydi pek emin değilim ama..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_03",
+      "value": "Bazen inançlarınızın gücünün diğer tarafını göstermek zorunda kalabilirsiniz demişti!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_04",
+      "value": "Eh... Başarısız olduğumuza dair bir işaret göremiyorum, galiba haklısın."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_01",
+      "value": "Olduğunuz yerde kalın."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_02",
+      "value": "Savaşmaya gelmedik."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_03",
+      "value": "Klingonsunuz siz. Elbette savaşmaya geldiniz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_04",
+      "value": "Adam doğru söylüyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_05",
+      "value": "Peh."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_01",
+      "value": "Buraya diyalog kurmaya geldik."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_02",
+      "value": "Hah! Sinyali sabote etmeye geldiniz. Gerçi ne olursa olsun geç kaldınız, Tomalak çoktan verileri de alıp gitti."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_03",
+      "value": "Geri çekilin. Siz bizim gitmemize izin verin, biz de size izin verelim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_04",
+      "value": "Kıymetli nefesimizi sizin için tüketecek değiliz. Elde ettiğimiz veriler Federasyonun sizin gibi hain yılanlar olduğunu ortaya çıkaracak! (ışınlanarak giderler)"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_05",
+      "value": "Durun. Az önce bir Romulan bize hain yılan mı dedi? Amma da ilginç."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_01",
+      "value": "Bela aramıyoruz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_02",
+      "value": "Yine de buraya geldiğinize göre belanızı buldunuz!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_01",
+      "value": "Daha fazla Romulan. Ayrıca bir sensör sinyali daha."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_02",
+      "value": "Federasyon. Hiç... Şaşırmadım. İhanetinizin izlerini saklamak için mi geldiniz buraya?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_03",
+      "value": "Neden bahsettiğin hakkında hiçbir fikrim yok."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_01",
+      "value": "Düzenli olarak tarafsız bölgenin sınırını geçip halkımı gözetleyen Federasyon gemilerinden haberiniz yok yani, öyle mi?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_02",
+      "value": "Türünüzün sayısız anlaşmayı ihlal ettiğine dair elimizde sağlam deliller var."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_03",
+      "value": "Kanıtlarınıza bir bakalım ve açıklama yapmaya çalışalım. Topyekun savaş başlatmak yerine bunu denemek istemez misiniz?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_04",
+      "value": "Mantıklı konuştuğunuzu inkar edemem. Komuta subayımla görüşmenizi sağlayacağım."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_05",
+      "value": "Yine de onu ikna edebileceğinize dair şüphelerim var. Kendisi türünüzle daha önce karşılaştı."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_01",
+      "value": "Siz bizi aptal yerine mi koyuyorsunuz? Federasyon gemilerinin tarafsız bölgenin sınırını geçip halkımı gözetlediğine dair kanıtımız var."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_02",
+      "value": "Bu, Federasyon'un değerlerine zıt. Silahlarınızı hemen bırakın yoksa biz zor kullanarak bıraktırırız!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_01",
+      "value": "Görünüşe göre Romulan komutanı önümüzde, gitmeye hazır."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_02",
+      "value": "Gitmeden önce onu durdurmalıyız!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_01",
+      "value": "Anlaşmaya varmamızın bir yolu olmalı!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_02",
+      "value": "Çevirdiğiniz dolaplara kanmayacağım."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_03",
+      "value": "Sensör sinyalimizde 31. Bölme'deki unsurların halkımı on yıldan fazla süredir gözetlediğine dair kanıtlar var."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_04",
+      "value": "İmparatorluğun sadık bir hizmetkarı olarak, bu ihlali Yüce Divan'a bildirmek benim görevim!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_05",
+      "value": "İtiraf etmek hoşuma gitmese de... Haklı olabilirsiniz. 31. Bölme çok da güvenilir bir organizasyon sayılmaz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_06",
+      "value": "İtiraf… İtiraf mı ediyorsunuz? Hımm, dinliyorum. Öneriniz nedir?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_07",
+      "value": "Verilerinizin bir kopyasını bize verin. Biz de Yıldız Filosu'na bildirelim. Dedikleriniz doğruysa bu konuyu derinlemesine soruşturup uygun diplomatik kanallar yoluyla yanıt vereceklerdir."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_08",
+      "value": "Kopyanızın değiştirilebileceğinin farkındasınızdır."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_09",
+      "value": "Sizinki de değiştirilebilir. Olası tüm diplomasi ihlalleriyle ilgileneceğimiz konusunda bize güvenmenizi istiyoruz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_10",
+      "value": "Pekala. Ama sohbet etmek için daha fazla kalmayacağım. Verileri alın."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_01",
+      "value": "Durun. Elinizde Federasyon istihbaratı varken gitmenize izin veremeyiz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_02",
+      "value": "Ya? Beni durdurabileceğinizi mi sanıyorsunuz?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_03",
+      "value": "Sensör sinyalimizde 31. Bölme'deki unsurların halkımı on yıldan fazla süredir gözetlediğine dair kanıtlar var."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_04",
+      "value": "Bu ihlali Yüce Divan'a bildirmek benim görevim!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_05",
+      "value": "Mantıklı düşünmeye de niyetiniz yok, değil mi?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_06",
+      "value": "Sizin türünüzden mantık beklemek mi? İmkansız. Hain pisliklerden başka bir şey değilsiniz. Romulanlar, Federasyon'a güven olmayacağını çoktan öğrendi."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_07",
+      "value": "Bunu siz mi söylüyorsunuz! Mantıkla hareket etmeye niyetiniz yoksa fazerin tadına bakacaksınız!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_01",
+      "value": "Son testin kenarında duruyorsunuz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_02",
+      "value": "Siz de eski kaptanım Jean-Luc Picard olarak görünüyorsunuz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_03",
+      "value": "Kendisi bu test için gayet uygundu."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_04",
+      "value": "İnanç, irade ve kurnazlığın yanı sıra bir Mühendiste olması gereken bir özellik daha belirtildi: Neksus'un yaratılması gibi destansı bir gayretin gerektirdiği, nadir görülen, çok sayıda zihni birleştirme becerisi."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_05",
+      "value": "Bu genellikle diyalog ve mantık yoluyla yapılırdı ancak bazen herkesin iyiliği için rakibe boyun eğdirmek gerekir."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_06",
+      "value": "Testinizi tamamlamak için portalı bulun."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_01",
+      "value": "Önümüzde! İşte son portal!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_02",
+      "value": "Tebrikler <i>Artemis</i> mürettebatı."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_03",
+      "value": "Tüm testlerin sonuna kadar direndiniz, içinde bulunduğumuz bu harikayı Mühendislerin inşa etmesini sağlayan özelliklere sahip olduğunuzu kanıtladınız."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_04",
+      "value": "Mühendis unvanına layık olduğunuzu gösterdiniz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_05",
+      "value": "Bunu görüyor musunuz? Trikorderim, <i>Artemis</i>'in veri çekirdeğine bir bilgi akışı olduğunu gösteriyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_06",
+      "value": "Diyagramlar, şemalar..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_07",
+      "value": "Gerçeklik Makinesini onarmak için bu bilgilerden faydalanacaksınız."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_08",
+      "value": "Ama öncelikle onu Rüyasızların varlığından arındırmalısınız."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_01",
+      "value": "Makine şimdi daha karanlık görünüyor, sizce de öyle değil mi?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_02",
+      "value": "Bekçi, onun ağır hasar aldığını söylemişti."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_03",
+      "value": "Kim bilir Bekçinin testlerinde ne kadar zaman geçirdik..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_04",
+      "value": "Rüyasızların kontrolü ele almalarına yetecek kadar!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle04_01",
+      "value": "Bu makineyi yıkmamıza engel olmanız mümkün değil."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle04_02",
+      "value": "Göreceğiz!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_01",
+      "value": "Daha fazla ilerlemenize izin veremeyiz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_02",
+      "value": "Geçmemize izin vermelisiniz. Milyonlarca hayat söz konusu!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_03",
+      "value": "Endişenizi anlıyoruz. Biz de onları kurtarmaya çalışıyoruz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_04",
+      "value": "Onların kaderini kendi ellerinize alıyorsunuz. Hiç hakkınız yokken ahlaken üstün bir tavır takınıyorsunuz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_05",
+      "value": "Biz halkımıza ve evrene düzeni geri getiriyoruz. Her şey sona erer."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_01",
+      "value": "İşte çekirdek!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_02",
+      "value": "Bu da Rüyasızların lideri olsa gerek."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_03",
+      "value": "Yabancılar… Bizi durdurmaya çalışmaktan vazgeçmiyorsunuz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_04",
+      "value": "Bir zamanlar kim olduğunu bir an için gördüm. Buraya gelmeden önce kim olduğunu."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_05",
+      "value": "Bilim insanıymışsın, anneymişsin. Bu kadar büyük bir cinayet işlemenin senin doğanda olmadığı kesin!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_06",
+      "value": "Burada yaptığımız şeyin cinayet işlemek olduğunu mu sanıyorsunuz? Her hayat bir noktada son bulmalıdır. Her hayat!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_01",
+      "value": "Yeter! Burayı korumaya çalışarak aptallık ediyorsunuz! Burası hapishane. Evrenin doğal akışına bir hakaret!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_02",
+      "value": "Belki öyle. Neksus, içine aldığı herkesi kapana kıstıran, eski bir medeniyetin yanlış yönlendirilmiş ve kibirli bir yaratısından ibaret olabilir."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_03",
+      "value": "Ancak şu anda o zihinlerin ve ruhların hepsi burada, varlıklarına son verme kararını siz veremezsiniz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_04",
+      "value": "Ne kadar da doğrucu ve azim dolu bir yaklaşım."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_05",
+      "value": "Neksus'un cidden saf iyilikten yaratıldığını mı sanıyorsunuz? Buna inanıyorsanız hayal aleminde yaşıyorsunuz demektir."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_06",
+      "value": "Bugün burada yapmamız gerekenleri yaptık. Bilincim artık burada olduğu kadar Neksus'tan geçen ağın içinde de varlığını sürdürüyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_07",
+      "value": "Bu Gerçeklik Makinesini stabilize edebilirsiniz ama bu makine, sadece denizdeki bir su damlası ve hepsi çok yakında yok olacak. (Işınlanarak gider)"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_08",
+      "value": "Bunu söylemek istemezdim ama... Neksus'la ilgili ne BİLİYORUZ ki? Doğru olanı mı yaptık acaba?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_09",
+      "value": "Birisinin onca hayatı bir çırpıda yok etmesine izin vermeyeceğimizi biliyorum. (Yeniden Artemis'e ışınlanırlar)"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_10",
+      "value": "Bu Makineden çekildi ancak onun makinenin çekirdeğiyle birbirine karışması bir sırrı ortaya çıkardı: Rüyasızlardan saklanmış olmayı umduğumuzu."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_11",
+      "value": "Size bir sonraki hedefleri için erişim sağladık. Lütfen Mühendis olarak görevinizi hakkıyla yerine getirin ve her şey kaybolmadan önce elinizi çabuk tutun."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_01",
+      "value": "Bu konsol, platformu iki çıkıştan birine yönlendirebilir."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_02",
+      "value": "O zaman... Öyle körü körüne ilerleyeceğiz yani?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_03",
+      "value": "Kaptan Kirk ne derdi demiştin? \"Cesaretle gidin\" miydi?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_04",
+      "value": "Yine de hangi yöne gittiğine dair bir fikri vardı en azından."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_01",
+      "value": "Soldaki yoldan gidelim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_02",
+      "value": "Bir nedeni var mı?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_03",
+      "value": "Sol benim atış kolum."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_04",
+      "value": "Benim için gayet yeterli!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_01",
+      "value": "Şu ana kadar şansımız yaver gitti, bana iki yol da uyar."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_02",
+      "value": "Pekala. Binlerce yıl evrim geçir, şu ana kadar inşa edilen en gelişmiş gemilerden birinin mürettebatı ol, yine de milyonlarca hayatı kurtarmak için şansa bel bağla."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_03",
+      "value": "Gayet emin bir şekilde oyumu sağ taraftaki yoldan yana kullanıyorum. Neden olmasın?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_01",
+      "value": "Makinenin çekirdeğinin eşiğinde duruyorsunuz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_01",
+      "value": "Bu yolculuğa başladığımızda ne Neksus'a ne de doğasına dair bir bilgimiz vardı."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_02",
+      "value": "Bir mürettebat olarak bir araya geldik, farklı kültürlerden, geçmişlerden ve zaman çizgilerinden gelmiş olmamıza rağmen birleştik!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_03",
+      "value": "Şu anda yanımda olmasını isteyeceğim başka kimse gelmiyor aklıma!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_04",
+      "value": "İşte şimdi bu ihtiyarı ağlattınız! Hadi oraya gidip buna bir son verelim!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_01",
+      "value": "Yüce Kahless bir defasında, \"Düşman kimsenin karşı duramayacağı kadar güçlü olabilir.\""
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_02",
+      "value": "Ama biz yine de karşı durmalıyız. Çünkü gerektiğinde savaşamadığımızı bilmektense ölmeyi yeğlerim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_03",
+      "value": "İşte bugün bu sözlerin hakkını vereceğiz! Birlikte tüm engellerin üstesinden geleceğiz!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_04",
+      "value": "İyi dedin dostum!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_05",
+      "value": "Akademide futbol antrenörlüğü yaparak adınızdan söz ettirirdiniz Bay Worf!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_01",
+      "value": "Ait olduğum yere, revire dönebilmek için bu işe girişip halletmeyi ne kadar istesem de..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_02",
+      "value": "İyice tartıp biçmeden girişmek bana delilik gibi geliyor!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_03",
+      "value": "Önce en azından burayı bir tarayıp neyle uğraştığımızı görelim!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_04",
+      "value": "Her zamanki gibi çok mantıklı dostum!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_05",
+      "value": "Ayrıca bu hazırlık bize gereken avantajı sağlayabilir!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_01",
+      "value": "Hoş geldiniz Mühendisler."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_02",
+      "value": "Aa, havalı unvanımızı aldık yani! Sırada ne var?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_03",
+      "value": "Biz konuşurken Rüyasızlar, Gerçeklik Makinesinin savunmalarının çoğunu deldi."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_04",
+      "value": "Makineyi onarmak için gereken bilgiler, geminize yüklendi. Reaktörleriniz aracılığıyla bu bilgilere erişebilirsiniz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_05",
+      "value": "Stabilize etmek için onları Makinenin çekirdeğine götürün ve sistemleri tekrar çalıştırın."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_06",
+      "value": "Kendilerini \"Rüyasız\" ilan eden bu varlıklar oldukça bağnazdır ve sizi durdurmak için her şeyi riske atacaklardır."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_01",
+      "value": "Hasar oldukça geniş çaplı. Zamanımız tükeniyor!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_02",
+      "value": "5 Terran dakikasından az süre sonra yıkıcı bir arıza olacağını tahmin ediyoruz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_03",
+      "value": "Şu anda birincil Rüyasız, bilincini Makineyle bütünleştirme işlemini bitirmek üzere."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_04",
+      "value": "Pek… Hoş bir şey gibi gelmiyor kulağa."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_05",
+      "value": "Bu Makinenin protokolleri, yetkisiz erişimi önlemek üzere tasarlanmıştır ancak Rüyasızlar, sistemi uzun zamandır sabote ediyor ve Makinenin Reaktörlerini topluyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_06",
+      "value": "Liderleri bilincini bu Makineyle bütünleştirmeyi başarırsa Makineyi kapatabilecek ve çok kısa süre içinde gücünü Neksus'un geri kalanına yayabilecek."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_07",
+      "value": "Bunun gerçekleşmesine engel olmak için yapabileceğimiz bir şeyler olmalı!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_08",
+      "value": "Bir Mühendis olarak siz de bilincinizi aynı şekilde Makineyle bütünleştirebilirsiniz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_09",
+      "value": "Tabii böyle bir iş, muazzam bir zihinsel beceri gerektirir."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_10",
+      "value": "Michael, sen yanında savaşma şerefine nail olduğum en güçlü insanlardan birisin!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_11",
+      "value": "Şu ana kadar tanıdığım en iyi zihin eritenin üvey kardeşi olman da cabası. Aslında sadece bir tane tanıyorum."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_12",
+      "value": "Michael, sana inancım tam."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_13",
+      "value": "Ben... Deneyeceğim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_14",
+      "value": "İşe… İşe yaradı. Duvarların beni annemin kolları gibi sardığını hissedebiliyorum. Her şey altın sarısı. Her şey çok büyük. Hiç… Hiçbir fikrim yok."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_15",
+      "value": "Burada birisi daha var. Kocaman. Karşımda bir dağdan daha yüksek. Çok erdemli. Çok öfkeli. Çocukları, dostları... Hepsi ölmüş. Hepsi çok uzun zaman önce ölmüş."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_16",
+      "value": "Beni fark etti! Ondan kaçmaya çalışıyorum. Makineye olan odağını kaybediyor galiba… Beni takip ediyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_17",
+      "value": "Beni sistemden çıkardı! Bunu yaparken harcadığı enerjiyi hissettim… Bu onu yavaşlatmış olmalı…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_18",
+      "value": "Makineye buradan bir kez daha erişemeyeceksiniz. Makinenin çekirdeğine gitmeniz gerekiyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_01",
+      "value": "Sizi uyarmış olalım, işlem neredeyse tamamlandı. Zamanınız tükenmek üzere."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_02",
+      "value": "Hayır! Reaktörü kullanarak Makineye tekrar erişmeyi deneyeyim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_03",
+      "value": "Emin misin? Son denediğinde biyolojik değerlerin tavan yapmıştı. Bir kez daha yaparsan..."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_04",
+      "value": "O zaman Yıldız Filosu'nun en iyi doktoru benimle ilgilenir, değil mi?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_05",
+      "value": "Pekala, devam et öyleyse!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_06",
+      "value": "Tekrar girdim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_07",
+      "value": "Onu etrafımızda hissedebiliyorum!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_08",
+      "value": "Yası her tarafta. Öyle yalnız ki. Tanıdığı herkes uzun zaman önce ölmüş."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_09",
+      "value": "Hepsini… Hepsini çok özlüyor. Varoluşu öyle yapayalnız ki. Bütün dünyası kaybolmuş!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_10",
+      "value": "Kurduğu büyük kütüphane, çocukken yüzdüğü kızıl denizler... Hepsi gitmiş. Üzüntüsü çok kuvvetli! Yapamı... Ahhhhhh!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_11",
+      "value": "Doktor! Çıkar onu oradan! Onu öldürüyor!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_12",
+      "value": "Ben iyiyim. Onun hissettiği acıya benzer bir acı hissetmedim hiç."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_13",
+      "value": "Acı onun içinde kaynayıp köpürüyordu ve içinde bulunduğu Kürenin gerçekliğini kırıp geçti. Artık onun zihnini ve ruhunu barındıramayacaktı. İşte tüm bu… Rüyasızların doğuşu bu şekilde. Sonuç olarak da buradalar."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_14",
+      "value": "Neksus'u bu şekilde görmelerine şaşmamak lazım."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_15",
+      "value": "Ancak herkes adına bu kararı vermelerine ve bu yıkımı sürdürmelerine izin veremeyiz."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_16",
+      "value": "Seni yine fark etti mi?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_17",
+      "value": "Arkadaşınızın eylemleri süreci 78,9 dünya dakikası yavaşlattı."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_18",
+      "value": "Hâlâ zamanımız var!"
+    },
+    {
       "key": "Data_GSCutSceneDialogue_opening_cutscene_01",
       "value": "Neksus geri geldi."
     },
@@ -11367,6 +13219,10 @@
       "value": "MAKİNEDEKİ HAYALET"
     },
     {
+      "key": "Data_GSEpisodes_displayName_Episode7",
+      "value": "DATTA, DAYADHVAM VE DAMYATA"
+    },
+    {
       "key": "Data_GSMissionObjective_e1_m1_encounter03",
       "value": "Khan'ı yen"
     },
@@ -11523,6 +13379,30 @@
       "value": "Kimsenin daha önce gitmediği bir yere cesurca gidiyor."
     },
     {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission1",
+      "value": "<i>U.S.S. Artemis</i>, ele geçirilmiş bir yıldızın etrafına inşa edilen devasa Gerçeklik Makinesinin dışında süzülüyor."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission2",
+      "value": "Sefer ekibi, Bekçinin yardımını kazanmak için dört testi tamamlamalıdır. Birinci test, İnanç Testidir."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission3",
+      "value": "İkinci test, sefer ekibini bir kez daha Borglarla karşı karşıya getirecek olan İrade Testidir."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission4",
+      "value": "İnanç ve İrade her zaman yeterli olmayabilir. Sefer ekibi, Kurnazlık Testi ile karşı karşıya kalır."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission5",
+      "value": "Son test ise Mantık Testidir. Bu test ile bazı çatışmaların iletişim ve nezaketle çözüme kavuşturulabileceği kanıtlanır."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission6",
+      "value": "Mühendis unvanını elde eden sefer ekibi, Rüyasızları durdurmalı ve Gerçeklik Makinesini onarmalıdır."
+    },
+    {
       "key": "Data_GSMissions_displayName_Episode1_Mission1",
       "value": "CESARETLE GİT"
     },
@@ -11667,12 +13547,44 @@
       "value": "HAYAL KIRIKLIĞIYLA"
     },
     {
+      "key": "Data_GSMissions_displayName_Episode7_Mission1",
+      "value": "YARI APTALLAR CENNETİ"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission2",
+      "value": "TUHAF BİR YER"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission3",
+      "value": "UZUN BİR YOL"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission4",
+      "value": "ŞARAP VE GÜLLER"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission5",
+      "value": "YILDIZLA TAÇLANDIRILMIŞ YALNIZLIK"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission6",
+      "value": "SON BİR SÖZ"
+    },
+    {
       "key": "Data_GSNodeEncounter_BattleDesc_Borg",
       "value": "Düşman Borglara ait yaşam sinyalleri tespit edildi. Savaşa hazırlan."
     },
     {
       "key": "Data_GSNodeEncounter_BattleDesc_Cardassian",
       "value": "Düşman Kardasyalılara ait yaşam sinyalleri tespit edildi. Savaşa hazırlan."
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_CardassianShapeshifters",
+      "value": "Düşman Kardasyalılara ve Şekil Değiştirenlere ait yaşam sinyalleri tespit edildi. Savaşa hazırlan."
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+      "value": "Düşman Rüyasızlara ait yaşam sinyalleri tespit edildi. Savaşa hazırlan."
     },
     {
       "key": "Data_GSNodeEncounter_BattleDesc_e1_m1_battle01",
@@ -12907,8 +14819,16 @@
       "value": "Düşman Romulanlara ve Gornlara ait yaşam sinyalleri tespit edildi. Savaşa hazırlan."
     },
     {
+      "key": "Data_GSNodeEncounter_BattleDesc_Shapeshifters",
+      "value": "Düşman Şekil Değiştirenlere ait yaşam sinyalleri tespit edildi. Savaşa hazırlan."
+    },
+    {
       "key": "Data_GSNodeEncounter_BattleDesc_Unknown",
       "value": "Kimliği belirlenemeyen düşmanlar tespit edildi. Savaşa hazırlan."
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_UnknownLife",
+      "value": "Bilinmeyen düşmana ait yaşam sinyalleri tespit edildi. Savaşa hazırlan."
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_AbandonedShuttle",
@@ -12971,6 +14891,10 @@
       "value": "Borg Dehlizi"
     },
     {
+      "key": "Data_GSNodeExploration_clickableObject_BorgCube",
+      "value": "Borg Küpü"
+    },
+    {
       "key": "Data_GSNodeExploration_clickableObject_BorgDevice",
       "value": "Borg Cihazı"
     },
@@ -12985,6 +14909,10 @@
     {
       "key": "Data_GSNodeExploration_clickableObject_BorgDrones",
       "value": "Borg Dronları"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_BorgSensors",
+      "value": "Borg Sensörleri"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_BorgSphere",
@@ -13339,6 +15267,14 @@
       "value": "Romulan Rölesi"
     },
     {
+      "key": "Data_GSNodeExploration_clickableObject_Romulans",
+      "value": "Romulanlar"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_Runabout",
+      "value": "Araç"
+    },
+    {
       "key": "Data_GSNodeExploration_clickableObject_Sabotage",
       "value": "Sabote Et"
     },
@@ -13449,6 +15385,10 @@
     {
       "key": "Data_GSNodeExploration_clickableObject_WorkerBee",
       "value": "İşçi Arı"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_Wounded",
+      "value": "Yaralı"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_Wreckage",
@@ -14259,6 +16199,134 @@
       "value": "Fark edilmekten kaçınan sefer ekibi, yolun sağına doğru ilerliyor. Sefer ekibi, bir <b>Alternatif Yol<b> keşfediyor."
     },
     {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option01",
+      "value": "Sefer ekibi, Reaktörlerden birini kullanarak yollarını kapatan güç alanını devre dışı bırakmayı başarıyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option02",
+      "value": "Sefer ekibi, tesisi keşfetmeye devam ediyor. Sefer ekibi, bir <b>Alternatif Yol<b> keşfediyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option01",
+      "value": "Sefer ekibi, bir Reaktör kullanarak kilitli kapıyı açıyor ve birkaç malzeme keşfediyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option02",
+      "value": "Meraklarına yenilmek yerine tedbirli olmayı tercih eden sefer ekibi, ilerlemeye devam ediyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option01",
+      "value": "Sefer ekibi, başarılı bir şekilde platforma sıçrıyor ve birkaç malzeme keşfediyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option02",
+      "value": "Sefer ekibi, platformu görmezden geliyor ve devam ediyor. Olası yaralanma riskini almak istemiyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option01",
+      "value": "Araçta hasar olup olmadığını tarayan şekil değiştirenler, Federasyon üyesi kılığına girerek sefer ekibine saldırıyor. Sefer ekibi, <b>Teknoloji Bonusu<b> alıyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option02",
+      "value": "Şekil değiştirenler, sefer ekibini gafil avlayarak onları pusuya düşürüyor. Sefer ekibi, <b>Hız Cezası</b> alıyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option03",
+      "value": "Aracı arayan sefer ekibi, şekil değiştirenlerin saldırısına uğramadan önce birkaç malzeme keşfediyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option01",
+      "value": "Terk edilmiş malzemeler, şekil değiştirenlerin kurduğu başka bir pusu. Savaşa hazırlan."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option02",
+      "value": "Olası bir tuzağa karşı tedbiri elden bırakmayan sefer ekibi, ilerlemeye devam ediyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option01",
+      "value": "Borg sensörlerine ulaşan sefer ekibi, yeni bir yol keşfediyor ve izinsiz girişlerinin fark edilmemesini umuyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option02",
+      "value": "Daha az dikkat çeken sefer ekibi, Borg Küpünü keşfetmeye devam etmeyi tercih ediyor. Sefer ekibi, bir <b>Alternatif Yol<b> keşfediyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option01",
+      "value": "Borg dehlizinde gücün aşırı yüklenmesi, dehlizi ve onu şarj eden dronları devre dışı bıraktı. Sefer ekibi, <b>Savunma Bonusu<b> alıyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option02",
+      "value": "Sefer ekibi, Borg dehliziyle etkileşime girmekten kaçınmayı tercih ediyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option01",
+      "value": "Borg parçalarını ve malzemelerini inceleyen sefer ekibi, birkaç malzeme keşfediyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option02",
+      "value": "Sefer ekibi, bırakılmış Borg teknolojisini görmezden geliyor ve ilerlemeye devam ediyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option01",
+      "value": "Tıbbi yardımlarını uygulayan sefer ekibi, yaralı personelin taşınmasına yardımcı oluyor. Yıldız Filosu sağlıkçısı, teşekkür mahiyetinde onlara birkaç malzeme veriyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option02",
+      "value": "Yaralı personeli korumak isteyen sefer ekibi, yaklaşmakta olan Klingonların olduğu yöne hücum ediyor. Sefer ekibi, <b>Saldırı Bonusu<b> alıyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option01",
+      "value": "Çok az zamanı kalan sefer ekibi ilerliyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option02",
+      "value": "Gerçekliği değiştirmek için Reaktörlerden birini kullanan sefer ekibi, birkaç malzeme keşfediyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option01",
+      "value": "Sefer ekibi, alenen barışçıl bir çözüme kavuşamamış olsa da, savaştan kaçınmayı başarıyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option02",
+      "value": "Romulanlardan gelen düşmanca tepki ne yazık ki savaşa neden oluyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option01",
+      "value": "Sela tam olarak ikna olmasa da sefer ekibinin devam etmesine izin vererek savaştan kaçınıyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option02",
+      "value": "Federasyon'a güvenmeye yanaşmayan Sela ve Romulanlar saldırıyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option01",
+      "value": "Diplomatik bir sonuç elde eden sefer ekibi, savaştan kaçınıyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option02",
+      "value": "Diplomatik bir çözüme ulaşamayan sefer ekibi, savaşa hazırlanıyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option01",
+      "value": "Sefer ekibi, soldaki yoldan devam etmeye karar veriyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option02",
+      "value": "Sefer ekibi, sağdaki yoldan devam etmeye karar veriyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option01",
+      "value": "Rüyasızları durdurmaya kararlı olan sefer ekibi, savaşa hazırlık yapıyor. Sefer ekibi, <b>Moral Bonusu<b> alıyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option02",
+      "value": "Sefer ekibi, Rüyasızlarla savaşta karşı karşıya gelmeye ve Gerçeklik Makinesini kurtarmaya hazırlanıyor."
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option03",
+      "value": "Sefer ekibi, Rüyasızları tarayarak yaklaşan savaşta avantaj elde ediyor. Sefer ekibi, <b>Teknoloji Bonusu<b> alıyor."
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_AdvancedForward",
       "value": "SEFER EKİBİ İLERLİYOR"
     },
@@ -14323,6 +16391,10 @@
       "value": "BİLGİSAYAR HACK'LENDİ"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
+      "value": "DEVAM EDİYORUZ"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_CoreDisabled",
       "value": "WARP REAKTÖRÜ DEVRE DIŞI BIRAKILDI"
     },
@@ -14337,6 +16409,10 @@
     {
       "key": "Data_GSNodeExploration_ResultsHeader_Diplomacy",
       "value": "DİPLOMASİ BAŞARILI OLDU"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsHeader_DoorOpened",
+      "value": "KAPI AÇILDI"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_DoorsOpened",
@@ -14427,6 +16503,10 @@
       "value": "YOL BULUNDU"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_PersonnelHealed",
+      "value": "PERSONEL İYİLEŞTİRİLDİ"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_PulledBack",
       "value": "GERİ ÇEKİLDİ"
     },
@@ -14463,6 +16543,10 @@
       "value": "TARAMA BAŞARILI OLDU"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_SensorsAccessed",
+      "value": "SENSÖRLERE ULAŞILDI"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_ShieldBonus",
       "value": "KALKAN BONUSU"
     },
@@ -14477,6 +16561,10 @@
     {
       "key": "Data_GSNodeExploration_ResultsHeader_SpeedBonus",
       "value": "HIZ BONUSU"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsHeader_SpeedDown",
+      "value": "HIZ DÜŞÜŞÜ"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
@@ -15053,6 +17141,30 @@
     {
       "key": "Data_MissionObjective_e6_m6_Name",
       "value": "Neksus'u onar"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m1_Name",
+      "value": "Rüyasızları durdur"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m2_Name",
+      "value": "İnanç Testi"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m3_Name",
+      "value": "İrade Testi"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m4_Name",
+      "value": "Kurnazlık Testi"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m5_Name",
+      "value": "Mantık Testi"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m7_Name",
+      "value": "Rüyasızları durdur"
     },
     {
       "key": "Data_Notification_DailyRewardOneOff_Body",
@@ -18895,6 +21007,10 @@
       "value": "Geri Çekil"
     },
     {
+      "key": "Data_Skill_Chang_Bridge_description",
+      "value": "Klingonlar, <color=#01e2ff>+5%</color> Saldırı kazandı."
+    },
+    {
       "key": "Data_Skill_Chekov_Attack_description_level1",
       "value": "<color=#01e2ff>%100 Hasar</color> ver"
     },
@@ -18905,6 +21021,10 @@
     {
       "key": "Data_Skill_Chekov_Attack_displayName",
       "value": "Fazer"
+    },
+    {
+      "key": "Data_Skill_Chekov_Bridge_description",
+      "value": "Yıldız Filosu, <color=#01e2ff>+5%</color> Saldırı kazandı."
     },
     {
       "key": "Data_Skill_Crusher_Attack_description_level1",
@@ -19152,7 +21272,7 @@
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_description_level1",
-      "value": "<color=#01e2ff>%150 Teknoloji Hasarı</color> ver."
+      "value": "<color=#01e2ff>%100 Teknoloji Hasarı</color> ver."
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_displayName",
@@ -19252,7 +21372,7 @@
     },
     {
       "key": "Data_Skill_Elnor_Bridge_description",
-      "value": "<color=#01e2ff>+%5</color> Savunma kazan."
+      "value": "<color=#01e2ff>+3%</color> Savunma kazan."
     },
     {
       "key": "Data_Skill_Elnor_Bridge_displayName",
@@ -19301,6 +21421,10 @@
     {
       "key": "Data_Skill_Garak_Attack_description_level2",
       "value": "<color=#01e2ff>%150 Hasar</color> ver"
+    },
+    {
+      "key": "Data_Skill_Garak_Bridge_description",
+      "value": "<color=#01e2ff>+5%</color> Krit Şansı kazan."
     },
     {
       "key": "Data_Skill_GenBorgEng01M_Attack_description_level1",
@@ -20963,6 +23087,18 @@
       "value": "Picard Manevrası"
     },
     {
+      "key": "Data_Skill_PicardDixon_Attack_description_level1",
+      "value": "<color=#01e2ff>%100 Hasar</color> ver"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Attack_description_level2",
+      "value": "<color=#01e2ff>%150 Hasar</color> ver"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Bridge_description",
+      "value": "Yıldız Filosu, <color=#01e2ff>+5%</color> Saldırı kazandı."
+    },
+    {
       "key": "Data_Skill_PicardOld_Attack_description_level1",
       "value": "<color=#01e2ff>2 x %50 Hasar</color> ver."
     },
@@ -21343,6 +23479,18 @@
       "value": "Sürpriz Saldırı"
     },
     {
+      "key": "Data_Skill_Shinzon_Attack_description_level1",
+      "value": "<color=#01e2ff>%100 Hasar</color> ver (<color=#01e2ff>%25 İhtimalle</color> <color=#01e2ff>Yarala</color>)."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Attack_description_level2",
+      "value": "<color=#01e2ff>%125 Hasar</color> ver (<color=#01e2ff>%50 İhtimalle</color> <color=#01e2ff>Yarala</color>)."
+    },
+    {
+      "key": "Data_Skill_Shinzon_Bridge_description",
+      "value": "Romulanlar, <color=#01e2ff>+5%</color> Saldırı kazandı."
+    },
+    {
       "key": "Data_Skill_Sisko_Attack_description_level1",
       "value": "<color=#01e2ff>3 x %35 Hasar</color> ver. (Düşman <color=#01e2ff>Kardasyalı</color> ise 1 tur boyunca <color=#01e2ff>%25 İhtimalle</color> <color=#01e2ff>Savunma Düşüşü</color>)"
     },
@@ -21524,7 +23672,7 @@
     },
     {
       "key": "Data_Skill_Stamets_Bridge_description",
-      "value": "Yıldız Filosu, <color=#01e2ff>+%10</color> Azim kazanır."
+      "value": "Yıldız Filosu, <color=#01e2ff>+5%</color> Teknoloji kazandı."
     },
     {
       "key": "Data_Skill_Stamets_Bridge_displayName",
@@ -21668,7 +23816,7 @@
     },
     {
       "key": "Data_Skill_Tilly_Bridge_description",
-      "value": "Mühendislik, <color=#01e2ff>+%10</color> Savunma kazanır."
+      "value": "Yıldız Filosu, <color=#01e2ff>+5%</color> Savunma kazandı."
     },
     {
       "key": "Data_Skill_Tilly_Bridge_displayName",
@@ -21732,11 +23880,11 @@
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_description_level1",
-      "value": "3 tur boyunca tüm müttefiklere <color=#01e2ff>Gizlenme</color> uygula."
+      "value": "3 tur boyunca tüm müttefiklere <color=#01e2ff>Gizlenme</color> uygula (müttefik bir <color=#01e2ff>Romulan</color> ise <color=#01e2ff>+1 Moral</color>)."
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_description_level2",
-      "value": "3 tur boyunca tüm müttefiklere <color=#01e2ff>Gizlenme</color> ve <color=#01e2ff>Temizleme</color> uygula."
+      "value": "3 tur boyunca tüm müttefiklere <color=#01e2ff>Gizlenme</color> ve <color=#01e2ff>Temizleme</color> uygula (müttefik bir <color=#01e2ff>Romulan</color> ise <color=#01e2ff>+2 Moral</color>)."
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_displayName",
@@ -21744,11 +23892,11 @@
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_description_level1",
-      "value": "3 tur boyunca 1 düşmana <color=#01e2ff>-1 Moral</color> ve <color=#01e2ff>Savunma Düşüşü</color> uygula. <color=#01e2ff>Sonraki tur:</color> <color=#01e2ff>%200 Hasar</color> ver (Düşman <color=#01e2ff>Morali</color> < 0 ise <color=#01e2ff>%300 Hasar</color> ver)"
+      "value": "1 düşmana <color=#01e2ff>%200 Teknoloji Hasarı</color> ver ve tüm düşmanlara <color=#01e2ff>-1 Moral</color> uygula."
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_description_level2",
-      "value": "3 tur boyunca 1 düşmana <color=#01e2ff>-2 Moral</color> ve <color=#01e2ff>Büyük Savunma Düşüşü</color> uygula. <color=#01e2ff>Sonraki Tur:</color> <color=#01e2ff>%300 Hasar</color> ver (Düşman <color=#01e2ff>Morali</color> 0'dan düşük ise <color=#01e2ff>%450 Hasar</color> ver)"
+      "value": "1 düşmana <color=#01e2ff>%300 Teknoloji Hasarı</color> ver ve tüm düşmanlara <color=#01e2ff>-2 Moral</color> uygula."
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_displayName",
@@ -21768,7 +23916,7 @@
     },
     {
       "key": "Data_Skill_Torchbearer_Bridge_description",
-      "value": "Klingonlar, <color=#01e2ff>+%10</color> Azim kazanır."
+      "value": "Klingonlar, <color=#01e2ff>+5%</color> Azim kazandı."
     },
     {
       "key": "Data_Skill_Torchbearer_Bridge_displayName",
@@ -21887,8 +24035,20 @@
       "value": "Disiplin"
     },
     {
+      "key": "Data_Skill_Troi_Attack_description_level1",
+      "value": "<color=#01e2ff>%100 Hasar</color> ver"
+    },
+    {
+      "key": "Data_Skill_Troi_Attack_description_level2",
+      "value": "<color=#01e2ff>%150 Hasar</color> ver"
+    },
+    {
       "key": "Data_Skill_Troi_Attack_displayName",
       "value": "Fazer"
+    },
+    {
+      "key": "Data_Skill_Troi_Bridge_description",
+      "value": "Yıldız Filosu, <color=#01e2ff>+5%</color> Azim kazandı."
     },
     {
       "key": "Data_Skill_Tuvok_Attack_displayName",
@@ -25075,6 +27235,26 @@
       "value": "MALZEME KUTUSU BULUNDU"
     },
     {
+      "key": "News_Crew_Generic_Headline",
+      "value": "Yeni Mürettebat"
+    },
+    {
+      "key": "News_Episode_Generic_Headline",
+      "value": "Yeni Bölüm"
+    },
+    {
+      "key": "News_FactionEvent_Generic_Headline",
+      "value": "Yeni Fraksiyon Etkinliği"
+    },
+    {
+      "key": "News_SoloEvent_Generic_Headline",
+      "value": "Yeni Tek Oyunculu Etkinlik"
+    },
+    {
+      "key": "News_Update_Generic_Headline",
+      "value": "Yeni Güncelleme"
+    },
+    {
       "key": "No Items Summoned",
       "value": "Çağrılmış Öğe Yok"
     },
@@ -25648,43 +27828,43 @@
     },
     {
       "key": "shop_Gear_Command_Padd_Common",
-      "value": "Efsanevi PADD: Komuta"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Epic",
-      "value": "Çok Nadir PADD: Komuta"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Legendary",
-      "value": "Destansı PADD: Komuta"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Rare",
       "value": "Sıradan PADD: Komuta"
     },
     {
-      "key": "shop_Gear_Command_Padd_VeryRare",
+      "key": "shop_Gear_Command_Padd_Epic",
+      "value": "Destansı PADD: Komuta"
+    },
+    {
+      "key": "shop_Gear_Command_Padd_Legendary",
+      "value": "Efsanevi PADD: Komuta"
+    },
+    {
+      "key": "shop_Gear_Command_Padd_Rare",
       "value": "Nadir PADD: Komuta"
     },
     {
+      "key": "shop_Gear_Command_Padd_VeryRare",
+      "value": "Çok Nadir PADD: Komuta"
+    },
+    {
       "key": "shop_Gear_Command_Phaser_Common",
-      "value": "Efsanevi Tip II Fazer: Komuta"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Epic",
-      "value": "Çok Nadir Tip II Fazer: Komuta"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Legendary",
-      "value": "Destansı Tip II Fazer: Komuta"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Rare",
       "value": "Sıradan Tip II Fazer: Komuta"
     },
     {
-      "key": "shop_Gear_Command_Phaser_VeryRare",
+      "key": "shop_Gear_Command_Phaser_Epic",
+      "value": "Destansı Tip II Fazer: Komuta"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_Legendary",
+      "value": "Efsanevi Tip II Fazer: Komuta"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_Rare",
       "value": "Nadir Tip II Fazer: Komuta"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_VeryRare",
+      "value": "Çok Nadir Tip II Fazer: Komuta"
     },
     {
       "key": "shop_Gear_Command_Tricorder_Common",
@@ -25728,43 +27908,43 @@
     },
     {
       "key": "shop_Gear_Engineer_Padd_Common",
-      "value": "Efsanevi PADD: Mühendislik"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Epic",
-      "value": "Çok Nadir PADD: Mühendislik"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Legendary",
-      "value": "Destansı PADD: Mühendislik"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Rare",
       "value": "Sıradan PADD: Mühendislik"
     },
     {
-      "key": "shop_Gear_Engineer_Padd_VeryRare",
+      "key": "shop_Gear_Engineer_Padd_Epic",
+      "value": "Destansı PADD: Mühendislik"
+    },
+    {
+      "key": "shop_Gear_Engineer_Padd_Legendary",
+      "value": "Efsanevi PADD: Mühendislik"
+    },
+    {
+      "key": "shop_Gear_Engineer_Padd_Rare",
       "value": "Nadir PADD: Mühendislik"
     },
     {
+      "key": "shop_Gear_Engineer_Padd_VeryRare",
+      "value": "Çok Nadir PADD: Mühendislik"
+    },
+    {
       "key": "shop_Gear_Engineer_Phaser_Common",
-      "value": "Efsanevi Tip II Fazer: Mühendislik"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Epic",
-      "value": "Çok Nadir Tip II Fazer: Mühendislik"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Legendary",
-      "value": "Destansı Tip II Fazer: Mühendislik"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Rare",
       "value": "Sıradan Tip II Fazer: Mühendislik"
     },
     {
-      "key": "shop_Gear_Engineer_Phaser_VeryRare",
+      "key": "shop_Gear_Engineer_Phaser_Epic",
+      "value": "Destansı Tip II Fazer: Mühendislik"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_Legendary",
+      "value": "Efsanevi Tip II Fazer: Mühendislik"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_Rare",
       "value": "Nadir Tip II Fazer: Mühendislik"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_VeryRare",
+      "value": "Çok Nadir Tip II Fazer: Mühendislik"
     },
     {
       "key": "shop_Gear_Engineer_Tricorder_Common",
@@ -25808,43 +27988,43 @@
     },
     {
       "key": "shop_Gear_Medic_Padd_Common",
-      "value": "Efsanevi PADD: Tıbbi"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Epic",
-      "value": "Çok Nadir PADD: Tıbbi"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Legendary",
-      "value": "Destansı PADD: Tıbbi"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Rare",
       "value": "Sıradan PADD: Tıbbi"
     },
     {
-      "key": "shop_Gear_Medic_Padd_VeryRare",
+      "key": "shop_Gear_Medic_Padd_Epic",
+      "value": "Destansı PADD: Tıbbi"
+    },
+    {
+      "key": "shop_Gear_Medic_Padd_Legendary",
+      "value": "Efsanevi PADD: Tıbbi"
+    },
+    {
+      "key": "shop_Gear_Medic_Padd_Rare",
       "value": "Nadir PADD: Tıbbi"
     },
     {
+      "key": "shop_Gear_Medic_Padd_VeryRare",
+      "value": "Çok Nadir PADD: Tıbbi"
+    },
+    {
       "key": "shop_Gear_Medic_Phaser_Common",
-      "value": "Efsanevi Tip II Fazer: Tıbbi"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Epic",
-      "value": "Çok Nadir Tip II Fazer: Tıbbi"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Legendary",
-      "value": "Destansı Tip II Fazer: Tıbbi"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Rare",
       "value": "Sıradan Tip II Fazer: Tıbbi"
     },
     {
-      "key": "shop_Gear_Medic_Phaser_VeryRare",
+      "key": "shop_Gear_Medic_Phaser_Epic",
+      "value": "Destansı Tip II Fazer: Tıbbi"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_Legendary",
+      "value": "Efsanevi Tip II Fazer: Tıbbi"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_Rare",
       "value": "Nadir Tip II Fazer: Tıbbi"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_VeryRare",
+      "value": "Çok Nadir Tip II Fazer: Tıbbi"
     },
     {
       "key": "shop_Gear_Medic_Tricorder_Common",
@@ -25888,43 +28068,43 @@
     },
     {
       "key": "shop_Gear_Science_Padd_Common",
-      "value": "Efsanevi PADD: Bilim"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Epic",
-      "value": "Çok Nadir PADD: Bilim"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Legendary",
-      "value": "Destansı PADD: Bilim"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Rare",
       "value": "Sıradan PADD: Bilim"
     },
     {
-      "key": "shop_Gear_Science_Padd_VeryRare",
+      "key": "shop_Gear_Science_Padd_Epic",
+      "value": "Destansı PADD: Bilim"
+    },
+    {
+      "key": "shop_Gear_Science_Padd_Legendary",
+      "value": "Efsanevi PADD: Bilim"
+    },
+    {
+      "key": "shop_Gear_Science_Padd_Rare",
       "value": "Nadir PADD: Bilim"
     },
     {
+      "key": "shop_Gear_Science_Padd_VeryRare",
+      "value": "Çok Nadir PADD: Bilim"
+    },
+    {
       "key": "shop_Gear_Science_Phaser_Common",
-      "value": "Efsanevi Tip II Fazer: Bilim"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Epic",
-      "value": "Çok Nadir Tip II Fazer: Bilim"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Legendary",
-      "value": "Destansı Tip II Fazer: Bilim"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Rare",
       "value": "Sıradan Tip II Fazer: Bilim"
     },
     {
-      "key": "shop_Gear_Science_Phaser_VeryRare",
+      "key": "shop_Gear_Science_Phaser_Epic",
+      "value": "Destansı Tip II Fazer: Bilim"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_Legendary",
+      "value": "Efsanevi Tip II Fazer: Bilim"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_Rare",
       "value": "Nadir Tip II Fazer: Bilim"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_VeryRare",
+      "value": "Çok Nadir Tip II Fazer: Bilim"
     },
     {
       "key": "shop_Gear_Science_Tricorder_Common",
@@ -27135,6 +29315,10 @@
       "value": "DEVAM ETMEK İÇİN DOKUN"
     },
     {
+      "key": "UI_CaptainLog_Panel_FooterNote_TapToContinue_Click",
+      "value": "DEVAM ETMEK İÇİN TIKLA"
+    },
+    {
       "key": "UI_CaptainLog_Panel_FooterNote_TapToContinue_Gamepad",
       "value": "DEVAM ETMEK İÇİN {0} DÜĞMESİNE BAS"
     },
@@ -27201,6 +29385,10 @@
     {
       "key": "UI_Common_Advance",
       "value": "İlerlemek için dokun"
+    },
+    {
+      "key": "UI_Common_Advance_Click",
+      "value": "İlerlemek için tıkla"
     },
     {
       "key": "UI_Common_Advance_Gamepad",
@@ -27307,6 +29495,10 @@
       "value": "6. Bölüm"
     },
     {
+      "key": "UI_Common_Missions_EpisodeIdentifier_07",
+      "value": "7. Bölüm"
+    },
+    {
       "key": "UI_Common_New",
       "value": "Yeni"
     },
@@ -27355,6 +29547,10 @@
       "value": "Dönmek için dokun"
     },
     {
+      "key": "UI_Common_Return_Click",
+      "value": "Dönmek için tıkla"
+    },
+    {
       "key": "UI_Common_Return_Gamepad",
       "value": "Dönmek için {0} düğmesine bas"
     },
@@ -27375,12 +29571,20 @@
       "value": "Başlamak İçin Dokun"
     },
     {
+      "key": "UI_Common_Start_Click",
+      "value": "Başlamak İçin Tıkla"
+    },
+    {
       "key": "UI_Common_Start_Gamepad",
       "value": "Başlamak için {0} düğmesine bas"
     },
     {
       "key": "UI_Common_TapToClose",
       "value": "KAPATMAK İÇİN DOKUN"
+    },
+    {
+      "key": "UI_Common_TapToClose_Click",
+      "value": "KAPATMAK İÇİN TIKLA"
     },
     {
       "key": "UI_Common_TapToClose_Gamepad",
@@ -27603,6 +29807,30 @@
       "value": "Aralarından biri, antik dillerinde şöyle söylüyor: \"Gel. Gerçeklik Makinesine kadar onları takip edelim.\""
     },
     {
+      "key": "UI_Cutscene_Episode7_Text1",
+      "value": "Rüyasızlar, Gerçeklik Motorundan geri püskürtüldü ve buna yönelik planları suya düştü."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text2",
+      "value": "Ama liderleri Motorun ana çerçevesinden bir sır öğrendi, Neksus için felaket anlamına gelebilecek bir şey."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text3",
+      "value": "Bekçi bir harita çıkararak bilinmeyen bir yere hızla ilerleyen Rüyasızların hareketlerini takip eder."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text4",
+      "value": "Rüyasızların yıkıcı faaliyetleri tüm haritaya yayılmış olsa da bir sonraki hedefleri belliydi."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text5",
+      "value": "Bu, arkalarında bıraktıkları ufak kusurları kaplayacak kadar devasa bir yanlıştı."
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text6",
+      "value": "Yarattığı dehşet sadece azmini güçlendiriyordu. Artemis'e rotayı belirlemesini emrettin."
+    },
+    {
       "key": "UI_DailyChest_Claim",
       "value": "ÇOĞALTICI TOPLA"
     },
@@ -27681,6 +29909,14 @@
     {
       "key": "UI_EncounterPreview_Title",
       "value": "ÇARPIŞMA ALARMI!"
+    },
+    {
+      "key": "UI_Episode_MissionNotAvailable_Body",
+      "value": "Bu görevin kilidini açabilmek için bu görevi bir önceki zorluk seviyesinde tamamlamalısın."
+    },
+    {
+      "key": "UI_Episode_MissionNotAvailable_Title",
+      "value": "Görev Kilitli"
     },
     {
       "key": "UI_Error_ChangeName",
@@ -28049,6 +30285,10 @@
     {
       "key": "UI_Generic_TodaysGoals",
       "value": "Bugünün Hedefleri Tamamlandı!"
+    },
+    {
+      "key": "UI_Glossary_Header",
+      "value": "Sözlük"
     },
     {
       "key": "UI_GoTo_Achievements",
@@ -28699,6 +30939,10 @@
       "value": "{0}. Oyuncu Seviyesinde kilidi açılır."
     },
     {
+      "key": "UI_Menu_TooltipLocked_News_Title",
+      "value": "HABERLER (KİLİTLİ)"
+    },
+    {
       "key": "UI_Menu_TooltipLocked_Operations_Title",
       "value": "OPERASYONLAR (KİLİTLİ)"
     },
@@ -28809,6 +31053,10 @@
     {
       "key": "UI_Mission_Popup_Replay",
       "value": "TEKRAR OYNAT"
+    },
+    {
+      "key": "UI_Mission_PopupNotAvailableSecondary_Message",
+      "value": "Bu bölümün kilidini açabilmek için bu bölümü bir önceki zorluk seviyesinde tamamlamalısın."
     },
     {
       "key": "ui_mission_result_completion_percent",
@@ -28939,6 +31187,14 @@
       "value": "Bildirim ayarlarını yönetmek için sistem ayarları menüsüne gidin."
     },
     {
+      "key": "UI_OnlineMode_Body",
+      "value": "Çevrimiçi Moda Geçiş Yap"
+    },
+    {
+      "key": "UI_OnlineMode_Title",
+      "value": "ÇEVRİMİÇİ MOD"
+    },
+    {
       "key": "UI_Operations_EventPointTotal",
       "value": "Toplam Puan: {0}"
     },
@@ -28963,6 +31219,22 @@
       "value": "Dil"
     },
     {
+      "key": "UI_Options_LocalKey_High",
+      "value": "YÜKSEK"
+    },
+    {
+      "key": "UI_Options_LocalKey_Low",
+      "value": "DÜŞÜK"
+    },
+    {
+      "key": "UI_Options_LocalKey_Medium",
+      "value": "ORTA"
+    },
+    {
+      "key": "UI_Options_LocalKey_VeryLow",
+      "value": "ÇOK DÜŞÜK"
+    },
+    {
       "key": "UI_Options_Music_Off",
       "value": "Müzik Kapalı"
     },
@@ -28973,6 +31245,10 @@
     {
       "key": "UI_Options_PlayerId",
       "value": "Oyuncu Kimliği"
+    },
+    {
+      "key": "UI_Options_QualitySettings",
+      "value": "Kalite Ayarları"
     },
     {
       "key": "UI_Options_ResetPlayerProgressButton",
@@ -29233,6 +31509,14 @@
     {
       "key": "UI_Popup_FleeBattleConfirmation_Challenges",
       "value": "Bu savaştan kaçmak istediğine emin misin? Geri çekilirsen Operasyon Hakkını kaybedeceksin."
+    },
+    {
+      "key": "UI_Popup_iCloudSaveConflict_Body",
+      "value": "Yerel ilerleme ve iCloud ilerlemesi arasında bir çakışma var. Mevcut ilerlemenle devam etmek üzere iCloud ilerlemesinin üzerine mi yazılsın yoksa iCloud ilerlemesini yüklemek üzere oyun yeniden mi başlatılsın?"
+    },
+    {
+      "key": "UI_Popup_iCloudSaveConflict_Title",
+      "value": "iCLOUD KAYIT ÇAKIŞMASI"
     },
     {
       "key": "UI_Popup_InvalidState_Body",
@@ -30051,6 +32335,10 @@
       "value": "Sefer Ekibine eklemek için dokun."
     },
     {
+      "key": "UI_Tutorial_ToolTip_Add4thMemberGeneric_Click",
+      "value": "Sefer Ekibine eklemek için tıkla."
+    },
+    {
       "key": "UI_Tutorial_ToolTip_Add4thMemberGeneric_Gamepad",
       "value": "Sefer Ekibine eklemek için {0} düğmesine bas."
     },
@@ -30061,6 +32349,10 @@
     {
       "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton",
       "value": "Çarpışmaya girmek için dokun"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton_Click",
+      "value": "Çarpışmaya girmek için tıkla"
     },
     {
       "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton_Gamepad",
@@ -30083,6 +32375,10 @@
       "value": "İlerlemek için dokun"
     },
     {
+      "key": "UI_Tutorial_ToolTip_ContinueButton_Click",
+      "value": "İlerlemek için tıkla"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_ContinueButton_Gamepad",
       "value": "İlerlemek için {0} düğmesine bas"
     },
@@ -30091,12 +32387,20 @@
       "value": "Bir sonraki <color=#fff15c>YILDIZ FİLOSU DİREKTİFİN</color> için dokun"
     },
     {
+      "key": "UI_Tutorial_ToolTip_Directives_Click",
+      "value": "Bir sonraki <color=#fff15c>YILDIZ FİLOSU DİREKTİFİN</color> için tıkla"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_Directives_Gamepad",
       "value": "Bir sonraki <color=#fff15c>YILDIZ FİLOSU DİREKTİFİN</color> için {0} düğmesine bas"
     },
     {
       "key": "UI_Tutorial_ToolTip_Disable",
       "value": "Worf'un Savaş Narasını kullanmak için dokun"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_Disable_Click",
+      "value": "Worf'un Savaş Narasını kullanmak için tıkla"
     },
     {
       "key": "UI_Tutorial_ToolTip_Disable_Gamepad",
@@ -30159,6 +32463,10 @@
       "value": "KAPTAN KÖŞKÜ MÜRETTEBATINI değiştirmek için dokun"
     },
     {
+      "key": "UI_Tutorial_ToolTip_TapCrewButton_Click",
+      "value": "KAPTAN KÖŞKÜ MÜRETTEBATINI değiştirmek için tıkla"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_TapCrewButton_Gamepad",
       "value": "KAPTAN KÖŞKÜ MÜRETTEBATINI değiştirmek için {0} düğmesine bas"
     },
@@ -30191,6 +32499,10 @@
       "value": "Sonraki GÖREV için dokun"
     },
     {
+      "key": "UI_Tutorial_ToolTip_TapMissionFrame_Click",
+      "value": "Sonraki GÖREV için tıkla"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_TapMissionFrame_Gamepad",
       "value": "Sonraki GÖREV için {0} düğmesine bas"
     },
@@ -30205,6 +32517,10 @@
     {
       "key": "UI_Tutorial_ToolTip_TapToAttack",
       "value": "Saldırı gerçekleştirmek için dokun!"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_TapToAttack_Click",
+      "value": "Saldırı gerçekleştirmek için tıkla!"
     },
     {
       "key": "UI_Tutorial_ToolTip_TapToAttack_Gamepad",
@@ -30239,5 +32555,5 @@
       "value": "Moral Kombosu"
     }
   ],
-  "_PathID": "1458"
+  "_PathID": "1459"
 }

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": "1277"
+    "m_PathID": "1301"
   },
   "m_Name": "lang_ja",
   "List": [
@@ -1243,6 +1243,10 @@
       "value": "言語を選択"
     },
     {
+      "key": "Choose_Quality_Header",
+      "value": "品質を選択"
+    },
+    {
       "key": "Common_AccessoriesSortingType_Equipped",
       "value": "装備中"
     },
@@ -1523,6 +1527,10 @@
       "value": "降格"
     },
     {
+      "key": "Common_Details",
+      "value": "詳細"
+    },
+    {
       "key": "Common_Dilithium",
       "value": "ダイリチウム"
     },
@@ -1623,6 +1631,10 @@
       "value": "停止"
     },
     {
+      "key": "Common_ExplorationOptionType_Disarm",
+      "value": "武装解除"
+    },
+    {
       "key": "Common_ExplorationOptionType_Eject",
       "value": "取り出す"
     },
@@ -1683,6 +1695,10 @@
       "value": "調査"
     },
     {
+      "key": "Common_ExplorationOptionType_Jump",
+      "value": "ジャンプ"
+    },
+    {
       "key": "Common_ExplorationOptionType_Leave",
       "value": "何もしないで去る"
     },
@@ -1721,6 +1737,10 @@
     {
       "key": "Common_ExplorationOptionType_Power",
       "value": "パワー"
+    },
+    {
+      "key": "Common_ExplorationOptionType_Protect",
+      "value": "防御"
     },
     {
       "key": "Common_ExplorationOptionType_Quick",
@@ -2729,6 +2749,10 @@
     {
       "key": "Common_ValosComputer",
       "value": "タロスのコンピュータ"
+    },
+    {
+      "key": "Common_View",
+      "value": "ビュー"
     },
     {
       "key": "Common_Vulcan",
@@ -11183,6 +11207,1834 @@
       "value": "物資が残されているな…"
     },
     {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_01",
+      "value": "用心しろ。以前遭遇した亡霊どもだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_02",
+      "value": "ということは、もうドリームレスがいるわけか。遅かったか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_03",
+      "value": "ここはまだ機能してるみたい。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_04",
+      "value": "止めるのは恐ろしく手間がかかりそう。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_05",
+      "value": "希望を持て。まだ間に合うはずだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle01_06",
+      "value": "まずはこいつらをどうにかしないとな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_01",
+      "value": "またドリームレスに操られた「亡霊」よ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_02",
+      "value": "<i>*不気味な金切り声*</i>"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle03_03",
+      "value": "我々を探しているんだ… ドリームレスはこっちに気づいてるな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_01",
+      "value": "仲間が遭遇したヒューマノイドか。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_02",
+      "value": "何をしに来たかは知らんが、お前たちに勝ち目はない。我々はネクサスの仕組みを知り尽くしているのだからな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_03",
+      "value": "ネクサスを破壊するなんて残酷すぎる。たくさんの命が消えてしまうのよ… 何千、何万どころじゃない数の命が。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_04",
+      "value": "どれも、宇宙の摂理によって大昔についえた命だ。他人の都合でよみがえり、他人の考える理想郷に囚われる方が酷だと思わんか。我々はお前たちが思うような怪物ではない。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_05",
+      "value": "誰かの悪巧みから解放してやる、でもその後は自分たちの好きにする… 要はそういうことでしょう？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_06",
+      "value": "よく言った、マイケル！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_07",
+      "value": "禅問答に付き合っている暇はない。おとなしく立ち去れ。さもなくば力ずくで排除するまでだ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_battle12_post_01",
+      "value": "なかなかやる種族だな。だが、ほんの少し時間を稼いだにすぎん。このリアリティ機関はじき止まる。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_01",
+      "value": "何かはわからんが通れないようだな。初めて見る仕掛けだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_02",
+      "value": "相当進んだ技術だろうから、我々のフェイザーでどうにかできるとも思えん。<i>アルテミス号</i>の転送で越えられないか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_03",
+      "value": "この空間の圧倒的なエネルギーを考えると、必要以上に転送装置を使わない方がいいと思う。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_04",
+      "value": "そうだな。万が一転送事故でも起きて、ウォーフと体がくっついても困る。それじゃ… どうする？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_01",
+      "value": "リアクター… ここに来る鍵だったんだから、先に進む鍵にもなるんじゃない？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_02",
+      "value": "ありえるな！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction01_03",
+      "value": "発想の妙だな、マイケル。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration01_reaction02_01",
+      "value": "道がこれだけなんてことはないはずだ。もう少しこの通路を調べてみないか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_01",
+      "value": "面白いわね。一種のステイシス・チェンバーみたい。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_02",
+      "value": "コンテナが入っているらしい。物資かもしれんな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_03",
+      "value": "我々「ネクサスのエンジニア」にお礼があってもいいと思うんだが。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_04",
+      "value": "ドクター！ そういう発想は… いささか不謹慎なのでは。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction01_01",
+      "value": "リアクターを使って入ってみるわ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction02_01",
+      "value": "リアクターを使えば入れそうだが、そうホイホイ乱用していいものか。得体の知れんテクノロジーなのは事実だからな…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration02_reaction02_02",
+      "value": "確かにそうね。防衛システムみたいなものが働いても困るし。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_01",
+      "value": "上の足場にまた物資がある。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_01",
+      "value": "跳躍すれば届くかもしれん。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_02",
+      "value": "ジャンプする気か？ クリンゴンには高すぎるぞ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_03",
+      "value": "信じてくれ、ドクター！ あれくらいなら飛べるはずだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction01_04",
+      "value": "信じて飛べるなら苦労はない。幸いなことに私は医者だ。君が体勢を崩して骨を折っても、手当てしてやるから安心しろ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_01",
+      "value": "あそこに上がれると思う？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_02",
+      "value": "医者として言わせてもらうと、無理だろうし、試すべきでもない。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_exploration03_reaction02_03",
+      "value": "そういう態度はよしてくれ、ドクター。だがわかった。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_01",
+      "value": "ここを見ていると、若い頃に聞いた伝承を思い出す。勇敢なクリンゴンは、スト・ヴォ・コーという場所で永遠に戦うのだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_02",
+      "value": "ヴァルハラみたいなものか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_03",
+      "value": "もっと血なまぐさい。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_04",
+      "value": "それはそれは。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story01_05",
+      "value": "噂をすればね… 先の方が騒がしいわ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_01",
+      "value": "ここは今までに見たどんな場所とも違うな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_02",
+      "value": "その声は感心しているのか、ドクター？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_03",
+      "value": "考えてみたまえ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_04",
+      "value": "<i>エンタープライズ号</i>のホロデッキを思い出す。現実と見紛うリアルなシミュレーションを生成する機械だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_05",
+      "value": "<i>ディスカバリー号</i>にもそういう設備がほしいわ！ そのホロデッキというのは、スフィアの時の体験に近い感じ？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_06",
+      "value": "いや。ホロデッキのシミュレーションは、どちらかと言うと空想だ。つまらんことで楽しむ者が多かった。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_07",
+      "value": "スフィアの時のような、消耗をもたらす体験はまれだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story02_08",
+      "value": "消耗か。ドリームレスがネクサスの体験に名前をつけたら、そうなりそう。あいつらにとっては牢屋なのよね。空想なんかじゃなくて…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_01",
+      "value": "さて、このままあてもなく進むのか？ それとも…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_02",
+      "value": "邪魔をしても構わないだろうか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_03",
+      "value": "後ろだ！ こいつは… こいつは何だ？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_04",
+      "value": "我々の制式名は「X'ytakii」。君たちの言葉だと「ケアテイカー」と言ったところか。このリアリティ機関を制御する目的で作られた高等AIの1つだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_05",
+      "value": "我々のスキャンによると、君たちは6つのリアクターを全部そろえ、この施設を守ろうとしている。この認識は合っているだろうか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_06",
+      "value": "ドリームレスがネクサスを壊すのを止めたいとは思ってる。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_07",
+      "value": "そうした役割する者を「エンジニア」という。だが、君たちはエンジニアの訓練を受けていない。よって、リアリティ機関の修理や守りを任せられない。道具も貸せない。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_08",
+      "value": "そう固いことを言わなくてもいいだろう。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_09",
+      "value": "テストを受けてエンジニアとして認められることは可能だ。だが、しかるべき訓練を受けずにクリアするのは至難の業だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_10",
+      "value": "失敗したらどうなるの？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_11",
+      "value": "その立場を得られず、機関を封印できない。必然的に、コンストラクトやそこにつながったスフィアは、地球の時間で約3567時間後に消滅する。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m1_story04_12",
+      "value": "選択の余地がほとんどないじゃないか！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_01",
+      "value": "止まれ！ ここは通さないぞ、姿を変える悪魔め！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_02",
+      "value": "姿を変える？ 何を言っている、我々は…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle01_03",
+      "value": "耳を貸す気はなさそうだぞ、ドクター！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_01",
+      "value": "向こうから聞こえてくるのは… フェイザーの発射音？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_02",
+      "value": "そうだな。あそこだ！ カーデシア人と艦隊士官が戦っているらしい！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_03",
+      "value": "あれが艦隊士官だと信じるほど我々はうぶじゃない。十中八九、流動体生物だな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_04",
+      "value": "本当か、ドクター？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_05",
+      "value": "少しは信用してくれ、ウォーフ。「ボーンズ」ことこのマッコイの目に狂いはない。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_06",
+      "value": "なぜわかるんだ、ドクター？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_07",
+      "value": "奴らのしぐさや物腰だ。よく見ると動きがぎこちない。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_battle07_08",
+      "value": "これについては、ドクターの観察眼を信じるわ。先を急ぎましょう。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_01",
+      "value": "宇宙艦隊の諸君、こっちだ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_02",
+      "value": "待ってろ。もう安全だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_01",
+      "value": "ここじゃ撃ってくれと言ってるようなものよ。この船が動くか調べてみましょう。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_02",
+      "value": "君たちの種はこう言うんだろう？ 「善行は罰せられない」と… 死ね！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction01_03",
+      "value": "流動体生物か！ カーデシア人がお前たちを探してたぞ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_01",
+      "value": "大怪我を負った者もいるようだ。何をするにしても、まずは手当てをしてやらんとな！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_02",
+      "value": "親切な医療従事者だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_03",
+      "value": "医者のことか？ なぜそんな… まさか。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_04",
+      "value": "気づいたな！ かかれ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction02_05",
+      "value": "流動体生物か！ カーデシア人がお前たちを探してたぞ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_01",
+      "value": "周りを調べて。船の中に何かあるかも。彼らを助けられるようなものが。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_02",
+      "value": "そうだな。こっちに物資がある。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_03",
+      "value": "艦隊のネズミめ、我々の物を盗む気か？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_04",
+      "value": "「艦隊のネズミ」って… まさか、あなたたち…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration01_reaction03_05",
+      "value": "流動体生物か！ カーデシア人がお前たちを探してたぞ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_01",
+      "value": "見て、あそこ。誰かが物資を置いていったみたい。補充に使えそうね。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_01",
+      "value": "調べても損はないかもな…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_02",
+      "value": "かかれ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction01_03",
+      "value": "というのは甘かったか！ 流動体生物の待ち伏せだ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_01",
+      "value": "道の真ん中に貴重な物資をほったらかしだと？ そんな都合のいいことがあるか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_02",
+      "value": "ドクターの指摘はもっともだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_exploration02_reaction02_03",
+      "value": "見え見えの罠もあるもんだ…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_01",
+      "value": "これは？ スフィアの中なの？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_02",
+      "value": "君たちは今もリアリティ機関の中にいる。ただし、パラメータをいじって君たちをテストする環境を作った。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_03",
+      "value": "ケアテイカーがシスコ艦長の姿になってる…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_04",
+      "value": "遊びに付き合っている暇はないんだぞ！ 大勢の命がかかっていると言ったのはそっちだろう！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_05",
+      "value": "その通り。できるだけ急いだほうがいい"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_06",
+      "value": "だったら、あなたも急いで説明して。これから何をすればいいのか。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_07",
+      "value": "君たちの記憶を探らせてもらった。それによると、君たちの宇宙域の種は、エンジニアの役目と重なる資質を重んじているらしい。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_08",
+      "value": "1つ目は「信」。その象徴となるのが君たちのシスコ艦長だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_09",
+      "value": "信というと… 信仰心か？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_10",
+      "value": "誤解があるようだ。ここでいう信とは、あまねく存在する何者かを信じることではない。己の目的や技術を、そして仲間のエンジニアを信じることだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_11",
+      "value": "始まりのエンジニアがこの場所を作れたのはのは、より大きなものを信頼したからこそ。だからこの資質が後のエンジニアに欠かせない条件となった。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_12",
+      "value": "このアリーナのどこかでポータルが待っている。次の試練に通じる出口だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story01_13",
+      "value": "気をつけたまえ。目に見えるものが真実の姿とは限らない。最後までたどり着けるのは、己の目的を信じる者だけだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_01",
+      "value": "ケアテイカーだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_02",
+      "value": "君たちがうまくやっているか、少し好奇心を覚えてね。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_03",
+      "value": "ならその好奇心を満たしてやろう。今はちょうど、カーデシア人と流動体生物の抗争に巻き込まれたところだ。どっちの陣営も、我々を見ると嬉々として撃ってくる。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_04",
+      "value": "にっちもさっちもいかないというやつか。引き返すしかなさそうだな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story02_05",
+      "value": "引き返すですって？ 宇宙艦隊のことを何も知らないみたいね！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_01",
+      "value": "ケアテイカーが言ってたポータルね。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_02",
+      "value": "いかにも。君たちは期待を上回る成果を挙げた。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_03",
+      "value": "予想もしない困難を乗り越え、見事目標を達成したのみならず、仲間の技術を信頼した。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_04",
+      "value": "実にすばらしい信だ。信とは時に盲点を生むが… まあ、君たちが物欲や権力欲に駆られているようには見えない。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_05",
+      "value": "これでよかったのか？ お前のテストは合格か？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_06",
+      "value": "最初のテストは合格だ。だがまだ続きがある。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m2_story04_07",
+      "value": "…そうだと思ったよ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_01",
+      "value": "待て。前方に反応だ。大勢いる。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_02",
+      "value": "我々はボーグ。お前たちは同化される。抵抗は無意味だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_03",
+      "value": "高度な頭脳で新しい決め台詞を考えればいいのにな？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle01_04",
+      "value": "皮肉もいいけど、余裕がある時にして、ドクター。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_01",
+      "value": "敵の活動は特に見られない。進んでも危険はあるまい。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_02",
+      "value": "いえ、待ち伏せよ！ さっきの反応、警報に引っかかったのね！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle02_03",
+      "value": "お前たちは同化される。抵抗は無意味だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_01",
+      "value": "あのシルエットは、もしかして…？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_02",
+      "value": "ボーグ・クイーンよ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_03",
+      "value": "お前たちは… 同化される。抵抗は無意味。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_01",
+      "value": "妙だな。さっきのは間違いなくクイーンだった。だが以前とはまるで違ったぞ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_02",
+      "value": "どういうことだろうな。喋り方も普通のボーグみたいだった！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_03",
+      "value": "予備の義体とか？ 意識が入っていなかったのかも。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle04_post_04",
+      "value": "わからんな…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_01",
+      "value": "よく来たな、お前たち。遠方からご苦労なことだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_02",
+      "value": "またボーグ・クイーン！ 今度は本物みたいね…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_03",
+      "value": "たわけめ。我々はボーグ。それ以上でもそれ以下でもない。すべての体は集合体の延長にすぎん。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_04",
+      "value": "お前とてそうだ。そうであろう、ロキュータス？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_05",
+      "value": "いかにも。お前たちは同化される。集合体の力を思い知れ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_06",
+      "value": "今の私たちは、ボーグの集団体なんかより大きなもののために戦ってる。邪魔はさせない！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_01",
+      "value": "やったぞ！さあ、試練はどこだ？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_02",
+      "value": "到着したぞ。そして、その決意を祝福しよう。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_03",
+      "value": "何度となくこの場所から解放されたにもかかわらず、あなたは常に前進することを選びました。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_04",
+      "value": "もう大丈夫だろうか？試練は終わったのか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_battle14_post_05",
+      "value": "取り敢えず、安心していい。だが、まだあと2つ試練が残っている。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_01",
+      "value": "道に迷ったか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_02",
+      "value": "迷わなかったことがある？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_03",
+      "value": "マイケルが言うようになった。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_04",
+      "value": "いったん止まりましょう。このノードにアクセスして、いいルートがないか調べてみる。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_01",
+      "value": "うまくいったか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_02",
+      "value": "トライコーダーが道を見つけた。もう1つ、気になる反応も現れたけど。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_03",
+      "value": "警戒した方がよさそうか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction01_04",
+      "value": "大丈夫みたい。途中で止まったわ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction02_01",
+      "value": "システムを覗いて下手を打つくらいなら、迷った方がまだましな気がする。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration01_reaction02_02",
+      "value": "奴らをイラつかせてるらしい！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_01",
+      "value": "チャージ用のステーションがあるぞ。珍しい型だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_02",
+      "value": "スキャンによると、かなりのエネルギーが流れているようだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_03",
+      "value": "ボーグのネットワークにつながってるかも。調べて損はなさそう。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_01",
+      "value": "トライコーダーで負荷をかけて…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_02",
+      "value": "動き出したぞ。上に向かっているのか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_03",
+      "value": "たぶん自動システムね。修理に運んでいくんだわ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction01_04",
+      "value": "その後は次のが運ばれてくる仕掛けか。その前に奥を調べるぞ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction02_01",
+      "value": "…と思ったけど、見つかるリスクを冒すほどじゃないか。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration02_reaction02_02",
+      "value": "賛成だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_01",
+      "value": "ここはパネルの取り付けが甘いみたい…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_02",
+      "value": "よく見つけたな。こじ開けてみるか。何か隠されているかもしれん。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction01_01",
+      "value": "やった！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction02_01",
+      "value": "こんな危険な状況でメカニックの真似事などして大丈夫か？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_exploration03_reaction02_02",
+      "value": "それもそうね。このままにして進みましょう。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_01",
+      "value": "今度はどこだ？ ボーグ・キューブのような場所だな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_02",
+      "value": "ボーグはもう勘弁してくれ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_03",
+      "value": "これが第二の試練だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_04",
+      "value": "次はジェインウェイ艦長か。その姿には何か意味があるのか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_05",
+      "value": "君たちの時代、ジェインウェイ艦長は伝説的とも言える旅で名を馳せた。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_06",
+      "value": "デルタ宇宙域の果てに飛ばされた艦長とその乗組員は、7年以上の歳月をかけて地球への生還を果たした。その意志の強さは賞賛に値する。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_07",
+      "value": "そんな彼女は、次なる試練の象徴としてふさわしい。次は意志の試練だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story01_08",
+      "value": "ケアテイカーが消えた… ボーグ・キューブに、「意志の試練」… あちこちで戦うことになりそう！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_01",
+      "value": "もうクタクタだ。少し休ませてくれ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_02",
+      "value": "ドクターの言葉に耳を傾けて損はない。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_03",
+      "value": "うわ！ いきなり背後に現れるのはどうにかならんのか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_04",
+      "value": "すまない。少しアドバイスをしようと思ってな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_05",
+      "value": "計算によると、君たちはボーグ・キューブの探索を0.00001%終えたに過ぎない。ポータルを探すにしても、まだまだ先は長い。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_06",
+      "value": "リアリティ機関はじき崩壊する。その時ここにいれば、君たちは命を落とす。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_07",
+      "value": "君たちだけは安全な場所へ運ぼう。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_08",
+      "value": "リアリティ機関が止まったら、スフィアも、中の人も、みんなおしまいなんでしょう！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_09",
+      "value": "君たちはネクサスの規模感を飲み込めていない。ネクサスはいくつものリアリティ機関でできている。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_10",
+      "value": "その1つ1つの機関が、たくさんのスフィアを作っているのよね？ だったら、私たちが諦めれば、ここの機関につながっているすべてのスフィアが終わる。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_11",
+      "value": "その通りだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_12",
+      "value": "そして、ネクサスはさらに崩壊し、私たちの宇宙を脅かしている滅びの裂け目が生じる… ネクサスの外に…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_13",
+      "value": "それも正しい。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_14",
+      "value": "だったら先を急がねば。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_15",
+      "value": "君たちが望むなら。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_16",
+      "value": "消えた。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_17",
+      "value": "さすがだな、ドクター。もう疲れが取れたか。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story02_18",
+      "value": "まだクタクタさ。だが、我々は大勢の命を救いに来た。疲れたくらいで泣き言は言ってられん！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_01",
+      "value": "君たちのデリケートな肉体は、少しずつ朽ちてきているようだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_02",
+      "value": "これ以上は耐えられそうにない。速やかに脱出することを勧めるぞ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_03",
+      "value": "ハッ！ カーレスは弟モラスの追跡を諦めたか？ いいや、カーレスは弟を追って山を越え、谷を越えた。己の名誉のため、父親の名誉のためにな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m3_story04_04",
+      "value": "我々も同じだ。戦って道を切り開き、勝利してポータルにたどり着く！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_01",
+      "value": "クリンゴンよ。大勢いる！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_02",
+      "value": "話し合いに持ち込めない、ウォーフ？ 引き下がるように言って。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_03",
+      "value": "bIjeghbe'chugh vaj bIHegh!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_04",
+      "value": "Hoch jagh Heghjaj!!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_05",
+      "value": "クリンゴンの言葉がわからなくても、決裂したのはよくわかった。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_06",
+      "value": "交渉する気はないらしい…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle01_post_01",
+      "value": "撤退していく。当座は乗り切ったわね。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_01",
+      "value": "またクリンゴンだ！ 相当な数だぞ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_02",
+      "value": "ほう… 連邦がクリンゴンを飼っていたとは…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_03",
+      "value": "愚弄するな！ 私は誰のペットでもない！ 一人前の戦士だ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle04_04",
+      "value": "そうよ！ 虎の尾を踏んだわね。ウォーフが怒ったら怖いわよ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_01",
+      "value": "まだいるのか！？ きりがない。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_02",
+      "value": "カーレスのビーコンは聖なる遺物。24の名家を統一するため、カーレスが自ら作ったとされる。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_03",
+      "value": "クリンゴンにとっては、ビーコンによそ者がいること自体が大罪であり、異常事態なのだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_04",
+      "value": "わざとじゃないのよ！ 本人たちも反省してる。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_05",
+      "value": "私は連邦と価値観を同じくする者だが、それでも今回の侵害に対しては、はらわたが煮え繰り返る思いがする。本能的な部分でな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_06",
+      "value": "頭では理解できるが、心は納得していない。クリンゴンにとってこれがいかに深刻な事態か、お前たちもわかっただろう。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_07",
+      "value": "マイケル。お前たちの時代に、クリンゴンはあの遺物が原因で戦争を起こしたほどだ。あの連中がここのクルーを罰したがるのは無理もない。向こうは決して手を緩めないぞ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_01",
+      "value": "さらに生命反応。数は数百、こちらに向かってる。撤退するしかない！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_02",
+      "value": "おお。踏みとどまって戦えと言うかと思ったぞ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle09_post_03",
+      "value": "カーレスも言っているからな。「風は愚か者を敬わない」と。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_01",
+      "value": "だいぶ近づいた。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_02",
+      "value": "前方に生体反応あり。大量のクリンゴンだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_03",
+      "value": "リアクターを探り当てたものだから、護衛を配置したのね。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_04",
+      "value": "フ・テグ！ 一人とんでもないのが混じってる。光の衛兵の鎧を着た奴がいるぞ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_05",
+      "value": "カーレスのビーコンを守るクリンゴンの勇者ね！ 私も… 出くわしたことがある。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_06",
+      "value": "ここからじゃリアクターにアクセスするんじゃダメなのか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_07",
+      "value": "…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_08",
+      "value": "と、ダメ元で聞いてみた。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_01",
+      "value": "ここが信号の発信源の真上ね。トライコーダーとリアクターと連動させてアクセスを…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_02",
+      "value": "よし。この現実世界を動かしてる装置は、スフィアを動かすリアクターほど大きくない。いいニュースだわ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_03",
+      "value": "どうシナリオを書き換える？ 「こういう勝利がいい」とか、誰か希望は？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_04",
+      "value": "「勝利」する必要はないと思う。私たちの目的は、あくまでもポータルの発見よ。前回までは「勝利」した時点でポータルが出てきたように見えたけど… 今回は出すだけでいいんじゃない？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_05",
+      "value": "なるほど。では頼む、マイケル！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_battle11_post_06",
+      "value": "それじゃ… 出でよ、ポータル！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_01",
+      "value": "おい！ クルーが負傷しているぞ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_02",
+      "value": "私は… 下がっておく。対応を頼む。クリンゴンが出ていっては混乱を招くだろうからな…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_03",
+      "value": "助けに来たわ！ 大丈夫？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_04",
+      "value": "ああ… なんとか。君たちは誰だ？ 見覚えのない制服だが。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_05",
+      "value": "<i>アルテミス号</i>の者よ。この船はどうしたの？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_06",
+      "value": "来てくれて助かった。のっぴきならない状況だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_07",
+      "value": "事の始まりは、カーレスのビーコンのそばを通ってしまったことだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_08",
+      "value": "クリンゴン帝国の聖なる遺物じゃない。どうして近づいたりしたの？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_09",
+      "value": "知らなかったんだ！ 悪気はなかったのに… 向こうは本気で怒ってる。領土侵害と聖遺物への冒涜、どちらも許しがたい罪だって。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_10",
+      "value": "この船の乗員は、全員死刑だなんて言ってるんだ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_01",
+      "value": "そうさせるわけにはいかないな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_02",
+      "value": "安全なところに避難させないと。動ける状態まで手当てできる、ドクター？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction01_03",
+      "value": "やってみよう。その間、援護は頼んだぞ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction02_01",
+      "value": "クリンゴンが集まってきてるぞ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration01_reaction02_02",
+      "value": "だったら追い返すまでよ。手当ては後でゆっくりやりましょう。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_01",
+      "value": "リアクターに似た反応をキャッチしたわ。重要なものではなさそう。もしかすると、この現実世界は実際のスフィアほど大規模なものじゃないのかも。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_02",
+      "value": "君のリアクター説を試してみよう！ このドアのプログラムは「書き換え」られそうか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_01",
+      "value": "ええ！ トライコーダーとリアクターを連携させて、と…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_02",
+      "value": "この「現実」の基盤にアクセスできた。複雑だけどなんとかなりそう… 少し時間をちょうだい"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_03",
+      "value": "ドアが消えた！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_04",
+      "value": "目を疑うな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction01_05",
+      "value": "これ以上のことをするなら、信号の発生源に近づかないとだめそうね。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction02_01",
+      "value": "無駄にしない方がいいのではないか。時間も、リアクターの動力も。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_exploration02_reaction02_02",
+      "value": "なあウォーフ。君は立派な戦士で頼れる仲間だが、もう少し遊び心を持て。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_01",
+      "value": "面白い！ 今度は連邦の船か。スキャンによると、複数のデッキに損傷が見られる。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_02",
+      "value": "敵襲かしら？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_03",
+      "value": "錯綜したメッセージが届いている。クリンゴンが船に乗り込んできて、主なエリアを制圧したらしい。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_04",
+      "value": "クリンゴンが宇宙艦隊の船に関わるとろくなことにならないな！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_05",
+      "value": "もちろんウォーフは別だが。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_06",
+      "value": "ふん。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_07",
+      "value": "これが君たちの次の試練だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_08",
+      "value": "ジム！？ いや… ケアテイカーか。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_09",
+      "value": "この試練は、君たちの友人がふんだんに持っている価値観を反映したものだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_10",
+      "value": "無謀さか？ それとも、仲間を危険に巻き込む愚かな冒険心か？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_11",
+      "value": "これから挑んでもらうのは知恵の試練。君たちは目標を信じ、あらゆる困難をものともしない強い意思を見せてくれた。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_12",
+      "value": "だが、真っ向からぶつかっては打破できない壁もある。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_13",
+      "value": "ポータルが見つかればこの試練は終わりだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story01_14",
+      "value": "消えた。例によって手取り足取りね。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_01",
+      "value": "八方塞がりだな。待てよ… この状況は、もしやコバヤシマルか！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_02",
+      "value": "アカデミーの訓練プログラムか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_03",
+      "value": "その通りだ。二人とも受けただろう？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_04",
+      "value": "ええ。他の候補生と一緒で、何度やっても失敗した。絶対に勝てないシナリオだと知ったときは頭に来た。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_05",
+      "value": "クルーを救ってクリンゴン帝国と全面戦争になるか。戦争を避けるため見殺しにするか。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_06",
+      "value": "この状況も、失敗しかないシナリオということか。私の同族は引き下がらず、圧倒的な戦力差に我々はなすすべもない。かといって、立ち去れば乗組員たちは命を落とす…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_07",
+      "value": "そうでもないぞ。私の時代にはコバヤシマルに勝った前例があってな。ご存知、カーク船長がオリジナリティを発揮した。あいつはテストの前に忍び込み、プログラムを書き換えたのさ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_08",
+      "value": "それじゃ、カーク船長のひそみにならいましょう… 裏技よ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_09",
+      "value": "だが方法は？ 書き換えるにはコンピュータがなければ…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_10",
+      "value": "この現実世界も、仕組みは他のスフィアと同じよ。リアクターか同様の装置で動いてるはず。それを探して書き換えればいい。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_11",
+      "value": "我々はまだ 「エンジニア」ではない。ネクサスのテクノロジーをいじって大丈夫なのか！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_12",
+      "value": "ホログラムから指示を待つのはもうたくさん。これまでだってエイリアンのテクノロジーを相手にしてきたじゃない。どれだけ高度で未知のものだろうと関係ない。いつものことよ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story02_13",
+      "value": "トライコーダーを調整して、リアクターと同調させたわ。ケアテイカーの試練を制御するカギを探しましょう。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_01",
+      "value": "やっと来たか。君たちをここまで導いたのは、信じる心と強い意思、そして…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_02",
+      "value": "臨機応変の知恵だ。どうだね、我々もなかなかやるだろう。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_03",
+      "value": "そうだな。君たちは指示された経路を迂回し、ネクサスそのものを利用した。見事な発想だ。ただし、本番では一筋縄ではいかないこともある。くれぐれも覚悟しておいてくれ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_04",
+      "value": "さて、試練は残すところ…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_05",
+      "value": "もう試練はいいわ！ 実力なら見せたでしょう。時間がないのよ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m4_story03_06",
+      "value": "君たちが望むと望まないとにかかわらず、エンジニアを目指す者は、試練を受けるか受けないかの二択しかない。リアリティ機関を扱う気があるなら、すべての試練を終えるんだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_01",
+      "value": "連邦め！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_02",
+      "value": "危害を加えるつもりはない。私たちはアルテミス号の…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_03",
+      "value": "捕まえろ！ ビーコンにたどり着かれたら、トマラク様とシーラ様に皮を剥がされるぞ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle01_post_01",
+      "value": "ここのロミュラン人たちに、対話も説得も通じるように思えんが…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_01",
+      "value": "別の方法で解決できればよかったのだけど。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_02",
+      "value": "連邦がロミュランを裏切っていると本気で信じているようだな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_03",
+      "value": "彼女の上官に追いつければ、もっといろいろわかるはず。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle06_post_04",
+      "value": "連邦がスパイしているというのも疑ってなかったぞ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_01",
+      "value": "降参したか。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_02",
+      "value": "こいつを気絶させるのがテストの目的とは思えんが…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_03",
+      "value": "あいつは言っていたぞ。強い信念をもって相手を曲げるべき時もあると！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_battle09_post_04",
+      "value": "ゲームオーバーといった感じでもないから、そういうことでしょうね…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_01",
+      "value": "そこで止まれ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_02",
+      "value": "戦いに来たのではない。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_03",
+      "value": "クリンゴンが何を言う。油断させて襲いかかる腹だな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_04",
+      "value": "そう考えるのも無理はない。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_05",
+      "value": "ふん。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_01",
+      "value": "私たちは話し合いに来たの。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_02",
+      "value": "笑わせる！ どうせビーコンに細工でもする気だろう。何にせよ手遅れだ。トマラク様はデータを持ってお発ちになった。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_03",
+      "value": "お願い、下がって。黙って通してくれればこっちも手を出さない。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_04",
+      "value": "貴様らを相手にして無駄に疲労するのも癪だ。我々が得たデータ連邦の本性を暴いてやるからな。この裏切りのヘビめ！（どこかに転送していく）"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction01_05",
+      "value": "ロミュラン人が我々を裏切りのヘビ呼ばわりしたのか？ ただ事じゃないぞ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_01",
+      "value": "事を荒立てたくないの。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration01_reaction02_02",
+      "value": "お前たちがここにいる以上、それは無理だな！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_01",
+      "value": "またロミュラン人か。センサービーコンも。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_02",
+      "value": "連邦か。まあ… 驚くにはあたらない。裏切りの痕跡を消しに来たのか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_03",
+      "value": "何のことを言ってるのかわからない。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_01",
+      "value": "何も知らないと言うのか？ 連邦の船が定期的に中立地帯を通っている。どうせ我々ロミュラン人をスパイしているのだろう。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_02",
+      "value": "お前たちがいくつもの協定を破ったという確かな証拠もある。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_03",
+      "value": "その証拠を見せて。そうすれば認めるべきは認め、反論すべきは反論できる。全面戦争を始めるよりマシでしょう？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_04",
+      "value": "筋の通った提案であることは認めよう。私の上官に会わせてやる。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction01_05",
+      "value": "納得させるのは無理だと思うがな。上官は、お前たちの仲間を相手にしたことがある。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_01",
+      "value": "我々をバカにしているのか？ 連邦の船が中立地帯を通り、我々ロミュラン人をスパイしているではないか。証拠もあるのだぞ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration02_reaction02_02",
+      "value": "連邦はそんなことしない。武器を下ろして。さもないと力ずくで捨てさせるわよ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_01",
+      "value": "あそこにいるのがロミュランの司令官だな。いつ飛び立ってもおかしくなさそうだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_02",
+      "value": "その前に止めないと！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_01",
+      "value": "話し合いたいの！ 平和的に解決できるはずよ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_02",
+      "value": "何を企んでいるかは知らんが、お前たちの策には引っかからんぞ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_03",
+      "value": "我々のセンサービーコンは証拠をつかんでいるのだぞ。セクション31の構成員は、かれこれ10年以上我々をスパイしている。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_04",
+      "value": "これは明らかな違反。帝国に忠誠を誓う身としては、最高評議会に報告しなければならん！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_05",
+      "value": "認めるのは嫌だけど… 理はそちらにあるかもしれない。セクション31が信頼できる組織だった試しはないから。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_06",
+      "value": "本当に… 認めるのか？ ふむ… 話を聞いてやる。提案があるなら言え。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_07",
+      "value": "あなたの言うデータのコピーをちょうだい。宇宙艦隊に報告する。その訴えが事実なら、詳しい調査が入って、公式のルートから回答があると思うわ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_08",
+      "value": "渡したコピーが改ざんする可能性も否定できん。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_09",
+      "value": "それはお前たちもだ。ここにいる我々は外交上の違反に対処する意思がある。そこを信用してくれと言っている。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction01_10",
+      "value": "いいだろう。しかし、これ以上お前たちと話す気はない。データを持っていけ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_01",
+      "value": "止まれ。連邦の情報を持って行かせるわけにはいかん。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_02",
+      "value": "ほう？ 私を止められるとでも？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_03",
+      "value": "我々のセンサービーコンは証拠をつかんでいるのだぞ。セクション31の構成員は、かれこれ10年以上我々をスパイしている。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_04",
+      "value": "これは明らかな違反。最高評議会に報告するのは私の務めだ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_05",
+      "value": "こちらの言い分を聞く気はないのか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_06",
+      "value": "お前たちの言い分だと？ まさか。お前たちは裏切り者だ。連邦は信用できんというのがロミュラン人の得た教訓だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_exploration03_reaction02_07",
+      "value": "お前に言われる筋合いはない！ 耳を貸す気がないなら、フェイザーで話をつけることになるぞ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_01",
+      "value": "さあ、いよいよ最後の試練だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_02",
+      "value": "今度はかつての我が艦長、ジャン＝リュック・ピカードの姿か。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_03",
+      "value": "この試験にふさわしい人物のようなのでね。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_04",
+      "value": "信じる心、強い意志と知恵。そしてもう1つ、エンジニアに必要とされるのが、大勢の心をひとつに束ねる力だ。これなくしてネクサスほどのものは創り得なかった。だが、それだけに得難い資質だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_05",
+      "value": "過去には対話や説得によってこの力が発揮されることが多かった。しかし、時には大きな善をなすため反対者を曲げなければならないこともある。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story01_06",
+      "value": "ポータルが見つかれば試練は完了だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_01",
+      "value": "見ろ！ 最後のポータルだ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_02",
+      "value": "おめでとう、<i>アルテミス号</i>の諸君。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_03",
+      "value": "君たちは試練につぐ試練を乗り越え、はじまりのエンジニアが持っていた資質を示した。それこそがこの奇跡を生み出した原動力だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_04",
+      "value": "君たちはエンジニアを名乗るにふさわしい。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_05",
+      "value": "これを見て。トライコーダーによると、<i>アルテミス号</i>のデータコアに情報が流れ込んできてる…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_06",
+      "value": "図面に回路図…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_07",
+      "value": "これを使ってリアリティ機関を修理してくれ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m5_story02_08",
+      "value": "だが、その前にドリームレスを追い出さなければ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_01",
+      "value": "以前より暗くないか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_02",
+      "value": "ケアテイカーは損傷が激しいと言ってたしな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_03",
+      "value": "ずいぶん長くケアテイカーの試練に付き合わされてしまった…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle01_04",
+      "value": "その間に、ドリームレスに乗っ取られててもおかしくない！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle04_01",
+      "value": "この機械のことは諦めろ。邪魔する気ならただではおかんぞ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle04_02",
+      "value": "それはどうかな！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_01",
+      "value": "これ以上先には行かせん。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_02",
+      "value": "通してちょうだい。大勢の命がかかってるの！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_03",
+      "value": "気持ちはわかる。我々も彼らを救おうとしているのだから。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_04",
+      "value": "お前たちは人々の運命を勝手に決めようとしている。なんの権利もなく高みに居座り、優越的な力を振るおうとしているだけだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle10_05",
+      "value": "我々は取り戻そうとしているのだ。仲間たちと宇宙の秩序をな。すべては終わりを迎える。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_01",
+      "value": "これね… これがコア！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_02",
+      "value": "そして、あれがドリームレスの親玉だな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_03",
+      "value": "侵入者か… 我々を止めようとするとは無謀の極み。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_04",
+      "value": "あなたの過去を見た。ここに来る前の姿を。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_05",
+      "value": "あなたは学者だった。親だった。本当のあなたは、これほどの殺戮に手を染める存在じゃないはずよ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_06",
+      "value": "我々がなそうとしていることを殺戮と言うのか？ 命はいつか終わるもの。終わるからこそ命なのだ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_01",
+      "value": "くっ、もういい！ こんなものを守るとは正気ではない！ これは牢獄だ。宇宙の摂理に唾するものなのだぞ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_02",
+      "value": "かもしれない。ネクサスは古代文明が産み出した勘違いと傲慢の結晶で、それがみんなを巻き込んでいる… その可能性は否定しない。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_03",
+      "value": "だけど、今ここにいるたくさんの命は、紛れもなく本物の命。あなたたちの勝手な裁量で消してしまっていいものじゃない。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_04",
+      "value": "それがお前たちの正義か。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_05",
+      "value": "ネクサスは純粋な善意から作られたとでも思っているのか？ もしそう思っているなら、思い違いもいいところだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_06",
+      "value": "まあいい、ここに来た目的は果たした。私の意識は、ネクサスを行き交うネットワークに溶け込んだ。今ここにいる私とは別にな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_07",
+      "value": "お前たちがここの安定を取り戻そうと、このリアリティ機関は大海の一滴にすぎん。じきにその大海が消えてしまうのだ（どこかに転送していく）"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_08",
+      "value": "認めたくはないけど… 私たちはネクサスをよく知らない。本当にこれでよかったの…？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_09",
+      "value": "数えきれない命が消えるとわかっているスイッチを押させるわけにはいかないさ（アルテミス号に転送する）"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_10",
+      "value": "彼女はこのリアリティ機関から撤退したが、コアと融合したことで秘密を知られてしまった。我々がドリームレスに隠しておきたかった秘密を。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_battle12_post_11",
+      "value": "君たちに次の目標へのアクセスを許可した。できるだけ早急にエンジニアとしての務めを果たしてくれ。すべてが失われる前に…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_01",
+      "value": "分かれ道だ。このコンソールで足場を動かし、どちらかに進めということか。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_02",
+      "value": "さて… 出たとこ勝負で進むのか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_03",
+      "value": "カーク船長がよく言ってたんでしょう？ 「大胆に進め」って。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_04",
+      "value": "それはそうだが、あの男でも分かれ道では迷ったと思うぞ。少しはな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_01",
+      "value": "左の道に行こう。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_02",
+      "value": "何か根拠があるのか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_03",
+      "value": "左は、私がものを投げる方の手だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction01_04",
+      "value": "うむ、私には十分な理由だ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_01",
+      "value": "今のところ運に恵まれてる。だからどちらでも構わないわ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_02",
+      "value": "なるほど。何千年もの進化を遂げ、これまでに作られた中で最も進んだ船の1つの乗組員である我々が、大勢の命を救うため運頼みをすることになるとはな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration01_reaction02_03",
+      "value": "いいだろう。私も右の道に一票だ。構うまい。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_01",
+      "value": "着いたぞ。ここが機関のコアだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_01",
+      "value": "この旅を始めた直後は、ネクサスのことなんて存在も何も知らなかったけど…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_02",
+      "value": "異なる文化、背景、時代から来た私たちは、こうしてクルーとしてひとつになった。これは素晴らしいことよ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_03",
+      "value": "今のこの場にいる仲間以上に、背中を任せて安心できる者はいない！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction01_04",
+      "value": "老兵の目がうるむことを言ってくれる！ それでは行くか。いよいよだぞ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_01",
+      "value": "偉大なカーレスは言った。「いつの日か、とても太刀打ちできない強敵が現れるかもしれない…」"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_02",
+      "value": "「だとしても、我々は立ち向かわねばならない。いざという時に立ち上がれなかった後悔は、生涯つきまとうからだ」"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_03",
+      "value": "今日、我々はその言葉を称える！ どんな障害が来ようと、一丸となって乗り越えるぞ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_04",
+      "value": "素晴らしいスピーチね！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction02_05",
+      "value": "アカデミーでフットボールのコーチをしていたら、さぞ有名になっていただろうな、ウォーフ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_01",
+      "value": "面倒ごとは一刻も早く片づけて、いつもの医務室に戻りたいのはやまやまだが…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_02",
+      "value": "何の準備もなく飛び込むのは自殺行為だと言っておく！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_03",
+      "value": "はやる気持ちはわかるが、スキャンで先の様子を把握するくらいの備えは大事だぞ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_04",
+      "value": "さすがの分別だな、友よ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_exploration02_reaction03_05",
+      "value": "そうした備えが優位につながるかもしれないわね！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_01",
+      "value": "ようこそ、エンジニア。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_02",
+      "value": "光り輝く称号を手に入れたわけだな！ 次は何だ？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_03",
+      "value": "こうしている間にも、ドリームレスはリアリティ機関の防御を突破しようとしている。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_04",
+      "value": "機関の修理に必要な情報は君たちの船にアップロード済みだ。リアクターからアクセスできる。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_05",
+      "value": "これから機関の中枢へと向かってくれ。コアを安定させ、システムをオンラインに戻すんだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story01_06",
+      "value": "あの「ドリームレス」とやらは手段を選ばない。どんな危険も厭わずに君たちを止めにくるだろう。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_01",
+      "value": "ダメージが甚大よ。もうあまり時間がない！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_02",
+      "value": "地球の時間で5分以内に壊滅的な障害が生じるようだ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_03",
+      "value": "目下のところ、首領格のドリームレスが自分の意識を機関と融合させようとしている。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_04",
+      "value": "そいつは… 厄介な事態だな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_05",
+      "value": "この機関のプロトコルは不正アクセスを防ぐ設計になっているが、ドリームレスは長い時間をかけてシステムに工作を行い、一方でリアクターを集めてきた。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_06",
+      "value": "敵のリーダーが意識の融合を果たせば、奴はこの機関をシャットダウンできるようになる。ネクサスの他の部分に力を行使できるようになるのも時間の問題だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_07",
+      "value": "何とかしてそれを防ぐ方法があるはずよ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_08",
+      "value": "君はエンジニアだ。よって、同じように意識を機関に融合させることができる。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_09",
+      "value": "ただし、それを成功させるには、並外れた胆力が必要だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_10",
+      "value": "マイケル、君は私が行動を共にした人々の中で、一二を争う力の持ち主だ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_11",
+      "value": "おまけに、私が知る中で最高の… というか唯一の脳間通信の使い手の義理の姉でもある。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_12",
+      "value": "マイケル、私は君を信じている。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_13",
+      "value": "私… やってみる。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_14",
+      "value": "…うまくいった。周りに壁が広がってる… まるで母親の腕みたいに。見えるものすべてが金色で。何もかも大きくて… 想像もしてなかった。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_15",
+      "value": "私の他にも誰かいる。すごく大きい。目の前の山より大きくて。とても高潔で。怒ってる。彼女の子供たちも、仲間も、みんないなくなった。ずっと昔に死んでしまった。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_16",
+      "value": "こっちに気づいた！ うまくまかないと。機関に集中できなくなってるみたい… 私を追ってくる。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_17",
+      "value": "システムから追い出された！ そのためにエネルギーを行使したみたい… 少しはペースを遅らせられたかも…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story02_18",
+      "value": "ここからもう一度エンジンにアクセスすることはできない。コアのところまで行かなければ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_01",
+      "value": "残念なお知らせだ。あと少しでプロセスが完了してしまう。もう時間は残されていないも同然だ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_02",
+      "value": "ダメ！ もう一度やらせて。リアクターで機関にアクセスしてみる。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_03",
+      "value": "本気か？ 前回は、心拍数やら何やらが大変なことになってたんだぞ。またあんなことをしたら…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_04",
+      "value": "宇宙艦隊で一番の医者が診てくれるんでしょう？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_05",
+      "value": "そこまで言うなら仕方ない。行ってこい！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_06",
+      "value": "戻ってきた。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_07",
+      "value": "彼女の気配を… 四方に感じる！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_08",
+      "value": "悲しみが満ちてる。彼女は一人きり。知っている人はみんないなくなった。もうずっと前に…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_09",
+      "value": "みんなに会いたがってる… 孤独を抱えた生。彼女にとって、世界は失われたも同然だから！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_10",
+      "value": "彼女が建てた大きな図書館も。子どもの頃に泳いだ茜色の海も。今はもうない。悲しみに… 押しつぶされそう！ これじゃ… あああ！！！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_11",
+      "value": "ドクター！ マイケルを起こせ！ 死んでしまうぞ！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_12",
+      "value": "大丈夫。彼女の苦しみ… あれほど大きな苦しみは初めて。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_13",
+      "value": "それが彼女の中で膨らんで、彼女がいたスフィアで現実を壁を破った。それ以上、彼女の心と魂を抑えられなかったのよ。これが始まりよ… このドリームレスたちの。そして今、彼らはここにいる。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_14",
+      "value": "連中がネクサスをそう見ていても不思議はないな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_15",
+      "value": "だからといって、すべての人に関わる決定を一任するわけにはいかない。こんな破壊行為もやめさせないと。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_16",
+      "value": "やはり向こうに気づかれたか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_17",
+      "value": "君の友人の行動は、地球の時間で78.9分、プロセスを遅らせた。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e7_m6_story03_18",
+      "value": "それだけあれば！"
+    },
+    {
       "key": "Data_GSCutSceneDialogue_opening_cutscene_01",
       "value": "ネクサスが帰ってきた。"
     },
@@ -11371,6 +13223,10 @@
       "value": "機械の亡霊"
     },
     {
+      "key": "Data_GSEpisodes_displayName_Episode7",
+      "value": "与えよ、慰めよ、制御せよ"
+    },
+    {
       "key": "Data_GSMissionObjective_e1_m1_encounter03",
       "value": "カーンを倒す"
     },
@@ -11527,6 +13383,30 @@
       "value": "大胆に進め。まだ誰も足を踏み入れたことがないところへ。"
     },
     {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission1",
+      "value": "<i>アルテミス号</i>は、恒星を包むように築かれた巨大なリアリティ機関の外を漂っている。"
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission2",
+      "value": "ケアテイカーの協力を得るため、探査チームは4つの試練をクリアしなければならない。第一の試練は「信の試練」だ。"
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission3",
+      "value": "第二の試練は「意志の試練」。探査チームの前に再びボーグが立ちはだかる。"
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission4",
+      "value": "求められるのは、信じる心と強い意志だけではない。探査チームは「知恵の試練」に挑む。"
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission5",
+      "value": "最後の試練は「理の試練」。対話と機転で解決できる争いもあることを証明するのだ。"
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode7_Mission6",
+      "value": "エンジニアの資格を得た探査チームは、ドリームレスを止め、リアリティ機関を修理しなければならない。"
+    },
+    {
       "key": "Data_GSMissions_displayName_Episode1_Mission1",
       "value": "大胆に進め"
     },
@@ -11671,12 +13551,44 @@
       "value": "爆音ではなく、すすり泣きと共に"
     },
     {
+      "key": "Data_GSMissions_displayName_Episode7_Mission1",
+      "value": "いつか覚める夢"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission2",
+      "value": "奇妙な曲折"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission3",
+      "value": "長い道のり"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission4",
+      "value": "ワインとバラ"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission5",
+      "value": "星冠の孤独"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode7_Mission6",
+      "value": "最後の言葉"
+    },
+    {
       "key": "Data_GSNodeEncounter_BattleDesc_Borg",
       "value": "敵対的なボーグの反応が検出された。戦いに備えろ。"
     },
     {
       "key": "Data_GSNodeEncounter_BattleDesc_Cardassian",
       "value": "敵対的なカーデシアの生命反応が検出された。戦いに備えろ。"
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_CardassianShapeshifters",
+      "value": "敵カーデシア人とシェイプシフターの生命反応あり。戦いに備えろ。"
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_Dreamless",
+      "value": "敵ドリームレスの生命反応あり。戦いに備えろ。"
     },
     {
       "key": "Data_GSNodeEncounter_BattleDesc_e1_m1_battle01",
@@ -12911,8 +14823,16 @@
       "value": "敵対的なロミュランとゴーンの生命反応が検出された。戦いに備えろ。"
     },
     {
+      "key": "Data_GSNodeEncounter_BattleDesc_Shapeshifters",
+      "value": "敵シェイプシフターの生命反応あり。戦いに備えろ。"
+    },
+    {
       "key": "Data_GSNodeEncounter_BattleDesc_Unknown",
       "value": "正体不明の敵が検出された。戦いに備えろ。"
+    },
+    {
+      "key": "Data_GSNodeEncounter_BattleDesc_UnknownLife",
+      "value": "未知の敵の生命反応あり。戦いに備えろ。"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_AbandonedShuttle",
@@ -12975,6 +14895,10 @@
       "value": "ボーグ・アルコーブ"
     },
     {
+      "key": "Data_GSNodeExploration_clickableObject_BorgCube",
+      "value": "ボーグ・キューブ"
+    },
+    {
       "key": "Data_GSNodeExploration_clickableObject_BorgDevice",
       "value": "ボーグデバイス"
     },
@@ -12989,6 +14913,10 @@
     {
       "key": "Data_GSNodeExploration_clickableObject_BorgDrones",
       "value": "ボーグドローン"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_BorgSensors",
+      "value": "ボーグのセンサー"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_BorgSphere",
@@ -13343,6 +15271,14 @@
       "value": "ロミュランリレー"
     },
     {
+      "key": "Data_GSNodeExploration_clickableObject_Romulans",
+      "value": "ロミュラン人"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_Runabout",
+      "value": "小型船"
+    },
+    {
       "key": "Data_GSNodeExploration_clickableObject_Sabotage",
       "value": "妨害工作"
     },
@@ -13453,6 +15389,10 @@
     {
       "key": "Data_GSNodeExploration_clickableObject_WorkerBee",
       "value": "働き蜂"
+    },
+    {
+      "key": "Data_GSNodeExploration_clickableObject_Wounded",
+      "value": "負傷者"
     },
     {
       "key": "Data_GSNodeExploration_clickableObject_Wreckage",
@@ -14263,6 +16203,134 @@
       "value": "感知されるのを避けるため、探査チームはルートを右に向かって進みます。探査チームは<b>別のルート<b>を発見します。"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option01",
+      "value": "探査チームはリアクターを使って行く手を阻むフォースフィールドを突破した。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration01_option02",
+      "value": "探査チームは施設の探索を続け、<b>別のルート<b>を発見した。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option01",
+      "value": "探査チームはリアクターを用いてドアのロックを開け、いくらかの物資を手に入れた。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration02_option02",
+      "value": "好奇心よりも用心を優先し、探査チームは先を急ぐ。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option01",
+      "value": "探査チームはプラットフォームへのジャンプに成功し、いくらかの物資を手に入れた。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m1_exploration03_option02",
+      "value": "探査チームは負傷するリスクを避け、プラットフォームを無視して先を急いだ。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option01",
+      "value": "損傷を調べようと小型船をスキャンすると、連邦を装った流動体生物が探査チームに襲いかかる。探査チームに<b>テックボーナス<b>が発生した。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option02",
+      "value": "流動体生物の待ち伏せが成功し、探査チームは不意を突かれる。探査チームの<b>スピードにペナルティ</b>が発生した。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration01_option03",
+      "value": "探査チームは小型船をスキャンしていくらかの物資を見つけたが、流動体生物が襲いかかってきた。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option01",
+      "value": "放置されていた物資は、またしても流動体生物の待ち伏せだった。戦いに備えろ。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m2_exploration02_option02",
+      "value": "罠の可能性を警戒し、探査チームは先を急いだ。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option01",
+      "value": "ボーグのセンサーにアクセスした探査チームは新たなルートを発見し、敵に気づかれていないことを祈った。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration01_option02",
+      "value": "敵の注目を引かないことを優先し、探査チームはボーグ・キューブの探索を続けることにした。探査チームは<b>別のルート<b>を発見した。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option01",
+      "value": "ボーグ・アルコーブに負荷をかけたところ、チャージ中のドローンともども動かなくなった。探査チームに<b>防御ボーナス<b>が発生した。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration02_option02",
+      "value": "探査チームはボーグ・アルコーブとの接触を避けることにした。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option01",
+      "value": "探査チームはボーグのパーツや素材を調べ、いくらかの物資を手に入れた。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m3_exploration03_option02",
+      "value": "探査チームはボーグのスペアを無視して先を急いだ。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option01",
+      "value": "探査チームは負傷者が動けるようになる程度の医療支援を行った。艦隊の衛生兵から感謝の印として物資を受け取った。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration01_option02",
+      "value": "負傷した隊員を守るため、探査チームは迫り来るクリンゴンに向かっていく。探査チームに<b>攻撃力ボーナス<b>が発生した。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option01",
+      "value": "残された時間はあとわずか。探査チームは先を急いだ。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m4_exploration02_option02",
+      "value": "リアクターを利用して「現実」を改変し、探査チームはいくらかの物資を手に入れた。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option01",
+      "value": "そこまで平和的な解決ではなかったが、探査チームは戦闘を避けることができた。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration01_option02",
+      "value": "ロミュラン人は敵対的な姿勢を崩さず、戦闘は避けられなかった。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option01",
+      "value": "シーラを完全に納得させることはできなかったが、探査チームは戦闘を避けつつ先に進むことができた。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration02_option02",
+      "value": "シーラは連邦を信じようとせず、配下のロミュラン人を率いて襲ってきた。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option01",
+      "value": "探査チームは戦闘を回避しつつ、外交的な成果を挙げた。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m5_exploration03_option02",
+      "value": "外交的解決には至らず、探査チームは戦闘に備えた。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option01",
+      "value": "探査チームは左のルートに進んだ。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration01_option02",
+      "value": "探査チームは右のルートに進んだ。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option01",
+      "value": "覚悟を決めた探査チームは、ドリームレスを阻止するべく戦いに挑む。探査チームに<b>士気ボーナス<b>が発生した。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option02",
+      "value": "リアリティ機関を守るべく、探査チームはドリームレスとの戦闘に臨んだ。"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsDesc_e7_m6_exploration02_option03",
+      "value": "ドリームレスをあらかじめスキャンすることで、探査チームは目の前の戦いでアドバンテージを得た。探査チームに<b>テックボーナス<b>が発生した。"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_AdvancedForward",
       "value": "探査チームは前進しました"
     },
@@ -14327,6 +16395,10 @@
       "value": "コンピューターをハッキング"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_ContinuedForward",
+      "value": "引き続き前進"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_CoreDisabled",
       "value": "ワープコアを停止"
     },
@@ -14341,6 +16413,10 @@
     {
       "key": "Data_GSNodeExploration_ResultsHeader_Diplomacy",
       "value": "交渉成功"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsHeader_DoorOpened",
+      "value": "ドアが開いた"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_DoorsOpened",
@@ -14431,6 +16507,10 @@
       "value": "道を発見"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_PersonnelHealed",
+      "value": "人員を治療"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_PulledBack",
       "value": "後退"
     },
@@ -14467,6 +16547,10 @@
       "value": "スキャン成功"
     },
     {
+      "key": "Data_GSNodeExploration_ResultsHeader_SensorsAccessed",
+      "value": "センサーにアクセスした"
+    },
+    {
       "key": "Data_GSNodeExploration_ResultsHeader_ShieldBonus",
       "value": "シールドボーナス"
     },
@@ -14481,6 +16565,10 @@
     {
       "key": "Data_GSNodeExploration_ResultsHeader_SpeedBonus",
       "value": "スピードボーナス"
+    },
+    {
+      "key": "Data_GSNodeExploration_ResultsHeader_SpeedDown",
+      "value": "スピード低下"
     },
     {
       "key": "Data_GSNodeExploration_ResultsHeader_SuppliesFound",
@@ -15057,6 +17145,30 @@
     {
       "key": "Data_MissionObjective_e6_m6_Name",
       "value": "ネクサスを修理する"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m1_Name",
+      "value": "ドリームレスを止める"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m2_Name",
+      "value": "信の試練"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m3_Name",
+      "value": "意志の試練"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m4_Name",
+      "value": "知恵の試練"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m5_Name",
+      "value": "理の試練"
+    },
+    {
+      "key": "Data_MissionObjective_e7_m7_Name",
+      "value": "ドリームレスを止める"
     },
     {
       "key": "Data_Notification_DailyRewardOneOff_Body",
@@ -18899,6 +21011,10 @@
       "value": "スタンドダウン"
     },
     {
+      "key": "Data_Skill_Chang_Bridge_description",
+      "value": "クリンゴンが<color=#01e2ff>+5%</color> 攻撃力を得る。"
+    },
+    {
       "key": "Data_Skill_Chekov_Attack_description_level1",
       "value": "<color=#01e2ff>100%のダメージ</color>を与える"
     },
@@ -18909,6 +21025,10 @@
     {
       "key": "Data_Skill_Chekov_Attack_displayName",
       "value": "フェイザー"
+    },
+    {
+      "key": "Data_Skill_Chekov_Bridge_description",
+      "value": "宇宙艦隊が<color=#01e2ff>+5%</color> 攻撃力を得る。"
     },
     {
       "key": "Data_Skill_Crusher_Attack_description_level1",
@@ -19156,7 +21276,7 @@
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_description_level1",
-      "value": "<color=#01e2ff>150%のテックダメージ</color>を与える。"
+      "value": "<color=#01e2ff>100%のテックダメージ</color>を与える。"
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_displayName",
@@ -19256,7 +21376,7 @@
     },
     {
       "key": "Data_Skill_Elnor_Bridge_description",
-      "value": "<color=#01e2ff>+5%</color>の防御力を獲得する。"
+      "value": "<color=#01e2ff>+3%</color> 防御力を得る。"
     },
     {
       "key": "Data_Skill_Elnor_Bridge_displayName",
@@ -19305,6 +21425,10 @@
     {
       "key": "Data_Skill_Garak_Attack_description_level2",
       "value": "<color=#01e2ff>150%のダメージ</color>を与える"
+    },
+    {
+      "key": "Data_Skill_Garak_Bridge_description",
+      "value": "<color=#01e2ff>+5%</color> クリティカル発生率を得る。"
     },
     {
       "key": "Data_Skill_GenBorgEng01M_Attack_description_level1",
@@ -20967,6 +23091,18 @@
       "value": "ピカード作戦"
     },
     {
+      "key": "Data_Skill_PicardDixon_Attack_description_level1",
+      "value": "<color=#01e2ff>100%のダメージ</color>を与える"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Attack_description_level2",
+      "value": "<color=#01e2ff>150%のダメージ</color>を与える"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Bridge_description",
+      "value": "宇宙艦隊が<color=#01e2ff>+5%</color> 攻撃力を得る。"
+    },
+    {
       "key": "Data_Skill_PicardOld_Attack_description_level1",
       "value": "<color=#01e2ff>50%のダメージ x 2</color>を与える。"
     },
@@ -21347,6 +23483,18 @@
       "value": "サプライズアタック"
     },
     {
+      "key": "Data_Skill_Shinzon_Attack_description_level1",
+      "value": "<color=#01e2ff>100%のダメージ</color>を与える(<color=#01e2ff>25%の確率</color>で<color=#01e2ff>負傷</color>の効果)。"
+    },
+    {
+      "key": "Data_Skill_Shinzon_Attack_description_level2",
+      "value": "<color=#01e2ff>125%のダメージ</color>を与える(<color=#01e2ff>50%の確率</color>で<color=#01e2ff>負傷</color>の効果)。"
+    },
+    {
+      "key": "Data_Skill_Shinzon_Bridge_description",
+      "value": "ロミュランが<color=#01e2ff>+5%</color> 攻撃力を得る。"
+    },
+    {
       "key": "Data_Skill_Sisko_Attack_description_level1",
       "value": "<color=#01e2ff>35%のダメージ x 3</color>を与える(相手が<color=#01e2ff>カーデシア人</color>なら<color=#01e2ff>25%の確率</color>で<color=#01e2ff>防御力低下</color>の効果。1ターン有効)。"
     },
@@ -21528,7 +23676,7 @@
     },
     {
       "key": "Data_Skill_Stamets_Bridge_description",
-      "value": "宇宙艦隊が<color=#01e2ff>+10%</color>のテックを獲得する。"
+      "value": "宇宙艦隊が<color=#01e2ff>+5%</color> テックを得る。"
     },
     {
       "key": "Data_Skill_Stamets_Bridge_displayName",
@@ -21672,7 +23820,7 @@
     },
     {
       "key": "Data_Skill_Tilly_Bridge_description",
-      "value": "機関部が<color=#01e2ff>+10%</color>の防御力を獲得する。"
+      "value": "宇宙艦隊が<color=#01e2ff>+5%</color> 防御力を得る。"
     },
     {
       "key": "Data_Skill_Tilly_Bridge_displayName",
@@ -21736,11 +23884,11 @@
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_description_level1",
-      "value": "味方全体に<color=#01e2ff>クローク</color>の効果(3ターン有効)。"
+      "value": "味方全体に<color=#01e2ff>クローク</color>の効果(3ターン有効。味方が<color=#01e2ff>ロミュラン</color>なら<color=#01e2ff>士気+1</color>)。"
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_description_level2",
-      "value": "味方全体に<color=#01e2ff>クローク</color>、<color=#01e2ff>クレンズ</color>の効果(3ターン有効)"
+      "value": "味方全体に<color=#01e2ff>クローク</color>と<color=#01e2ff>クレンズ</color>の効果(3ターン有効。味方が<color=#01e2ff>ロミュラン</color>なら<color=#01e2ff>士気+2</color>)。"
     },
     {
       "key": "Data_Skill_Tomalak_Skill1_displayName",
@@ -21748,11 +23896,11 @@
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_description_level1",
-      "value": "敵1体に<color=#01e2ff>士気-1</color>、<color=#01e2ff>防御力低下</color>の効果(3ターン有効)。<color=#01e2ff>次のターン</color>: <color=#01e2ff>200%のダメージ</color>を与える(敵の<color=#01e2ff>士気</color>が0を下回っていれば<color=#01e2ff>300%のダメージ</color>)"
+      "value": "敵全体に<color=#01e2ff>200%のテックダメージ</color>を与えて、<color=#01e2ff>士気-1</color>になる。"
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_description_level2",
-      "value": "敵1体に<color=#01e2ff>士気-2</color>、<color=#01e2ff>防御力低下・大</color>の効果(3ターン有効)。<color=#01e2ff>次のターン</color>: <color=#01e2ff>300%のダメージ</color>を与える(敵の<color=#01e2ff>士気</color>が0を下回っていれば<color=#01e2ff>450%のダメージ</color>)"
+      "value": "敵全体に<color=#01e2ff>300%のテックダメージ</color>を与えて、<color=#01e2ff>士気-2</color>になる。"
     },
     {
       "key": "Data_Skill_Tomalak_Skill2_displayName",
@@ -21772,7 +23920,7 @@
     },
     {
       "key": "Data_Skill_Torchbearer_Bridge_description",
-      "value": "クリンゴンが<color=#01e2ff>+10%</color>の意志力を獲得する。"
+      "value": "クリンゴンが<color=#01e2ff>+5%</color> 意志力を得る。"
     },
     {
       "key": "Data_Skill_Torchbearer_Bridge_displayName",
@@ -21891,8 +24039,20 @@
       "value": "自制心"
     },
     {
+      "key": "Data_Skill_Troi_Attack_description_level1",
+      "value": "<color=#01e2ff>100%のダメージ</color>を与える"
+    },
+    {
+      "key": "Data_Skill_Troi_Attack_description_level2",
+      "value": "<color=#01e2ff>150%のダメージ</color>を与える"
+    },
+    {
       "key": "Data_Skill_Troi_Attack_displayName",
       "value": "フェイザー"
+    },
+    {
+      "key": "Data_Skill_Troi_Bridge_description",
+      "value": "宇宙艦隊が<color=#01e2ff>+5%</color> 意志力を得る。"
     },
     {
       "key": "Data_Skill_Tuvok_Attack_displayName",
@@ -25079,6 +27239,26 @@
       "value": "サプライボックスを発見"
     },
     {
+      "key": "News_Crew_Generic_Headline",
+      "value": "新しいクルー"
+    },
+    {
+      "key": "News_Episode_Generic_Headline",
+      "value": "新エピソード"
+    },
+    {
+      "key": "News_FactionEvent_Generic_Headline",
+      "value": "新勢力イベント"
+    },
+    {
+      "key": "News_SoloEvent_Generic_Headline",
+      "value": "新ソロイベント"
+    },
+    {
+      "key": "News_Update_Generic_Headline",
+      "value": "新アップデート"
+    },
+    {
       "key": "No Items Summoned",
       "value": "召喚されたアイテムなし"
     },
@@ -25652,43 +27832,43 @@
     },
     {
       "key": "shop_Gear_Command_Padd_Common",
-      "value": "レジェンダリーPADD：司令部"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Epic",
-      "value": "ベリーレアPADD：司令部"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Legendary",
-      "value": "エピックPADD：司令部"
-    },
-    {
-      "key": "shop_Gear_Command_Padd_Rare",
       "value": "コモンPADD：司令部"
     },
     {
-      "key": "shop_Gear_Command_Padd_VeryRare",
+      "key": "shop_Gear_Command_Padd_Epic",
+      "value": "エピックPADD：司令部"
+    },
+    {
+      "key": "shop_Gear_Command_Padd_Legendary",
+      "value": "レジェンダリーPADD：司令部"
+    },
+    {
+      "key": "shop_Gear_Command_Padd_Rare",
       "value": "レアPADD：司令部"
     },
     {
+      "key": "shop_Gear_Command_Padd_VeryRare",
+      "value": "ベリーレアPADD：司令部"
+    },
+    {
       "key": "shop_Gear_Command_Phaser_Common",
-      "value": "レジェンダリー・タイプ2フェイザー：司令部"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Epic",
-      "value": "ベリーレア・タイプ2フェイザー：司令部"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Legendary",
-      "value": "エピック・タイプ2フェイザー：司令部"
-    },
-    {
-      "key": "shop_Gear_Command_Phaser_Rare",
       "value": "コモン・タイプ2フェイザー:司令部"
     },
     {
-      "key": "shop_Gear_Command_Phaser_VeryRare",
+      "key": "shop_Gear_Command_Phaser_Epic",
+      "value": "エピック・タイプ2フェイザー：司令部"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_Legendary",
+      "value": "レジェンダリー・タイプ2フェイザー：司令部"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_Rare",
       "value": "レア・タイプ2フェイザー:司令部"
+    },
+    {
+      "key": "shop_Gear_Command_Phaser_VeryRare",
+      "value": "ベリーレア・タイプ2フェイザー：司令部"
     },
     {
       "key": "shop_Gear_Command_Tricorder_Common",
@@ -25732,43 +27912,43 @@
     },
     {
       "key": "shop_Gear_Engineer_Padd_Common",
-      "value": "レジェンダリーPADD：機関部"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Epic",
-      "value": "ベリーレアPADD：機関部"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Legendary",
-      "value": "エピックPADD：機関部"
-    },
-    {
-      "key": "shop_Gear_Engineer_Padd_Rare",
       "value": "コモンPADD：機関部"
     },
     {
-      "key": "shop_Gear_Engineer_Padd_VeryRare",
+      "key": "shop_Gear_Engineer_Padd_Epic",
+      "value": "エピックPADD：機関部"
+    },
+    {
+      "key": "shop_Gear_Engineer_Padd_Legendary",
+      "value": "レジェンダリーPADD：機関部"
+    },
+    {
+      "key": "shop_Gear_Engineer_Padd_Rare",
       "value": "レアPADD：機関部"
     },
     {
+      "key": "shop_Gear_Engineer_Padd_VeryRare",
+      "value": "ベリーレアPADD：機関部"
+    },
+    {
       "key": "shop_Gear_Engineer_Phaser_Common",
-      "value": "レジェンダリー・タイプ2フェイザー：機関部"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Epic",
-      "value": "ベリーレア・タイプ2フェイザー：機関部"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Legendary",
-      "value": "エピック・タイプ2フェイザー：機関部"
-    },
-    {
-      "key": "shop_Gear_Engineer_Phaser_Rare",
       "value": "コモン・タイプ2フェイザー:機関部"
     },
     {
-      "key": "shop_Gear_Engineer_Phaser_VeryRare",
+      "key": "shop_Gear_Engineer_Phaser_Epic",
+      "value": "エピック・タイプ2フェイザー：機関部"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_Legendary",
+      "value": "レジェンダリー・タイプ2フェイザー：機関部"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_Rare",
       "value": "レア・タイプ2フェイザー:機関部"
+    },
+    {
+      "key": "shop_Gear_Engineer_Phaser_VeryRare",
+      "value": "ベリーレア・タイプ2フェイザー：機関部"
     },
     {
       "key": "shop_Gear_Engineer_Tricorder_Common",
@@ -25812,43 +27992,43 @@
     },
     {
       "key": "shop_Gear_Medic_Padd_Common",
-      "value": "レジェンダリーPADD：医療部"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Epic",
-      "value": "ベリーレアPADD：医療部"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Legendary",
-      "value": "エピックPADD：医療部"
-    },
-    {
-      "key": "shop_Gear_Medic_Padd_Rare",
       "value": "コモンPADD：医療部"
     },
     {
-      "key": "shop_Gear_Medic_Padd_VeryRare",
+      "key": "shop_Gear_Medic_Padd_Epic",
+      "value": "エピックPADD：医療部"
+    },
+    {
+      "key": "shop_Gear_Medic_Padd_Legendary",
+      "value": "レジェンダリーPADD：医療部"
+    },
+    {
+      "key": "shop_Gear_Medic_Padd_Rare",
       "value": "レアPADD：医療部"
     },
     {
+      "key": "shop_Gear_Medic_Padd_VeryRare",
+      "value": "ベリーレアPADD：医療部"
+    },
+    {
       "key": "shop_Gear_Medic_Phaser_Common",
-      "value": "レジェンダリー・タイプ2フェイザー：医療部"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Epic",
-      "value": "ベリーレア・タイプ2フェイザー：医療部"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Legendary",
-      "value": "エピック・タイプ2フェイザー：医療部"
-    },
-    {
-      "key": "shop_Gear_Medic_Phaser_Rare",
       "value": "コモン・タイプ2フェイザー:医療部"
     },
     {
-      "key": "shop_Gear_Medic_Phaser_VeryRare",
+      "key": "shop_Gear_Medic_Phaser_Epic",
+      "value": "エピック・タイプ2フェイザー：医療部"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_Legendary",
+      "value": "レジェンダリー・タイプ2フェイザー：医療部"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_Rare",
       "value": "レア・タイプ2フェイザー:医療部"
+    },
+    {
+      "key": "shop_Gear_Medic_Phaser_VeryRare",
+      "value": "ベリーレア・タイプ2フェイザー：医療部"
     },
     {
       "key": "shop_Gear_Medic_Tricorder_Common",
@@ -25892,43 +28072,43 @@
     },
     {
       "key": "shop_Gear_Science_Padd_Common",
-      "value": "レジェンダリーPADD：科学部"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Epic",
-      "value": "ベリーレアPADD：科学部"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Legendary",
-      "value": "エピックPADD：科学部"
-    },
-    {
-      "key": "shop_Gear_Science_Padd_Rare",
       "value": "コモンPADD：科学部"
     },
     {
-      "key": "shop_Gear_Science_Padd_VeryRare",
+      "key": "shop_Gear_Science_Padd_Epic",
+      "value": "エピックPADD：科学部"
+    },
+    {
+      "key": "shop_Gear_Science_Padd_Legendary",
+      "value": "レジェンダリーPADD：科学部"
+    },
+    {
+      "key": "shop_Gear_Science_Padd_Rare",
       "value": "レアPADD：科学部"
     },
     {
+      "key": "shop_Gear_Science_Padd_VeryRare",
+      "value": "ベリーレアPADD：科学部"
+    },
+    {
       "key": "shop_Gear_Science_Phaser_Common",
-      "value": "レジェンダリー・タイプ2フェイザー：科学部"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Epic",
-      "value": "ベリーレア・タイプ2フェイザー：科学部"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Legendary",
-      "value": "エピック・タイプ2フェイザー：科学部"
-    },
-    {
-      "key": "shop_Gear_Science_Phaser_Rare",
       "value": "コモン・タイプ2フェイザー:科学部"
     },
     {
-      "key": "shop_Gear_Science_Phaser_VeryRare",
+      "key": "shop_Gear_Science_Phaser_Epic",
+      "value": "エピック・タイプ2フェイザー：科学部"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_Legendary",
+      "value": "レジェンダリー・タイプ2フェイザー：科学部"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_Rare",
       "value": "レア・タイプ2フェイザー:科学部"
+    },
+    {
+      "key": "shop_Gear_Science_Phaser_VeryRare",
+      "value": "ベリーレア・タイプ2フェイザー：科学部"
     },
     {
       "key": "shop_Gear_Science_Tricorder_Common",
@@ -27139,6 +29319,10 @@
       "value": "タップして続行"
     },
     {
+      "key": "UI_CaptainLog_Panel_FooterNote_TapToContinue_Click",
+      "value": "クリックして続行"
+    },
+    {
       "key": "UI_CaptainLog_Panel_FooterNote_TapToContinue_Gamepad",
       "value": "{0} で続行"
     },
@@ -27205,6 +29389,10 @@
     {
       "key": "UI_Common_Advance",
       "value": "タップして前進"
+    },
+    {
+      "key": "UI_Common_Advance_Click",
+      "value": "クリックして前進"
     },
     {
       "key": "UI_Common_Advance_Gamepad",
@@ -27311,6 +29499,10 @@
       "value": "エピソード6"
     },
     {
+      "key": "UI_Common_Missions_EpisodeIdentifier_07",
+      "value": "エピソード7"
+    },
+    {
       "key": "UI_Common_New",
       "value": "最新"
     },
@@ -27359,6 +29551,10 @@
       "value": "タップして戻る"
     },
     {
+      "key": "UI_Common_Return_Click",
+      "value": "クリックして戻る"
+    },
+    {
       "key": "UI_Common_Return_Gamepad",
       "value": "{0} で戻る"
     },
@@ -27379,12 +29575,20 @@
       "value": "タップしてスタート"
     },
     {
+      "key": "UI_Common_Start_Click",
+      "value": "クリックしてスタート"
+    },
+    {
       "key": "UI_Common_Start_Gamepad",
       "value": "{0} で開始"
     },
     {
       "key": "UI_Common_TapToClose",
       "value": "タップして閉じる"
+    },
+    {
+      "key": "UI_Common_TapToClose_Click",
+      "value": "クリックして閉じる"
     },
     {
       "key": "UI_Common_TapToClose_Gamepad",
@@ -27607,6 +29811,30 @@
       "value": "彼らの一人が古代の言語でこう言った：『来るのです。彼を追ってリアリティ機関まで行かなければ。』"
     },
     {
+      "key": "UI_Cutscene_Episode7_Text1",
+      "value": "ドリームレスをリアリティ機関から撤退させた。奴らの計画を阻止した。"
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text2",
+      "value": "しかしながら、ドリームレスのリーダーは機関メインフレームから、ネクサスへ災いを及ぼしかねない秘密を知った。"
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text3",
+      "value": "管理者は未知の場所へと急ぐ中、ドリームレスの動きを追跡するための地図を示す。"
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text4",
+      "value": "地図のあちこちにドリームレスの破壊工作が示されており、次の目的地が一目見て分かるようになっている。"
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text5",
+      "value": "それは、あまりにも大きなミスであり、後に残された小さなミスなど消し飛んでしまうほどであった。"
+    },
+    {
+      "key": "UI_Cutscene_Episode7_Text6",
+      "value": "不安が搔き立てられる中、あなたは決意を強固にし、アルテミス号に敵の目的地へと直行するよう指示を出す。"
+    },
+    {
       "key": "UI_DailyChest_Claim",
       "value": "レプリケーター を受け取る"
     },
@@ -27685,6 +29913,14 @@
     {
       "key": "UI_EncounterPreview_Title",
       "value": "戦闘アラート！"
+    },
+    {
+      "key": "UI_Episode_MissionNotAvailable_Body",
+      "value": "このミッションをアンロックするには、一つ前の難易度でこのミッションをクリアしなければいけません。"
+    },
+    {
+      "key": "UI_Episode_MissionNotAvailable_Title",
+      "value": "ミッションはロック中"
     },
     {
       "key": "UI_Error_ChangeName",
@@ -28053,6 +30289,10 @@
     {
       "key": "UI_Generic_TodaysGoals",
       "value": "今日の目標クリア！"
+    },
+    {
+      "key": "UI_Glossary_Header",
+      "value": "用語集"
     },
     {
       "key": "UI_GoTo_Achievements",
@@ -28703,6 +30943,10 @@
       "value": "プレイヤーレベル{0}でアンロックされます。"
     },
     {
+      "key": "UI_Menu_TooltipLocked_News_Title",
+      "value": "ニュース(ロック中)"
+    },
+    {
       "key": "UI_Menu_TooltipLocked_Operations_Title",
       "value": "任務(ロック中)"
     },
@@ -28813,6 +31057,10 @@
     {
       "key": "UI_Mission_Popup_Replay",
       "value": "リプレイ"
+    },
+    {
+      "key": "UI_Mission_PopupNotAvailableSecondary_Message",
+      "value": "このエピソードをアンロックするには、一つ前の難易度でこのエピソードをクリアしなければいけません。"
     },
     {
       "key": "ui_mission_result_completion_percent",
@@ -28943,6 +31191,14 @@
       "value": "通知設定を管理するには、システム設定メニューを開いて下さい。"
     },
     {
+      "key": "UI_OnlineMode_Body",
+      "value": "オンラインモードに切り替え"
+    },
+    {
+      "key": "UI_OnlineMode_Title",
+      "value": "オンラインモード"
+    },
+    {
       "key": "UI_Operations_EventPointTotal",
       "value": "合計ポイント： {0}"
     },
@@ -28967,6 +31223,22 @@
       "value": "言語"
     },
     {
+      "key": "UI_Options_LocalKey_High",
+      "value": "高"
+    },
+    {
+      "key": "UI_Options_LocalKey_Low",
+      "value": "低"
+    },
+    {
+      "key": "UI_Options_LocalKey_Medium",
+      "value": "中"
+    },
+    {
+      "key": "UI_Options_LocalKey_VeryLow",
+      "value": "極低"
+    },
+    {
       "key": "UI_Options_Music_Off",
       "value": "音楽オフ"
     },
@@ -28977,6 +31249,10 @@
     {
       "key": "UI_Options_PlayerId",
       "value": "プレイヤーID"
+    },
+    {
+      "key": "UI_Options_QualitySettings",
+      "value": "品質設定"
     },
     {
       "key": "UI_Options_ResetPlayerProgressButton",
@@ -29237,6 +31513,14 @@
     {
       "key": "UI_Popup_FleeBattleConfirmation_Challenges",
       "value": "この戦闘から逃げますか？撤退すると、任務挑戦数を消費することになります。"
+    },
+    {
+      "key": "UI_Popup_iCloudSaveConflict_Body",
+      "value": "ローカルとiCloudの進行度の間で競合が発生しています。現在の進行度で続行してiCloudの進行度に上書きしますか？それともゲームを再起動してiCloudの進行度を読み込みますか？"
+    },
+    {
+      "key": "UI_Popup_iCloudSaveConflict_Title",
+      "value": "iCLOUD保存ファイルの競合"
     },
     {
       "key": "UI_Popup_InvalidState_Body",
@@ -30055,6 +32339,10 @@
       "value": "タップして探査チームに追加します。"
     },
     {
+      "key": "UI_Tutorial_ToolTip_Add4thMemberGeneric_Click",
+      "value": "クリックして探査チームに追加します。"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_Add4thMemberGeneric_Gamepad",
       "value": "{0} で探査チームに追加する。"
     },
@@ -30065,6 +32353,10 @@
     {
       "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton",
       "value": "タップして戦闘に進む"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton_Click",
+      "value": "クリックして戦闘に進む"
     },
     {
       "key": "UI_Tutorial_ToolTip_AdvanceToCombat_EngageButton_Gamepad",
@@ -30087,6 +32379,10 @@
       "value": "タップして前進"
     },
     {
+      "key": "UI_Tutorial_ToolTip_ContinueButton_Click",
+      "value": "クリックして前進"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_ContinueButton_Gamepad",
       "value": "{0} で前進"
     },
@@ -30095,12 +32391,20 @@
       "value": "タップして次の <color=#fff15c>宇宙艦隊指令</color>に進みます"
     },
     {
+      "key": "UI_Tutorial_ToolTip_Directives_Click",
+      "value": "クリックして次の <color=#fff15c>宇宙艦隊指令</color>に進みます"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_Directives_Gamepad",
       "value": "{0} で次の <color=#fff15c>宇宙艦隊指令</color>"
     },
     {
       "key": "UI_Tutorial_ToolTip_Disable",
       "value": "ウォーフの喊声を使用するには タップしてください"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_Disable_Click",
+      "value": "ウォーフの喊声を使用するには クリックしてください"
     },
     {
       "key": "UI_Tutorial_ToolTip_Disable_Gamepad",
@@ -30163,6 +32467,10 @@
       "value": "タップしてブリッジクルーを変更します"
     },
     {
+      "key": "UI_Tutorial_ToolTip_TapCrewButton_Click",
+      "value": "クリックしてブリッジクルーを変更します"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_TapCrewButton_Gamepad",
       "value": "{0} でブリッジクルーを変更"
     },
@@ -30195,6 +32503,10 @@
       "value": "タップして次のミッションへ進みます"
     },
     {
+      "key": "UI_Tutorial_ToolTip_TapMissionFrame_Click",
+      "value": "クリックして次のミッションへ進みます"
+    },
+    {
       "key": "UI_Tutorial_ToolTip_TapMissionFrame_Gamepad",
       "value": "{0} で次のミッション"
     },
@@ -30209,6 +32521,10 @@
     {
       "key": "UI_Tutorial_ToolTip_TapToAttack",
       "value": "タップして攻撃してください！"
+    },
+    {
+      "key": "UI_Tutorial_ToolTip_TapToAttack_Click",
+      "value": "クリックして攻撃してください！"
     },
     {
       "key": "UI_Tutorial_ToolTip_TapToAttack_Gamepad",
@@ -30243,5 +32559,5 @@
       "value": "士気コンボ"
     }
   ],
-  "_PathID": "1453"
+  "_PathID": "1454"
 }

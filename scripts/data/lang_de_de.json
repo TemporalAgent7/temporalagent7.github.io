@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": "-1649100671315775696"
+    "m_FileID": 1,
+    "m_PathID": "1301"
   },
   "m_Name": "lang_de_de",
   "List": [
@@ -11368,7 +11368,7 @@
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m1_story01_01",
-      "value": "Dieser Ort erinnert mich an klingonische Geschichten, die ich in meiner Jugend gehört habe. Die Hallen von Sto-Ko-Vor, in denen Krieger bis in alle Ewigkeit kämpfen."
+      "value": "Dieser Ort erinnert mich an klingonische Geschichten, die ich in meiner Jugend gehört habe. Die Hallen von Sto-Vo-Kor, in denen Krieger bis in alle Ewigkeit kämpfen."
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m1_story01_02",
@@ -21027,6 +21027,10 @@
       "value": "Phaser"
     },
     {
+      "key": "Data_Skill_Chekov_Bridge_description",
+      "value": "Sternenflotte erhalten <color=#01e2ff>+5%</color> Angriff."
+    },
+    {
       "key": "Data_Skill_Crusher_Attack_description_level1",
       "value": "Fügt <color=#01e2ff>100 % Schaden</color> zu."
     },
@@ -21272,7 +21276,7 @@
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_description_level1",
-      "value": "Fügt <color=#01e2ff>150 % Tech-Schaden</color> zu."
+      "value": "Fügt <color=#01e2ff>100 % Tech-Schaden</color> zu."
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_displayName",
@@ -21372,7 +21376,7 @@
     },
     {
       "key": "Data_Skill_Elnor_Bridge_description",
-      "value": "Erhält <color=#01e2ff>+5 %</color> Verteidigung."
+      "value": "Erhalte <color=#01e2ff>+3%</color> Verteidigung."
     },
     {
       "key": "Data_Skill_Elnor_Bridge_displayName",
@@ -21421,6 +21425,10 @@
     {
       "key": "Data_Skill_Garak_Attack_description_level2",
       "value": "Fügt <color=#01e2ff>150 % Schaden</color> zu."
+    },
+    {
+      "key": "Data_Skill_Garak_Bridge_description",
+      "value": "Erhalte <color=#01e2ff>+5%</color> Krit. Chance."
     },
     {
       "key": "Data_Skill_GenBorgEng01M_Attack_description_level1",
@@ -23083,6 +23091,18 @@
       "value": "Picard-Manöver"
     },
     {
+      "key": "Data_Skill_PicardDixon_Attack_description_level1",
+      "value": "Fügt <color=#01e2ff>100 % Schaden</color> zu."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Attack_description_level2",
+      "value": "Fügt <color=#01e2ff>150 % Schaden</color> zu."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Bridge_description",
+      "value": "Sternenflotte erhalten <color=#01e2ff>+5%</color> Angriff."
+    },
+    {
       "key": "Data_Skill_PicardOld_Attack_description_level1",
       "value": "Fügt <color=#01e2ff>2 x 50 % Schaden</color> zu."
     },
@@ -23656,7 +23676,7 @@
     },
     {
       "key": "Data_Skill_Stamets_Bridge_description",
-      "value": "Die Sternenflotte erhält <color=#01e2ff>+10 %</color> Tech."
+      "value": "Sternenflotte erhalten <color=#01e2ff>+5%</color> Tech."
     },
     {
       "key": "Data_Skill_Stamets_Bridge_displayName",
@@ -23800,7 +23820,7 @@
     },
     {
       "key": "Data_Skill_Tilly_Bridge_description",
-      "value": "Ingenieurwesen erhält <color=#01e2ff>+10 %</color> Verteidigung."
+      "value": "Sternenflotte erhalten <color=#01e2ff>+5%</color> Verteidigung."
     },
     {
       "key": "Data_Skill_Tilly_Bridge_displayName",
@@ -24029,6 +24049,10 @@
     {
       "key": "Data_Skill_Troi_Attack_displayName",
       "value": "Phaser"
+    },
+    {
+      "key": "Data_Skill_Troi_Bridge_description",
+      "value": "Sternenflotte erhalten <color=#01e2ff>+5%</color> Entschlossenheit."
     },
     {
       "key": "Data_Skill_Tuvok_Attack_displayName",
@@ -32535,5 +32559,5 @@
       "value": "Moralkombo"
     }
   ],
-  "_PathID": "-8222449694885694346"
+  "_PathID": "1449"
 }

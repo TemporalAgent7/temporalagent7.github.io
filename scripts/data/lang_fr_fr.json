@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": "-1649100671315775696"
+    "m_FileID": 1,
+    "m_PathID": "1301"
   },
   "m_Name": "lang_fr_fr",
   "List": [
@@ -11368,7 +11368,7 @@
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m1_story01_01",
-      "value": "Cet endroit me rappelle les contes klingons de mon enfance. Les salles de Sto-Ko-Vor, où les guerriers s'affrontent pour l'éternité."
+      "value": "Cet endroit me rappelle les contes klingons de mon enfance. Les salles de Sto-Vo-Kor, où les guerriers s'affrontent pour l'éternité."
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m1_story01_02",
@@ -21027,6 +21027,10 @@
       "value": "Phaseur"
     },
     {
+      "key": "Data_Skill_Chekov_Bridge_description",
+      "value": "Starfleet : obtiennent <color=#01e2ff>+5%</color> de Attaque."
+    },
+    {
       "key": "Data_Skill_Crusher_Attack_description_level1",
       "value": "Infligez <color=#01e2ff>100 % de dégâts</color>."
     },
@@ -21272,7 +21276,7 @@
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_description_level1",
-      "value": "Infligez <color=#01e2ff>150 % de dégâts de Tech</color>."
+      "value": "Infligez <color=#01e2ff>100 % de dégâts de Tech</color>."
     },
     {
       "key": "Data_Skill_DreamlessB_Boss_Attack_displayName",
@@ -21372,7 +21376,7 @@
     },
     {
       "key": "Data_Skill_Elnor_Bridge_description",
-      "value": "Gagne <color=#01e2ff>+5 %</color> de Défense."
+      "value": "Obtenez <color=#01e2ff>+3%</color> de Défense."
     },
     {
       "key": "Data_Skill_Elnor_Bridge_displayName",
@@ -21421,6 +21425,10 @@
     {
       "key": "Data_Skill_Garak_Attack_description_level2",
       "value": "Infligez <color=#01e2ff>150 % de dégâts</color>."
+    },
+    {
+      "key": "Data_Skill_Garak_Bridge_description",
+      "value": "Obtenez <color=#01e2ff>+5%</color> de Chance de CRIT."
     },
     {
       "key": "Data_Skill_GenBorgEng01M_Attack_description_level1",
@@ -23083,6 +23091,18 @@
       "value": "Manœuvre de Picard"
     },
     {
+      "key": "Data_Skill_PicardDixon_Attack_description_level1",
+      "value": "Infligez <color=#01e2ff>100 % de dégâts</color>."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Attack_description_level2",
+      "value": "Infligez <color=#01e2ff>150 % de dégâts</color>."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Bridge_description",
+      "value": "Starfleet : obtiennent <color=#01e2ff>+5%</color> de Attaque."
+    },
+    {
       "key": "Data_Skill_PicardOld_Attack_description_level1",
       "value": "Infligez <color=#01e2ff>2 x 50 % de dégâts</color>."
     },
@@ -23656,7 +23676,7 @@
     },
     {
       "key": "Data_Skill_Stamets_Bridge_description",
-      "value": "La Tech des membres de Starfleet augmente de <color=#01e2ff>+10 %</color>."
+      "value": "Starfleet : obtiennent <color=#01e2ff>+5%</color> de Tech."
     },
     {
       "key": "Data_Skill_Stamets_Bridge_displayName",
@@ -23800,7 +23820,7 @@
     },
     {
       "key": "Data_Skill_Tilly_Bridge_description",
-      "value": "Mécanique gagne <color=#01e2ff>+10 %</color> de Défense."
+      "value": "Starfleet : obtiennent <color=#01e2ff>+5%</color> de Défense."
     },
     {
       "key": "Data_Skill_Tilly_Bridge_displayName",
@@ -24029,6 +24049,10 @@
     {
       "key": "Data_Skill_Troi_Attack_displayName",
       "value": "Phaseur"
+    },
+    {
+      "key": "Data_Skill_Troi_Bridge_description",
+      "value": "Starfleet : obtiennent <color=#01e2ff>+5%</color> de Détermination."
     },
     {
       "key": "Data_Skill_Tuvok_Attack_displayName",
@@ -32535,5 +32559,5 @@
       "value": "Combo de Moral"
     }
   ],
-  "_PathID": "-9188854305059880776"
+  "_PathID": "1452"
 }
