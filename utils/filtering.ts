@@ -60,6 +60,53 @@ export function characterMatchesSearchFilter(character: any, filters: any[], fil
 	return meetsAnyCondition;
 }
 
+// TODO: refactor to share with characterMatchesSearchFilter
+export function characterProfileMatchesSearchFilter(character: any, filters: any[], filterType: string) {
+	if (filters.length == 0)
+		return true;
+
+	const filterTypes = {
+		'Exact': (input: string, searchString: string) => input.toLowerCase() == searchString.toLowerCase(),
+		'Whole word': (input: string, searchString: string) => new RegExp('\\b' + searchString + '\\b', 'i').test(input),
+		'Any match': (input: string, searchString: string) => input.toLowerCase().indexOf(searchString.toLowerCase()) >= 0
+	};
+	const matchesFilter = filterTypes[filterType];
+	let meetsAnyCondition = false;
+
+	for (let filter of filters) {
+		let meetsAllConditions = true;
+		if (filter.conditionArray.length === 0) {
+			// text search only
+			for (let segment of filter.textSegments) {
+				let segmentResult =
+					matchesFilter(character.name, segment.text);
+				meetsAllConditions = meetsAllConditions && (segment.negated ? !segmentResult : segmentResult);
+			}
+		} else {
+			let rarities = [];
+			for (let condition of filter.conditionArray) {
+				let conditionResult = true;
+				if (condition.keyword === 'name') {
+					conditionResult = matchesFilter(character.locName, condition.value);
+				}
+				meetsAllConditions = meetsAllConditions && (condition.negated ? !conditionResult : conditionResult);
+			}
+
+			for (let segment of filter.textSegments) {
+				let segmentResult =
+					matchesFilter(character.name, segment.text);
+				meetsAllConditions = meetsAllConditions && (segment.negated ? !segmentResult : segmentResult);
+			}
+		}
+		if (meetsAllConditions) {
+			meetsAnyCondition = true;
+			break;
+		}
+	}
+
+	return meetsAnyCondition;
+}
+
 // TODO: smarter?
 export function itemMatchesSearchFilter(character: any, filters: any[], filterType: string) {
 	if (filters.length == 0)

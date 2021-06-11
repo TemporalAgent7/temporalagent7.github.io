@@ -151,3 +151,16 @@ export async function getGearIcons() {
 	const fileContents = await fs.readFile(path.join(dataDirectory, 'GSGear.json'), 'utf8');
 	return JSON.parse(fileContents);
 }
+
+export async function getLevels() {
+	const dataDirectory = path.join(process.cwd(), 'scripts', 'data');
+	const fileContents = await fs.readFile(path.join(dataDirectory, 'GSLevel.json'), 'utf8');
+	let levels = JSON.parse(fileContents);
+
+	let allLevels = {};
+	for (const levelId in levels) {
+		allLevels[levels[levelId].Level] = levels[levelId].Experience;
+	}
+
+	return allLevels;
+}

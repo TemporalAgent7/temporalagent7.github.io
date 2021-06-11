@@ -6,12 +6,12 @@ import { FileDrop } from 'react-file-drop';
 import FixedMenuLayout from '../components/FixedMenuLayout';
 
 import { getAllPosts } from '../utils/wiki';
-import { getGearIcons, getCharactersStaticProps } from '../utils/ssr';
+import { getGearIcons, getCharactersStaticProps, getLevels } from '../utils/ssr';
 import { parse } from '../utils/parser';
 
 import { PlayerDataDisplay } from '../components/PlayerDataDisplay';
 
-const ToolsPage = ({ allPosts, gearIcons, allCharacters }) => {
+const ToolsPage = ({ allPosts, gearIcons, levels, allCharacters }) => {
 	const [playerData, setPlayerData] = useState(undefined);
 	const [sharedId, setSharedId] = useState(undefined);
 	const [captainName, setCaptainName] = useState('Captain');
@@ -105,7 +105,7 @@ const ToolsPage = ({ allPosts, gearIcons, allCharacters }) => {
 					</div>
 				)}
 
-				{playerData && <PlayerDataDisplay playerData={playerData} gearIcons={gearIcons} allCharacters={allCharacters} />}
+				{playerData && <PlayerDataDisplay levels={levels} playerData={playerData} gearIcons={gearIcons} allCharacters={allCharacters} />}
 			</FixedMenuLayout>
 		</div>
 	);
@@ -117,6 +117,7 @@ export async function getStaticProps() {
 	return {
 		props: {
 			allPosts: getAllPosts(['title', 'slug']),
+			levels: await getLevels(),
 			gearIcons: await getGearIcons(),
 			allCharacters: (await getCharactersStaticProps()).characters
 		}

@@ -2,6 +2,7 @@ import React from 'react';
 import { Header, Table, Statistic, Image } from 'semantic-ui-react';
 
 import { SearchableTable, ITableConfigRow } from '../components/searchabletable';
+import { characterProfileMatchesSearchFilter } from '../utils/filtering';
 
 const AccessoryDisplay = ({ playerData, index }) => {
 	if (index == 0) {
@@ -120,6 +121,7 @@ const accessoryTableConfig: ITableConfigRow[] = [
 const characterTableConfig: ITableConfigRow[] = [
 	{ width: 3, column: 'name', title: 'Character' },
 	{ width: 1, column: 'xp', title: 'Xp' },
+	{ width: 1, column: 'level', title: 'Level' },
 	{ width: 1, column: 'rank', title: 'Rank' },
 	{ width: 1, column: 'power', title: 'Power' },
 	{ width: 1, column: 'shards', title: 'Shards' },
@@ -150,7 +152,7 @@ const filterStat = (stat, index: number, accessoryid: string, level: number) => 
 	}
 };
 
-export const PlayerDataDisplay = ({ playerData, gearIcons, allCharacters }) => {
+export const PlayerDataDisplay = ({ playerData, gearIcons, levels, allCharacters }) => {
 	let gearTableData = playerData
 		? Object.keys(playerData.gears).map((gearId) => ({
 				gearId,
@@ -159,6 +161,16 @@ export const PlayerDataDisplay = ({ playerData, gearIcons, allCharacters }) => {
 				char: gearCharacterAssignment(playerData, gearId)
 		  }))
 		: [];
+
+	const levelFromXp = (xp: number) => {
+		let lastLevel = 1;
+		for (let l in levels) {
+			if (xp >= levels[l]) {
+				lastLevel = Number.parseInt(l);
+			}
+		}
+		return lastLevel;
+	};
 
 	let accessoryTableData = playerData
 		? Object.keys(playerData.accessories).map((accessoryId) => ({
@@ -193,6 +205,7 @@ export const PlayerDataDisplay = ({ playerData, gearIcons, allCharacters }) => {
 				char,
 				name: char,
 				xp: playerData.units[char].xp,
+				level: levelFromXp(playerData.units[char].xp),
 				rank: playerData.units[char].rank,
 				power: playerData.units[char].power,
 				shards: (playerData.items && playerData.items[char]) || 0,
@@ -291,7 +304,7 @@ export const PlayerDataDisplay = ({ playerData, gearIcons, allCharacters }) => {
 			<Header as='h3'>Characters</Header>
 
 			<SearchableTable
-				id='tools_gears'
+				id='tools_chars'
 				data={characterTableData}
 				config={characterTableConfig}
 				renderTableRow={(character) => (
@@ -300,6 +313,7 @@ export const PlayerDataDisplay = ({ playerData, gearIcons, allCharacters }) => {
 							<CharacterRender char={character.char} allCharacters={allCharacters} />
 						</Table.Cell>
 						<Table.Cell>{character.xp}</Table.Cell>
+						<Table.Cell>{character.level}</Table.Cell>
 						<Table.Cell>{character.rank}</Table.Cell>
 						<Table.Cell>{character.power}</Table.Cell>
 						<Table.Cell>{character.shards}</Table.Cell>
@@ -325,7 +339,7 @@ export const PlayerDataDisplay = ({ playerData, gearIcons, allCharacters }) => {
 					</Table.Row>
 				)}
 				showFilterOptions={false}
-				filterRow={(gear, filter, filterType) => true}
+				filterRow={(character, filter, filterType) => characterProfileMatchesSearchFilter(character, filter, filterType)}
 			/>
 
 			<Header as='h3'>Mission completion</Header>

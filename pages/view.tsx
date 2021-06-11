@@ -5,11 +5,11 @@ import { Header } from 'semantic-ui-react';
 import FixedMenuLayout from '../components/FixedMenuLayout';
 
 import { getAllPosts } from '../utils/wiki';
-import { getGearIcons, getCharactersStaticProps } from '../utils/ssr';
+import { getGearIcons, getCharactersStaticProps, getLevels } from '../utils/ssr';
 
 import { PlayerDataDisplay } from '../components/PlayerDataDisplay';
 
-const ViewPage = ({ allPosts, gearIcons, allCharacters }) => {
+const ViewPage = ({ allPosts, gearIcons, levels, allCharacters }) => {
 	const [playerData, setPlayerData] = useState(undefined);
 	const [errorState, setErrorState] = useState(undefined);
 
@@ -49,7 +49,7 @@ const ViewPage = ({ allPosts, gearIcons, allCharacters }) => {
 						<p>
 							Do you want to share your own profile here? If you have a macOS computer, you can do it <a href='/tools'>here</a>.
 						</p>
-						<PlayerDataDisplay playerData={playerData} gearIcons={gearIcons} allCharacters={allCharacters} />
+						<PlayerDataDisplay levels={levels} playerData={playerData} gearIcons={gearIcons} allCharacters={allCharacters} />
 					</>
 				)}
 			</FixedMenuLayout>
@@ -63,6 +63,7 @@ export async function getStaticProps() {
 	return {
 		props: {
 			allPosts: getAllPosts(['title', 'slug']),
+			levels: await getLevels(),
 			gearIcons: await getGearIcons(),
 			allCharacters: (await getCharactersStaticProps()).characters
 		}
