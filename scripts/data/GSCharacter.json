@@ -3629,7 +3629,7 @@
     "Description": "Data_Character_PicardDixon_description",
     "Rarity": "Legendary",
     "Role": "Command",
-    "Type": "Disabled",
+    "Type": "Normal",
     "Tags": [
       "Human",
       "Starfleet"

@@ -1439,6 +1439,10 @@
       "value": "Смотритель"
     },
     {
+      "key": "Common_Chang",
+      "value": "Генерал Чанг"
+    },
+    {
       "key": "Common_CharacterRole_All",
       "value": "Все"
     },
@@ -1825,6 +1829,10 @@
     {
       "key": "Common_FirstWord",
       "value": "Первое слово"
+    },
+    {
+      "key": "Common_Garak",
+      "value": "Элим Гарак"
     },
     {
       "key": "Common_GenGorn01",
@@ -2259,6 +2267,10 @@
       "value": "Пикар"
     },
     {
+      "key": "Common_PicardDixon",
+      "value": "Диксона Хилла"
+    },
+    {
       "key": "Common_Power",
       "value": "Сила"
     },
@@ -2535,6 +2547,10 @@
       "value": "Баджорец"
     },
     {
+      "key": "Common_Tag_Betazoid",
+      "value": "Бетазоид"
+    },
+    {
       "key": "Common_Tag_Borg",
       "value": "Борг"
     },
@@ -2739,6 +2755,14 @@
       "value": "Тританий"
     },
     {
+      "key": "Common_Troi",
+      "value": "Диана Трой"
+    },
+    {
+      "key": "Common_Tuvok",
+      "value": "Тувок"
+    },
+    {
       "key": "Common_Unknown",
       "value": "Неизвестно"
     },
@@ -2807,6 +2831,10 @@
       "value": "Бёрнем, приемная сестра Спока, служит на борту USS «Дискавери». Обладает блестящим умом, целеустремленностью и моральными принципами, иногда приводящими ее к конфликтам со старшими по званию."
     },
     {
+      "key": "Data_Character_Chang_description",
+      "value": "Клингонский воин-ветеран, соблюдающий традиции. С уважением относится к культуре землян. Однако его очень страшит гибель Клингонской империи в результате экспансии Федерации. Он готов сделать всё, чтобы это предотвратить."
+    },
+    {
       "key": "Data_Character_Chekov_description",
       "value": "Павел Чехов, будучи всесторонне развитой личностью, задействован в таких сферах, как безопасность, навигация и тактическая подготовка. Всегда пребывая в хорошем настроении, он добивается успеха во всем."
     },
@@ -2841,6 +2869,10 @@
     {
       "key": "Data_Character_Elnor_description",
       "value": "Элнор — ромуланец, выживший после взрыва сверхновой и эвакуированный на Вашти адмиралом Пикаром. Повзрослев, он стал единственным членом ордена боевых монахинь Коват Милат мужского пола. Благодаря их урокам он стал почти непревзойденным мастером боевого искусства."
+    },
+    {
+      "key": "Data_Character_Garak_description",
+      "value": "На первый взгляд, очень обходительный кардассианский портной, Гарак — бывший член Обсидианового ордена, секретной правительственной службы. Он искусный убийца, диверсант и непревзойденный шпион."
     },
     {
       "key": "Data_Character_GenBorgEng01M_description",
@@ -2999,6 +3031,10 @@
       "value": "Считается одним из величайших капитанов в истории Звездного флота. Капитан Пикар — известный тактик, мыслитель и дипломат, стремится отстаивать идеалы Федерации, невзирая на любые трудности."
     },
     {
+      "key": "Data_Character_PicardDixon_description",
+      "value": "Вымышленный невозмутимый детектив, в образе которого часто появлялся капитан Пикар на голопалубе «Энтерпрайз». Диксон искусен в бою и искушен в сердечных делах."
+    },
+    {
       "key": "Data_Character_Pike_description",
       "value": "Бывший капитан USS «Энтерпрайз». Добрый, порядочный человек, лишившийся голоса и прикованный к инвалидной коляске из-за ужасной травмы."
     },
@@ -3065,6 +3101,14 @@
     {
       "key": "Data_Character_TPol_description",
       "value": "Вулканский офицер, назначенная на USS «Энтерпрайз NX-01» во время исторической миссии знакомства человечества со звездами. Она спокойная и осмотрительная, при этом в ней есть стальной стержень, который хорошо послужил ее товарищам по кораблю."
+    },
+    {
+      "key": "Data_Character_Troi_description",
+      "value": "Наполовину бетазоид, эмпат, служившая на корабле «Энтерпрайз» под командованием капитана Пикара. Душевный, отзывчивый офицер, чья психологическая подготовка и природная способность понимать эмоции своих товарищей по кораблю делают ее идеальным советником."
+    },
+    {
+      "key": "Data_Character_Tuvok_description",
+      "value": "Третий по старшинству офицер USS «Вояджер» и начальник службы безопасности судна. Смертельно опасен в драке. Впрочем, его истинная сила заключается в его вулканском происхождении. Ему свойственны вдумчивость и логика, он рассматривает все возможные варианты развития событий."
     },
     {
       "key": "Data_Character_Uhura_description",
@@ -4185,6 +4229,166 @@
     {
       "key": "Data_GSCutSceneDialogue_captainsLogSupplemental_e5m6_01",
       "value": "<color=#FFCE00>Королева борг побеждена</color>, и еще один <color=#FFCE00>реактор Нексуса добыт</color>. Какие еще кошмары ждут экипаж в <color=#FFCE00>Нексусе</color>?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_01",
+      "value": "Я не вижу обломков, которые нам нужно исследовать. Лейтенант Ворф, доложите обстановку."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_02",
+      "value": "Коммандер Пайк, местоположение неизвестно. Признаков жизни не наблюдается, но будьте начеку."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_03",
+      "value": "Принимаю мощный энергетический сигнал. Источник расположен на востоке, примерно в пяти километрах от нашей позиции. Скорее всего, это наша цель."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_04",
+      "value": "На борту <i>Артемиды</i> собрались лучшие инженеры мира, а вы не можете телепортировать нас рядом с целью?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_05",
+      "value": "Погодите! Впереди!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_01",
+      "value": "Кажется, они отступили в туман."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_02",
+      "value": "А мне казалось, мы не наблюдали признаков жизни."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_03",
+      "value": "Любопытно. Может, трикодеры глючат?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_04",
+      "value": "А может, это Нексус с нами играет."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_05",
+      "value": "Идем дальше."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_01",
+      "value": "Впереди!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_02",
+      "value": "Опять ромулане?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_03",
+      "value": "Нет, кажется, на этот раз клингоны."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_04",
+      "value": "Попытаюсь с ними пообщаться. НукнеХ!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_05",
+      "value": "Они вытаскивают фазеры. Вы точно правильно всё сказали?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_06",
+      "value": "Доктор, они меня отлично поняли, они просто... не расположены к общению."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_01",
+      "value": "А теперь они пропали, как и ромулане. Тут что-то не так."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_02",
+      "value": "Это точно фокусы Нексуса."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_03",
+      "value": "Может быть. А может, и нет. Надо пару раз тут всё просканировать, но не факт, что дело в энергии этого измерения."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_04",
+      "value": "Пока вы заняты делом, нам нужно двигаться вперед. Мы близки к цели."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_01",
+      "value": "Смотрите, этот корабль наверняка и есть наша цель."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_02",
+      "value": "Не только мы его нашли. Получаю сигналы о дронах коллектива борг. Их тут полно."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_03",
+      "value": "Постойте, дело не только в Нексусе, тут еще чье-то влияние!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_04",
+      "value": "Доктор, я высоко ценю ваши научные изыскания, но всё же предлагаю сначала обезвредить противника, а ПОТОМ уже обсуждать ваши сведения!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_01",
+      "value": "Они исчезают, словно призраки, как и все остальные, кого мы тут встретили."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_02",
+      "value": "Они под чьим-то контролем. Во всех трех случаях мне удалось уловить другие сигналы."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_03",
+      "value": "Что-то происходит. И дело не только в силах Нексуса."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_04",
+      "value": "Совершенно верно. Вы ведь доктор Хью Калбер, верно?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_05",
+      "value": "Кто...?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_06",
+      "value": "А вы — Кристофер Пайк."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_07",
+      "value": "И Ворф, сын Мога."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_08",
+      "value": "А также Анника Хэнсен, Седьмая-из-девяти, Третичное Дополнение Униматрицы Ноль — Один."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_09",
+      "value": "Откуда вы знаете, кто мы?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_10",
+      "value": "У вас нет ни малейшего понятия о том, что такое Нексус, и лучше вам и дальше оставаться в неведении."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_11",
+      "value": "Мы вам не враги. Прекратите преследовать нас, иначе вы превратитесь в ничто, как и всё, что вас окружает."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_intro01_01",
+      "value": "Вы капитан <i>USS «Артемида»</i>, и вам предстоит исследовать загадочный Нексус."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_intro01_02",
+      "value": "Вам нужно пополнить запасы дилития, поэтому вы телепортируете группу высадки. Их цель — исследовать судно Федерации, брошенное на ближайшей к вам планете."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_01",
+      "value": "Их предупреждение всё еще звучит эхом у вас в голове. Странные существа обмениваются жестами."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_02",
+      "value": "Реальность будто бы вращается вокруг них, и вы считаете это зрелище великолепным и ужасным одновременно."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_03",
+      "value": "Благоговение и ужас только укрепляют ваше желание продолжать исследование, чтобы узнать всё о чудесах и опасностях, таящихся во тьме."
     },
     {
       "key": "Data_GSCutSceneDialogue_e1_m1_battle01_01",
@@ -17003,6 +17207,14 @@
       "value": "Ксенейлон"
     },
     {
+      "key": "Data_MissionObjective_e0_m1_Name",
+      "value": "Завершить все битвы"
+    },
+    {
+      "key": "Data_MissionObjective_e0_m2_Name",
+      "value": "Изучить обломки"
+    },
+    {
       "key": "Data_MissionObjective_e1_m1_Name",
       "value": "Спасти Майкл Бёрнем"
     },
@@ -17397,6 +17609,54 @@
     {
       "key": "Data_Quip_text_Burnham_Wounded_02",
       "value": "Доктор Маккой, мне бы не помешала помощь..."
+    },
+    {
+      "key": "Data_Quip_text_Chang_BattleCry_01",
+      "value": "Что ж, снова ринемся, друзья, в пролом!"
+    },
+    {
+      "key": "Data_Quip_text_Chang_BattleCry_02",
+      "value": "Как же я ждал возможности сразиться с тобой!"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Demoralized_01",
+      "value": "Странных товарищей по постели дает человеку несчастье."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Idle_01",
+      "value": "Как там у вашего Шекспира? «Несносна жизнь, как выслушанный дважды, в унылый сон вгоняющий рассказ»."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Inspired_01",
+      "value": "Поистине вдохновляющая речь. Достойна Барда!"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Insult_01",
+      "value": "Хм. Как порываюсь бить тебя, да руки мне страшно заразить."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reaction_Respond_01",
+      "value": "О нас, о горсточке счастливцев, братьев."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reaction_Retort_01",
+      "value": "Трус умирает много раз до смерти, а храбрый смерть один лишь раз вкушает!"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reinforce_01",
+      "value": "Итак... что у нас здесь?"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Special_TeamAssist_01",
+      "value": "Ох, вы меня искали? Я здесь."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Thank_01",
+      "value": "Благодарю я всех вас за вниманье."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Wounded_01",
+      "value": "Уколите меня... и разве не потечет кровь?"
     },
     {
       "key": "Data_Quip_text_Chekov_BattleCry_01",
@@ -17829,6 +18089,54 @@
     {
       "key": "Data_Quip_text_Elnor_Wounded_01",
       "value": "Это всего лишь... вообще-то, очень больно!"
+    },
+    {
+      "key": "Data_Quip_text_Garak_BattleCry_01",
+      "value": "Ох, вам удалось это сделать."
+    },
+    {
+      "key": "Data_Quip_text_Garak_BattleCry_02",
+      "value": "Я не всегда был скромным портным."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Demoralized_01",
+      "value": "Теперь у нас настоящие проблемы!"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Idle_01",
+      "value": "Кому-то это может показаться пустой тратой времени, но не мне. Мне нравится спокойная жизнь."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Inspired_01",
+      "value": "Если бы только у нас были такие лидеры, как вы, на Кардассии-Прайм."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Insult_01",
+      "value": "Я уже убивал таких, как вы. Их смерть всегда была ужасной."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reaction_Respond_01",
+      "value": "На удивление эффективно!"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reaction_Retort_01",
+      "value": "Ну зачем так громко?"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reinforce_01",
+      "value": "Чем я могу быть полезен?"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Special_TeamAssist_01",
+      "value": "Вызывали?"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Thank_01",
+      "value": "Я ваш должник."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Wounded_01",
+      "value": "Ой, ладно. Больно."
     },
     {
       "key": "Data_Quip_text_GenBorgEng01M_BattleCry_01",
@@ -19847,6 +20155,54 @@
       "value": "Это нас не остановит!"
     },
     {
+      "key": "Data_Quip_text_PicardDixon_BattleCry_01",
+      "value": "Умные парни, да?"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_BattleCry_02",
+      "value": "Мы можем по-хорошему или по-плохому. Похоже, по-хорошему эти клоуны не хотят."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Demoralized_01",
+      "value": "Это... это неправильно. Симуляция голопалубы не должна так реагировать!"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Idle_01",
+      "value": "В такие моменты мужчине не помешает выпить. Эрл Грей... а, бурбон. Отлично!"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Inspired_01",
+      "value": "А вы за словом в карман не лезете!"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Insult_01",
+      "value": "Заткни свой рот, или я сам тебе его заткну!"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reaction_Respond_01",
+      "value": "Я вижу, вы человек стоящий!"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reaction_Retort_01",
+      "value": "Компьютер... Мы можем настроить параметры насилия? Я здесь для отдыха, а не для драки."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reinforce_01",
+      "value": "Кто-то звонил? Детектив Диксон Хилл к вашим услугам."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Special_TeamAssist_01",
+      "value": "Хулиганы, да? Ненавижу хулиганов."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Thank_01",
+      "value": "Знаешь... ты прав, парень."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Wounded_01",
+      "value": "Моя бабуля бьет сильнее!"
+    },
+    {
       "key": "Data_Quip_text_PicardOld_BattleCry_01",
       "value": "А я думал, что мы уже давно выше этой бессмыслицы!"
     },
@@ -20755,6 +21111,102 @@
       "value": "Ах... Боль — это лишь обман разума... Боль — это лишь обман разума..."
     },
     {
+      "key": "Data_Quip_text_Troi_BattleCry_01",
+      "value": "Осторожнее!"
+    },
+    {
+      "key": "Data_Quip_text_Troi_BattleCry_02",
+      "value": "Прицельтесь!"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Demoralized_01",
+      "value": "Меня к этому не готовили!"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Idle_01",
+      "value": "Если у нас есть время на отдых, я могу немного помедитировать."
+    },
+    {
+      "key": "Data_Quip_text_Troi_Inspired_01",
+      "value": "Отлично сказано!"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Insult_01",
+      "value": "Вы напоминаете мне мою мать."
+    },
+    {
+      "key": "Data_Quip_text_Troi_Reaction_Respond_01",
+      "value": "Это было показательно!"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Reaction_Retort_01",
+      "value": "Я знала, что вы скажете именно это."
+    },
+    {
+      "key": "Data_Quip_text_Troi_Reinforce_01",
+      "value": "Вы звали советника?"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Special_TeamAssist_01",
+      "value": "Что вам нужно?"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Thank_01",
+      "value": "Благодарю вас."
+    },
+    {
+      "key": "Data_Quip_text_Troi_Wounded_01",
+      "value": "Боюсь, рана оказалась глубже, чем я полагала."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_BattleCry_01",
+      "value": "Логика подсказывает вам сдаться. Немедленно."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_BattleCry_02",
+      "value": "Всё закончится быстро."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Demoralized_01",
+      "value": "Я... в замешательстве."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Idle_01",
+      "value": "Будьте бдительны. Это спокойствие не продлится долго."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Inspired_01",
+      "value": "Познавательно!"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Insult_01",
+      "value": "Мне уже доводилось сражаться с такими, как вы. Все они слишком много болтали, а их навыки были ничтожны."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Reaction_Respond_01",
+      "value": "Приемлемо."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Reaction_Retort_01",
+      "value": "Не вижу смысла в этой браваде."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Reinforce_01",
+      "value": "Логика подсказывает, что мы не должны задерживаться здесь слишком долго."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Special_TeamAssist_01",
+      "value": "Нуждаетесь в моих услугах?"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Thank_01",
+      "value": "Мне бы хотелось выразить... благодарность за помощь."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Wounded_01",
+      "value": "Мне… нужна медицинская помощь."
+    },
+    {
       "key": "Data_Quip_text_Uhura_BattleCry_01",
       "value": "Осторожно!"
     },
@@ -21011,8 +21463,60 @@
       "value": "Призыв сдаться"
     },
     {
+      "key": "Data_Skill_Chang_Attack_description_level1",
+      "value": "<color=#01e2ff>100% урона</color> и <color=#01e2ff>10% шанс</color> на <color=#01e2ff>уменьшение защиты</color> на 1 ход."
+    },
+    {
+      "key": "Data_Skill_Chang_Attack_description_level2",
+      "value": "<color=#01e2ff>125% урона</color> и <color=#01e2ff>25% шанс</color> на <color=#01e2ff>уменьшение защиты</color> на 1 ход."
+    },
+    {
+      "key": "Data_Skill_Chang_Attack_displayName",
+      "value": "Клингонский дизраптор"
+    },
+    {
       "key": "Data_Skill_Chang_Bridge_description",
       "value": "Клингоны получает <color=#01e2ff>+5%</color> Атака."
+    },
+    {
+      "key": "Data_Skill_Chang_Bridge_displayName",
+      "value": "Неожиданная атака"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill1_description_level1",
+      "value": "<color=#01e2ff>+1 к боевому духу</color> и <color=#01e2ff>незначительное увеличение атаки</color> для всех союзников на 3 хода."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill1_description_level2",
+      "value": "<color=#01e2ff>+1 к боевому духу</color> и <color=#01e2ff>увеличение атаки</color> для всех союзников на 3 хода."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill1_displayName",
+      "value": "Воскликнет: «Смерть!»"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill2_description_level1",
+      "value": "<color=#01e2ff>Маскировка</color> и <color=#01e2ff>незначительное увеличение вероятности крит. удара</color> для 1 союзника на 3 хода."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill2_description_level2",
+      "value": "<color=#01e2ff>Маскировка</color> и <color=#01e2ff>значительное увеличение вероятности крит. удара</color> для 1 союзника на 3 хода."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill2_displayName",
+      "value": "Клингонская маскировка"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill3_description_level1",
+      "value": "<color=#01e2ff>Атака группы</color> и <color=#01e2ff>маскировка</color> для всех союзников на 1 ход."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill3_description_level2",
+      "value": "<color=#01e2ff>Атака группы</color> и <color=#01e2ff>маскировка</color> для всех союзников на 3 хода."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill3_displayName",
+      "value": "И спустит псов войны"
     },
     {
       "key": "Data_Skill_Chekov_Attack_description_level1",
@@ -21029,6 +21533,46 @@
     {
       "key": "Data_Skill_Chekov_Bridge_description",
       "value": "Звездный флот получает <color=#01e2ff>+5%</color> Атака."
+    },
+    {
+      "key": "Data_Skill_Chekov_Bridge_displayName",
+      "value": "Атомный звездолет"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill1_description_level1",
+      "value": "<color=#01e2ff>4 x 50% урона</color> случайному врагу."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill1_description_level2",
+      "value": "<color=#01e2ff>4 x 65% урона</color> случайному врагу."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill1_displayName",
+      "value": "Русский гамбит"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill2_description_level1",
+      "value": "<color=#01e2ff>Слабый щит</color> и <color=#01e2ff>незначительное увеличение защиты</color> на 3 хода для всех союзников."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill2_description_level2",
+      "value": "<color=#01e2ff>Щит</color> и <color=#01e2ff>увеличение защиты</color> на 3 хода для всех союзников."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill2_displayName",
+      "value": "Поднять щиты, капитан!"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill3_description_level1",
+      "value": "<color=#01e2ff>200% урона</color> (<color=#01e2ff>300% урона</color> <color=#01e2ff>прикрытию</color>) и <color=#01e2ff>-1 от боевого духа с шансом 50%</color> для всех врагов."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill3_description_level2",
+      "value": "<color=#01e2ff>250% урона</color> (<color=#01e2ff>375% урона</color> <color=#01e2ff>прикрытию</color>) и <color=#01e2ff>-1 от боевого духа</color> для всех врагов."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill3_displayName",
+      "value": "Орбитальный удар из фазерных орудий"
     },
     {
       "key": "Data_Skill_Crusher_Attack_description_level1",
@@ -21420,15 +21964,59 @@
     },
     {
       "key": "Data_Skill_Garak_Attack_description_level1",
-      "value": "<color=#01e2ff>100% урона</color>"
+      "value": "<color=#01e2ff>100% урона</color>."
     },
     {
       "key": "Data_Skill_Garak_Attack_description_level2",
-      "value": "<color=#01e2ff>150% урона</color>"
+      "value": "<color=#01e2ff>150% урона</color>."
+    },
+    {
+      "key": "Data_Skill_Garak_Attack_displayName",
+      "value": "Пистолет-дизраптор"
     },
     {
       "key": "Data_Skill_Garak_Bridge_description",
       "value": "<color=#01e2ff>+5%</color> Вероятность крит. удара."
+    },
+    {
+      "key": "Data_Skill_Garak_Bridge_displayName",
+      "value": "Простой портной"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill1_description_level1",
+      "value": "<color=#01e2ff>2 x 50% урона</color>, <color=#01e2ff>-1 от боевого духа</color> и <color=#01e2ff>50% шанс</color> на <color=#01e2ff>оглушение</color> 1 врага на 3 хода."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill1_description_level2",
+      "value": "<color=#01e2ff>2 x 75% урона</color>, <color=#01e2ff>-1 от боевого духа</color> и <color=#01e2ff>оглушение</color> для 1 врага на 3 хода."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill1_displayName",
+      "value": "Крайние меры"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill2_description_level1",
+      "value": "<color=#01e2ff>Устранение</color>, <color=#01e2ff>незначительное уменьшение защиты</color> и <color=#01e2ff>незначительное уменьшение техн. умения</color> для всех врагов на 3 хода."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill2_description_level2",
+      "value": "<color=#01e2ff>Устранение</color>, <color=#01e2ff>уменьшение защиты</color> и <color=#01e2ff>уменьшение техн. умения</color> для всех врагов на 3 хода."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill2_displayName",
+      "value": "Диверсия"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill3_description_level1",
+      "value": "<color=#01e2ff>50% лечения</color>, <color=#01e2ff>очистка</color> и <color=#01e2ff>+1 к боевому духу</color> для себя."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill3_description_level2",
+      "value": "<color=#01e2ff>100% лечения</color>, <color=#01e2ff>очистка</color> и <color=#01e2ff>+2 к боевому духу</color> для себя.."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill3_displayName",
+      "value": "Торговля"
     },
     {
       "key": "Data_Skill_GenBorgEng01M_Attack_description_level1",
@@ -23099,8 +23687,52 @@
       "value": "<color=#01e2ff>150% урона</color>"
     },
     {
+      "key": "Data_Skill_PicardDixon_Attack_displayName",
+      "value": "Удар кулаком"
+    },
+    {
       "key": "Data_Skill_PicardDixon_Bridge_description",
-      "value": "Звездный флот получает <color=#01e2ff>+5%</color> Атака."
+      "value": "Звездный флот получает <color=#01e2ff>+5%</color> атаки."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Bridge_displayName",
+      "value": "Большое прощание"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_description_level1",
+      "value": "<color=#01e2ff>+1 к боевому духу</color> и <color=#01e2ff>очистка</color> для 1 союзника."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_description_level2",
+      "value": "<color=#01e2ff>+2 к боевому духу</color> и <color=#01e2ff>очистка</color> для 1 союзника."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_displayName",
+      "value": "Обходительность"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_description_level1",
+      "value": "<color=#01e2ff>Оглушение</color> и <color=#01e2ff>уменьшение защиты</color> для 1 врага на 3 хода."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_description_level2",
+      "value": "<color=#01e2ff>Оглушение</color>, <color=#01e2ff>значительное уменьшение защиты</color> и <color=#01e2ff>блокировка умений</color> для 1 врага на 3 хода."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_displayName",
+      "value": "Программа заморозки"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_description_level1",
+      "value": "<color=#01e2ff>3 x 100% урона</color> (<color=#01e2ff>50% шанс</color> нанести <color=#01e2ff>рану</color>) 1 врагу. <color=#01e2ff>+1 к боевому духу с шансом 50%</color> для всех союзников."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_description_level2",
+      "value": "<color=#01e2ff>3 x 150% урона</color> и <color=#01e2ff>рана</color>1 врагу. <color=#01e2ff>+1 к боевому духу</color> для всех союзников."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_displayName",
+      "value": "Невозмутимый"
     },
     {
       "key": "Data_Skill_PicardOld_Attack_description_level1",
@@ -23204,11 +23836,11 @@
     },
     {
       "key": "Data_Skill_Pike_Skill3_description_level1",
-      "value": "<color=#01e2ff>Увеличение атаки</color>, <color=#01e2ff>увеличение вероятности крит. удара</color> и <color=#01e2ff>+1 к боевому духу</color>."
+      "value": "<color=#01e2ff>Увеличение атаки</color>, <color=#01e2ff>увеличение вероятности крит. удара</color> и <color=#01e2ff>+1 к боевому духу</color> всех союзников."
     },
     {
       "key": "Data_Skill_Pike_Skill3_description_level2",
-      "value": "<color=#01e2ff>Значительное увеличение атаки</color>, <color=#01e2ff>значительное увеличение вероятности крит. удара</color> и <color=#01e2ff>+2 к боевому духу</color>."
+      "value": "<color=#01e2ff>Значительное увеличение атаки</color>, <color=#01e2ff>значительное увеличение вероятности крит. удара</color> и <color=#01e2ff>+2 к боевому духу</color> всех союзников."
     },
     {
       "key": "Data_Skill_Pike_Skill3_displayName",
@@ -24055,8 +24687,72 @@
       "value": "Звездный флот получает <color=#01e2ff>+5%</color> Сила воли."
     },
     {
+      "key": "Data_Skill_Troi_Bridge_displayName",
+      "value": "Советник на корабле"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill1_description_level1",
+      "value": "<color=#01e2ff>Очистка</color> и <color=#01e2ff>+1 к боевому духу</color> для 1 союзника."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill1_description_level2",
+      "value": "<color=#01e2ff>Очистка</color>, <color=#01e2ff>+1 к боевому духу</color> и <color=#01e2ff>незначительное лечение</color> для 1 союзника."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill1_displayName",
+      "value": "Эмпатическая очистка"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill2_description_level1",
+      "value": "<color=#01e2ff>50% техн. урона</color> и <color=#01e2ff>устранение</color> 1 врага."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill2_description_level2",
+      "value": "<color=#01e2ff>75% техн. урона</color>, <color=#01e2ff>очистка</color> и <color=#01e2ff>-1 к боевому духу</color> 1 врага."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill2_displayName",
+      "value": "Разоблачение"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill3_description_level1",
+      "value": "<color=#01e2ff>+1 к боевому духу</color> и <color=#01e2ff>увеличение защиты</color> для всех союзников на 3 хода."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill3_description_level2",
+      "value": "<color=#01e2ff>+2 к боевому духу</color> и <color=#01e2ff>значительное увеличение защиты</color> для всех союзников на 3 хода."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill3_displayName",
+      "value": "Воодушевление"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Attack_description_level1",
+      "value": "<color=#01e2ff>100% урона</color> (<color=#01e2ff>10% шанс</color> на <color=#01e2ff>уменьшение атаки</color> на 1 ход)."
+    },
+    {
+      "key": "Data_Skill_Tuvok_Attack_description_level2",
+      "value": "<color=#01e2ff>125% урона</color> (<color=#01e2ff>25% шанс</color> на <color=#01e2ff>уменьшение атаки</color> на 1 ход)."
+    },
+    {
       "key": "Data_Skill_Tuvok_Attack_displayName",
       "value": "Компрессионная винтовка"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Bridge_displayName",
+      "value": "Начальник службы безопасности"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill1_description_level1",
+      "value": "<color=#01e2ff>Очистка</color> и <color=#01e2ff>+1 к боевому духу</color> для 1 союзника."
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill1_description_level2",
+      "value": "<color=#01e2ff>Очистка</color> и <color=#01e2ff>+1 к боевому духу</color> для 1 союзника, <color=#01e2ff>+1 к боевому духу</color> для себя."
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill1_displayName",
+      "value": "Очистительное слияние разумов"
     },
     {
       "key": "Data_Skill_Tuvok_Skill2_description_level1",
@@ -24069,6 +24765,18 @@
     {
       "key": "Data_Skill_Tuvok_Skill2_displayName",
       "value": "Вулканский нервный захват"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill3_description_level1",
+      "value": "<color=#01e2ff>Увеличение атаки</color>, <color=#01e2ff>увеличение вероятности крит. удара</color> и <color=#01e2ff>боевая готовность</color> для всех союзников на 3 хода."
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill3_description_level2",
+      "value": "<color=#01e2ff>Значительное увеличение атаки</color>, <color=#01e2ff>значительное увеличение вероятности крит. удара</color> и <color=#01e2ff>боевая готовность</color> для всех союзников на 3 хода."
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill3_displayName",
+      "value": "Тактическая подготовка"
     },
     {
       "key": "Data_Skill_Uhura_Attack_description_level1",
@@ -26819,6 +27527,10 @@
       "value": "Жетон Майкл Бёрнем"
     },
     {
+      "key": "item_Chang_Token",
+      "value": "Жетон генерала Чанга"
+    },
+    {
       "key": "item_Chekov_Token",
       "value": "Жетон Чехова"
     },
@@ -26841,6 +27553,14 @@
     {
       "key": "item_Dukat_Token",
       "value": "Жетон гала Дуката"
+    },
+    {
+      "key": "item_Elnor_Token",
+      "value": "Жетоны Элнора"
+    },
+    {
+      "key": "item_Garak_Token",
+      "value": "Жетон Элима Гарака"
     },
     {
       "key": "item_GenBorgEng01M_Token",
@@ -27011,6 +27731,10 @@
       "value": "Жетон капитана Пикара"
     },
     {
+      "key": "item_PicardDixon_Token",
+      "value": "Жетон Диксона Хилла"
+    },
+    {
       "key": "item_PicardOld_Token",
       "value": "Жетон Пикара"
     },
@@ -27067,6 +27791,10 @@
       "value": "Жетон Сутры"
     },
     {
+      "key": "item_Tilly_Token",
+      "value": "Жетон Сильвии Тилли"
+    },
+    {
       "key": "item_Token_Desc",
       "value": "Получайте жетоны и повышайте ранг"
     },
@@ -27085,6 +27813,14 @@
     {
       "key": "item_TPol_Token",
       "value": "Жетон Т'Пол"
+    },
+    {
+      "key": "item_Troi_Token",
+      "value": "Жетон Дианы Трой"
+    },
+    {
+      "key": "item_Tuvok_Token",
+      "value": "Жетон Тувока"
     },
     {
       "key": "item_Uhura_Token",
@@ -27411,6 +28147,46 @@
       "value": "Побеждайте отряды врагов и получайте награды"
     },
     {
+      "key": "Operations_FactionEvent_Desc_Borg",
+      "value": "Сражайтесь, чтобы заработать очки для боргов. Сторона, заработавшая наибольшее количество очков в конце события, получит общую награду!"
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Card",
+      "value": "Сражайтесь, чтобы заработать очки для кардассиан. Сторона, заработавшая наибольшее количество очков в конце события, получит общую награду!"
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Fed",
+      "value": "Сражайтесь, чтобы заработать очки для Федерации. Сторона, заработавшая наибольшее количество очков в конце события, получит общую награду!"
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Kling",
+      "value": "Сражайтесь, чтобы заработать очки для клингонов. Сторона, заработавшая наибольшее количество очков в конце события, получит общую награду!"
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Romu",
+      "value": "Сражайтесь, чтобы заработать очки для ромулан. Сторона, заработавшая наибольшее количество очков в конце события, получит общую награду!"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Borg",
+      "value": "Война фракций: присоединиться к боргам"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Card",
+      "value": "Война фракций: присоединиться к кардассианам"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Fed",
+      "value": "Война фракций: присоединиться к Федерации"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Kling",
+      "value": "Война фракций: присоединиться к клингонам"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Romu",
+      "value": "Война фракций: присоединиться к ромуланам"
+    },
+    {
       "key": "Operations_Material_Antimatter",
       "value": "Перегрузка антиматерии"
     },
@@ -27635,8 +28411,12 @@
       "value": "PvP"
     },
     {
+      "key": "pvp_data_agree_body",
+      "value": "Спасибо! Наслаждайтесь игрой онлайн!"
+    },
+    {
       "key": "pvp_data_body",
-      "value": "Приветствуем! Чтобы открыть вам доступ на арену, Emerald City Games требуются ваши игровые данные, в частности идентификатор игрока Game Center, график группы высадки, сведения о медалях и боевые журналы. (Арена не откроется без этих данных.) Вы согласны?"
+      "value": "Приветствуем вас! Чтобы открыть вам доступ к многопользовательской игре онлайн, Emerald City Games требуются ваши игровые данные, в частности, идентификатор игрока Game Center, идентификатор файла сохранения, сведения о группах высадки, медалях и боевых журналах, инвентаре, действиях союза, ресурсах события и операциях. (Функции многопользовательской игры не будут работать без этих данных.) Хотите предоставить данные?"
     },
     {
       "key": "pvp_data_btn_agree",
@@ -27648,7 +28428,7 @@
     },
     {
       "key": "pvp_data_disagree_body",
-      "value": "Без проблем! Мы не будем пользоваться вашими игровыми данными, поэтому арена останется недоступной. Вы сможете проходить эпизоды и операции одиночной игры."
+      "value": "Без проблем. Мы не будем пользоваться вашими игровыми данными, поэтому многопользовательская игра будет для вас недоступна."
     },
     {
       "key": "pvp_data_disagree_btn_ok",
@@ -29571,6 +30351,10 @@
       "value": "Особ."
     },
     {
+      "key": "UI_Common_Splash_Start",
+      "value": "НАЧАТЬ"
+    },
+    {
       "key": "UI_Common_Start",
       "value": "Коснитесь, чтобы начать"
     },
@@ -29875,6 +30659,22 @@
       "value": "Текст заголовка всплывающего окна для обмена данными"
     },
     {
+      "key": "UI_DemoComplete_Body",
+      "value": "Спасибо, что сыграли в демоверсию игры Star Trek: Legends."
+    },
+    {
+      "key": "UI_DemoComplete_Header",
+      "value": "Демоверсия пройдена"
+    },
+    {
+      "key": "UI_DemoVersion_Body",
+      "value": "Эта версия игры Star Trek: Legends создана только для демонстрации."
+    },
+    {
+      "key": "UI_DemoVersion_Header",
+      "value": "Демоверсия"
+    },
+    {
       "key": "UI_DownloadConfirmation_Body",
       "value": "Капитан! Сканеры показывают, что для продолжения нам нужно еще <color=##0DDADF><b>{0}Mбайт</b></color> дополнительных файлов."
     },
@@ -30025,6 +30825,26 @@
     {
       "key": "UI_Events_NPE_Title",
       "value": "Событие: «Приветствие»"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc",
+      "value": "Мы отмечаем неделю капитана Жана-Люка Пикара! Примите участие в увлекательном событии, чтобы получить возможность разблокировать: {0}!"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Main",
+      "value": "Примите участие в увлекательном событии «Неделя капитана Пикара», чтобы получить возможность разблокировать: {0}!"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Post",
+      "value": "Событие закончилось!"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Pre",
+      "value": "Возвращайтесь позже и поучаствуйте в этом событии!"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Title",
+      "value": "Неделя капитана Пикара"
     },
     {
       "key": "UI_Events_SoloEvent_Desc",
@@ -31485,6 +32305,14 @@
     {
       "key": "UI_Popup_DeleteAllData_Title",
       "value": "УДАЛИТЬ ВСЕ ДАННЫЕ"
+    },
+    {
+      "key": "UI_Popup_DemoDisabled_Body",
+      "value": "Функция не работает в этой демоверсии"
+    },
+    {
+      "key": "UI_Popup_DemoDisabled_Header",
+      "value": "Функция отключена"
     },
     {
       "key": "UI_Popup_DownloadPermission_Body",

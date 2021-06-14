@@ -1439,6 +1439,10 @@
       "value": "Pourvoyeur"
     },
     {
+      "key": "Common_Chang",
+      "value": "Général Chang"
+    },
+    {
       "key": "Common_CharacterRole_All",
       "value": "Tous"
     },
@@ -1825,6 +1829,10 @@
     {
       "key": "Common_FirstWord",
       "value": "Premier mot"
+    },
+    {
+      "key": "Common_Garak",
+      "value": "Elim Garak"
     },
     {
       "key": "Common_GenGorn01",
@@ -2259,6 +2267,10 @@
       "value": "Picard"
     },
     {
+      "key": "Common_PicardDixon",
+      "value": "Dixon Hill"
+    },
+    {
       "key": "Common_Power",
       "value": "Puissance"
     },
@@ -2535,6 +2547,10 @@
       "value": "Bajoran"
     },
     {
+      "key": "Common_Tag_Betazoid",
+      "value": "Bétazoïde"
+    },
+    {
       "key": "Common_Tag_Borg",
       "value": "Borg"
     },
@@ -2739,6 +2755,14 @@
       "value": "Tritanium"
     },
     {
+      "key": "Common_Troi",
+      "value": "Deanna Troi"
+    },
+    {
+      "key": "Common_Tuvok",
+      "value": "Tuvok"
+    },
+    {
       "key": "Common_Unknown",
       "value": "Inconnu"
     },
@@ -2807,6 +2831,10 @@
       "value": "Burnham est la sœur adoptive humaine de Spock, elle fait son service à bord de l'U.S.S. Discovery. Elle est terriblement intelligente et déterminée, et fait preuve d'une rigueur morale qui la place parfois en situation de conflit direct avec ses officiers supérieurs."
     },
     {
+      "key": "Data_Character_Chang_description",
+      "value": "Un guerrier klingon vétéran qui respecte la tradition. Malgré son respect de la culture terrestre, il craint la chute de l'empire klingon suite à l’agrandissement de la Fédération, et il est prêt à tout pour l'en empêcher."
+    },
+    {
       "key": "Data_Character_Chekov_description",
       "value": "Véritable polymathe, Pavel Chekov a occupé de nombreux postes. Il a notamment travaillé dans la sécurité, la navigation et la stratégie. Il excelle dans tous ces domaines, en affichant toujours sa bonne humeur si caractéristique."
     },
@@ -2841,6 +2869,10 @@
     {
       "key": "Data_Character_Elnor_description",
       "value": "Ayant survécu à la supernova qui a détruit Romulus, Elnor fut évacué vers Vashti par l'amiral Picard. Adulte, il devient un des rares adjoints masculins du Qowat Milat, un ordre de nonnes guerrières. La formation qu'il a reçue le rend pratiquement imbattable en combat martial."
+    },
+    {
+      "key": "Data_Character_Garak_description",
+      "value": "Un tailleur cardassien au tempérament doux en apparence, Garak est un ancien membre de l'ordre Obsidien, le service de renseignement du gouvernement de son peuple. C'est un assassin talentueux, un saboteur et un maître de l'espionnage accompli."
     },
     {
       "key": "Data_Character_GenBorgEng01M_description",
@@ -2999,6 +3031,10 @@
       "value": "Généralement considéré comme l'un des plus grands capitaines de toute l'histoire de Starfleet. Le capitaine Picard est un tacticien, penseur et diplomate de renom qui s'évertue à défendre les principes de la Fédération envers et contre tout."
     },
     {
+      "key": "Data_Character_PicardDixon_description",
+      "value": "Un détective fictif dur à cuire dont les histoires étaient souvent partagées dans l'holodeck du U.S.S. Enterprise par le capitaine Picard. Dixon est doué avec ses poings et c'est un grand expert en romance."
+    },
+    {
       "key": "Data_Character_Pike_description",
       "value": "Ancien capitaine de l'U.S.S. Enterprise. Un homme bon et honnête, qui a subi un grave accident l'ayant rendu muet et handicapé."
     },
@@ -3065,6 +3101,14 @@
     {
       "key": "Data_Character_TPol_description",
       "value": "Un officier vulcain affecté sur l'U.S.S. Enterprise NX-01 au cours de la mission historique qui a vu les humains partir pour la première fois à la conquête des étoiles. Calme et attentionnée, ses nerfs d'acier ont rendu service plus d'une fois à ses coéquipiers."
+    },
+    {
+      "key": "Data_Character_Troi_description",
+      "value": "Mi-Bétazoïde et douée d'empathie, elle a servi sur le U.S.S. Enterprise sous la direction du capitaine Picard. C'est un officier chaleureux et plein de compassion, ayant la capacité de comprendre ses coéquipiers ainsi qu'une formation en psychologie, ce qui fait d'elle une conseillère de choix."
+    },
+    {
+      "key": "Data_Character_Tuvok_description",
+      "value": "Troisième dans la chaîne de commandement du U.S.S. Voyager, et responsable de la sécurité du vaisseau. Bien qu'il soit redoutable en combat, sa vraie force réside dans son éducation de Vulcain : il fait preuve de logique, il est réfléchi et considère toutes les possibilités."
     },
     {
       "key": "Data_Character_Uhura_description",
@@ -4185,6 +4229,166 @@
     {
       "key": "Data_GSCutSceneDialogue_captainsLogSupplemental_e5m6_01",
       "value": "La <color=#FFCE00>Reine borg a été vaincue</color>, et un autre <color=#FFCE00>réacteur du Nexus a été obtenu</color>. Quels autres cauchemars attendent l'équipage dans le <color=#FFCE00>Nexus</color> ?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_01",
+      "value": "Je ne vois pas l'épave que nous sommes censés fouiller. Lieutenant Worf, faites-moi un rapport sur la situation, s'il vous plaît."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_02",
+      "value": "Emplacement inconnu, Commandant Pike. Aucun signe de vie, mais restez sur vos gardes."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_03",
+      "value": "Je reçois un signal d'énergie puissant plus à l'est, à environ 5 kilomètres de votre position. C'est très certainement notre objectif."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_04",
+      "value": "L'<i>Artemis</i> compte à son bord certains des meilleurs ingénieurs de l'Histoire et malgré cela, ils ne peuvent pas nous téléporter à proximité de notre objectif ?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_05",
+      "value": "Attendez ! Droit devant !"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_01",
+      "value": "On dirait qu'ils se sont retirés dans le brouillard."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_02",
+      "value": "Je croyais qu'aucun signe de vie n'avait été identifié."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_03",
+      "value": "Curieux. C'est peut-être un bug dans nos tricordeurs ?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_04",
+      "value": "Ou bien c'est le Nexus qui nous joue des tours."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_05",
+      "value": "Avançons."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_01",
+      "value": "Droit devant !"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_02",
+      "value": "D'autres Romuliens ?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_03",
+      "value": "On dirait que ce sont des Klingons."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_04",
+      "value": "Je vais essayer de communiquer avec eux. NuqneH !"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_05",
+      "value": "Ils dégainent leurs phaseurs. Vous êtes sûr de l'avoir prononcé correctement ?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_06",
+      "value": "Ils m'ont compris cinq sur cinq, Docteur, c'est juste qu'ils ne sont pas... très réceptifs."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_01",
+      "value": "Et voilà, ils ont disparu, tout comme les Romuliens. Il y a quelque chose d'étrange ici."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_02",
+      "value": "Le Nexus nous joue des tours, c'est certain."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_03",
+      "value": "Rien n'est sûr. Je dois effectuer quelques scans, mais je ne sais pas si c'est l'énergie de la dimension qui est en cause."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_04",
+      "value": "Pendant que vous vous occupez de ça, nous devrions continuer d'avancer. Nous sommes près du but."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_01",
+      "value": "Là-bas : ça doit être le vaisseau que nous cherchons."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_02",
+      "value": "Nous ne sommes pas les seuls à l'avoir trouvé. J'enregistre des drones du Collectif borg. Tout autour de nous."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_03",
+      "value": "Attendez, il n'y a pas que le Nexus. Il y a autre chose !"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_04",
+      "value": "Même si j'estime la science, Docteur, je suggère que nous les neutralisions d'abord, et que nous discutions de vos relevés ENSUITE !"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_01",
+      "value": "Ils ont disparu comme des fantômes, exactement comme ceux que nous avons rencontrés avant."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_02",
+      "value": "Quelque chose d'autre les contrôle. J'ai relevé une autre présence dans les trois circonstances."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_03",
+      "value": "Il se trame quelque chose ici qui dépasse les simples forces du Nexus."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_04",
+      "value": "Vous avez raison. Vous êtes le Docteur Hugh Culber, n'est-ce pas ?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_05",
+      "value": "Qui êtes... ?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_06",
+      "value": "Et vous êtes Christopher Pike."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_07",
+      "value": "Et vous, Worf, fils de Mogh."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_08",
+      "value": "Et voici Annika Hansen, désignée Seven of Nine, auxiliaire tertiaire d'unimatrice 01."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_09",
+      "value": "Comment savez-vous qui nous sommes ?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_10",
+      "value": "Vous n'avez pas la moindre idée de ce qu'est le Nexus, et vous êtes mieux servis ainsi par votre ignorance."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_11",
+      "value": "Nous n'avons rien contre vous. Abandonnez votre poursuite, ou vous vous retrouverez réduits à néant avec tout ce qui vous entoure."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_intro01_01",
+      "value": "Vous êtes le capitaine de l'<i>U.S.S. Artemis</i>, envoyé en mission pour explorer le mystérieux « Nexus »."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_intro01_02",
+      "value": "Dans un effort pour réapprovisionner vos réserves de dilithium, vous téléportez une équipe d'exploration afin d'étudier un vaisseau de la Fédération abandonné sur une planète proche."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_01",
+      "value": "Tandis que leur avertissement résonne encore à vos oreilles, les êtres étranges s'éloignent."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_02",
+      "value": "La façon dont la réalité semble se tordre autour d'eux est à la fois hypnotique et dérangeante."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_03",
+      "value": "Ce sentiment d'effroi et d'admiration ne fait que renforcer votre résolution à continuer votre mission, à la poursuite des merveilles et des dangers qui vous attendent dans l'obscurité."
     },
     {
       "key": "Data_GSCutSceneDialogue_e1_m1_battle01_01",
@@ -11368,7 +11572,7 @@
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m1_story01_01",
-      "value": "Cet endroit me rappelle les contes klingons de mon enfance. Les salles de Sto-Vo-Kor, où les guerriers s'affrontent pour l'éternité."
+      "value": "Cet endroit me rappelle les contes klingons de mon enfance. Les salles de Sto-vo-kor, où les guerriers s'affrontent pour l'éternité."
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m1_story01_02",
@@ -17003,6 +17207,14 @@
       "value": "Xenylon"
     },
     {
+      "key": "Data_MissionObjective_e0_m1_Name",
+      "value": "Terminez tous les combats"
+    },
+    {
+      "key": "Data_MissionObjective_e0_m2_Name",
+      "value": "Inspecter l'épave"
+    },
+    {
       "key": "Data_MissionObjective_e1_m1_Name",
       "value": "Sauver Michael Burnham"
     },
@@ -17397,6 +17609,54 @@
     {
       "key": "Data_Quip_text_Burnham_Wounded_02",
       "value": "Dr McCoy, j'aurais besoin d'aide..."
+    },
+    {
+      "key": "Data_Quip_text_Chang_BattleCry_01",
+      "value": "Fonçons à nouveau au combat, mes amis !"
+    },
+    {
+      "key": "Data_Quip_text_Chang_BattleCry_02",
+      "value": "J'avais... tellement hâte de vous affronter !"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Demoralized_01",
+      "value": "La misère introduit l'homme à de bien curieux camarades."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Idle_01",
+      "value": "Comment disait votre Shakespeare, déjà ? La vie est aussi laborieuse que des contes racontés deux fois."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Inspired_01",
+      "value": "Un discours vraiment motivant. Digne du Barde !"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Insult_01",
+      "value": "Humpf. Je vous frapperais bien, mais je ne voudrais pas infecter mes mains."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reaction_Respond_01",
+      "value": "Eh bien, si ce n'est pas une joyeuse bande de frères !"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reaction_Retort_01",
+      "value": "Les lâches meurent de mille façons, mais les valeureux que d'une seule !"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reinforce_01",
+      "value": "Voyons voir... qu'avons-nous là ?"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Special_TeamAssist_01",
+      "value": "Ah, vous avez appelé, et j'ai répondu."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Thank_01",
+      "value": "Je vous remercie pour vos blessures et votre courtoisie."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Wounded_01",
+      "value": "Quelle poisse... Suis-je en train de saigner ?"
     },
     {
       "key": "Data_Quip_text_Chekov_BattleCry_01",
@@ -17829,6 +18089,54 @@
     {
       "key": "Data_Quip_text_Elnor_Wounded_01",
       "value": "Cela fait assez mal, en fait !"
+    },
+    {
+      "key": "Data_Quip_text_Garak_BattleCry_01",
+      "value": "C'était vraiment idiot de votre part."
+    },
+    {
+      "key": "Data_Quip_text_Garak_BattleCry_02",
+      "value": "Je n'ai pas toujours été qu'un simple tailleur."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Demoralized_01",
+      "value": "Nous sommes vraiment dans le pétrin !"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Idle_01",
+      "value": "Certains pensent que c'est une perte de temps, mais moi, j'aime la vie au calme."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Inspired_01",
+      "value": "Si seulement nous avions eu des meneurs tels que vous sur Cardassia Prime."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Insult_01",
+      "value": "J'ai tué des gens comme vous par le passé. Ils ont tous connu une fin horrible."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reaction_Respond_01",
+      "value": "Étonnement efficace !"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reaction_Retort_01",
+      "value": "Eh bien, vous savez vous faire entendre, vous."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reinforce_01",
+      "value": "Que puis-je faire pour vous aider ?"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Special_TeamAssist_01",
+      "value": "Vous avez appelé ?"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Thank_01",
+      "value": "Je vous en dois une."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Wounded_01",
+      "value": "Ouch, OK. Ça fait mal."
     },
     {
       "key": "Data_Quip_text_GenBorgEng01M_BattleCry_01",
@@ -19847,6 +20155,54 @@
       "value": "Cela ne nous arrêtera pas !"
     },
     {
+      "key": "Data_Quip_text_PicardDixon_BattleCry_01",
+      "value": "Vous vous prenez pour des malins, hein ?"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_BattleCry_02",
+      "value": "On a toujours le choix entre la manière douce et la manière forte. On dirait que vous avez choisi de souffrir."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Demoralized_01",
+      "value": "Ce... ce n'est pas bon. Cette simulation d'holodeck ne devrait pas réagir de cette façon !"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Idle_01",
+      "value": "C'est dans ces moments-là qu'on aurait bien besoin de boire. Un thé Earl g-... ah un bourbon. Parfait."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Inspired_01",
+      "value": "Vous savez y faire avec les discours, pas vrai ?"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Insult_01",
+      "value": "Si vous ne la fermez pas, c'est moi qui vais le faire à votre place !"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reaction_Respond_01",
+      "value": "On peut vraiment compter sur vous, dites donc !"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reaction_Retort_01",
+      "value": "Ordinateur... Peut-on ajuster les paramètres de violence ? Je suis là pour me détendre, et non me battre."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reinforce_01",
+      "value": "Quelqu'un m'a appelé ? Détective privé Dixon Hill à votre service."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Special_TeamAssist_01",
+      "value": "Des grosses brutes ? Je déteste les brutes."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Thank_01",
+      "value": "Vous savez... vous êtes plutôt cool."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Wounded_01",
+      "value": "Ma grand-mère frappe plus fort que ça !"
+    },
+    {
       "key": "Data_Quip_text_PicardOld_BattleCry_01",
       "value": "Je pensais que nous avions évolué et laissé toutes ces absurdités derrière nous !"
     },
@@ -20755,6 +21111,102 @@
       "value": "Ahhh... La douleur n'est qu'une tromperie de l'esprit... La douleur n'est qu'une tromperie de l'esprit..."
     },
     {
+      "key": "Data_Quip_text_Troi_BattleCry_01",
+      "value": "Faites attention !"
+    },
+    {
+      "key": "Data_Quip_text_Troi_BattleCry_02",
+      "value": "Parez à viser !"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Demoralized_01",
+      "value": "Ma formation ne m'a pas préparée pour ce genre de situation !"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Idle_01",
+      "value": "Si nous avons assez de temps pour nous reposer, alors peut-être que j'irai méditer un peu."
+    },
+    {
+      "key": "Data_Quip_text_Troi_Inspired_01",
+      "value": "Très bien dit !"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Insult_01",
+      "value": "Vous me faites penser à ma mère."
+    },
+    {
+      "key": "Data_Quip_text_Troi_Reaction_Respond_01",
+      "value": "C'était exemplaire !"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Reaction_Retort_01",
+      "value": "Je me doutais que vous diriez cela."
+    },
+    {
+      "key": "Data_Quip_text_Troi_Reinforce_01",
+      "value": "Vous avez fait appel à un conseiller ?"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Special_TeamAssist_01",
+      "value": "De quoi avez-vous besoin ?"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Thank_01",
+      "value": "Vous avez ma gratitude."
+    },
+    {
+      "key": "Data_Quip_text_Troi_Wounded_01",
+      "value": "Je crains que la plaie ne soit plus profonde que je ne le pensais."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_BattleCry_01",
+      "value": "La logique demande que vous vous rendiez. Maintenant."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_BattleCry_02",
+      "value": "Ce sera terminé en un rien de temps."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Demoralized_01",
+      "value": "Je... je ne sais plus quoi en penser."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Idle_01",
+      "value": "Restez sur vos gardes. Cette période de calme ne durera pas."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Inspired_01",
+      "value": "Très informatif."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Insult_01",
+      "value": "J'en ai combattu beaucoup tels que vous. Leur talent n'était pas à la hauteur de leurs paroles."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Reaction_Respond_01",
+      "value": "Acceptable."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Reaction_Retort_01",
+      "value": "Je ne reconnais aucune valeur dans une telle bravade."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Reinforce_01",
+      "value": "La logique voudrait que nous ne nous attardions pas trop longtemps ici."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Special_TeamAssist_01",
+      "value": "Vous avez besoin de mes services ?"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Thank_01",
+      "value": "Vous me voyez... reconnaissant pour votre aide."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Wounded_01",
+      "value": "J'ai... besoin d'assistance médicale."
+    },
+    {
       "key": "Data_Quip_text_Uhura_BattleCry_01",
       "value": "Attention !"
     },
@@ -21011,8 +21463,60 @@
       "value": "Baissez les armes"
     },
     {
+      "key": "Data_Skill_Chang_Attack_description_level1",
+      "value": "Infligez <color=#01e2ff>100 % de dégâts</color> (<color=#01e2ff>10 % de chances</color> d'appliquer <color=#01e2ff>Défense (Baisse)</color> pendant 1 tour)."
+    },
+    {
+      "key": "Data_Skill_Chang_Attack_description_level2",
+      "value": "Infligez <color=#01e2ff>125 % de dégâts</color> (<color=#01e2ff>25 % de chances</color> d'appliquer <color=#01e2ff>Défense (Baisse)</color> pendant 1 tour)."
+    },
+    {
+      "key": "Data_Skill_Chang_Attack_displayName",
+      "value": "Disrupteur klingon"
+    },
+    {
       "key": "Data_Skill_Chang_Bridge_description",
       "value": "Klingons : obtiennent <color=#01e2ff>+5%</color> de Attaque."
+    },
+    {
+      "key": "Data_Skill_Chang_Bridge_displayName",
+      "value": "Assaut surprise"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill1_description_level1",
+      "value": "<color=#01e2ff>+1 à Moral</color> et <color=#01e2ff>Attaque (Hausse mineure)</color> à tous les alliés pendant 3 tours."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill1_description_level2",
+      "value": "<color=#01e2ff>+1 à Moral</color> et <color=#01e2ff>Attaque (Hausse)</color> à tous les alliés pendant 3 tours."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill1_displayName",
+      "value": "Gros ravages"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill2_description_level1",
+      "value": "<color=#01e2ff>Occultation</color> et <color=#01e2ff>Chance de CRIT (Hausse mineure)</color> à un allié pendant 3 tours."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill2_description_level2",
+      "value": "<color=#01e2ff>Occultation</color> et <color=#01e2ff>Chance de CRIT (Hausse majeure)</color> à un allié pendant 3 tours."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill2_displayName",
+      "value": "Cape klingon"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill3_description_level1",
+      "value": "<color=#01e2ff>Attaque de l'équipe</color>. <color=#01e2ff>Occultation</color> à tous les alliés pendant 1 tour."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill3_description_level2",
+      "value": "<color=#01e2ff>Attaque de l'équipe</color>. <color=#01e2ff>Occultation</color> à tous les alliés pendant 3 tours."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill3_displayName",
+      "value": "Lâcher les chiens de guerre"
     },
     {
       "key": "Data_Skill_Chekov_Attack_description_level1",
@@ -21029,6 +21533,46 @@
     {
       "key": "Data_Skill_Chekov_Bridge_description",
       "value": "Starfleet : obtiennent <color=#01e2ff>+5%</color> de Attaque."
+    },
+    {
+      "key": "Data_Skill_Chekov_Bridge_displayName",
+      "value": "Vaisseau nucléaire"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill1_description_level1",
+      "value": "Infligez <color=#01e2ff>4 x 50 % de dégâts</color> à des ennemis aléatoires."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill1_description_level2",
+      "value": "Infligez <color=#01e2ff>4 x 65 % de dégâts</color> à des ennemis aléatoires."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill1_displayName",
+      "value": "Manœuvre russe"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill2_description_level1",
+      "value": "<color=#01e2ff>Bouclier mineur</color> et <color=#01e2ff>Défense (Hausse mineure)</color> pendant 3 tours à tous les alliés."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill2_description_level2",
+      "value": "<color=#01e2ff>Bouclier</color> et <color=#01e2ff>Défense (Hausse)</color> pendant 3 tours pour tous les alliés."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill2_displayName",
+      "value": "Levons-nous les boucliers, capitaine ?"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill3_description_level1",
+      "value": "Infligez <color=#01e2ff>200 % de dégâts</color> (Infligez <color=#01e2ff>300 % de dégâts</color> à <color=#01e2ff>Couverture</color>) et <color=#01e2ff>50 % de chances d'appliquer -1 à Moral</color> à tous les ennemis."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill3_description_level2",
+      "value": "Infligez <color=#01e2ff>250 % de dégâts</color> (Infligez <color=#01e2ff>375 % de dégâts</color> à <color=#01e2ff>Couverture</color>) et <color=#01e2ff>-1 à Moral</color> à tous les ennemis."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill3_displayName",
+      "value": "Frappe orbitale de phaseur"
     },
     {
       "key": "Data_Skill_Crusher_Attack_description_level1",
@@ -21427,8 +21971,52 @@
       "value": "Infligez <color=#01e2ff>150 % de dégâts</color>."
     },
     {
+      "key": "Data_Skill_Garak_Attack_displayName",
+      "value": "Pistolet disrupteur"
+    },
+    {
       "key": "Data_Skill_Garak_Bridge_description",
       "value": "Obtenez <color=#01e2ff>+5%</color> de Chance de CRIT."
+    },
+    {
+      "key": "Data_Skill_Garak_Bridge_displayName",
+      "value": "Simple tailleur"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill1_description_level1",
+      "value": "Infligez <color=#01e2ff>2 x 50 % de dégâts</color>, <color=#01e2ff>-1 à Moral</color>, et <color=#01e2ff>50 % de chances</color> d'<color=#01e2ff>Étourdissement</color> à un ennemi pendant 3 tours."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill1_description_level2",
+      "value": "Infligez <color=#01e2ff>2 x 75 % de dégâts</color>, <color=#01e2ff>-1 à Moral</color>, et <color=#01e2ff>Étourdissement</color> à un ennemi pendant 3 tours."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill1_displayName",
+      "value": "Mesures extrêmes"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill2_description_level1",
+      "value": "<color=#01e2ff>Purge</color>, <color=#01e2ff>Défense (Baisse mineure)</color> et <color=#01e2ff>Tech (Baisse mineure)</color> à tous les ennemis pendant 3 tours."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill2_description_level2",
+      "value": "<color=#01e2ff>Purge</color>, <color=#01e2ff>Défense (Baisse)</color>, et <color=#01e2ff>Tech (Baisse)</color> à tous les ennemis pendant 3 tours."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill2_displayName",
+      "value": "Sabotage"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill3_description_level1",
+      "value": "<color=#01e2ff>50 % de soin</color>, <color=#01e2ff>Purification</color>, et <color=#01e2ff>+1 à Moral</color> sur vous-même."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill3_description_level2",
+      "value": "<color=#01e2ff>100 % de soin</color>, <color=#01e2ff>Purification</color>, et <color=#01e2ff>+2 à Moral</color> sur vous-même."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill3_displayName",
+      "value": "Techniques d'espionnage"
     },
     {
       "key": "Data_Skill_GenBorgEng01M_Attack_description_level1",
@@ -23099,8 +23687,52 @@
       "value": "Infligez <color=#01e2ff>150 % de dégâts</color>."
     },
     {
+      "key": "Data_Skill_PicardDixon_Attack_displayName",
+      "value": "Coup de poing"
+    },
+    {
       "key": "Data_Skill_PicardDixon_Bridge_description",
-      "value": "Starfleet : obtiennent <color=#01e2ff>+5%</color> de Attaque."
+      "value": "L'Attaque des membres de Starfleet augmente de <color=#01e2ff>+5 %</color>."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Bridge_displayName",
+      "value": "Les grand adieux"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_description_level1",
+      "value": "<color=#01e2ff>+1 à Moral</color> et <color=#01e2ff>Purification</color> à un allié."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_description_level2",
+      "value": "<color=#01e2ff>+2 à Moral</color> et <color=#01e2ff>Purification</color> à un allié."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_displayName",
+      "value": "Charmant"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_description_level1",
+      "value": "<color=#01e2ff>Étourdissement</color> et <color=#01e2ff>Défense (Baisse)</color> à un ennemi pendant 3 tours."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_description_level2",
+      "value": "<color=#01e2ff>Étourdissement</color>, <color=#01e2ff>Défense (Baisse majeure)</color> et <color=#01e2ff>Verrouillage de compétence</color> à un ennemi pendant 3 tours."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_displayName",
+      "value": "Geler le programme"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_description_level1",
+      "value": "<color=#01e2ff>3 x 100 % de dégâts</color> (<color=#01e2ff>50 % de chances</color> de <color=#01e2ff>blesser</color>) à un ennemi. <color=#01e2ff>50 % de chances d'avoir +1 à Moral</color> à tous les alliés."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_description_level2",
+      "value": "<color=#01e2ff>3 x 150 % de dégâts</color> et <color=#01e2ff>blessez</color> 1 ennemi. <color=#01e2ff>+1 à Moral</color> à tous les alliés."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_displayName",
+      "value": "Dur à cuire"
     },
     {
       "key": "Data_Skill_PicardOld_Attack_description_level1",
@@ -23204,11 +23836,11 @@
     },
     {
       "key": "Data_Skill_Pike_Skill3_description_level1",
-      "value": "<color=#01e2ff>Attaque (Hausse)</color>, <color=#01e2ff>Chance de CRIT (Hausse)</color> et <color=#01e2ff>+1 à Moral</color>."
+      "value": "<color=#01e2ff>Attaque (Hausse)</color>, <color=#01e2ff>Chance de CRIT (Hausse)</color> et <color=#01e2ff>+1 à Moral</color> à tous les alliés."
     },
     {
       "key": "Data_Skill_Pike_Skill3_description_level2",
-      "value": "<color=#01e2ff>Attaque (Hausse majeure)</color>, <color=#01e2ff>Chance de CRIT (Hausse majeure)</color> et <color=#01e2ff>+2 à Moral</color>."
+      "value": "<color=#01e2ff>Attaque (Hausse majeure)</color>, <color=#01e2ff>Chance de CRIT (Hausse majeure)</color> et <color=#01e2ff>+2 à Moral</color> à tous les alliés."
     },
     {
       "key": "Data_Skill_Pike_Skill3_displayName",
@@ -24055,8 +24687,72 @@
       "value": "Starfleet : obtiennent <color=#01e2ff>+5%</color> de Détermination."
     },
     {
+      "key": "Data_Skill_Troi_Bridge_displayName",
+      "value": "Conseillère du vaisseau"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill1_description_level1",
+      "value": "<color=#01e2ff>Purification</color> et <color=#01e2ff>+1 à Moral</color> à un allié."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill1_description_level2",
+      "value": "<color=#01e2ff>Purification</color>, <color=#01e2ff>+1 à Moral</color>, et <color=#01e2ff>Soin mineur</color> à un allié."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill1_displayName",
+      "value": "Purification emphatique"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill2_description_level1",
+      "value": "Infligez <color=#01e2ff>50 % de dégâts de Tech</color> et <color=#01e2ff>Purge</color> à un ennemi."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill2_description_level2",
+      "value": "Infligez <color=#01e2ff>75 % de dégâts de Tech</color>, <color=#01e2ff>Purge</color>, et <color=#01e2ff>-1 à Moral</color> à un ennemi."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill2_displayName",
+      "value": "Exposition"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill3_description_level1",
+      "value": "<color=#01e2ff>+1 à Moral</color> et <color=#01e2ff>Défense (Hausse)</color> à tous les alliés pendant 3 tours."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill3_description_level2",
+      "value": "<color=#01e2ff>+2 à Moral</color> et <color=#01e2ff>Défense (Hausse majeure)</color> à tous les alliés pendant 3 tours."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill3_displayName",
+      "value": "Encouragement"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Attack_description_level1",
+      "value": "Infligez <color=#01e2ff>100 % de dégâts</color> (<color=#01e2ff>10 % de chances</color> d'appliquer <color=#01e2ff>Attaque (Baisse)</color> pendant 1 tour)."
+    },
+    {
+      "key": "Data_Skill_Tuvok_Attack_description_level2",
+      "value": "Infligez <color=#01e2ff>125 % de dégâts</color> (<color=#01e2ff>25 % de chances</color> d'appliquer <color=#01e2ff>Attaque (Baisse)</color> pendant 1 tour)."
+    },
+    {
       "key": "Data_Skill_Tuvok_Attack_displayName",
       "value": "Fusil de compression"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Bridge_displayName",
+      "value": "Chef de la sécurité"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill1_description_level1",
+      "value": "<color=#01e2ff>Purification</color> et <color=#01e2ff>+1 à Moral</color> à un allié."
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill1_description_level2",
+      "value": "<color=#01e2ff>Purification</color> et <color=#01e2ff>+1 à Moral</color> à un allié. <color=#01e2ff>+1 à Moral</color> à vous-même."
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill1_displayName",
+      "value": "Fusion mentale purificatrice"
     },
     {
       "key": "Data_Skill_Tuvok_Skill2_description_level1",
@@ -24069,6 +24765,18 @@
     {
       "key": "Data_Skill_Tuvok_Skill2_displayName",
       "value": "Pincement neural vulcain"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill3_description_level1",
+      "value": "<color=#01e2ff>Attaque (Hausse)</color>, <color=#01e2ff>Chance de CRIT (Hausse)</color> et <color=#01e2ff>Alerte rouge</color> pendant 3 tours à tous les alliés."
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill3_description_level2",
+      "value": "<color=#01e2ff>Attaque (Hausse majeure)</color>, <color=#01e2ff>Chance de CRIT (Hausse majeure)</color> et <color=#01e2ff>Alerte rouge</color> pendant 3 tours à tous les alliés."
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill3_displayName",
+      "value": "Entraînement tactique"
     },
     {
       "key": "Data_Skill_Uhura_Attack_description_level1",
@@ -26819,6 +27527,10 @@
       "value": "Jeton Michael Burnham"
     },
     {
+      "key": "item_Chang_Token",
+      "value": "Jeton général Chang"
+    },
+    {
       "key": "item_Chekov_Token",
       "value": "Jeton Chekov"
     },
@@ -26841,6 +27553,14 @@
     {
       "key": "item_Dukat_Token",
       "value": "Jeton Gul Dukat"
+    },
+    {
+      "key": "item_Elnor_Token",
+      "value": "Jeton Elnor"
+    },
+    {
+      "key": "item_Garak_Token",
+      "value": "Jeton Elim Garak"
     },
     {
       "key": "item_GenBorgEng01M_Token",
@@ -27011,6 +27731,10 @@
       "value": "Jeton Capitaine Picard"
     },
     {
+      "key": "item_PicardDixon_Token",
+      "value": "Jeton Dixon Hill"
+    },
+    {
       "key": "item_PicardOld_Token",
       "value": "Jeton Picard"
     },
@@ -27067,6 +27791,10 @@
       "value": "Jeton Sutra"
     },
     {
+      "key": "item_Tilly_Token",
+      "value": "Jeton Sylvia Tilly"
+    },
+    {
       "key": "item_Token_Desc",
       "value": "Collectez des jetons pour passer au rang supérieur"
     },
@@ -27085,6 +27813,14 @@
     {
       "key": "item_TPol_Token",
       "value": "Jeton T'Pol"
+    },
+    {
+      "key": "item_Troi_Token",
+      "value": "Jeton Deanna Troi"
+    },
+    {
+      "key": "item_Tuvok_Token",
+      "value": "Jeton Tuvok"
     },
     {
       "key": "item_Uhura_Token",
@@ -27411,6 +28147,46 @@
       "value": "Vaincre une série d'ennemis pour gagner des récompenses"
     },
     {
+      "key": "Operations_FactionEvent_Desc_Borg",
+      "value": "Combattez pour gagner des points pour les Borg. La faction possédant le plus de points à la fin de l'événement remportera la récompense pour la communauté."
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Card",
+      "value": "Combattez pour gagner des points pour les Cardassiens. La faction possédant le plus de points à la fin de l'événement remportera la récompense pour la communauté."
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Fed",
+      "value": "Combattez pour gagner des points pour la Fédération. La faction possédant le plus de points à la fin de l'événement remportera la récompense pour la communauté."
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Kling",
+      "value": "Combattez pour gagner des points pour les Klingons. La faction possédant le plus de points à la fin de l'événement remportera la récompense pour la communauté."
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Romu",
+      "value": "Combattez pour gagner des points pour les Romuliens. La faction possédant le plus de points à la fin de l'événement remportera la récompense pour la communauté."
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Borg",
+      "value": "Guerres de faction : rejoindre les Borg"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Card",
+      "value": "Guerres de faction : rejoindre les Cardassiens"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Fed",
+      "value": "Guerres de faction : rejoindre la Fédération"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Kling",
+      "value": "Guerres de faction : rejoindre les Klingons"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Romu",
+      "value": "Guerres de faction : rejoindre les Romuliens"
+    },
+    {
       "key": "Operations_Material_Antimatter",
       "value": "Surcharge d'antimatière"
     },
@@ -27635,8 +28411,12 @@
       "value": "JcJ"
     },
     {
+      "key": "pvp_data_agree_body",
+      "value": "Merci ! Profitez bien des fonctionnalités en ligne !"
+    },
+    {
       "key": "pvp_data_body",
-      "value": "Bonjour ! Nous avons besoin d'utiliser vos informations de jeu, y compris votre identifiant Game Center, vos médailles, votre historique de combat et votre liste d'équipe d'exploration pour vous permettre de jouer dans l'arène. (L'arène ne sera pas disponible sans partager ces données.) Êtes-vous d'accord ?"
+      "value": "Bonjour ! Nous avons besoin d'utiliser vos informations de jeu, y compris votre identifiant Game Center, votre identifiant de fichier de sauvegarde, vos listes d'équipage, vos médailles, votre historique de combat, votre inventaire d'objets, les actions de l'alliance, les ressources d'événement et les opérations pour vous permettre de jouer en ligne. (Les fonctionnalités en multijoueur ne seront pas activées sans ces données.) Voulez-vous confirmer ?"
     },
     {
       "key": "pvp_data_btn_agree",
@@ -27648,7 +28428,7 @@
     },
     {
       "key": "pvp_data_disagree_body",
-      "value": "Pas de problème. Nous n'utiliserons pas vos informations de jeu et l'arène sera désactivée. Vous pouvez toujours jouer à des opérations et des épisodes en solo."
+      "value": "Aucun problème. Nous n'utiliserons pas vos informations de jeu et les fonctionnalités en ligne seront désactivées. Vous pouvez toujours jouer aux missions et aux opérations en solo."
     },
     {
       "key": "pvp_data_disagree_btn_ok",
@@ -29571,6 +30351,10 @@
       "value": "Spécial"
     },
     {
+      "key": "UI_Common_Splash_Start",
+      "value": "COMMENCER"
+    },
+    {
       "key": "UI_Common_Start",
       "value": "Toucher pour commencer"
     },
@@ -29875,6 +30659,22 @@
       "value": "Header text for data sharing pop up"
     },
     {
+      "key": "UI_DemoComplete_Body",
+      "value": "Merci d'avoir joué à la démo de Star Trek: Legends."
+    },
+    {
+      "key": "UI_DemoComplete_Header",
+      "value": "Démo terminée"
+    },
+    {
+      "key": "UI_DemoVersion_Body",
+      "value": "Cette version de Star Trek: Legends a été créée spécifiquement à des fins de démonstration."
+    },
+    {
+      "key": "UI_DemoVersion_Header",
+      "value": "Version démo"
+    },
+    {
       "key": "UI_DownloadConfirmation_Body",
       "value": "Capitaine ! Nos scans indiquent qu'il nous faut <color=##0DDADF><b>{0} Mo</b></color> de fichiers supplémentaires pour continuer."
     },
@@ -30025,6 +30825,26 @@
     {
       "key": "UI_Events_NPE_Title",
       "value": "Événement : Événement de bienvenue"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc",
+      "value": "Nous célébrons le capitaine Jean-Luc Picard toute une semaine. Participez à cet événement spécial pour une chance de déverrouiller {0} !"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Main",
+      "value": "Participez à la semaine Capitaine Picard et gagnez une chance de déverrouiller {0} !"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Post",
+      "value": "L'événement est terminé !"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Pre",
+      "value": "Réessayez plus tard pour jouer à cet événement !"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Title",
+      "value": "Semaine du capitaine Picard"
     },
     {
       "key": "UI_Events_SoloEvent_Desc",
@@ -31485,6 +32305,14 @@
     {
       "key": "UI_Popup_DeleteAllData_Title",
       "value": "SUPPRIMER TOUTES LES DONNÉES"
+    },
+    {
+      "key": "UI_Popup_DemoDisabled_Body",
+      "value": "La fonction n'est pas activée pour cette démo"
+    },
+    {
+      "key": "UI_Popup_DemoDisabled_Header",
+      "value": "Fonction désactivée"
     },
     {
       "key": "UI_Popup_DownloadPermission_Body",

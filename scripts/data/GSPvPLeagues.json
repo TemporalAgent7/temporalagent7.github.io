@@ -15,7 +15,7 @@
     "rewardChestCurrency": 20,
     "rewardEnergyCap": 100,
     "lossPowerCell": 0,
-    "battleLogPowerCells": 0,
+    "battleLogPowerCells": 1,
     "rewardPowerCells": [
       0,
       2,
@@ -54,7 +54,7 @@
     "rewardChestCurrency": 20,
     "rewardEnergyCap": 100,
     "lossPowerCell": 0,
-    "battleLogPowerCells": 0,
+    "battleLogPowerCells": 1,
     "rewardPowerCells": [
       0,
       3,
@@ -93,7 +93,7 @@
     "rewardChestCurrency": 20,
     "rewardEnergyCap": 100,
     "lossPowerCell": 0,
-    "battleLogPowerCells": 0,
+    "battleLogPowerCells": 1,
     "rewardPowerCells": [
       0,
       4,
@@ -132,7 +132,7 @@
     "rewardChestCurrency": 20,
     "rewardEnergyCap": 100,
     "lossPowerCell": 0,
-    "battleLogPowerCells": 0,
+    "battleLogPowerCells": 1,
     "rewardPowerCells": [
       0,
       5,
@@ -171,7 +171,7 @@
     "rewardChestCurrency": 20,
     "rewardEnergyCap": 100,
     "lossPowerCell": 0,
-    "battleLogPowerCells": 0,
+    "battleLogPowerCells": 2,
     "rewardPowerCells": [
       0,
       6,
@@ -210,7 +210,7 @@
     "rewardChestCurrency": 20,
     "rewardEnergyCap": 100,
     "lossPowerCell": 0,
-    "battleLogPowerCells": 0,
+    "battleLogPowerCells": 2,
     "rewardPowerCells": [
       0,
       7,
@@ -249,7 +249,7 @@
     "rewardChestCurrency": 20,
     "rewardEnergyCap": 100,
     "lossPowerCell": 0,
-    "battleLogPowerCells": 0,
+    "battleLogPowerCells": 2,
     "rewardPowerCells": [
       0,
       8,
@@ -288,7 +288,7 @@
     "rewardChestCurrency": 20,
     "rewardEnergyCap": 100,
     "lossPowerCell": 0,
-    "battleLogPowerCells": 0,
+    "battleLogPowerCells": 3,
     "rewardPowerCells": [
       0,
       9,
@@ -327,7 +327,7 @@
     "rewardChestCurrency": 20,
     "rewardEnergyCap": 100,
     "lossPowerCell": 0,
-    "battleLogPowerCells": 0,
+    "battleLogPowerCells": 3,
     "rewardPowerCells": [
       0,
       10,
@@ -366,7 +366,7 @@
     "rewardChestCurrency": 20,
     "rewardEnergyCap": 100,
     "lossPowerCell": 0,
-    "battleLogPowerCells": 0,
+    "battleLogPowerCells": 3,
     "rewardPowerCells": [
       0,
       11,
@@ -405,7 +405,7 @@
     "rewardChestCurrency": 20,
     "rewardEnergyCap": 100,
     "lossPowerCell": 0,
-    "battleLogPowerCells": 0,
+    "battleLogPowerCells": 4,
     "rewardPowerCells": [
       0,
       12,
@@ -444,7 +444,7 @@
     "rewardChestCurrency": 20,
     "rewardEnergyCap": 100,
     "lossPowerCell": 0,
-    "battleLogPowerCells": 0,
+    "battleLogPowerCells": 4,
     "rewardPowerCells": [
       0,
       13,
@@ -483,7 +483,7 @@
     "rewardChestCurrency": 20,
     "rewardEnergyCap": 100,
     "lossPowerCell": 0,
-    "battleLogPowerCells": 0,
+    "battleLogPowerCells": 4,
     "rewardPowerCells": [
       0,
       14,
@@ -522,7 +522,7 @@
     "rewardChestCurrency": 20,
     "rewardEnergyCap": 100,
     "lossPowerCell": 0,
-    "battleLogPowerCells": 0,
+    "battleLogPowerCells": 4,
     "rewardPowerCells": [
       0,
       15,
@@ -561,7 +561,7 @@
     "rewardChestCurrency": 20,
     "rewardEnergyCap": 100,
     "lossPowerCell": 0,
-    "battleLogPowerCells": 0,
+    "battleLogPowerCells": 5,
     "rewardPowerCells": [
       0,
       16,
@@ -600,7 +600,7 @@
     "rewardChestCurrency": 20,
     "rewardEnergyCap": 100,
     "lossPowerCell": 0,
-    "battleLogPowerCells": 0,
+    "battleLogPowerCells": 5,
     "rewardPowerCells": [
       0,
       17,

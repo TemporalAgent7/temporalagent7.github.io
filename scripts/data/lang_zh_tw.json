@@ -1439,6 +1439,10 @@
       "value": "守護者"
     },
     {
+      "key": "Common_Chang",
+      "value": "張將軍"
+    },
+    {
       "key": "Common_CharacterRole_All",
       "value": "全部"
     },
@@ -1825,6 +1829,10 @@
     {
       "key": "Common_FirstWord",
       "value": "前綴"
+    },
+    {
+      "key": "Common_Garak",
+      "value": "伊利姆·蓋瑞克"
     },
     {
       "key": "Common_GenGorn01",
@@ -2259,6 +2267,10 @@
       "value": "畢凱"
     },
     {
+      "key": "Common_PicardDixon",
+      "value": "迪克森·希爾"
+    },
+    {
       "key": "Common_Power",
       "value": "力量"
     },
@@ -2535,6 +2547,10 @@
       "value": "貝久人"
     },
     {
+      "key": "Common_Tag_Betazoid",
+      "value": "貝塔索人"
+    },
+    {
       "key": "Common_Tag_Borg",
       "value": "博格人"
     },
@@ -2739,6 +2755,14 @@
       "value": "氚金屬"
     },
     {
+      "key": "Common_Troi",
+      "value": "荻安娜·特洛伊"
+    },
+    {
+      "key": "Common_Tuvok",
+      "value": "圖沃克"
+    },
+    {
       "key": "Common_Unknown",
       "value": "未知"
     },
@@ -2807,6 +2831,10 @@
       "value": "伯翰是史巴克父母收養的人類，也是史巴克的妹妹，在聯邦星艦 Discovery 上服役。她聰明絕頂、有上信心且個性正直，也因此時常和上級起衝突。"
     },
     {
+      "key": "Data_Character_Chang_description",
+      "value": "一名遵守傳統的克林貢老兵。儘管他尊重地球的文化，然而他擔心克林貢帝國會因為聯邦的擴張而衰落，因此願意付出一切保衛帝國。"
+    },
+    {
       "key": "Data_Character_Chekov_description",
       "value": "帕夫‧契可夫是個真正的博學者，擔任過許多職位，例如安全官、領航員和戰術官。他樣樣精通，並且樂在其中。"
     },
@@ -2841,6 +2869,10 @@
     {
       "key": "Data_Character_Elnor_description",
       "value": "埃爾諾是羅慕倫超新星事件的倖存者，被艦隊司令畢凱疏散到瓦希堤。成年後的埃爾諾，成為戰鬥修女教團科瓦特米拉罕見的男性副手。教團對他的訓練，讓他在戰鬥中無人能敵。"
+    },
+    {
+      "key": "Data_Character_Garak_description",
+      "value": "蓋瑞克是個看起來溫和的卡達西裁縫，但同時也是其政府情報組織「黑曜石教團」的一員。他是老練的刺客、密謀者兼手腕圓滑的間諜。"
     },
     {
       "key": "Data_Character_GenBorgEng01M_description",
@@ -2999,6 +3031,10 @@
       "value": "被稱為是星際艦隊史上最偉大的艦長之一。Picard 艦長是名聲響亮的戰術家、思想家與外交家，無論面臨何種挑戰，他都堅守對聯邦的理想。"
     },
     {
+      "key": "Data_Character_PicardDixon_description",
+      "value": "幻想的硬漢偵探。畢凱艦長時常在聯邦星艦企業號的全像甲板上體驗他的故事。迪克森的拳腳功夫和他的調情功力一樣出色。"
+    },
+    {
       "key": "Data_Character_Pike_description",
       "value": "聯邦星艦 Enterprise 的前任艦長。他親切善良、彬彬有禮，卻不幸受到重傷，變得無法開口、全身癱瘓。"
     },
@@ -3065,6 +3101,14 @@
     {
       "key": "Data_Character_TPol_description",
       "value": "在人類進入繁星的史詩任務時期，一名派遣至地球星艦 Enterprise NX-01 的瓦肯人。她處變不驚、心思縝密，以屹立不搖的內心協助她的同事。"
+    },
+    {
+      "key": "Data_Character_Troi_description",
+      "value": "在畢凱艦長麾下於聯邦星艦企業號服役的半貝塔索心靈能力者。她是一位溫暖而具同理心軍官員。理解同袍的能力加上心理學的訓練，使她成為完美的諮商師。"
+    },
+    {
+      "key": "Data_Character_Tuvok_description",
+      "value": "聯邦星艦航海家號上的第三指揮官，兼任船艦安全官。他最強大之處並不在於驍勇善戰，而在他所受的瓦肯教育。他思維清晰縝密，周全地考慮所有可能性。"
     },
     {
       "key": "Data_Character_Uhura_description",
@@ -4185,6 +4229,166 @@
     {
       "key": "Data_GSCutSceneDialogue_captainsLogSupplemental_e5m6_01",
       "value": "<color=#FFCE00>博格女王被打倒了</color>，並<color=#FFCE00>獲得時匯反應堆</color>。<color=#FFCE00>時匯</color>中還有什麼樣的惡夢在等待著船員呢？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_01",
+      "value": "我沒看到要調查的殘骸。沃爾夫中尉，請報告狀況。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_02",
+      "value": "地點未知，派克指揮官。沒有生命跡象，不過需保持警戒。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_03",
+      "value": "我在東方探測到一個強大的能量訊號，大約離我們五公里遠。很可能就是我們的目標。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_04",
+      "value": "<i>阿提米絲號</i>上明明有史上最傑出的工程師，但他們居然沒辦法把我們直接傳到步行距離內的目標旁邊嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_05",
+      "value": "等等！看前面！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_01",
+      "value": "他們好像退到霧中了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_02",
+      "value": "我們以為我們剛剛沒發現任何生命跡象的說。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_03",
+      "value": "真奇怪。是不是我們的三度儀故障了？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_04",
+      "value": "或者是「時匯」找上了我們。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_05",
+      "value": "我們繼續行動吧。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_01",
+      "value": "看前面！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_02",
+      "value": "又是羅慕倫人？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_03",
+      "value": "他們看起來是克林貢人。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_04",
+      "value": "我來試著跟他們溝通看看。「NuqneH」！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_05",
+      "value": "他們抽出了相位槍。你確定你說的是對的嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_06",
+      "value": "他們絕對不會誤解我的意思，醫生。他們只是……不太好客而已。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_01",
+      "value": "而現在他們消失了，就像那些羅慕倫人一樣。感覺不太對勁。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_02",
+      "value": "一定是「時匯」在惡搞我們。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_03",
+      "value": "也許是，也許不是。我得做一些掃描，但我不確定這種能源在這裡有沒有用。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_04",
+      "value": "在你嘗試的期間，我們應該繼續行動。我們就快抵達目標了。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_01",
+      "value": "在那裡——那艘船一定就是我們的目標。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_02",
+      "value": "不是只有我們在找它。我偵測到博格人個體。我們身邊到處都是。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_03",
+      "value": "等等，不是只有「時匯」。這裡還有別的東西在起作用！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_04",
+      "value": "博士，雖然我很尊重科學，但我建議我先把這些放在一邊，這樣我們才能討論你的讀數！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_01",
+      "value": "它們消失得如同幻影一般。就像我們遇到的其他人一樣。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_02",
+      "value": "它們是由其他東西控制的。我在這三次遭遇中都有發現別的東西。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_03",
+      "value": "除了「時匯」的力量之外，還有別的東西參與其中。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_04",
+      "value": "沒錯。你可是休伊·卡爾拜醫生，不是嗎？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_05",
+      "value": "這是……？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_06",
+      "value": "你是克里斯多福·派克。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_07",
+      "value": "而你是摩格之子沃爾夫。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_08",
+      "value": "還有安妮卡·韓森，也就是零一號聯合矩陣第三小隊九之七。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_09",
+      "value": "你怎麼會知道我們是誰？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_10",
+      "value": "你對「時匯」一無所知，不過保持無知對你比較好。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_11",
+      "value": "我們無意和你們衝突。放棄你們的探索吧，否則你們會和身邊的一切一起崩落到虛無之中。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_intro01_01",
+      "value": "你是<i>聯邦星艦阿提米絲號</i>的艦長，你們的任務是探索神秘的「時匯」。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_intro01_02",
+      "value": "為了補充你的二鋰庫存，你派出了一支特遣隊，讓他們去附近某個星球上調查一艘廢棄的聯邦船艦。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_01",
+      "value": "就在他們警告的話語還在你耳邊縈繞之際，這些奇異的身影以某種方式向彼此示意。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_02",
+      "value": "它們周遭的現實扭曲的方式看起來令人有種迷惑而不穩定的感覺。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_03",
+      "value": "恐懼與震驚的感受只加強了你繼續任務的決心，你決定繼續探索在黑暗中等待你的驚奇與危險。"
     },
     {
       "key": "Data_GSCutSceneDialogue_e1_m1_battle01_01",
@@ -11368,7 +11572,7 @@
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m1_story01_01",
-      "value": "此地使我想起年輕時聽過的克林貢傳說。戰士永生永世都於索沃科殿堂戰鬥著。"
+      "value": "這個地方讓我想起小時候聽過的克林貢傳說。英靈殿，戰士們為永生拚搏之地。"
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m1_story01_02",
@@ -17003,6 +17207,14 @@
       "value": "錫尼龍"
     },
     {
+      "key": "Data_MissionObjective_e0_m1_Name",
+      "value": "完成所有的戰鬥。"
+    },
+    {
+      "key": "Data_MissionObjective_e0_m2_Name",
+      "value": "調查殘骸"
+    },
+    {
       "key": "Data_MissionObjective_e1_m1_Name",
       "value": "拯救麥珂‧伯翰"
     },
@@ -17397,6 +17609,54 @@
     {
       "key": "Data_Quip_text_Burnham_Wounded_02",
       "value": "麥考伊醫生，我需要一些幫助…"
+    },
+    {
+      "key": "Data_Quip_text_Chang_BattleCry_01",
+      "value": "好朋友們，再打一次！"
+    },
+    {
+      "key": "Data_Quip_text_Chang_BattleCry_02",
+      "value": "我真的很……期待跟你交手！"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Demoralized_01",
+      "value": "苦難讓人認識陌生的同床者。"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Idle_01",
+      "value": "你們的莎士比亞說過什麼？人生冗長得像是講了兩遍的故事。"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Inspired_01",
+      "value": "深具啟發性的演講。值得詩人讚揚！"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Insult_01",
+      "value": "哼。我能打倒你，不過也會髒了自己的手。"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reaction_Respond_01",
+      "value": "這豈不是個快樂的兄弟檔嗎？"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reaction_Retort_01",
+      "value": "懦夫有很多種死法，然而勇士的歸途只有一種！"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reinforce_01",
+      "value": "現在……我們有什麼？"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Special_TeamAssist_01",
+      "value": "啊，你打來，我就接了。"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Thank_01",
+      "value": "我為你所承受的疼痛和你的勇氣致謝。"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Wounded_01",
+      "value": "刺我……我有流血嗎？"
     },
     {
       "key": "Data_Quip_text_Chekov_BattleCry_01",
@@ -17829,6 +18089,54 @@
     {
       "key": "Data_Quip_text_Elnor_Wounded_01",
       "value": "可是...真的很痛！"
+    },
+    {
+      "key": "Data_Quip_text_Garak_BattleCry_01",
+      "value": "哦，你現在走了，也搞定了。"
+    },
+    {
+      "key": "Data_Quip_text_Garak_BattleCry_02",
+      "value": "我並非一直都是個謙遜的裁縫。"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Demoralized_01",
+      "value": "我們現在就有大麻煩了！"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Idle_01",
+      "value": "有些人可能會覺得這是浪費時間，但我呢？我喜歡寧靜的生活。"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Inspired_01",
+      "value": "如果卡達西主星上有像你這樣的領導者"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Insult_01",
+      "value": "我殺過像你這樣的人。他們都死得很難看。"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reaction_Respond_01",
+      "value": "出乎意料地效果絕佳。"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reaction_Retort_01",
+      "value": "嗯，你是個大聲的裁縫。"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reinforce_01",
+      "value": "我能為你做什麼？"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Special_TeamAssist_01",
+      "value": "是你按的鈴？"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Thank_01",
+      "value": "我欠你一次。"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Wounded_01",
+      "value": "喔，好。真令人難過。"
     },
     {
       "key": "Data_Quip_text_GenBorgEng01M_BattleCry_01",
@@ -19847,6 +20155,54 @@
       "value": "我們不會因此卻步！"
     },
     {
+      "key": "Data_Quip_text_PicardDixon_BattleCry_01",
+      "value": "聰明的傢伙，啊？"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_BattleCry_02",
+      "value": "我總是說我們可以困難地幹這些事，也可以簡單地幹。看來你們這群小丑選困難的做法。"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Demoralized_01",
+      "value": "這……這樣不對。全像甲板的模擬不應該會這樣回應！"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Idle_01",
+      "value": "這樣的時間都夠喝一杯了。伯爵……啊，波本威士忌。絕妙。"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Inspired_01",
+      "value": "你很會說話嘛，不是嗎？"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Insult_01",
+      "value": "閉嘴，不然我就讓你閉嘴！"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reaction_Respond_01",
+      "value": "哇，你還真是鶴立雞群！"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reaction_Retort_01",
+      "value": "電腦……我們可以調整暴力程度嗎？我是來這邊放鬆，不是來戰鬥的。"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reinforce_01",
+      "value": "有人打電話嗎？迪克森希爾為您服務。"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Special_TeamAssist_01",
+      "value": "小流氓，啊？我討厭小流氓。"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Thank_01",
+      "value": "你知道……你是對的，孩子。"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Wounded_01",
+      "value": "我祖母都打得更大力！"
+    },
+    {
       "key": "Data_Quip_text_PicardOld_BattleCry_01",
       "value": "本來還以為我們早就進化到可以略過這種毫無意義的過程了！"
     },
@@ -20755,6 +21111,102 @@
       "value": "啊啊…疼痛只不過是大腦在作祟…疼痛只不過是大腦在作祟…"
     },
     {
+      "key": "Data_Quip_text_Troi_BattleCry_01",
+      "value": "小心！"
+    },
+    {
+      "key": "Data_Quip_text_Troi_BattleCry_02",
+      "value": "穩定地瞄準！"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Demoralized_01",
+      "value": "我受的訓練不包括這個！"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Idle_01",
+      "value": "如果我們有時間休息，我可能會冥想一下。"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Inspired_01",
+      "value": "說得非常好！"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Insult_01",
+      "value": "你讓我想起我的母親，"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Reaction_Respond_01",
+      "value": "那真是模範！"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Reaction_Retort_01",
+      "value": "我就知道你會這樣說。"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Reinforce_01",
+      "value": "你找諮商師嗎？"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Special_TeamAssist_01",
+      "value": "你需要什麼？"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Thank_01",
+      "value": "我對你非常感激。"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Wounded_01",
+      "value": "我害怕傷口比我起初想的還深。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_BattleCry_01",
+      "value": "邏輯命令你投降。現在。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_BattleCry_02",
+      "value": "這很快就會結束了。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Demoralized_01",
+      "value": "我……很茫然。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Idle_01",
+      "value": "保持警戒。這樣的平和不會持續太久。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Inspired_01",
+      "value": "很有啟發性。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Insult_01",
+      "value": "我和許多像你這樣的人交手過。全都是外強中乾。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Reaction_Respond_01",
+      "value": "可以接受。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Reaction_Retort_01",
+      "value": "我不懂這樣虛張聲勢的用意何在。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Reinforce_01",
+      "value": "邏輯命令我們不要在這待太久。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Special_TeamAssist_01",
+      "value": "你需要我的協助嗎？"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Thank_01",
+      "value": "我對你的幫助感到……很感激。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Wounded_01",
+      "value": "我……需要醫療援助。"
+    },
+    {
       "key": "Data_Quip_text_Uhura_BattleCry_01",
       "value": "小心！"
     },
@@ -21011,8 +21463,60 @@
       "value": "投降吧"
     },
     {
+      "key": "Data_Skill_Chang_Attack_description_level1",
+      "value": "造成 <color=#01e2ff>100% 傷害</color>（有 <color=#01e2ff>10% 機率</color><color=#01e2ff>降低防禦</color> 1 回合）"
+    },
+    {
+      "key": "Data_Skill_Chang_Attack_description_level2",
+      "value": "造成 <color=#01e2ff>125% 傷害</color>（有 <color=#01e2ff>25% 機率</color><color=#01e2ff>降低防禦</color> 1 回合。）"
+    },
+    {
+      "key": "Data_Skill_Chang_Attack_displayName",
+      "value": "克林貢破壞者步槍"
+    },
+    {
       "key": "Data_Skill_Chang_Bridge_description",
       "value": "克林貢人 得到 <color=#01e2ff>+5%</color> 攻擊。"
+    },
+    {
+      "key": "Data_Skill_Chang_Bridge_displayName",
+      "value": "意外攻擊"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill1_description_level1",
+      "value": "使所有盟友<color=#01e2ff>提高 1 點士氣</color>且<color=#01e2ff>攻擊略微提高</color>，持續 3 回合。"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill1_description_level2",
+      "value": "使所有盟友<color=#01e2ff>提高 1 點士氣</color>且<color=#01e2ff>攻擊提高</color>，持續 3 回合。"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill1_displayName",
+      "value": "悲鳴破壞"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill2_description_level1",
+      "value": "使 1 名盟友<color=#01e2ff>匿蹤</color>且<color=#01e2ff>暴擊機率略微提高</color>，持續 3 回合。"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill2_description_level2",
+      "value": "使 1 名盟友<color=#01e2ff>匿蹤</color>且<color=#01e2ff>暴擊機率大幅提高</color>，持續 3 回合。"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill2_displayName",
+      "value": "克林貢斗篷"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill3_description_level1",
+      "value": "使所有盟友獲得<color=#01e2ff>團隊攻擊</color>並<color=#01e2ff>匿蹤</color>，持續 1 回合。"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill3_description_level2",
+      "value": "使所有盟友獲得<color=#01e2ff>團隊攻擊</color>並<color=#01e2ff>匿蹤</color>，持續 3 回合。"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill3_displayName",
+      "value": "放出戰犬"
     },
     {
       "key": "Data_Skill_Chekov_Attack_description_level1",
@@ -21029,6 +21533,46 @@
     {
       "key": "Data_Skill_Chekov_Bridge_description",
       "value": "星際艦隊 得到 <color=#01e2ff>+5%</color> 攻擊。"
+    },
+    {
+      "key": "Data_Skill_Chekov_Bridge_displayName",
+      "value": "核子艦艇"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill1_description_level1",
+      "value": "對隨機敵人造成<color=#01e2ff> 4 次 50% 傷害</color>。"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill1_description_level2",
+      "value": "對隨機敵人造成<color=#01e2ff> 4 次 65% 傷害</color>。"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill1_displayName",
+      "value": "俄羅斯賭局"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill2_description_level1",
+      "value": "使所有盟友獲得<color=#01e2ff>小型護盾</color>且<color=#01e2ff>防禦略微提高</color>，持續 3 回合。"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill2_description_level2",
+      "value": "使所有盟友獲得<color=#01e2ff>護盾</color>且<color=#01e2ff>防禦提高</color>，持續 3 回合。"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill2_displayName",
+      "value": "展開護盾嗎，艦長？"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill3_description_level1",
+      "value": "對所有敵人造成 <color=#01e2ff>200% 傷害</color>（對<color=#01e2ff>遮罩</color>造成<color=#01e2ff> 300% 傷害</color>）並有 <color=#01e2ff>50% 機率降低 1 點士氣</color>。"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill3_description_level2",
+      "value": "對所有敵人造成 <color=#01e2ff>250% 傷害</color>（對<color=#01e2ff>遮罩</color>造成<color=#01e2ff> 375% 傷害</color>）並<color=#01e2ff>降低 1 點士氣</color>。"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill3_displayName",
+      "value": "軌道相位擊"
     },
     {
       "key": "Data_Skill_Crusher_Attack_description_level1",
@@ -21420,15 +21964,59 @@
     },
     {
       "key": "Data_Skill_Garak_Attack_description_level1",
-      "value": "造成 <color=#01e2ff>100% 傷害</color>"
+      "value": "造成 <color=#01e2ff>100% 傷害</color>。"
     },
     {
       "key": "Data_Skill_Garak_Attack_description_level2",
       "value": "造成 <color=#01e2ff>150% 傷害</color>。"
     },
     {
+      "key": "Data_Skill_Garak_Attack_displayName",
+      "value": "破壞者手槍"
+    },
+    {
       "key": "Data_Skill_Garak_Bridge_description",
       "value": "得到 <color=#01e2ff>+5%</color> 暴擊機率."
+    },
+    {
+      "key": "Data_Skill_Garak_Bridge_displayName",
+      "value": "單純的裁縫"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill1_description_level1",
+      "value": "造成 <color=#01e2ff>2 次 50% 傷害</color>，<color=#01e2ff>降低 1 點士氣</color>並有<color=#01e2ff> 50% 機率</color>使 1 個敵人<color=#01e2ff>暈眩</color>，持續 3 回合。"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill1_description_level2",
+      "value": "造成 <color=#01e2ff>2 次 75% 傷害</color>，<color=#01e2ff>降低 1 點士氣</color>並使 1 個敵人<color=#01e2ff>暈眩</color>，持續 3 回合。"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill1_displayName",
+      "value": "極端的手段"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill2_description_level1",
+      "value": "使所有敵人<color=#01e2ff>清除</color>、<color=#01e2ff>防禦略微降低</color>且<color=#01e2ff>科技略微降低</color>，持續 3 回合。"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill2_description_level2",
+      "value": "對所有敵人施以<color=#01e2ff>清除</color>、<color=#01e2ff>防禦降低</color>及<color=#01e2ff>科技降低</color>，持續 3 回合。"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill2_displayName",
+      "value": "破壞"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill3_description_level1",
+      "value": "對自己施以<color=#01e2ff> 50% 治療</color>、<color=#01e2ff>淨化</color>且<color=#01e2ff>提高 1 點士氣</color>。"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill3_description_level2",
+      "value": "對自己施以<color=#01e2ff> 100% 治療</color>、<color=#01e2ff>淨化</color>且<color=#01e2ff>提高 +2 點士氣</color>。"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill3_displayName",
+      "value": "間諜技術"
     },
     {
       "key": "Data_Skill_GenBorgEng01M_Attack_description_level1",
@@ -23099,8 +23687,52 @@
       "value": "造成 <color=#01e2ff>150% 傷害</color>。"
     },
     {
+      "key": "Data_Skill_PicardDixon_Attack_displayName",
+      "value": "拳擊"
+    },
+    {
       "key": "Data_Skill_PicardDixon_Bridge_description",
-      "value": "星際艦隊 得到 <color=#01e2ff>+5%</color> 攻擊。"
+      "value": "星際艦隊得到<color=#01e2ff> +5%</color> 攻擊。"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Bridge_displayName",
+      "value": "盛大道別"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_description_level1",
+      "value": "賦予 1 名盟友<color=#01e2ff>提高 1 點士氣</color>和<color=#01e2ff>淨化</color>。"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_description_level2",
+      "value": "賦予 1 名盟友<color=#01e2ff>提高 2 點士氣</color>和<color=#01e2ff>淨化</color>。"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_displayName",
+      "value": "溫和"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_description_level1",
+      "value": "<color=#01e2ff>擊暈</color> 1 名敵人並使其<color=#01e2ff>防禦降低</color>，持續 3 回合。"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_description_level2",
+      "value": "<color=#01e2ff>擊暈</color> 1 名敵人並使其<color=#01e2ff>防禦大幅降低</color>、<color=#01e2ff>技能鎖定</color>，持續 3 回合。"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_displayName",
+      "value": "冷凍計畫"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_description_level1",
+      "value": "對 1 名敵人造成 <color=#01e2ff>3 次 100% 傷害</color>（<color=#01e2ff>50% 機率</color>造成<color=#01e2ff>受傷</color>），<color=#01e2ff>50% 機率為所有盟友提高 1 點士氣</color>。"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_description_level2",
+      "value": "對 1 名敵人造成<color=#01e2ff>3 次 150%傷害</color>和<color=#01e2ff>創傷</color>，並使全體盟友<color=#01e2ff>提高 1 點士氣</color>。"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_displayName",
+      "value": "硬漢"
     },
     {
       "key": "Data_Skill_PicardOld_Attack_description_level1",
@@ -23204,11 +23836,11 @@
     },
     {
       "key": "Data_Skill_Pike_Skill3_description_level1",
-      "value": "<color=#01e2ff>攻擊提高</color>、<color=#01e2ff>暴擊機率提高</color>且<color=#01e2ff>提高 1 點士氣</color>。"
+      "value": "使所有盟友<color=#01e2ff>攻擊提高</color>、<color=#01e2ff>暴擊機率提高</color>，且<color=#01e2ff>提高 1 點士氣</color>。"
     },
     {
       "key": "Data_Skill_Pike_Skill3_description_level2",
-      "value": "<color=#01e2ff>攻擊大幅提高</color>、<color=#01e2ff>暴擊機率大幅提高</color>且<color=#01e2ff>提高 2 點士氣</color>。"
+      "value": "使所有盟友<color=#01e2ff>攻擊大幅提高</color>、<color=#01e2ff>暴擊機率大幅提高，</color>且<color=#01e2ff>提高 2 點士氣</color>。"
     },
     {
       "key": "Data_Skill_Pike_Skill3_displayName",
@@ -24055,8 +24687,72 @@
       "value": "星際艦隊 得到 <color=#01e2ff>+5%</color> 決心。"
     },
     {
+      "key": "Data_Skill_Troi_Bridge_displayName",
+      "value": "艦上諮商師"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill1_description_level1",
+      "value": "為 1 位盟友施加<color=#01e2ff>淨化</color>並提高<color=#01e2ff> 1 點士氣</color>。"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill1_description_level2",
+      "value": "為 1 位盟友施加<color=#01e2ff>淨化</color>、<color=#01e2ff>提高 1 點士氣</color>，並賦予<color=#01e2ff>小幅治療</color>。"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill1_displayName",
+      "value": "移情淨化"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill2_description_level1",
+      "value": "對 1 位敵人造成 <color=#01e2ff>50% 科技傷害</color>並施以<color=#01e2ff>清除</color>。"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill2_description_level2",
+      "value": "對 1 位敵人造成 <color=#01e2ff>75% 科技傷害</color>、施以<color=#01e2ff>清除</color>，並<color=#01e2ff>降低 1 點士氣</color>。"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill2_displayName",
+      "value": "暴露"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill3_description_level1",
+      "value": "使所有盟友<color=#01e2ff>提高 1 點士氣</color>並<color=#01e2ff>提高防禦</color>，持續 3 回合。"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill3_description_level2",
+      "value": "使所有盟友<color=#01e2ff>提高 2 點士氣</color>並<color=#01e2ff>大幅提高防禦</color>，持續 3 回合。"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill3_displayName",
+      "value": "壯膽"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Attack_description_level1",
+      "value": "造成 <color=#01e2ff>100% 傷害</color>（有 <color=#01e2ff>10% 機率</color>造成<color=#01e2ff>攻擊降低</color>，持續 1 回合）。"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Attack_description_level2",
+      "value": "造成 <color=#01e2ff>125% 傷害</color>（有 <color=#01e2ff>25% 機率</color>造成<color=#01e2ff>攻擊降低</color>，持續 1 回合）。"
+    },
+    {
       "key": "Data_Skill_Tuvok_Attack_displayName",
       "value": "壓縮步槍"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Bridge_displayName",
+      "value": "首席安全官"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill1_description_level1",
+      "value": "為 1 位盟友施加<color=#01e2ff>淨化</color>並提高<color=#01e2ff> 1 點士氣</color>。"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill1_description_level2",
+      "value": "為 1 位盟友施加<color=#01e2ff>淨化</color>及<color=#01e2ff>提高 1 點士氣</color>．並為自己<color=#01e2ff>提高 1 點士氣</color>。"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill1_displayName",
+      "value": "淨化心靈融合"
     },
     {
       "key": "Data_Skill_Tuvok_Skill2_description_level1",
@@ -24069,6 +24765,18 @@
     {
       "key": "Data_Skill_Tuvok_Skill2_displayName",
       "value": "瓦肯神經癱瘓術"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill3_description_level1",
+      "value": "使所有盟友<color=#01e2ff>攻擊提高</color>、<color=#01e2ff>暴擊機率提高</color>，並獲得<color=#01e2ff>紅色警戒</color>效果，持續 3 回合。"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill3_description_level2",
+      "value": "使所有盟友<color=#01e2ff>攻擊大幅提高</color>、<color=#01e2ff>暴擊機率大幅提高</color>並獲得<color=#01e2ff>紅色警戒</color>效果，持續 3 回合。"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill3_displayName",
+      "value": "戰術訓練"
     },
     {
       "key": "Data_Skill_Uhura_Attack_description_level1",
@@ -26819,6 +27527,10 @@
       "value": "麥珂‧伯翰代幣"
     },
     {
+      "key": "item_Chang_Token",
+      "value": "張將軍代幣"
+    },
+    {
       "key": "item_Chekov_Token",
       "value": "契可夫代幣"
     },
@@ -26841,6 +27553,14 @@
     {
       "key": "item_Dukat_Token",
       "value": "戈爾‧杜卡特代幣"
+    },
+    {
+      "key": "item_Elnor_Token",
+      "value": "埃爾諾代幣"
+    },
+    {
+      "key": "item_Garak_Token",
+      "value": "伊利姆·蓋瑞克代幣"
     },
     {
       "key": "item_GenBorgEng01M_Token",
@@ -27011,6 +27731,10 @@
       "value": "畢凱艦長代幣"
     },
     {
+      "key": "item_PicardDixon_Token",
+      "value": "迪克森·希爾代幣"
+    },
+    {
       "key": "item_PicardOld_Token",
       "value": "畢凱代幣"
     },
@@ -27067,6 +27791,10 @@
       "value": "蘇塔代幣"
     },
     {
+      "key": "item_Tilly_Token",
+      "value": "希薇亞·堤利代幣"
+    },
+    {
       "key": "item_Token_Desc",
       "value": "收集可供升階的代幣"
     },
@@ -27085,6 +27813,14 @@
     {
       "key": "item_TPol_Token",
       "value": "特珀代幣"
+    },
+    {
+      "key": "item_Troi_Token",
+      "value": "荻安娜·特洛伊代幣"
+    },
+    {
+      "key": "item_Tuvok_Token",
+      "value": "圖沃克代幣"
     },
     {
       "key": "item_Uhura_Token",
@@ -27411,6 +28147,46 @@
       "value": "擊敗一系列的敵人以獲得獎勵"
     },
     {
+      "key": "Operations_FactionEvent_Desc_Borg",
+      "value": "戰鬥並為博格人賺取分數。活動結束時最高分的陣營獲得社群獎勵。"
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Card",
+      "value": "戰鬥並為卡達西人賺取分數。活動結束時最高分的陣營獲得社群獎勵。"
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Fed",
+      "value": "戰鬥並為聯邦賺取分數。活動結束時最高分的陣營獲得社群獎勵。"
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Kling",
+      "value": "戰鬥並為克林貢人賺取分數。活動結束時最高分的陣營獲得社群獎勵。"
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Romu",
+      "value": "戰鬥並為羅慕倫人賺取分數。活動結束時最高分的陣營獲得社群獎勵。"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Borg",
+      "value": "陣營戰爭：加入博格人"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Card",
+      "value": "陣營戰爭：加入卡達西人"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Fed",
+      "value": "陣營戰爭：加入聯邦"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Kling",
+      "value": "陣營戰爭：加入克林貢人"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Romu",
+      "value": "陣營戰爭：加入羅慕倫人"
+    },
+    {
       "key": "Operations_Material_Antimatter",
       "value": "超頻反物質"
     },
@@ -27635,8 +28411,12 @@
       "value": "PvP"
     },
     {
+      "key": "pvp_data_agree_body",
+      "value": "感謝！祝你在線上遊戲玩得愉快！"
+    },
+    {
       "key": "pvp_data_body",
-      "value": "您好！Emerald City Games 需要取得您的遊玩資訊，包括您的 Game Center 玩家 ID、特遣隊名單、勳章和戰鬥記錄檔，如此您才能進入競技場遊玩。(若缺少此資料，競技場會無法運作。)請問是否可以？"
+      "value": "哈囉，Emerald City Games 需要使用您的遊玩資訊，包括您的 Game Center 玩家 ID、存檔 ID、特遣隊名單、勳章、戰鬥記錄檔、物品清單、聯盟行動、事件資源和行動，如此您才能啟用線上功能。（沒有這些資料無法啟動多人遊戲）可以嗎？"
     },
     {
       "key": "pvp_data_btn_agree",
@@ -27648,7 +28428,7 @@
     },
     {
       "key": "pvp_data_disagree_body",
-      "value": "沒問題。我們不會使用您的遊玩資訊，因此將會停用競技場。單人章節及行動部分仍可供遊玩。"
+      "value": "沒問題。我們不會使用您的遊玩資訊，因此將會停用線上功能。您仍然可以玩單人任務和行動。"
     },
     {
       "key": "pvp_data_disagree_btn_ok",
@@ -29571,6 +30351,10 @@
       "value": "特殊"
     },
     {
+      "key": "UI_Common_Splash_Start",
+      "value": "開場"
+    },
+    {
       "key": "UI_Common_Start",
       "value": "點擊以開始"
     },
@@ -29875,6 +30659,22 @@
       "value": "分享資訊的浮動標題文字"
     },
     {
+      "key": "UI_DemoComplete_Body",
+      "value": "感謝您遊玩《星際迷航：傳奇》試玩版。"
+    },
+    {
+      "key": "UI_DemoComplete_Header",
+      "value": "試玩版完成"
+    },
+    {
+      "key": "UI_DemoVersion_Body",
+      "value": "這個《星際迷航：傳奇》的版本是專為試玩所製作。"
+    },
+    {
+      "key": "UI_DemoVersion_Header",
+      "value": "試玩版"
+    },
+    {
       "key": "UI_DownloadConfirmation_Body",
       "value": "艦長！我們的掃描顯示，還需要 <color=##0DDADF><b>{0}MB</b></color> 的檔案才能繼續遊戲。"
     },
@@ -30025,6 +30825,26 @@
     {
       "key": "UI_Events_NPE_Title",
       "value": "活動：歡迎活動"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc",
+      "value": "我們本週在紀念尚－路克·畢凱。參加這場特別活動，就有機會獲得 {0}！"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Main",
+      "value": "參加畢凱艦長週的活動，就有機會獲得 {0}！"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Post",
+      "value": "此活動已結束！"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Pre",
+      "value": "晚點再回來參加此活動！"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Title",
+      "value": "畢凱艦長週"
     },
     {
       "key": "UI_Events_SoloEvent_Desc",
@@ -31485,6 +32305,14 @@
     {
       "key": "UI_Popup_DeleteAllData_Title",
       "value": "刪除所有資料"
+    },
+    {
+      "key": "UI_Popup_DemoDisabled_Body",
+      "value": "本試玩版未啟用此功能"
+    },
+    {
+      "key": "UI_Popup_DemoDisabled_Header",
+      "value": "功能停用中"
     },
     {
       "key": "UI_Popup_DownloadPermission_Body",

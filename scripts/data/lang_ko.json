@@ -1439,6 +1439,10 @@
       "value": "케어테이커"
     },
     {
+      "key": "Common_Chang",
+      "value": "창 장군"
+    },
+    {
       "key": "Common_CharacterRole_All",
       "value": "모두"
     },
@@ -1825,6 +1829,10 @@
     {
       "key": "Common_FirstWord",
       "value": "첫 번째 단어"
+    },
+    {
+      "key": "Common_Garak",
+      "value": "엘림 가락"
     },
     {
       "key": "Common_GenGorn01",
@@ -2259,6 +2267,10 @@
       "value": "피카드"
     },
     {
+      "key": "Common_PicardDixon",
+      "value": "딕슨 힐"
+    },
+    {
       "key": "Common_Power",
       "value": "힘"
     },
@@ -2535,6 +2547,10 @@
       "value": "바조란"
     },
     {
+      "key": "Common_Tag_Betazoid",
+      "value": "베타조이드"
+    },
+    {
       "key": "Common_Tag_Borg",
       "value": "보그"
     },
@@ -2739,6 +2755,14 @@
       "value": "트리타늄"
     },
     {
+      "key": "Common_Troi",
+      "value": "디애나 트로이"
+    },
+    {
+      "key": "Common_Tuvok",
+      "value": "투박"
+    },
+    {
       "key": "Common_Unknown",
       "value": "알 수 없음"
     },
@@ -2807,6 +2831,10 @@
       "value": "스팍의 입양된 인간 누나인 버넘은 U.S.S. 디스커버리에 승선하여 복무합니다. 매우 똑똑하고, 도덕적이며, 추진력이 있기에 가끔 상관과 갈등을 빚기도 합니다."
     },
     {
+      "key": "Data_Character_Chang_description",
+      "value": "전통을 중시하는 베테랑 클링온 전사입니다. 지구의 문화를 존중하지만, 또한 연방이 확장하면서 클링온 제국이 멸망할지 모른다고 생각하고 있으며 이를 막기 위해 모든 수단을 동원합니다."
+    },
+    {
       "key": "Data_Character_Chekov_description",
       "value": "진정한 박식가인 파벨 체코프는 보안, 항해와 전술을 포함한 다양한 역할을 해 왔습니다. 트레이드마크인 명랑함을 잃지 않으면서도 모든 일을 척척 해내는 사람입니다."
     },
@@ -2841,6 +2869,10 @@
     {
       "key": "Data_Character_Elnor_description",
       "value": "로뮬란 슈퍼노바 사건의 생존자인 엘노어는 피카드 함장에 의해 바쉬티로 구조되었습니다. 어른이 된 그는 전사 수녀들의 집단인 쿼왓 밀랏의 몇 없는 남성 일원이 되었습니다. 그곳에서의 훈련 덕분에 접근전에서는 그를 당할 자가 없습니다."
+    },
+    {
+      "key": "Data_Character_Garak_description",
+      "value": "얼핏 부드러워 보이는 카다시안 재봉사 가락은 카다시안 정보부인 옵시디언 결사단의 전직 멤버였습니다. 뛰어난 암살자, 방해 공작 전문가, 그리고 스파이마스터입니다."
     },
     {
       "key": "Data_Character_GenBorgEng01M_description",
@@ -2999,6 +3031,10 @@
       "value": "스타플릿 역사의 위대한 선장 중 한 명으로 널리 알려져 있습니다. 전술가, 사상가, 외교 능력이 뛰어난 인물로 유명한 피카드 선장은 연방의 이상을 지키기 위해 그가 당면한 어려움이 무엇이든 상관없이 분투합니다."
     },
     {
+      "key": "Data_Character_PicardDixon_description",
+      "value": "피카드 선장이 U.S.S. 엔터프라이즈의 홀로덱에 종종 가져왔던 하드보일드 탐정 소설의 주인공 탐정입니다. 딕슨은 주먹과 로맨스 양쪽 모두 뛰어납니다."
+    },
+    {
       "key": "Data_Character_Pike_description",
       "value": "U.S.S. 엔터프라이즈호의 이전 선장입니다. 치명적인 부상을 입어 움직일 수도, 말할 수도 없게 되었지만 친절하고 품위 있는 성격의 남성입니다."
     },
@@ -3065,6 +3101,14 @@
     {
       "key": "Data_Character_TPol_description",
       "value": "인류에게 행성을 소개한다는 역사적인 임무 중 U.S.S. 엔터프라이즈 NX-01에 배정된 벌칸 장교입니다. 차분하고 생각이 깊으며, 핵심이 되어 동료들을 잘 다독입니다."
+    },
+    {
+      "key": "Data_Character_Troi_description",
+      "value": "절반은 베타조이드인 사이오닉으로, U.S.S. 엔터프라이즈에서 피카드 선장 아래 근무했습니다. 따스하고 온정적인 성격에 팀원들에 대한 공감 능력이 뛰어나며 심리학 훈련도 마친 뛰어난 상담사입니다."
+    },
+    {
+      "key": "Data_Character_Tuvok_description",
+      "value": "U.S.S. 보이저의 세 번째 지휘관이자 보안 책임자입니다. 전투 실력도 뛰어나지만, 그의 진짜 강점은 벌칸이라는 배경에 있습니다. 논리적이고, 사려 깊으며, 모든 가능성을 미리 고려하죠."
     },
     {
       "key": "Data_Character_Uhura_description",
@@ -4185,6 +4229,166 @@
     {
       "key": "Data_GSCutSceneDialogue_captainsLogSupplemental_e5m6_01",
       "value": "<color=#FFCE00>보그 퀸을 처치했고</color>, 또다른 <color=#FFCE00>넥서스 리액터를 획득</color>했습니다. <color=#FFCE00>넥서스</color>안에서 또 어떤 악몽이 선원들을 기다리고 있을까요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_01",
+      "value": "발굴이 필요한 잔해가 보이지 않는군. 워프 소령. 상태 보고 바랍니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_02",
+      "value": "장소는 알 수 없습니다, 파이크 사령관. 생명 징후는 없지만 경계 바랍니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_03",
+      "value": "동쪽에서 강력한 에너지 신호가 잡힙니다. 우리 목표에서 5km 정도 떨어진 곳입니다. 우리 목표일 가능성이 높겠죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_04",
+      "value": "역사상 최고의 엔지니어들이 <i>아르테미스</i>에 타고 있는데, 목표물에서 걸어서 갈 수 있는 거리 안에도 우릴 넣어주지 못한 거야?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_05",
+      "value": "잠깐! 앞을 봐요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_01",
+      "value": "안개 속으로 후퇴한 거 같은데요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_02",
+      "value": "생명 징후는 없다고 한 거 같았는데."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_03",
+      "value": "이상하군요. 우리 트라이코더에 문제가 있는 걸까요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_04",
+      "value": "아니면 넥서스가 우릴 갖고 노는 걸 수도 있고요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_05",
+      "value": "일단 계속 가죠."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_01",
+      "value": "앞을 봐요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_02",
+      "value": "또 로뮬란인가?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_03",
+      "value": "클링온 같은데요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_04",
+      "value": "제가 대화를 해보죠. 응퀘흐!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_05",
+      "value": "페이저를 꺼내는군요. 제대로 말한 거 맞아요?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_06",
+      "value": "내 말은 제대로 잘 들렸을 겁니다만... 반응이 좋지 않군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_01",
+      "value": "아까 로뮬란이 그랬던 것처럼 모두 사라졌어요. 여긴 뭔가 이상하군요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_02",
+      "value": "넥서스가 우릴 갖고 노는 게 확실해요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_03",
+      "value": "그럴 수도 있고, 아닐 수도 있죠. 스캔을 몇 번 돌려봐야 하겠지만, 이곳에서 감지되는 건 차원 에너지가 아니에요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_04",
+      "value": "스캔을 하면서 계속 움직이도록 하죠. 목표로 다가가고 있어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_01",
+      "value": "저쪽이에요. 저 배가 우리 목표예요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_02",
+      "value": "이 배를 찾는 게 우리만은 아닌 거 같군요. 보그 군체의 드론이 탐지됩니다. 사방에 있어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_03",
+      "value": "여긴 넥서스뿐 아니라 뭔가 다른 것도 영향을 미치고 있어요!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_04",
+      "value": "박사, 나도 과학은 좋아하지만, 수치 분석은 놈들을 처치한 다음에 하도록 하죠!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_01",
+      "value": "모두 유령처럼 없어졌군요. 지금까지 만난 다른 놈들처럼요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_02",
+      "value": "다른 뭔가가 놈들을 조종하고 있어요. 세 번의 조우에서 매번 다른 존재가 감지됐거든요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_03",
+      "value": "지금 이곳에는 넥서스의 힘 외에 또 다른 뭔가가 작용하고 있어요."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_04",
+      "value": "맞습니다. 당신은 휴 컬버 박사죠?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_05",
+      "value": "당신은...?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_06",
+      "value": "그리고 당신은 크리스토퍼 파이크."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_07",
+      "value": "당신은 모그의 아들 워프."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_08",
+      "value": "그리고 유니매트릭스 01의 제3 부가 세븐 오브 나인의 지명인 애니카 한센."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_09",
+      "value": "어떻게 우리 정체를 아는 겁니까?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_10",
+      "value": "당신들은 넥서스가 뭔지 전혀 모릅니다. 그리고 계속 모르는 것이 당신들에게 좋을 겁니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_11",
+      "value": "우린 당신들과 싸울 생각이 없습니다. 지금 여길 떠나지 않으면 주변의 모든 것과 함께 붕괴되어 소멸하게 될 겁니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_intro01_01",
+      "value": "당신은 <i>U.S.S. 아르테미스</i>의 함장으로, 의문의 '넥서스'를 탐험하기 위한 임무를 수행하고 있습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_intro01_02",
+      "value": "소진되어 가는 다이리튬을 보충하기 위해 당신은 근처 행성에 버려져 있는 연방 배로 원정 팀을 보냈습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_01",
+      "value": "그들의 경고가 여전히 귓속을 울리는 가운데, 낯선 존재들은 서로에게 뭔가 동작을 했습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_02",
+      "value": "이들 주변의 현실이 왜곡되는 광경은 불길하면서도 홀릴 듯한 광경이었습니다."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_03",
+      "value": "공포와 경외감을 느끼며 당신은 임무를 계속해야겠다고 결심합니다. 이것은 어둠 속에서 당신을 기다리는 놀라움과 위험을 쫓는 모험이 될 것입니다."
     },
     {
       "key": "Data_GSCutSceneDialogue_e1_m1_battle01_01",
@@ -17003,6 +17207,14 @@
       "value": "제닐론"
     },
     {
+      "key": "Data_MissionObjective_e0_m1_Name",
+      "value": "모든 전투 완료하기"
+    },
+    {
+      "key": "Data_MissionObjective_e0_m2_Name",
+      "value": "잔해 조사하기"
+    },
+    {
       "key": "Data_MissionObjective_e1_m1_Name",
       "value": "마이클 버넘 구출하기"
     },
@@ -17397,6 +17609,54 @@
     {
       "key": "Data_Quip_text_Burnham_Wounded_02",
       "value": "맥코이 박사님, 도움이 필요합니다..."
+    },
+    {
+      "key": "Data_Quip_text_Chang_BattleCry_01",
+      "value": "다시 한 번 심연으로 나아간다, 친애하는 친구들이여!"
+    },
+    {
+      "key": "Data_Quip_text_Chang_BattleCry_02",
+      "value": "너와 싸우는 순간을... 손꼽아 기다렸다!"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Demoralized_01",
+      "value": "힘든 시기에는 예상치 못한 자와 손을 잡기도 하는 법이지."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Idle_01",
+      "value": "셰익스피어가 뭐라고 했더라? \"인생이란 두 번 반복하는 이야기만큼이나 지루하다.\""
+    },
+    {
+      "key": "Data_Quip_text_Chang_Inspired_01",
+      "value": "매우 인상적인 연설이었어. 음유시인이 되면 좋겠군!"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Insult_01",
+      "value": "흐음. 두들겨 패주고 싶지만, 그럼 내 손이 감염될 테니."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reaction_Respond_01",
+      "value": "이것 참 행복해 보이는 전우들이로군."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reaction_Retort_01",
+      "value": "겁쟁이들은 여러 번 죽지. 하지만 용기 있는 자는 한 번만 죽는다!"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reinforce_01",
+      "value": "음... 이게 뭐지?"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Special_TeamAssist_01",
+      "value": "아, 부름이 들려 왔다."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Thank_01",
+      "value": "네 고통과 배려에 감사한다."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Wounded_01",
+      "value": "찔러봐... 내가 피를 흘리는지 궁금한가?"
     },
     {
       "key": "Data_Quip_text_Chekov_BattleCry_01",
@@ -17829,6 +18089,54 @@
     {
       "key": "Data_Quip_text_Elnor_Wounded_01",
       "value": "이건... 이건 정말 아프군!"
+    },
+    {
+      "key": "Data_Quip_text_Garak_BattleCry_01",
+      "value": "이제 진짜 안 봐줘."
+    },
+    {
+      "key": "Data_Quip_text_Garak_BattleCry_02",
+      "value": "난 그냥 재단사였던 적은 없어."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Demoralized_01",
+      "value": "문제가 생겼어!"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Idle_01",
+      "value": "나만 이게 시간 낭비 같은가? 난 조용한 생활이 좋아."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Inspired_01",
+      "value": "우리에게 카다시안 프라임에서와 같은 리더가 있었다면."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Insult_01",
+      "value": "너 같은 건 이미 많이 죽여봤어. 모두 비참하게 죽었지."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reaction_Respond_01",
+      "value": "놀라울 정도로 효율적인데!"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reaction_Retort_01",
+      "value": "참 시끄러운 녀석이로군."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reinforce_01",
+      "value": "뭘 도와줄까?"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Special_TeamAssist_01",
+      "value": "불렀나?"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Thank_01",
+      "value": "신세 졌군."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Wounded_01",
+      "value": "아오, 아야, 아프잖아."
     },
     {
       "key": "Data_Quip_text_GenBorgEng01M_BattleCry_01",
@@ -19847,6 +20155,54 @@
       "value": "그래도 우릴 막을 수는 없다!"
     },
     {
+      "key": "Data_Quip_text_PicardDixon_BattleCry_01",
+      "value": "똑똑한 녀석들이로군?"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_BattleCry_02",
+      "value": "난 항상 쉽게 가는 방법과 어렵게 가는 방법이 있다고 말해주지. 너희들은 어렵게 가는 쪽이 좋은 모양이군."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Demoralized_01",
+      "value": "이건... 뭔가 잘못됐어. 홀로덱 시뮬레이션은 이런 식으로 작동하지 않는다고!"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Idle_01",
+      "value": "지금은 남자가 한 잔 할 시간이지. 얼 그레이... 아, 버번. 스트레이트로."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Inspired_01",
+      "value": "제법 말주변이 뛰어나군?"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Insult_01",
+      "value": "입 닥쳐, 아니면 내가 다물게 해주지!"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reaction_Respond_01",
+      "value": "흠, 제법 인상적인 친구로군!"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reaction_Retort_01",
+      "value": "컴퓨터... 폭력 수위는 변경할 수는 없나? 난 여기 놀러 온 거지, 싸우러 온 게 아니야."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reinforce_01",
+      "value": "누가 불렀나? 딕슨 힐 탐정이 왔어."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Special_TeamAssist_01",
+      "value": "깡패로군? 난 깡패가 싫어."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Thank_01",
+      "value": "너... 제법 괜찮은 녀석이야."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Wounded_01",
+      "value": "우리 할머니도 너보다 잘 싸우겠다!"
+    },
+    {
       "key": "Data_Quip_text_PicardOld_BattleCry_01",
       "value": "이런 헛짓거리는 할 시기가 지난 거 같은데!"
     },
@@ -20755,6 +21111,102 @@
       "value": "아... 고통은 정신이 몸을 속이는 것이다... 고통은 정신이 몸을 속이는 것이다..."
     },
     {
+      "key": "Data_Quip_text_Troi_BattleCry_01",
+      "value": "조심하세요!"
+    },
+    {
+      "key": "Data_Quip_text_Troi_BattleCry_02",
+      "value": "신중하게 조준하세요!"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Demoralized_01",
+      "value": "이 날을 위해 훈련해왔지!"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Idle_01",
+      "value": "휴식 시간이 있다면, 잠시 명상을 하고 싶네요."
+    },
+    {
+      "key": "Data_Quip_text_Troi_Inspired_01",
+      "value": "잘했어요!"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Insult_01",
+      "value": "당신을 보니 우리 엄마가 떠오르네요."
+    },
+    {
+      "key": "Data_Quip_text_Troi_Reaction_Respond_01",
+      "value": "그건 정말 대단했어요!"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Reaction_Retort_01",
+      "value": "그 말을 할 줄 알았어요."
+    },
+    {
+      "key": "Data_Quip_text_Troi_Reinforce_01",
+      "value": "상담이 필요하세요?"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Special_TeamAssist_01",
+      "value": "뭘 도와드릴까요?"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Thank_01",
+      "value": "감사합니다."
+    },
+    {
+      "key": "Data_Quip_text_Troi_Wounded_01",
+      "value": "상처가 생각보다 깊어요."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_BattleCry_01",
+      "value": "항복하는 게 논리적인 선택이야. 지금 항복해."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_BattleCry_02",
+      "value": "금방 끝내도록 하지."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Demoralized_01",
+      "value": "할 말을... 잃었어요."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Idle_01",
+      "value": "경계하세요. 이 평화는 오래 가지 않을 테니까."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Inspired_01",
+      "value": "참 분명한 말이군요."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Insult_01",
+      "value": "너 같은 것과는 많이 싸워봤어. 말만 많고 실력은 형편 없지."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Reaction_Respond_01",
+      "value": "괜찮은걸."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Reaction_Retort_01",
+      "value": "만용을 부리는 이유를 모르겠네."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Reinforce_01",
+      "value": "여기 오래 머물지 않는 게 논리적인 선택이에요."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Special_TeamAssist_01",
+      "value": "제가 필요하신가요?"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Thank_01",
+      "value": "당신의 도움에... 감사드려요."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Wounded_01",
+      "value": "의료 지원이... 필요합니다."
+    },
+    {
       "key": "Data_Quip_text_Uhura_BattleCry_01",
       "value": "조심해!"
     },
@@ -21011,8 +21463,60 @@
       "value": "물러나라"
     },
     {
+      "key": "Data_Skill_Chang_Attack_description_level1",
+      "value": "<color=#01e2ff>100% 피해</color>를 가하며<color=#01e2ff>10%의 확률</color>로 1턴간 <color=#01e2ff>방어력을 감소</color>시킵니다."
+    },
+    {
+      "key": "Data_Skill_Chang_Attack_description_level2",
+      "value": "<color=#01e2ff>125% 피해</color>를 가하며<color=#01e2ff>25%의 확률</color>로 1턴간 <color=#01e2ff>방어력을 감소</color>시킵니다."
+    },
+    {
+      "key": "Data_Skill_Chang_Attack_displayName",
+      "value": "클링온 디스럽터"
+    },
+    {
       "key": "Data_Skill_Chang_Bridge_description",
       "value": "클링온 <color=#01e2ff>+5%</color> 공격력을(를) 획득합니다."
+    },
+    {
+      "key": "Data_Skill_Chang_Bridge_displayName",
+      "value": "기습 공격"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill1_description_level1",
+      "value": "3턴간 모든 아군의 <color=#01e2ff>공격력이 약간 상승</color>하고 <color=#01e2ff>사기 +1</color>을 적용합니다."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill1_description_level2",
+      "value": "3턴간 모든 아군의 <color=#01e2ff>공격력이 상승</color>하고 <color=#01e2ff>사기 +1</color>을 적용합니다."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill1_displayName",
+      "value": "파괴의 외침"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill2_description_level1",
+      "value": "3턴간 아군 1명에게 <color=#01e2ff>숨기</color>를 부여하고 <color=#01e2ff>치명타 확률이 약간 상승</color>시킵니다."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill2_description_level2",
+      "value": "3턴간 아군 1명에게 <color=#01e2ff>숨기</color>를 부여하고 <color=#01e2ff>치명타 확률이 크게 상승</color>시킵니다."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill2_displayName",
+      "value": "클링온 은신"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill3_description_level1",
+      "value": "<color=#01e2ff>팀 공격</color>. 1턴 간 모든 아군에게 <color=#01e2ff>숨기</color>를 부여합니다."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill3_description_level2",
+      "value": "<color=#01e2ff>팀 공격</color>. 3턴 간 모든 아군에게 <color=#01e2ff>숨기</color>를 부여합니다."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill3_displayName",
+      "value": "전쟁의 개를 보내라"
     },
     {
       "key": "Data_Skill_Chekov_Attack_description_level1",
@@ -21029,6 +21533,46 @@
     {
       "key": "Data_Skill_Chekov_Bridge_description",
       "value": "스타플릿 <color=#01e2ff>+5%</color> 공격력을(를) 획득합니다."
+    },
+    {
+      "key": "Data_Skill_Chekov_Bridge_displayName",
+      "value": "핵 웨슬"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill1_description_level1",
+      "value": "무작위 적에게 <color=#01e2ff>4 x 50% 피해</color>를 가합니다."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill1_description_level2",
+      "value": "무작위 적에게 <color=#01e2ff>4 x 65% 피해</color>를 가합니다."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill1_displayName",
+      "value": "러시안 갬빗"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill2_description_level1",
+      "value": "3턴간 모든 아군에게 <color=#01e2ff>약한 쉴드</color>를 부여하며 <color=#01e2ff>방어력을 약간 상승</color>시킵니다."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill2_description_level2",
+      "value": "3턴간 모든 아군에게 <color=#01e2ff>쉴드</color>를 부여하며 <color=#01e2ff>방어력을 상승</color>시킵니다."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill2_displayName",
+      "value": "쉴드를 전개할까요, 선장님?"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill3_description_level1",
+      "value": "모든 적에게 <color=#01e2ff>200% 피해</color>를 가하고(<color=#01e2ff>엄폐</color>한 대상에는 <color=#01e2ff>300% 피해</color>), <color=#01e2ff>50% 확률로 사기 -1</color>을 적용합니다."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill3_description_level2",
+      "value": "모든 적에게 <color=#01e2ff>250% 피해</color>를 가하고(<color=#01e2ff>엄폐</color>한 대상에는 <color=#01e2ff>375% 피해</color>), <color=#01e2ff>사기 -1</color>을 적용합니다."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill3_displayName",
+      "value": "궤도 페이저 공격"
     },
     {
       "key": "Data_Skill_Crusher_Attack_description_level1",
@@ -21427,8 +21971,52 @@
       "value": "<color=#01e2ff>150% 피해</color>를 가합니다."
     },
     {
+      "key": "Data_Skill_Garak_Attack_displayName",
+      "value": "디스럽터 권총"
+    },
+    {
       "key": "Data_Skill_Garak_Bridge_description",
       "value": "<color=#01e2ff>+5%</color> 치명타 확률을(를) 획득합니다."
+    },
+    {
+      "key": "Data_Skill_Garak_Bridge_displayName",
+      "value": "단순한 재봉사"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill1_description_level1",
+      "value": "3턴 동안 1명의 적에게 <color=#01e2ff>2 x 50% 피해</color>를 가하고 <color=#01e2ff>사기 -1</color>을 적용하며, <color=#01e2ff>50%의 확률</color>로 <color=#01e2ff>기절</color>을 부여합니다."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill1_description_level2",
+      "value": "3턴 동안 1명의 적에게 <color=#01e2ff>2 x 75% 피해</color>를 가하고 <color=#01e2ff>사기 -1</color>과 <color=#01e2ff>기절</color>을 부여합니다."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill1_displayName",
+      "value": "극단적 대처"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill2_description_level1",
+      "value": "3턴간 모든 적에게 <color=#01e2ff>정화</color>를 부여하고, <color=#01e2ff>방어력을 약간 감소</color>시키며, <color=#01e2ff>기술을 약간 감소</color>시킵니다."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill2_description_level2",
+      "value": "3턴간 모든 적에게 <color=#01e2ff>정화</color>를 부여하고, <color=#01e2ff>방어력을 감소</color>시키며, <color=#01e2ff>기술을 감소</color>시킵니다."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill2_displayName",
+      "value": "방해 공작"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill3_description_level1",
+      "value": "자신에게 <color=#01e2ff>50% 치유</color>, <color=#01e2ff>정화</color>, <color=#01e2ff>사기 +1</color>을 적용합니다."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill3_description_level2",
+      "value": "자신에게 <color=#01e2ff>100% 치유</color>, <color=#01e2ff>정화</color>, <color=#01e2ff>사기 +2</color>을 적용합니다."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill3_displayName",
+      "value": "스파이 기술"
     },
     {
       "key": "Data_Skill_GenBorgEng01M_Attack_description_level1",
@@ -23099,8 +23687,52 @@
       "value": "<color=#01e2ff>150% 피해</color>를 가합니다."
     },
     {
+      "key": "Data_Skill_PicardDixon_Attack_displayName",
+      "value": "펀치"
+    },
+    {
       "key": "Data_Skill_PicardDixon_Bridge_description",
-      "value": "스타플릿 <color=#01e2ff>+5%</color> 공격력을(를) 획득합니다."
+      "value": "스타플릿이 공격력 <color=#01e2ff>+5%</color>를 획득합니다."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Bridge_displayName",
+      "value": "장대한 작별 인사"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_description_level1",
+      "value": "아군 1명을 <color=#01e2ff>정화</color>하고 <color=#01e2ff>사기 +1</color>을 적용합니다."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_description_level2",
+      "value": "아군 1명을 <color=#01e2ff>정화</color>하고 <color=#01e2ff>사기 +2</color>를 적용합니다."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_displayName",
+      "value": "세련미"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_description_level1",
+      "value": "3턴간 적 1명을 <color=#01e2ff>기절</color>시키고 <color=#01e2ff>방어력을 감소</color>시킵니다."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_description_level2",
+      "value": "3턴간 적 1명을 <color=#01e2ff>기절</color>시키고, <color=#01e2ff>방어력을 대폭 감소</color>시키고, <color=#01e2ff>스킬 잠금</color>을 적용합니다."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_displayName",
+      "value": "프로그램 멈추기"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_description_level1",
+      "value": "적 1명에게 <color=#01e2ff>3 x 100% 피해</color>를 가합니다(<color=#01e2ff>50% 확률</color>로 <color=#01e2ff>부상</color>을 입힙니다). 모든 아군에게 <color=#01e2ff>50% 확률로 사기 +1</color>을 적용합니다."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_description_level2",
+      "value": "적 1명에게 <color=#01e2ff>3 x 150% 피해</color>를 가하며 <color=#01e2ff>부상</color>을 부여합니다. 모든 아군에게 <color=#01e2ff>사기 +1</color>을 적용합니다."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_displayName",
+      "value": "하드보일드"
     },
     {
       "key": "Data_Skill_PicardOld_Attack_description_level1",
@@ -23204,11 +23836,11 @@
     },
     {
       "key": "Data_Skill_Pike_Skill3_description_level1",
-      "value": "<color=#01e2ff>공격력이 상승</color>하고, <color=#01e2ff>치명타 확률이 상승 </color>하며 <color=#01e2ff>사기 +1</color>을 적용합니다."
+      "value": "모든 아군의 <color=#01e2ff>공격력이 상승</color>하고, <color=#01e2ff>치명타 확률이 상승 </color>하며 <color=#01e2ff>사기 +1</color>을 적용합니다."
     },
     {
       "key": "Data_Skill_Pike_Skill3_description_level2",
-      "value": "<color=#01e2ff>공격력을 대폭 상승</color>시키고, <color=#01e2ff>치명타 확률이 대폭 상승 </color>하며 <color=#01e2ff>사기 +2</color>를 적용합니다."
+      "value": "모든 아군의 <color=#01e2ff>공격력을 대폭 상승</color>시키고, <color=#01e2ff>치명타 확률이 대폭 상승 </color>하며 <color=#01e2ff>사기 +2</color>를 적용합니다."
     },
     {
       "key": "Data_Skill_Pike_Skill3_displayName",
@@ -24055,8 +24687,72 @@
       "value": "스타플릿 <color=#01e2ff>+5%</color> 결의을(를) 획득합니다."
     },
     {
+      "key": "Data_Skill_Troi_Bridge_displayName",
+      "value": "함선의 상담사"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill1_description_level1",
+      "value": "아군 1명을 <color=#01e2ff>정화</color>하고 <color=#01e2ff>사기 +1</color>을 적용합니다."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill1_description_level2",
+      "value": "아군 1명을 <color=#01e2ff>정화</color>, <color=#01e2ff>사기 +1</color>을 적용하며, <color=#01e2ff>약간 치유</color>합니다."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill1_displayName",
+      "value": "공감 정화"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill2_description_level1",
+      "value": "1명의 적에게 <color=#01e2ff>50% 기술 피해</color>를 가하고 <color=#01e2ff>제거</color>합니다."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill2_description_level2",
+      "value": "1명의 적에게 <color=#01e2ff>75% 기술 피해</color>를 가하고 <color=#01e2ff>제거</color>하며 <color=#01e2ff>사기 -1</color>을 적용합니다."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill2_displayName",
+      "value": "노출"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill3_description_level1",
+      "value": "3턴간 모든 아군에게 <color=#01e2ff>사기 +1</color>을 적용하며 <color=#01e2ff>방어력을 상승</color>시킵니다."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill3_description_level2",
+      "value": "3턴간 모든 아군에게 <color=#01e2ff>사기 +2</color>를 적용하며 <color=#01e2ff>방어력을 크게 상승</color>시킵니다."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill3_displayName",
+      "value": "대담성"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Attack_description_level1",
+      "value": "<color=#01e2ff>100% 피해</color>를 가합니다(<color=#01e2ff>10%의 확률</color>로 1턴간 <color=#01e2ff>공격력 감소</color>)."
+    },
+    {
+      "key": "Data_Skill_Tuvok_Attack_description_level2",
+      "value": "<color=#01e2ff>125% 피해</color>를 가합니다(<color=#01e2ff>25%의 확률</color>로 1턴간 <color=#01e2ff>공격력 감소</color>)."
+    },
+    {
       "key": "Data_Skill_Tuvok_Attack_displayName",
       "value": "압축 라이플"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Bridge_displayName",
+      "value": "보안 대장"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill1_description_level1",
+      "value": "아군 1명을 <color=#01e2ff>정화</color>하고 <color=#01e2ff>사기 +1</color>을 적용합니다."
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill1_description_level2",
+      "value": "아군 1명을 <color=#01e2ff>정화</color>하고 <color=#01e2ff>사기 +1</color>을 적용합니다. 자신에게 <color=#01e2ff>사기 +1</color>을 적용합니다."
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill1_displayName",
+      "value": "정신 혼합 정화"
     },
     {
       "key": "Data_Skill_Tuvok_Skill2_description_level1",
@@ -24069,6 +24765,18 @@
     {
       "key": "Data_Skill_Tuvok_Skill2_displayName",
       "value": "벌칸 신경 꼬집기"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill3_description_level1",
+      "value": "3턴 동안 모든 아군의 <color=#01e2ff>공격력이 상승</color>하고, <color=#01e2ff>치명타 확률이 상승</color>하며 <color=#01e2ff>적색 경보</color> 상태가 됩니다."
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill3_description_level2",
+      "value": "3턴 동안 모든 아군의 <color=#01e2ff>공격력이 크게 상승</color>하고, <color=#01e2ff>치명타 확률이 크게 상승</color>하며 <color=#01e2ff>적색 경보</color> 상태가 됩니다."
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill3_displayName",
+      "value": "전술 훈련"
     },
     {
       "key": "Data_Skill_Uhura_Attack_description_level1",
@@ -26819,6 +27527,10 @@
       "value": "마이클 버넘 토큰"
     },
     {
+      "key": "item_Chang_Token",
+      "value": "창 장군 토큰"
+    },
+    {
       "key": "item_Chekov_Token",
       "value": "체코프 토큰"
     },
@@ -26841,6 +27553,14 @@
     {
       "key": "item_Dukat_Token",
       "value": "걸 두캇 토큰"
+    },
+    {
+      "key": "item_Elnor_Token",
+      "value": "엘노어 토큰"
+    },
+    {
+      "key": "item_Garak_Token",
+      "value": "엘림 가락 토큰"
     },
     {
       "key": "item_GenBorgEng01M_Token",
@@ -27011,6 +27731,10 @@
       "value": "피카드 선장 토큰"
     },
     {
+      "key": "item_PicardDixon_Token",
+      "value": "딕슨 힐 토큰"
+    },
+    {
       "key": "item_PicardOld_Token",
       "value": "피카드 토큰"
     },
@@ -27067,6 +27791,10 @@
       "value": "수트라 토큰"
     },
     {
+      "key": "item_Tilly_Token",
+      "value": "실비아 틸리 토큰"
+    },
+    {
       "key": "item_Token_Desc",
       "value": "토큰을 수집해 랭크 업 하세요"
     },
@@ -27085,6 +27813,14 @@
     {
       "key": "item_TPol_Token",
       "value": "트팔 토큰"
+    },
+    {
+      "key": "item_Troi_Token",
+      "value": "디애나 트로이 토큰"
+    },
+    {
+      "key": "item_Tuvok_Token",
+      "value": "투박 토큰"
     },
     {
       "key": "item_Uhura_Token",
@@ -27411,6 +28147,46 @@
       "value": "적들을 물리치고 보상을 획득하세요."
     },
     {
+      "key": "Operations_FactionEvent_Desc_Borg",
+      "value": "전투를 벌이고 보그를 위해 포인트를 쌓으세요. 이벤트 종료 시점에 가장 많은 점수를 획득한 진영이 보상을 받습니다!"
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Card",
+      "value": "전투를 벌이고 카다시안을 위해 포인트를 쌓으세요. 이벤트 종료 시점에 가장 많은 점수를 획득한 진영이 보상을 받습니다!"
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Fed",
+      "value": "전투를 벌이고 연방을 위해 포인트를 쌓으세요. 이벤트 종료 시점에 가장 많은 점수를 획득한 진영이 보상을 받습니다!"
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Kling",
+      "value": "전투를 벌이고 클링온을 위해 포인트를 쌓으세요. 이벤트 종료 시점에 가장 많은 점수를 획득한 진영이 보상을 받습니다!"
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Romu",
+      "value": "전투를 벌이고 로뮬란을 위해 포인트를 쌓으세요. 이벤트 종료 시점에 가장 많은 점수를 획득한 진영이 보상을 받습니다!"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Borg",
+      "value": "진영 전쟁: 보그 합류"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Card",
+      "value": "진영 전쟁: 카다시안 합류"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Fed",
+      "value": "진영 전쟁: 연방 합류"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Kling",
+      "value": "진영 전쟁: 클링온 합류"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Romu",
+      "value": "진영 전쟁: 로뮬란 합류"
+    },
+    {
       "key": "Operations_Material_Antimatter",
       "value": "반물질 오버드라이브"
     },
@@ -27635,8 +28411,12 @@
       "value": "PvP"
     },
     {
+      "key": "pvp_data_agree_body",
+      "value": "감사합니다! 온라인 기능을 즐겨주세요!"
+    },
+    {
       "key": "pvp_data_body",
-      "value": "안녕하세요! Emerald City Games는 게임 센터 플레이어 ID, 원정 팀 당번표, 메달, 아레나 플레이를 위한 전투 기록 등을 포함한 선장 여러분의 게임 플레이 정보를 사용하고자 합니다. (아레나는 해당 데이터가 없으면 사용할 수 없습니다.) 허가해주시겠습니까?"
+      "value": "안녕하세요! Emerald City Games는 Game Center 플레이어 ID, 저장 파일 ID, 팀 명단, 메달, 전투 기록, 아이템 인벤토리, 동맹 액션, 이벤트 자원, 온라인 기능을 사용하는 데 필요한 모든 작업을 포함한 여러분의 게임 플레이 정보를 사용하고자 합니다. 괜찮으신가요?"
     },
     {
       "key": "pvp_data_btn_agree",
@@ -27648,7 +28428,7 @@
     },
     {
       "key": "pvp_data_disagree_body",
-      "value": "문제 없습니다. 게임 플레이 정보를 사용할 수 없으므로, 아레나가 비활성화됩니다. 싱글 플레이어 에피소드와 작전은 플레이하실 수 있습니다."
+      "value": "괜찮습니다. 다만 귀하의 게임 플레이 정보를 사용할 수 없으므로, 온라인 기능이 비활성화됩니다. 그래도 싱글 플레이어 미션과 작전은 이용하실 수 있습니다."
     },
     {
       "key": "pvp_data_disagree_btn_ok",
@@ -29571,6 +30351,10 @@
       "value": "특별"
     },
     {
+      "key": "UI_Common_Splash_Start",
+      "value": "시작"
+    },
+    {
       "key": "UI_Common_Start",
       "value": "탭하여 시작"
     },
@@ -29875,6 +30659,22 @@
       "value": "팝업 공유 데이터용 텍스트 헤더 입력"
     },
     {
+      "key": "UI_DemoComplete_Body",
+      "value": "Star Trek: Legends 데모를 플레이해주셔서 감사합니다."
+    },
+    {
+      "key": "UI_DemoComplete_Header",
+      "value": "데모 완료"
+    },
+    {
+      "key": "UI_DemoVersion_Body",
+      "value": "본 Star Trek: Legends 버전은 데모 목적으로 제작되었습니다."
+    },
+    {
+      "key": "UI_DemoVersion_Header",
+      "value": "데모 버전"
+    },
+    {
       "key": "UI_DownloadConfirmation_Body",
       "value": "선장님! 스캔 결과 계속 진행하려면 <color=##0DDADF><b>{0}MB</b></color>의 추가 파일이 필요한 것으로 나타났습니다."
     },
@@ -30025,6 +30825,26 @@
     {
       "key": "UI_Events_NPE_Title",
       "value": "이벤트: 환영 이벤트"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc",
+      "value": "장 뤽 피카드 선장의 주간을 기념합니다. 특별 이벤트에 참여하고 {0} 획득 기회를 놓치지 마세요!"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Main",
+      "value": "피카드 선장 주간에 참가하고 {0} 획득 기회를 놓치지 마세요!"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Post",
+      "value": "이벤트가 종료되었습니다!"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Pre",
+      "value": "이 이벤트를 플레이하려면 나중에 다시 확인해 주세요!"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Title",
+      "value": "피카드 선장 주간"
     },
     {
       "key": "UI_Events_SoloEvent_Desc",
@@ -31485,6 +32305,14 @@
     {
       "key": "UI_Popup_DeleteAllData_Title",
       "value": "모든 데이터 삭제"
+    },
+    {
+      "key": "UI_Popup_DemoDisabled_Body",
+      "value": "데모 버전에서는 이 기능을 사용할 수 없습니다"
+    },
+    {
+      "key": "UI_Popup_DemoDisabled_Header",
+      "value": "기능 비활성화됨"
     },
     {
       "key": "UI_Popup_DownloadPermission_Body",

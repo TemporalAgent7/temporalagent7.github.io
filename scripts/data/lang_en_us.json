@@ -1223,302 +1223,6 @@
       "value": ""
     },
     {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
-      "key": "",
-      "value": ""
-    },
-    {
       "key": "Accessories_Autosell_Button_Confirm",
       "value": "CONFIRM"
     },
@@ -3776,7 +3480,7 @@
     },
     {
       "key": "Common_PicardDixon",
-      "value": "Dixon Hill Picard"
+      "value": "Dixon Hill"
     },
     {
       "key": "Common_Power",
@@ -4344,7 +4048,7 @@
     },
     {
       "key": "Data_Character_Chang_description",
-      "value": "An old school Klingon warrior. Despite his appreciation for Earth culture, he foresees the end of the Klingon Empire if the Federation continues to advance and is willing to do anything to prevent this occurring. "
+      "value": "A veteran Klingon warrior who upholds tradition. Despite his appreciation for Earth culture, he fears the demise of the Klingon Empire as a result of the Federation's expansion, and is willing to do anything to prevent it."
     },
     {
       "key": "Data_Character_Chekov_description",
@@ -4384,7 +4088,7 @@
     },
     {
       "key": "Data_Character_Garak_description",
-      "value": "A seemingly mild-mannered Cardassian tailor, Garak is a former member of the Obsidian Order, the intelligence agency of his people's' government. An able assassin, saboteur and consummate spymaster."
+      "value": "A seemingly mild-mannered Cardassian tailor, Garak is a former member of the Obsidian Order, the intelligence agency of his people's government. He's a skilled assassin, saboteur and consummate spymaster."
     },
     {
       "key": "Data_Character_GenBorgEng01M_description",
@@ -4544,7 +4248,7 @@
     },
     {
       "key": "Data_Character_PicardDixon_description",
-      "value": "A famous fictional detective loved by Picard and occasionally played by him on the Holodeck of the Enterprise. Dixon is pure 'pulp', a two fisted hero as adept with a tommy gun as he is with the ladies."
+      "value": "A hard-boiled fictional detective whose stories Captain Picard often brought to the  Holodeck of the U.S.S. Enterprise. Dixon is as skilled with his fists as he's adept at romance."
     },
     {
       "key": "Data_Character_Pike_description",
@@ -4620,11 +4324,11 @@
     },
     {
       "key": "Data_Character_Troi_description",
-      "value": "A half betazoid empath who served on the U.S.S.Enterprise under Captain Picard. A warm, friendly woman whose ability to understand her shipmates and psychological training makes her a perfect counselor. "
+      "value": "A half betazoid empath who served on the U.S.S. Enterprise under Captain Picard. A warm, compassionate officer whose ability to understand her shipmates and psychological training makes her a perfect counselor."
     },
     {
       "key": "Data_Character_Tuvok_description",
-      "value": "The third in command of the U.S.S. Voyager and that vessel's head of security. While deadly in a fight, his true strength lies in his Vulcan upbringing; he is logical, thoughtful and always has a plan for every eventuality. "
+      "value": "The third in command of the U.S.S. Voyager and the vessel's head of security. While deadly in a fight, his true strength lies in his Vulcan upbringing; he is logical, thoughtful and considers every eventuality."
     },
     {
       "key": "Data_Character_Uhura_description",
@@ -5745,6 +5449,166 @@
     {
       "key": "Data_GSCutSceneDialogue_captainsLogSupplemental_e5m6_01",
       "value": "The <color=#FFCE00>Borg Queen has been defeated</color>, and another <color=#FFCE00>Nexus Reactor acquried</color>. What other nightmares await the crew in the <color=#FFCE00>Nexus</color>?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_01",
+      "value": "I don’t see the wreckage we’re here to excavate. Lieutenant Worf – status report, please."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_02",
+      "value": "Location unknown, Commander Pike. No life signs, but stay alert."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_03",
+      "value": "I’m reading a strong energy signal over to the east; about 5 kilometers from our position. Most likely our target."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_04",
+      "value": "Some of the finest engineers in history are aboard the <i>Artemis</i>, yet they can’t beam us within walking distance of our objective?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_05",
+      "value": "Wait! Ahead of us!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_01",
+      "value": "They appear to have retreated into the fog."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_02",
+      "value": "I thought we didn’t pick up any life signs."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_03",
+      "value": "Curious. Perhaps a glitch in our tricorders?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_04",
+      "value": "Or the Nexus is playing its tricks on us."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_05",
+      "value": "Let’s keep moving."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_01",
+      "value": "Ahead of us!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_02",
+      "value": "More Romulans?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_03",
+      "value": "They appear to be Klingon."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_04",
+      "value": "I’ll attempt to communicate with them. NuqneH!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_05",
+      "value": "They’re drawing their phasers. Are you quite certain you said it correctly?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_06",
+      "value": "They heard me loud and clear, Doctor, they’re just… not very receptive."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_01",
+      "value": "And now they’ve vanished, just like the Romulans. Something’s odd here."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_02",
+      "value": "The Nexus playing tricks on us, surely."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_03",
+      "value": "Maybe. Maybe not. I need to run a few scans, but I’m not sure this is the dimension’s energy at work here."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_04",
+      "value": "While you’re doing that, we should keep moving. We’re close to the target."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_01",
+      "value": "Over there: that ship must be our target."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_02",
+      "value": "We’re not alone in finding it. I’m registering drones from the Borg collective. All around us."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_03",
+      "value": "Wait, it’s not just the Nexus, there’s some other influence here!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_04",
+      "value": "While I value science, Doctor, I suggest we incapacitate them and THEN we can discuss your readings!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_01",
+      "value": "They disappeared like phantoms, exactly like the others we encountered."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_02",
+      "value": "They are controlled by something else. I’ve picked up another presence in all three instances."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_03",
+      "value": "There’s something at work here beyond just the forces of the Nexus."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_04",
+      "value": "You are correct. You are Doctor Hugh Culber, are you not?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_05",
+      "value": "Who are-?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_06",
+      "value": "And you are Christopher Pike."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_07",
+      "value": "And Worf, son of Mogh."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_08",
+      "value": "And Annika Hansen, designated Seven of Nine, Tertiary Adjunct of Unimatrix 01."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_09",
+      "value": "How do you know who we are?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_10",
+      "value": "You have no concept of what the Nexus is, and you are better served by your ignorance."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_11",
+      "value": "We have no quarrel with you. Retire your pursuit, or you will find yourself collapsing into nothing along with everything around you."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_intro01_01",
+      "value": "You are the captain of the <i>U.S.S. Artemis</i>, on a mission to explore the mysterious “Nexus”."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_intro01_02",
+      "value": "In a bid to replenish your dilithium reserves, you beam down an away team to explore a Federation vessel abandoned on a nearby planet."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_01",
+      "value": "With their warning still echoing in your ears, the strange beings motion to one another."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_02",
+      "value": "The way reality seems to warp around them is mesmerizing and unsettling."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_03",
+      "value": "The sense of dread and awe only strengthens your resolve to continue your mission, pursuing the wonders and dangers that await you in the dark."
     },
     {
       "key": "Data_GSCutSceneDialogue_e1_m1_battle01_01",
@@ -14787,6 +14651,10 @@
       "value": "DATTA, DAYADHVAM AND DAMYATA"
     },
     {
+      "key": "Data_GSEpisodes_displayName_Episode8",
+      "value": "THE CENOTAPH"
+    },
+    {
       "key": "Data_GSMissionObjective_e1_m1_encounter03",
       "value": "Defeat Khan"
     },
@@ -14967,6 +14835,30 @@
       "value": "Earning the mantle of Engineers, the away team must stop the Dreamless and repair the Reality Engine."
     },
     {
+      "key": "Data_GSMissions_displayDesc_Episode8_Mission1",
+      "value": "Help the Federation scientists save the planet from destruction."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode8_Mission2",
+      "value": "Remove the Dreamless corruption from the Reality Engine"
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode8_Mission3",
+      "value": "The planet is doomed, but the data collected can still be saved."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode8_Mission4",
+      "value": "Stop the Dreamless from destroying the Reality Engine."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode8_Mission5",
+      "value": "Back on the dying planet, discover the Curator's home."
+    },
+    {
+      "key": "Data_GSMissions_displayDesc_Episode8_Mission6",
+      "value": "Learn the purpose of the Nexus from the Curator."
+    },
+    {
       "key": "Data_GSMissions_displayName_Episode1_Mission1",
       "value": "TO BOLDLY GO"
     },
@@ -15133,6 +15025,30 @@
     {
       "key": "Data_GSMissions_displayName_Episode7_Mission6",
       "value": "A LAST WORD"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode8_Mission1",
+      "value": "OF ISLES WHERE GOOD MEN REST"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode8_Mission2",
+      "value": "FALLING TOWARDS THE WEST"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode8_Mission3",
+      "value": "THE PROUD OLD LINEAGE"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode8_Mission4",
+      "value": "KINGS IN DEEP GLADES SLEEPING"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode8_Mission5",
+      "value": "THE CALM THAT GOES ON AND ON"
+    },
+    {
+      "key": "Data_GSMissions_displayName_Episode8_Mission6",
+      "value": "AND EARTH IS BUT A STAR WHICH ONCE HAD SHONE"
     },
     {
       "key": "Data_GSNodeEncounter_BattleDesc_Borg",
@@ -18565,6 +18481,10 @@
     {
       "key": "Data_MissionObjective_e0_m1_Name",
       "value": "Complete all battles"
+    },
+    {
+      "key": "Data_MissionObjective_e0_m2_Name",
+      "value": "Investigate the wreckage"
     },
     {
       "key": "Data_MissionObjective_e1_m1_Name",
@@ -25076,11 +24996,11 @@
     },
     {
       "key": "Data_Skill_PicardDixon_Skill3_description_level1",
-      "value": "<color=#01e2ff>3 x 80% Damage</color> (<color=#01e2ff>50% Chance</color> to <color=#01e2ff>Wound</color>) to 1 enemy. <color=#01e2ff>50% Chance +1 Morale</color> to all allies."
+      "value": "<color=#01e2ff>3 x 100% Damage</color> (<color=#01e2ff>50% Chance</color> to <color=#01e2ff>Wound</color>) to 1 enemy. <color=#01e2ff>50% Chance +1 Morale</color> to all allies."
     },
     {
       "key": "Data_Skill_PicardDixon_Skill3_description_level2",
-      "value": "<color=#01e2ff>3 x 120% Damage</color> and <color=#01e2ff>Wound</color> to 1 enemy. <color=#01e2ff>+1 Morale</color> to all allies."
+      "value": "<color=#01e2ff>3 x 150% Damage</color> and <color=#01e2ff>Wound</color> to 1 enemy. <color=#01e2ff>+1 Morale</color> to all allies."
     },
     {
       "key": "Data_Skill_PicardDixon_Skill3_displayName",
@@ -29132,7 +29052,7 @@
     },
     {
       "key": "item_PicardDixon_Token",
-      "value": "Dixon Hill Picard Token"
+      "value": "Dixon Hill Token"
     },
     {
       "key": "item_PicardOld_Token",
@@ -29551,6 +29471,46 @@
       "value": "Defeat a series of enemies in order to earn rewards"
     },
     {
+      "key": "Operations_FactionEvent_Desc_Borg",
+      "value": "Fight to earn points for the Borg. The faction with the most points at the end of the event earns the community reward."
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Card",
+      "value": "Fight to earn points for the Cardassians. The faction with the most points at the end of the event earns the community reward."
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Fed",
+      "value": "Fight to earn points for the Federation. The faction with the most points at the end of the event earns the community reward."
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Kling",
+      "value": "Fight to earn points for the Klingons. The faction with the most points at the end of the event earns the community reward."
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Romu",
+      "value": "Fight to earn points for the Romulans. The faction with the most points at the end of the event earns the community reward."
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Borg",
+      "value": "Faction Wars: Join the Borg"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Card",
+      "value": "Faction Wars: Join the Cardassians"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Fed",
+      "value": "Faction Wars: Join the Federation"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Kling",
+      "value": "Faction Wars: Join the Klingons"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Romu",
+      "value": "Faction Wars: Join the Romulans"
+    },
+    {
       "key": "Operations_Material_Antimatter",
       "value": "Antimatter Overdrive"
     },
@@ -29775,8 +29735,12 @@
       "value": "PvP"
     },
     {
+      "key": "pvp_data_agree_body",
+      "value": "Thanks! Enjoy online features!"
+    },
+    {
       "key": "pvp_data_body",
-      "value": "Hello! We at Emerald City Games need to use your gameplay information, including your Game Center player ID, away team roster, medals, and battle logs to enable you to play in the Arena. (The Arena won’t work without this data.) Is this OK?"
+      "value": "Hello! We at Emerald City Games need to use your gameplay information, including your Game Center player ID, save file ID, team rosters, medals, battle logs, item inventory, Alliance actions, Event resources, and operations to enable you to play online features. (Multiplayer features won't work without this data.) Is this OK?"
     },
     {
       "key": "pvp_data_btn_agree",
@@ -29788,7 +29752,7 @@
     },
     {
       "key": "pvp_data_disagree_body",
-      "value": "No problem. We won't use your gameplay information, so the Arena will be disabled. You can still play single-player episodes and operations."
+      "value": "No problem. We won't use your gameplay information, so online features will be disabled. You can still play single-player missions and operations."
     },
     {
       "key": "pvp_data_disagree_btn_ok",
@@ -32023,12 +31987,8 @@
       "value": "Header text for data sharing pop up"
     },
     {
-      "key": "UI_Demo_FullGame_Header",
-      "value": "FULL GAME"
-    },
-    {
       "key": "UI_DemoComplete_Body",
-      "value": "Thank you for playing the Star Trek: Legends demo. Continue the adventure and play the full game!"
+      "value": "Thank you for playing the Star Trek: Legends demo."
     },
     {
       "key": "UI_DemoComplete_Header",
@@ -32193,6 +32153,26 @@
     {
       "key": "UI_Events_NPE_Title",
       "value": "Event: Welcome Event"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc",
+      "value": "We're celebrating Captain Jean-Luc Picard with a dedicated week. Take part in this special event for a chance to unlock {0}!"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Main",
+      "value": "Take part in this Captain Picard Week event for a chance to unlock {0}!"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Post",
+      "value": "The event has ended!"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Pre",
+      "value": "Check back later to play this event!"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Title",
+      "value": "Captain Picard Week"
     },
     {
       "key": "UI_Events_SoloEvent_Desc",

@@ -1439,6 +1439,10 @@
       "value": "管理者"
     },
     {
+      "key": "Common_Chang",
+      "value": "チャン将軍"
+    },
+    {
       "key": "Common_CharacterRole_All",
       "value": "すべて"
     },
@@ -1825,6 +1829,10 @@
     {
       "key": "Common_FirstWord",
       "value": "1ワード目"
+    },
+    {
+      "key": "Common_Garak",
+      "value": "エリム・ガラック"
     },
     {
       "key": "Common_GenGorn01",
@@ -2259,6 +2267,10 @@
       "value": "ピカード"
     },
     {
+      "key": "Common_PicardDixon",
+      "value": "ディクソン・ヒル"
+    },
+    {
       "key": "Common_Power",
       "value": "パワー"
     },
@@ -2535,6 +2547,10 @@
       "value": "ベイジョー人"
     },
     {
+      "key": "Common_Tag_Betazoid",
+      "value": "ベタゾイド"
+    },
+    {
       "key": "Common_Tag_Borg",
       "value": "ボーグ"
     },
@@ -2739,6 +2755,14 @@
       "value": "トリタニウム"
     },
     {
+      "key": "Common_Troi",
+      "value": "ディアナ・トロイ"
+    },
+    {
+      "key": "Common_Tuvok",
+      "value": "トゥヴォック"
+    },
+    {
       "key": "Common_Unknown",
       "value": "不明"
     },
@@ -2807,6 +2831,10 @@
       "value": "孤児だったと頃に引き取られ、スポックの義理の姉となった人間の女性。ディスカバリー号の一員。聡明で意識が高く、時に上官と衝突するほど高い道徳意識の持ち主。"
     },
     {
+      "key": "Data_Character_Chang_description",
+      "value": "伝統を重んじるベテランのクリンゴン戦士。地球の文化を理解しているが、連邦の拡大によるクリンゴン帝国の滅亡を恐れており、それを防ぐためには手段を選ばない。"
+    },
+    {
       "key": "Data_Character_Chekov_description",
       "value": "博覧強記の優秀なクルー。保安部長、航海士、作戦立案といった役職を歴任し、いずれにおいても優れた力を発揮した。陽気な性格がトレードマーク。"
     },
@@ -2841,6 +2869,10 @@
     {
       "key": "Data_Character_Elnor_description",
       "value": "ロミュランの超新星の出来事で生き残ったエルノアは、ピカード提督によってヴァシュティへ避難させられた。大人になった彼は、戦士修道女組織クワト・ミラットでは珍しい男性の補佐となった。彼女たちの訓練のおかげで、彼は剣術、格闘の達人となった。"
+    },
+    {
+      "key": "Data_Character_Garak_description",
+      "value": "一見温厚なカーデシアの仕立て屋であるガラックは、政府の諜報機関であるオブシディアン・オーダーの元メンバーである。暗殺者、工作員、そして完璧な諜報員としての腕前を持つ。"
     },
     {
       "key": "Data_Character_GenBorgEng01M_description",
@@ -2999,6 +3031,10 @@
       "value": "宇宙艦隊の歴史に残る偉大な船長の1人。戦術に長け、思索を好み、外交官としての手腕も確か。連邦の理念の守り手であり、数々の試練に見舞われながらも強く立ち向かい、乗り越えた。"
     },
     {
+      "key": "Data_Character_PicardDixon_description",
+      "value": "ピカード艦長がエンタープライズ号のホロデッキによく持ち込んでいたハードボイルドな架空の探偵。ディクソンは格闘技の使い手であり、恋愛にも長けている。"
+    },
+    {
       "key": "Data_Character_Pike_description",
       "value": "まっとうで心優しいエンタープライズの元艦長。艦を降りた後、人命を救おうとして恐ろしい事故の犠牲になり、身動きどころか声も出せない全身不随の状態に陥った。"
     },
@@ -3065,6 +3101,14 @@
     {
       "key": "Data_Character_TPol_description",
       "value": "人類の深宇宙探査を可能にした宇宙艦、エンタープライズ号（NX-01）に搭乗し、記念すべき航海に参加したバルカン人。理知的で冷静沈着。感情を抑えられる彼女の強さはたびたび艦の仲間を救った。"
+    },
+    {
+      "key": "Data_Character_Troi_description",
+      "value": "ピカード艦長の下でエンタープライズ号に乗船していたテレパシー能力を有するハーフベタゾイド。温かく思いやりのある士官で、船員を理解する能力と心理的なトレーニングにより、完璧なカウンセラーとなっている。"
+    },
+    {
+      "key": "Data_Character_Tuvok_description",
+      "value": "ヴォイジャー号の第3指揮官であり、同船の保安主任でもある。戦闘時に強力な能力を発揮するが、彼の真の強みはバルカン人としての教育にある。論理的で思慮深く、あらゆる可能性を考慮して行動するのだ。"
     },
     {
       "key": "Data_Character_Uhura_description",
@@ -4185,6 +4229,166 @@
     {
       "key": "Data_GSCutSceneDialogue_captainsLogSupplemental_e5m6_01",
       "value": "<color=#FFCE00>ボーグ・クイーン</color>を撃破し、新たな<color=#FFCE00>ネクサスリアクターを手に入れた</color>。<color=#FFCE00>ネクサス</color>には他にどんな悪夢が待ち受けているのだろうか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_01",
+      "value": "残骸は見当たらないが？ウォーフ中尉、状況報告を。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_02",
+      "value": "場所は不明です、パイク司令官。生命反応はありませんが、警戒してください。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_03",
+      "value": "東側に強いエネルギー反応。我々の位置から5kmほど離れています。目標の可能性大。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_04",
+      "value": "歴史上最も優秀なエンジニアが<i>アルテミス</i>には乗っているというのに、まだ目標まで近づくことができないのか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_05",
+      "value": "待ってください！前方に何かが！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_01",
+      "value": "霧の中へと退避していったようです。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_02",
+      "value": "生命反応はなかったはずだが。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_03",
+      "value": "奇妙だな。トライコーダーの故障か？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_04",
+      "value": "あるいは、ネクサスが我々を騙しているのか。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_05",
+      "value": "先へ進もう。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_01",
+      "value": "何か来る！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_02",
+      "value": "またロミュランか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_03",
+      "value": "クリンゴンのようです。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_04",
+      "value": "通信を試みます。NuqneH！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_05",
+      "value": "フェーザーを向けてきたぞ。本当に正しく伝えたのか？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_06",
+      "value": "はっきりと聞こえました、ドクター。彼らはただ…非常に不寛容でした。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_01",
+      "value": "また、彼らもロミュランのように消えてしまった。なにか妙だな。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_02",
+      "value": "きっと、ネクサスが我々を欺いているのだろう。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_03",
+      "value": "そうかもしれない。そうでないかもしれない。もう少しスキャンをする必要はあるが、次元エネルギーの影響があるようには思えん。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_04",
+      "value": "その間にも前進を続けるとしよう。目標には近づいている。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_01",
+      "value": "あそこを。あの船が目標に違いありません。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_02",
+      "value": "どうやら見つけたのは我々だけではないようだ。ボーグ集合体のドローンを検知した。囲まれている。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_03",
+      "value": "待て、ネクサスだけでなく、他にもなにかの影響がある！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_04",
+      "value": "ドクター、私は科学を尊重しているが、今はあれらを無力化すべきだ。あなたの見解に対する議論はあとでもできる！"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_01",
+      "value": "彼らは幻影のように消えていったが、それは我々が遭遇した他のものと全く同じだった。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_02",
+      "value": "何かに操られているようだ。3つのケースで別の存在を感知した。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_03",
+      "value": "ネクサスの力を超えた何かが働いているというのか。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_04",
+      "value": "その通り。あなたはヒュー・カルバー博士ですね？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_05",
+      "value": "何者だ…"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_06",
+      "value": "そしてあなたはクリストファー・パイク"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_07",
+      "value": "そしてモーグの子、ウォーフ。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_08",
+      "value": "さらにアニカ・ハンセン。ユニマトリックス01の第3付属員セブン・オブ・ナイン。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_09",
+      "value": "どうして知っているんだ？"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_10",
+      "value": "ネクサスについて知らないのであれば、これ以上踏み込むべきではありません。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_11",
+      "value": "私達はあなたと争うつもりはありません。追求をやめないのであれば、あなたを取り巻くすべてのものと一緒に無に帰することになるでしょう。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_intro01_01",
+      "value": "あなたは<i>U.S.S.アルテミス</i>の艦長であり、謎の惑星「ネクサス」の探索を任務としている。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_intro01_02",
+      "value": "ダイリチウムを補給するために、近くの惑星に捨てられた連邦の船を調査するための探査チームを派遣した。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_01",
+      "value": "警告の残響が耳に残る間、その奇妙な存在は互いに向けて何かの身振りをしていた。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_02",
+      "value": "彼らの周囲の現実が歪んで見えることは、魅惑的でもあり、不安を感じさせるものでもあった。"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_03",
+      "value": "あなたは恐怖と畏怖の念を抱きながらも、暗闇の中で待ち受ける不思議と危険を追い求めて、ミッションを遂行する決意を固めていった。"
     },
     {
       "key": "Data_GSCutSceneDialogue_e1_m1_battle01_01",
@@ -17003,6 +17207,14 @@
       "value": "ゼニロン"
     },
     {
+      "key": "Data_MissionObjective_e0_m1_Name",
+      "value": "すべてのバトルをクリアする"
+    },
+    {
+      "key": "Data_MissionObjective_e0_m2_Name",
+      "value": "残骸を調査する"
+    },
+    {
       "key": "Data_MissionObjective_e1_m1_Name",
       "value": "マイケル・バーナムを救う"
     },
@@ -17397,6 +17609,54 @@
     {
       "key": "Data_Quip_text_Burnham_Wounded_02",
       "value": "ドクター・マッコイ、手当てして…"
+    },
+    {
+      "key": "Data_Quip_text_Chang_BattleCry_01",
+      "value": "我らが同志よ、もう一度突破口を開くのだ！"
+    },
+    {
+      "key": "Data_Quip_text_Chang_BattleCry_02",
+      "value": "お前と戦うことを楽しみにしていたぞ！"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Demoralized_01",
+      "value": "逆境においては、奇妙な人や敵と仲間になるものだ。"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Idle_01",
+      "value": "シェイクスピアは「人生は二度聞かせられる話のように退屈なものだ」と言ったものだ。"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Inspired_01",
+      "value": "まったく感動的な演説だ。吟遊詩人にふさわしい！"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Insult_01",
+      "value": "ふむ。お前と倒しても私の手が汚れるだけだな。"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reaction_Respond_01",
+      "value": "これは幸せな兄弟の絆ではないか？"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reaction_Retort_01",
+      "value": "臆病者は何度でも死ぬ。だが、勇者は一度だけだ！"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reinforce_01",
+      "value": "さて…どうする？"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Special_TeamAssist_01",
+      "value": "ああ、お前が呼びかけ、私が応えたのだ。"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Thank_01",
+      "value": "お前の苦労と好意には礼を言おう。"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Wounded_01",
+      "value": "クソ…出血したか？"
     },
     {
       "key": "Data_Quip_text_Chekov_BattleCry_01",
@@ -17829,6 +18089,54 @@
     {
       "key": "Data_Quip_text_Elnor_Wounded_01",
       "value": "これは…かなり痛いな！"
+    },
+    {
+      "key": "Data_Quip_text_Garak_BattleCry_01",
+      "value": "ああ、やっちまったな。"
+    },
+    {
+      "key": "Data_Quip_text_Garak_BattleCry_02",
+      "value": "私はいつだっておとなしい仕立て屋というわけではなくてね。"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Demoralized_01",
+      "value": "大変なことになっているぞ！"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Idle_01",
+      "value": "これを時間の無駄と思う人もいるだろう。私？私は静かな生活が好きだ。"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Inspired_01",
+      "value": "カーデシア・プライムにお前のようなリーダーがいればな。"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Insult_01",
+      "value": "お前のようなヤツはこれまでにも殺してきたさ。みんなひどい死に方だった。"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reaction_Respond_01",
+      "value": "驚くほど効果的だ！"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reaction_Retort_01",
+      "value": "うるさいやつだな。"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reinforce_01",
+      "value": "なにか手伝えるか？"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Special_TeamAssist_01",
+      "value": "呼んだか？"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Thank_01",
+      "value": "借りができたな。"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Wounded_01",
+      "value": "ああ、くそ、痛いな。"
     },
     {
       "key": "Data_Quip_text_GenBorgEng01M_BattleCry_01",
@@ -19847,6 +20155,54 @@
       "value": "そんなことは止める理由にならない！"
     },
     {
+      "key": "Data_Quip_text_PicardDixon_BattleCry_01",
+      "value": "賢いじゃないか？"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_BattleCry_02",
+      "value": "いつも言っているが、我々は事を難しくも簡単にもできるんだ。どうやら、君は難しくするのがお好みのようだ。"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Demoralized_01",
+      "value": "これは…おかしい。ホロデッキのシミュレーションがこんな風に反応するはずがない！"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Idle_01",
+      "value": "こんな時は何か飲み物が必要だな。アールグレイの…ああ、バーボンか。いいね。"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Inspired_01",
+      "value": "君は実に言葉巧みだな？"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Insult_01",
+      "value": "黙らないなら私が黙らせてやるぞ！"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reaction_Respond_01",
+      "value": "君は本当に立派な人間だ！"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reaction_Retort_01",
+      "value": "コンピューター…暴力的な設定を調整できないか？私はここにリラックスしに来たんだ。"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reinforce_01",
+      "value": "もしもし？ディクソン・ヒル探偵事務所です。"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Special_TeamAssist_01",
+      "value": "いじめか？私は嫌いだ。"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Thank_01",
+      "value": "ああ、君の言うとおりだな。"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Wounded_01",
+      "value": "祖母に打たれたときのほうが痛いぞ！"
+    },
+    {
       "key": "Data_Quip_text_PicardOld_BattleCry_01",
       "value": "こんな馬鹿げた状況からとっくに抜け出せてたはずだと思ってるんだろう！"
     },
@@ -20755,6 +21111,102 @@
       "value": "あああっ。。。痛みとは心のトリックにすぎない…痛みとは心のトリックにすぎない…"
     },
     {
+      "key": "Data_Quip_text_Troi_BattleCry_01",
+      "value": "気をつけて！"
+    },
+    {
+      "key": "Data_Quip_text_Troi_BattleCry_02",
+      "value": "よく狙って！"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Demoralized_01",
+      "value": "こんなことに備えた訓練はしてこなかったわ！"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Idle_01",
+      "value": "休憩時間があれば、少しだけ瞑想をしようかしら。"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Inspired_01",
+      "value": "それはいいわね！"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Insult_01",
+      "value": "あなたを見ていると母親を思い出すわ。"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Reaction_Respond_01",
+      "value": "模範的な動きだったわ！"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Reaction_Retort_01",
+      "value": "そう言うと思ったわ。"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Reinforce_01",
+      "value": "カウンセラーがご入用かしら？"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Special_TeamAssist_01",
+      "value": "何が必要なの？"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Thank_01",
+      "value": "感謝してるわ。"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Wounded_01",
+      "value": "思っていたよりも傷が深かったようね。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_BattleCry_01",
+      "value": "論理的には降伏すべきだ。今すぐに。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_BattleCry_02",
+      "value": "これですぐに終わる。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Demoralized_01",
+      "value": "私は…どうすれば。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Idle_01",
+      "value": "警戒しろ。この静けさは長くは続かない。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Inspired_01",
+      "value": "参考になった。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Insult_01",
+      "value": "私はこれまでも、お前のような人間と何度も戦ってきた。皆、口が達者だが技術は低かった。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Reaction_Respond_01",
+      "value": "いいだろう。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Reaction_Retort_01",
+      "value": "そのような虚勢に価値は見いだせない。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Reinforce_01",
+      "value": "論理的には、ここに長くとどまることはできない。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Special_TeamAssist_01",
+      "value": "私の助けが必要なのか？"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Thank_01",
+      "value": "この気持ちは… お前に感謝を感じているのか。"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Wounded_01",
+      "value": "…治療が必要だ。"
+    },
+    {
       "key": "Data_Quip_text_Uhura_BattleCry_01",
       "value": "危ない！"
     },
@@ -21011,8 +21463,60 @@
       "value": "スタンドダウン"
     },
     {
+      "key": "Data_Skill_Chang_Attack_description_level1",
+      "value": "<color=#01e2ff>100%のダメージ</color>を与え、<color=#01e2ff>10%の確率</color>で<color=#01e2ff>防御力低下</color>の効果(1ターン有効)。"
+    },
+    {
+      "key": "Data_Skill_Chang_Attack_description_level2",
+      "value": "<color=#01e2ff>125%のダメージ</color>を与え、<color=#01e2ff>25%の確率</color>で<color=#01e2ff>防御力低下</color>の効果(1ターン有効)。"
+    },
+    {
+      "key": "Data_Skill_Chang_Attack_displayName",
+      "value": "クリンゴン・ディスラプター"
+    },
+    {
       "key": "Data_Skill_Chang_Bridge_description",
       "value": "クリンゴンが<color=#01e2ff>+5%</color> 攻撃力を得る。"
+    },
+    {
+      "key": "Data_Skill_Chang_Bridge_displayName",
+      "value": "サプライズアサルト"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill1_description_level1",
+      "value": "味方全体に<color=#01e2ff>士気+1</color>、<color=#01e2ff>攻撃力上昇・小</color>の効果(3ターン有効)。"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill1_description_level2",
+      "value": "味方全体に<color=#01e2ff>士気+1</color>、<color=#01e2ff>攻撃力上昇</color>の効果(3ターン有効)。"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill1_displayName",
+      "value": "破壊の呼び声"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill2_description_level1",
+      "value": "味方1体に<color=#01e2ff>クローク</color>、<color=#01e2ff>クリティカル発生率上昇・小</color>の効果(3ターン有効)。"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill2_description_level2",
+      "value": "味方1体に<color=#01e2ff>クローク</color>、<color=#01e2ff>クリティカル発生率上昇・大</color>の効果(3ターン有効)。"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill2_displayName",
+      "value": "クリンゴン・クローク"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill3_description_level1",
+      "value": "味方全体に<color=#01e2ff>チーム攻撃</color>、<color=#01e2ff>クローク</color>の効果(1ターン有効)。"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill3_description_level2",
+      "value": "味方全体に<color=#01e2ff>チーム攻撃</color>、<color=#01e2ff>クローク</color>の効果(3ターン有効)。"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill3_displayName",
+      "value": "戦端を開け"
     },
     {
       "key": "Data_Skill_Chekov_Attack_description_level1",
@@ -21029,6 +21533,46 @@
     {
       "key": "Data_Skill_Chekov_Bridge_description",
       "value": "宇宙艦隊が<color=#01e2ff>+5%</color> 攻撃力を得る。"
+    },
+    {
+      "key": "Data_Skill_Chekov_Bridge_displayName",
+      "value": "ニュークリア・ウェッセル"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill1_description_level1",
+      "value": "ランダムな敵複数に<color=#01e2ff>50%のダメージ x 4</color>を与える。"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill1_description_level2",
+      "value": "ランダムな敵複数に<color=#01e2ff>65%のダメージ x 4</color>を与える。"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill1_displayName",
+      "value": "ロシアンギャンビット"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill2_description_level1",
+      "value": "味方全体に<color=#01e2ff>シールド・小</color>、<color=#01e2ff>防御力上昇・小</color>の効果(3ターン有効)。"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill2_description_level2",
+      "value": "味方全体に<color=#01e2ff>シールド</color>、<color=#01e2ff>防御力上昇</color>の効果(3ターン有効)。"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill2_displayName",
+      "value": "艦長、シールドを。"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill3_description_level1",
+      "value": "敵全体に<color=#01e2ff>200%のダメージ</color>を与え(<color=#01e2ff>カバー</color>には<color=#01e2ff>300%のダメージ</color>)、<color=#01e2ff>50%の確率で士気-1</color>の効果。"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill3_description_level2",
+      "value": "敵全体に<color=#01e2ff>250%のダメージ</color>を与え(<color=#01e2ff>カバー</color>には<color=#01e2ff>375%のダメージ</color>)、<color=#01e2ff>士気-1</color>の効果。"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill3_displayName",
+      "value": "軌道フェイザー攻撃"
     },
     {
       "key": "Data_Skill_Crusher_Attack_description_level1",
@@ -21420,15 +21964,59 @@
     },
     {
       "key": "Data_Skill_Garak_Attack_description_level1",
-      "value": "<color=#01e2ff>100%のダメージ</color>を与える"
+      "value": "<color=#01e2ff>100%のダメージ</color>を与える。"
     },
     {
       "key": "Data_Skill_Garak_Attack_description_level2",
-      "value": "<color=#01e2ff>150%のダメージ</color>を与える"
+      "value": "<color=#01e2ff>150%のダメージ</color>を与える。"
+    },
+    {
+      "key": "Data_Skill_Garak_Attack_displayName",
+      "value": "ディスラプターピストル"
     },
     {
       "key": "Data_Skill_Garak_Bridge_description",
       "value": "<color=#01e2ff>+5%</color> クリティカル発生率を得る。"
+    },
+    {
+      "key": "Data_Skill_Garak_Bridge_displayName",
+      "value": "ただの仕立て屋"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill1_description_level1",
+      "value": "敵1体に<color=#01e2ff>50%のダメージ x 2</color>を与え、<color=#01e2ff>士気-1</color>、<color=#01e2ff>50%の確率</color>で<color=#01e2ff>スタン</color>の効果（3ターン有効）。"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill1_description_level2",
+      "value": "敵1体に<color=#01e2ff>75%のダメージ x 2</color>を与え、<color=#01e2ff>士気-1</color>、<color=#01e2ff>スタン</color>の効果（3ターン有効）。"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill1_displayName",
+      "value": "非常手段"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill2_description_level1",
+      "value": "敵全体に<color=#01e2ff>パージ</color>、<color=#01e2ff>防御力低下・小</color>、<color=#01e2ff>テック低下・小</color>の効果(3ターン有効)。"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill2_description_level2",
+      "value": "敵全体に<color=#01e2ff>パージ</color>、<color=#01e2ff>防御力低下</color>、<color=#01e2ff>テック低下</color>の効果(3ターン有効)。"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill2_displayName",
+      "value": "妨害工作"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill3_description_level1",
+      "value": "自分に<color=#01e2ff>50%ヒール</color>、<color=#01e2ff>クレンズ</color>、<color=#01e2ff>士気+1</color>の効果。"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill3_description_level2",
+      "value": "自分に<color=#01e2ff>100%ヒール</color>、<color=#01e2ff>クレンズ</color>、<color=#01e2ff>士気+2</color>の効果。"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill3_displayName",
+      "value": "スパイ技術"
     },
     {
       "key": "Data_Skill_GenBorgEng01M_Attack_description_level1",
@@ -23099,8 +23687,52 @@
       "value": "<color=#01e2ff>150%のダメージ</color>を与える"
     },
     {
+      "key": "Data_Skill_PicardDixon_Attack_displayName",
+      "value": "パンチ"
+    },
+    {
       "key": "Data_Skill_PicardDixon_Bridge_description",
-      "value": "宇宙艦隊が<color=#01e2ff>+5%</color> 攻撃力を得る。"
+      "value": "宇宙艦隊が<color=#01e2ff>+5%</color>の攻撃力を獲得する。"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Bridge_displayName",
+      "value": "The Big Goodbye"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_description_level1",
+      "value": "味方1体に<color=#01e2ff>士気+1</color>、<color=#01e2ff>クレンズ</color>の効果。"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_description_level2",
+      "value": "味方1体に<color=#01e2ff>士気+2</color>、<color=#01e2ff>クレンズ</color>の効果。"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_displayName",
+      "value": "スアーヴ"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_description_level1",
+      "value": "敵1体に<color=#01e2ff>スタン</color>、<color=#01e2ff>防御力低下</color>の効果(3ターン有効)。"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_description_level2",
+      "value": "敵1体に<color=#01e2ff>スタン</color>、<color=#01e2ff>防御力低下・大</color>、<color=#01e2ff>スキルロック</color>の効果(3ターン有効)。"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_displayName",
+      "value": "プログラム凍結"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_description_level1",
+      "value": "敵1体に<color=#01e2ff>100%のダメージ x 3</color>を与える(<color=#01e2ff>50%の確率</color>で<color=#01e2ff>負傷</color>の効果)。味方全体に<color=#01e2ff>50%の確率で士気+1</color>の効果。"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_description_level2",
+      "value": "敵1体に<color=#01e2ff>150%のダメージ x 3</color>と<color=#01e2ff>負傷</color>を与える。味方全体に<color=#01e2ff>士気+1</color>の効果。"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_displayName",
+      "value": "ハードボイルド"
     },
     {
       "key": "Data_Skill_PicardOld_Attack_description_level1",
@@ -23204,11 +23836,11 @@
     },
     {
       "key": "Data_Skill_Pike_Skill3_description_level1",
-      "value": "<color=#01e2ff>攻撃力上昇</color>、<color=#01e2ff>クリティカル発生率上昇</color>、<color=#01e2ff>士気+1</color>。"
+      "value": "味方全体に<color=#01e2ff>攻撃力上昇</color>、<color=#01e2ff>クリティカル発生率上昇</color>、<color=#01e2ff>士気+1</color>の効果。"
     },
     {
       "key": "Data_Skill_Pike_Skill3_description_level2",
-      "value": "<color=#01e2ff>攻撃力上昇・大</color>、<color=#01e2ff>クリティカル発生率上昇・大</color>、<color=#01e2ff>士気+2</color>の効果。"
+      "value": "味方全体にの<color=#01e2ff>攻撃力上昇・大</color>、<color=#01e2ff>クリティカル発生率上昇・大</color>、<color=#01e2ff>士気+2</color>の効果。"
     },
     {
       "key": "Data_Skill_Pike_Skill3_displayName",
@@ -24055,8 +24687,72 @@
       "value": "宇宙艦隊が<color=#01e2ff>+5%</color> 意志力を得る。"
     },
     {
+      "key": "Data_Skill_Troi_Bridge_displayName",
+      "value": "艦のカウンセラー"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill1_description_level1",
+      "value": "味方+1体に<color=#01e2ff>クレンズ</color>、<color=#01e2ff>士気+1</color>の効果。"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill1_description_level2",
+      "value": "味方1体に<color=#01e2ff>クレンズ</color>、<color=#01e2ff>士気+1</color>、<color=#01e2ff>ヒール・小</color>の効果。"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill1_displayName",
+      "value": "共感治癒"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill2_description_level1",
+      "value": "敵1体に<color=#01e2ff>50%テックダメージ</color>を与え、<color=#01e2ff>パージ</color>の効果。"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill2_description_level2",
+      "value": "敵1体に<color=#01e2ff>75%テックダメージ</color>を与え、<color=#01e2ff>パージ</color>、<color=#01e2ff>士気-1</color>の効果。"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill2_displayName",
+      "value": "暴露"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill3_description_level1",
+      "value": "味方全体に<color=#01e2ff>士気+1</color>、<color=#01e2ff>防御力上昇</color>の効果(3ターン有効)。"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill3_description_level2",
+      "value": "味方全体に<color=#01e2ff>士気+2</color>、<color=#01e2ff>防御力上昇</color>の効果(3ターン有効)。"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill3_displayName",
+      "value": "激励"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Attack_description_level1",
+      "value": "<color=#01e2ff>100%のダメージ</color>を与える(<color=#01e2ff>10%の確率</color>で<color=#01e2ff>攻撃力低下</color>の効果。1ターン有効)。"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Attack_description_level2",
+      "value": "<color=#01e2ff>125%のダメージ</color>を与える(<color=#01e2ff>25%の確率</color>で<color=#01e2ff>攻撃力低下</color>の効果。1ターン有効)。"
+    },
+    {
       "key": "Data_Skill_Tuvok_Attack_displayName",
       "value": "圧縮ライフル"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Bridge_displayName",
+      "value": "保安主任"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill1_description_level1",
+      "value": "味方+1体に<color=#01e2ff>クレンズ</color>、<color=#01e2ff>士気+1</color>の効果。"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill1_description_level2",
+      "value": "味方+1体に<color=#01e2ff>クレンズ</color>、<color=#01e2ff>士気+1</color>の効果。自身に<color=#01e2ff>士気+1</color>の効果。"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill1_displayName",
+      "value": "浄化の精神融合"
     },
     {
       "key": "Data_Skill_Tuvok_Skill2_description_level1",
@@ -24069,6 +24765,18 @@
     {
       "key": "Data_Skill_Tuvok_Skill2_displayName",
       "value": "バルカン神経つかみ"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill3_description_level1",
+      "value": "味方全体に<color=#01e2ff>攻撃力上昇</color>、<color=#01e2ff>クリティカル発生率上昇</color>、<color=#01e2ff>警戒</color>の効果（3ターン有効）。"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill3_description_level2",
+      "value": "味方全体に<color=#01e2ff>攻撃力上昇・大</color>、<color=#01e2ff>クリティカル発生率上昇・大</color>、<color=#01e2ff>警戒</color>の効果（3ターン有効）。"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill3_displayName",
+      "value": "戦術訓練"
     },
     {
       "key": "Data_Skill_Uhura_Attack_description_level1",
@@ -26819,6 +27527,10 @@
       "value": "マイケル・バーナムのトークン"
     },
     {
+      "key": "item_Chang_Token",
+      "value": "チャン将軍のトークン"
+    },
+    {
       "key": "item_Chekov_Token",
       "value": "チェコフのトークン"
     },
@@ -26841,6 +27553,14 @@
     {
       "key": "item_Dukat_Token",
       "value": "ガル・デュカットのトークン"
+    },
+    {
+      "key": "item_Elnor_Token",
+      "value": "エルノアのトークン"
+    },
+    {
+      "key": "item_Garak_Token",
+      "value": "エリム・ガラックのトークン"
     },
     {
       "key": "item_GenBorgEng01M_Token",
@@ -27011,6 +27731,10 @@
       "value": "ピカード艦長のトークン"
     },
     {
+      "key": "item_PicardDixon_Token",
+      "value": "ディクソン・ヒル・のトークン"
+    },
+    {
       "key": "item_PicardOld_Token",
       "value": "ピカードのトークン"
     },
@@ -27067,6 +27791,10 @@
       "value": "スートラのトークン"
     },
     {
+      "key": "item_Tilly_Token",
+      "value": "シルビア・ティリーのトークン"
+    },
+    {
       "key": "item_Token_Desc",
       "value": "トークンを回収してランクアップ"
     },
@@ -27085,6 +27813,14 @@
     {
       "key": "item_TPol_Token",
       "value": "トゥポルのトークン"
+    },
+    {
+      "key": "item_Troi_Token",
+      "value": "ディアナ・トロイのトークン"
+    },
+    {
+      "key": "item_Tuvok_Token",
+      "value": "トゥヴォックのトークン"
     },
     {
       "key": "item_Uhura_Token",
@@ -27411,6 +28147,46 @@
       "value": "報酬を得るために一連の敵を倒してください"
     },
     {
+      "key": "Operations_FactionEvent_Desc_Borg",
+      "value": "戦闘でボーグのためのポイントを稼ごう。イベント終了時に最もポイントが高い勢力には、コミュニティ報酬が贈られます！"
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Card",
+      "value": "戦闘でカーデシアためのポイントを稼ごう。イベント終了時に最もポイントが高い勢力には、コミュニティ報酬が贈られます！"
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Fed",
+      "value": "戦闘で連邦のためのポイントを稼ごう。イベント終了時に最もポイントが高い勢力には、コミュニティ報酬が贈られます！"
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Kling",
+      "value": "戦闘でクリンゴンのためのポイントを稼ごう。イベント終了時に最もポイントが高い勢力には、コミュニティ報酬が贈られます！"
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Romu",
+      "value": "戦闘でロミュランのためのポイントを稼ごう。イベント終了時に最もポイントが高い勢力には、コミュニティ報酬が贈られます！"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Borg",
+      "value": "勢力戦争：ボーグに加勢する"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Card",
+      "value": "勢力戦争：カーデシアに加勢する"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Fed",
+      "value": "勢力戦争：連邦に加勢する"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Kling",
+      "value": "勢力戦争：クリンゴンに加勢する"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Romu",
+      "value": "勢力戦争：ロミュランに加勢する"
+    },
+    {
       "key": "Operations_Material_Antimatter",
       "value": "反物質オーバードライブ"
     },
@@ -27635,8 +28411,12 @@
       "value": "PvP"
     },
     {
+      "key": "pvp_data_agree_body",
+      "value": "ありがとうございます！オンライン機能をお楽しみください！"
+    },
+    {
       "key": "pvp_data_body",
-      "value": "こんにちは！当社、Emerald City Gamesは、ご利用のGame CenterプレイヤーID、探査チームの名簿、メダル、戦闘ログなどを含むゲームプレイ情報を使って、お客様がアリーナでプレイできるようにいたします。(このデータがないとアリーナは機能しません)これについてご同意いただけますでしょうか？"
+      "value": "こんにちは！当社、Emerald City Gamesは、お客様がオンライン機能をご利用いただくために、Game CenterプレイヤーID、セーブファイルID、探査チームの名簿、メダル、戦闘ログ、アイテムインベントリ、同盟アクション、イベントリソースや任務などを含むゲームプレイ情報が必要となります。（マルチプレイヤー機能は本データがなければ機能しません）。これについてご同意いただけますでしょうか？"
     },
     {
       "key": "pvp_data_btn_agree",
@@ -27648,7 +28428,7 @@
     },
     {
       "key": "pvp_data_disagree_body",
-      "value": "問題ございません。お客様のゲームプレイ情報を使用しないため、アリーナは無効になります。シングルプレイヤーのエピソードと任務はプレイ可能です。"
+      "value": "承知いたしました。お客様のゲームプレイ情報は使用しませんので、オンライン機能は使えなくなります。シングルプレイのミッションや任務は引き続きプレイできます。"
     },
     {
       "key": "pvp_data_disagree_btn_ok",
@@ -29571,6 +30351,10 @@
       "value": "スペシャル"
     },
     {
+      "key": "UI_Common_Splash_Start",
+      "value": "START"
+    },
+    {
       "key": "UI_Common_Start",
       "value": "タップしてスタート"
     },
@@ -29875,6 +30659,22 @@
       "value": "データ共有ポップアップ用の見出しテキスト"
     },
     {
+      "key": "UI_DemoComplete_Body",
+      "value": "Star Trek: Legendsのデモ版をプレイしていただきありがとうございます。"
+    },
+    {
+      "key": "UI_DemoComplete_Header",
+      "value": "デモ完了"
+    },
+    {
+      "key": "UI_DemoVersion_Body",
+      "value": "Star Trek: Legendsの本バージョンは、デモンストレーションを目的として制作されています。"
+    },
+    {
+      "key": "UI_DemoVersion_Header",
+      "value": "デモバージョン"
+    },
+    {
       "key": "UI_DownloadConfirmation_Body",
       "value": "艦長！スキャンの結果、続行するには<color=##0DDADF><b>{0}MB</b></color>の追加ファイルが必要なようです。"
     },
@@ -30025,6 +30825,26 @@
     {
       "key": "UI_Events_NPE_Title",
       "value": "イベント：歓迎イベント"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc",
+      "value": "ジャン＝リュック・ピカード艦長を記念して、特別な一週間を企画します！特別なイベントに参加しましょう！ {0}をアンロックできるかも！"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Main",
+      "value": "ピカード艦長週間に参加しましょう！ {0}をアンロックできるかも！"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Post",
+      "value": "イベントは終了しました！"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Pre",
+      "value": "また確認してイベントに参加しましょう！"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Title",
+      "value": "ピカード艦長週間"
     },
     {
       "key": "UI_Events_SoloEvent_Desc",
@@ -31485,6 +32305,14 @@
     {
       "key": "UI_Popup_DeleteAllData_Title",
       "value": "すべてのデータを削除"
+    },
+    {
+      "key": "UI_Popup_DemoDisabled_Body",
+      "value": "この機能はデモ版では使えません"
+    },
+    {
+      "key": "UI_Popup_DemoDisabled_Header",
+      "value": "無効な機能"
     },
     {
       "key": "UI_Popup_DownloadPermission_Body",

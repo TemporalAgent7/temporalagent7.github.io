@@ -1435,6 +1435,10 @@
       "value": "Bekçi"
     },
     {
+      "key": "Common_Chang",
+      "value": "General Chang"
+    },
+    {
       "key": "Common_CharacterRole_All",
       "value": "Tümü"
     },
@@ -1821,6 +1825,10 @@
     {
       "key": "Common_FirstWord",
       "value": "İlk Sözcük"
+    },
+    {
+      "key": "Common_Garak",
+      "value": "Elim Garak"
     },
     {
       "key": "Common_GenGorn01",
@@ -2255,6 +2263,10 @@
       "value": "Picard"
     },
     {
+      "key": "Common_PicardDixon",
+      "value": "Dixon Hill"
+    },
+    {
       "key": "Common_Power",
       "value": "Güç"
     },
@@ -2531,6 +2543,10 @@
       "value": "Bajoran"
     },
     {
+      "key": "Common_Tag_Betazoid",
+      "value": "Betazoid"
+    },
+    {
       "key": "Common_Tag_Borg",
       "value": "Borg"
     },
@@ -2735,6 +2751,14 @@
       "value": "Tritanyum"
     },
     {
+      "key": "Common_Troi",
+      "value": "Deanna Troi"
+    },
+    {
+      "key": "Common_Tuvok",
+      "value": "Tuvok"
+    },
+    {
       "key": "Common_Unknown",
       "value": "Bilinmiyor"
     },
@@ -2803,6 +2827,10 @@
       "value": "Spock'un evlatlık insan kardeşi olan Burnham, U.S.S. Discovery gemisinde görev yapmaktadır. Keskin bir zekaya, azme ve onu zaman zaman üstleriyle karşı karşıya getiren güçlü bir ahlak pusulasına sahiptir."
     },
     {
+      "key": "Data_Character_Chang_description",
+      "value": "Gelenekleri sürdüren kıdemli bir Klingon savaşçısıdır. Dünya kültürünü takdir etmesine rağmen Federasyon'un genişlemesi sonucunda Klingon İmparatorluğu'nun çökeceği konusunda korkuları vardır ve bunu önlemek için her şeyi yapmaya hazırdır."
+    },
+    {
       "key": "Data_Character_Chekov_description",
       "value": "On parmağında on marifet olan polimat Pavel Chekov güvenlik, seyir ve taktik gibi alanlarda çeşitli görevler üstlenmiştir. Bu alanların her birinde üstün başarı gösterirken alametifarikası olan neşesini hiç elden bırakmaz."
     },
@@ -2837,6 +2865,10 @@
     {
       "key": "Data_Character_Elnor_description",
       "value": "Romulan süpernova olayından sağ kurtulan Elnor, Amiral Picard tarafından Vashti'ye tahliye edildi. Büyüdüğünde, savaşçı rahibe tarikatı olan Qowat Milat'ın nadir görülen erkek yardımcılarından biri oldu. Orada aldığı eğitim sayesinde neredeyse eşsiz savaş becerilerine sahip oldu."
+    },
+    {
+      "key": "Data_Character_Garak_description",
+      "value": "Dışarıdan yumuşak huylu görünen Kardasyalı terzi Garak, halkının hükümetinin istihbarat bürosu olan Obsidiyen Tarikatı'nın eski üyesidir. Usta bir suikastçı, sabotajcı ve istihbarat şefidir."
     },
     {
       "key": "Data_Character_GenBorgEng01M_description",
@@ -2995,6 +3027,10 @@
       "value": "Çoğunluk tarafından Yıldız Filosu'nun gelmiş geçmiş en büyük kaptanlarından biri olarak görülür. Taktik uzmanı, düşünür ve diplomat olarak nam salan Kaptan Picard, karşılaştığı engeller ne olursa olsun Federasyon'un ideallerini savunur."
     },
     {
+      "key": "Data_Character_PicardDixon_description",
+      "value": "Hikayeleri Kaptan Picard tarafından sık sık U.S.S. Enterprise'ın Holodeck'inde anlatılan kurgusal, kurnaz bir dedektif. Dixon, iyi yumruk atar ve romantizm konusunda ustadır."
+    },
+    {
       "key": "Data_Character_Pike_description",
       "value": "U.S.S. Enterprise'ın eski kaptanı. Kaderinde onu sesinden ve hareket kabiliyetinden eden korkunç bir kaza geçirmek yatan iyi kalpli, nazik bir adamdır."
     },
@@ -3061,6 +3097,14 @@
     {
       "key": "Data_Character_TPol_description",
       "value": "Yıldızlarla insanları tanıştıran tarihi görev sırasında U.S.S. Enterprise NX-01 gemisinde görevlendirilen bir Vulcan. Sakin ve düşüncelidir. Mürettebatına destek olmasını sağlayan sinirleri çelik gibidir."
+    },
+    {
+      "key": "Data_Character_Troi_description",
+      "value": "U.S.S. Enterprise'da Kaptan Picard'ın emrinde hizmet vermiş yarı betazoid bir empati uzmanı. Mürettebatını anlayabilen sıcakkanlı ve şefkatli bir subaydır. Psikoloji eğitimi sayesinde kusursuz bir danışman olmuştur."
+    },
+    {
+      "key": "Data_Character_Tuvok_description",
+      "value": "U.S.S. Voyager'ın komuta zincirinde üçüncü sırada yer alır ve geminin güvenlik şefidir. Dövüşte ölümcül olsa da gerçek gücü Vulcan yetiştirilme tarzından gelir: Mantığıyla hareket eder, düşüncelidir ve her ihtimali göz önünde bulundurur."
     },
     {
       "key": "Data_Character_Uhura_description",
@@ -4181,6 +4225,166 @@
     {
       "key": "Data_GSCutSceneDialogue_captainsLogSupplemental_e5m6_01",
       "value": "<color=#FFCE00>Borg Kraliçesi</color> yenildi ve başka bir <color=#FFCE00>Neksus Reaktörü elde edildi</color>. Mürettebatı <color=#FFCE00>Neksus</color>'ta başka ne gibi kabuslar bekliyor?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_01",
+      "value": "Kazı yapacağımız enkazı göremiyorum. Teğmen Worf, durum raporu verin lütfen."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_02",
+      "value": "Konum bilinmiyor Komutan Pike. Yaşam sinyali yok ama yine de tetikte olun."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_03",
+      "value": "Konumumuzdan yaklaşık 5 kilometre doğuda güçlü bir enerji sinyali alıyorum. Hedefimiz olma ihtimali yüksek."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_04",
+      "value": "Tarihteki en iyi mühendislerden bazıları <i>Artemis</i> gemisinde ama bizi yürüme mesafesindeki hedefimize ışınlayamıyorlar mı yani?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_05",
+      "value": "Durun! Önümüzdeler!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_01",
+      "value": "Sisin içine doğru geri çekilmişler gibi duruyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_02",
+      "value": "Yaşam sinyali almadığımızı sanıyordum."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_03",
+      "value": "Tuhaf. Trikorderlerimizde bir arıza mı var acaba?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_04",
+      "value": "Ya da Neksus bize oyun oynuyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle01_post_05",
+      "value": "Hadi devam edelim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_01",
+      "value": "Önümüzdeler!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_02",
+      "value": "Daha fazla Romulan mı?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_03",
+      "value": "Klingon'a benziyorlar."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_04",
+      "value": "İletişim kurmayı deneyeyim. NuqneH!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_05",
+      "value": "Fazerlerini çıkarıyorlar. Kelimeyi doğru söylediğine emin misin?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_06",
+      "value": "Beni gayet net bir şekilde duydular Doktor. Sadece... İletişime pek açık değiller."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_01",
+      "value": "Şimdi de ortadan kayboldular, aynı Romulanlar gibi. Burada tuhaf işler dönüyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_02",
+      "value": "Neksus kesin bize oyun oynuyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_03",
+      "value": "Belki öyle. Belki değil. Birkaç tarama yapmam lazım ama buradaki enerjinin, boyutun enerjisi olduğundan emin değilim."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle02_post_04",
+      "value": "Sen tarama yaparken ilerlemeye devam edelim. Hedefe çok yakınız."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_01",
+      "value": "İşte şurada. Bu gemi hedefimiz olsa gerek."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_02",
+      "value": "Gemiyi bulan sadece biz değiliz. Borg kolektifinden dron sinyalleri alıyorum. Etrafımızı sarmışlar."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_03",
+      "value": "Durun, sadece Neksus değil, burada başka bir etki daha var!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_04",
+      "value": "Bilime çok değer versem de Doktor, onları etkisiz hâle getirelim, SONRA aldığın sinyalleri tartışalım derim!"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_01",
+      "value": "Hayalet gibi kayboldular ortadan, tıpkı daha önce karşılaştıklarımız gibi."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_02",
+      "value": "Onları kontrol eden başka bir şey var. Üç olayda da başka bir varlık sinyali aldım."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_03",
+      "value": "Neksus'un güçlerinin ötesinde bir şeylerin etkisi söz konusu."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_04",
+      "value": "Haklısın. Doktor Hugh Culber'sın, değil mi?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_05",
+      "value": "Sen de kimsin?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_06",
+      "value": "Sen de Christopher Pike'sın."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_07",
+      "value": "Sen de Mogh'un oğlu Worf'sun."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_08",
+      "value": "Annika Hansen, atanmış Seven of Nine, Unimatrix 01'in Üçüncü Dereceden Yardımcısı."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_09",
+      "value": "Peki bizim kim olduğumuzu nereden biliyorsun?"
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_10",
+      "value": "Neksus'un ne olduğundan bihabersiniz, gerçi bilmeseniz daha iyi."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_battle03_post_11",
+      "value": "Sizinle bir alıp veremediğimiz yok. Arayışınızdan vazgeçin yoksa etrafınızdaki her şeyle birlikte çökerek yok olacaksınız."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_intro01_01",
+      "value": "<i>U.S.S. Artemis</i>'in kaptanısın ve gizemli \"Neksus\"u keşfetmek için bir görevdesin."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_intro01_02",
+      "value": "Dilityum rezervlerini yenilemek amacıyla, yakınlardaki bir gezegende terk edilmiş bir Federasyon gemisini keşfetmek için bir sefer ekibi gönderiyorsun."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_01",
+      "value": "Uyarıları, kulaklarında yankılanmaya devam ederken tuhaf varlıklar birbirlerine doğru hareket ediyor."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_02",
+      "value": "Gerçekliğin etraflarında dolanma şekli, hem büyüleyici hem de rahatsız edici."
+    },
+    {
+      "key": "Data_GSCutSceneDialogue_e0_m1_outro01_03",
+      "value": "Korku ve dehşet duygusu, görevine devam etme ve karanlıkta seni bekleyen tehlikelerin peşinden gitme kararlılığını daha da güçlendiriyor."
     },
     {
       "key": "Data_GSCutSceneDialogue_e1_m1_battle01_01",
@@ -11364,7 +11568,7 @@
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m1_story01_01",
-      "value": "Burası aklıma çocukken duyduğum Klingon masallarını getiriyor. Savaşçıların sonsuza dek savaştığı Sto-Vo-Kor koridorları."
+      "value": "Burası aklıma çocukken duyduğum Klingon masallarını getiriyor. Savaşçıların sonsuza dek savaştığı Sto-vo-kor koridorları."
     },
     {
       "key": "Data_GSCutSceneDialogue_e7_m1_story01_02",
@@ -16999,6 +17203,14 @@
       "value": "Xenylon"
     },
     {
+      "key": "Data_MissionObjective_e0_m1_Name",
+      "value": "Tüm savaşları tamamla"
+    },
+    {
+      "key": "Data_MissionObjective_e0_m2_Name",
+      "value": "Enkazı araştır"
+    },
+    {
       "key": "Data_MissionObjective_e1_m1_Name",
       "value": "Michael Burnham'ı kurtar"
     },
@@ -17393,6 +17605,54 @@
     {
       "key": "Data_Quip_text_Burnham_Wounded_02",
       "value": "Dr. McCoy, yardım etseniz çok makbule geçer…"
+    },
+    {
+      "key": "Data_Quip_text_Chang_BattleCry_01",
+      "value": "Bir kez daha deneyelim sevgili dostlarım!"
+    },
+    {
+      "key": "Data_Quip_text_Chang_BattleCry_02",
+      "value": "Sizinle... Savaşmak için can atıyordum!"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Demoralized_01",
+      "value": "Sefalet tuhaf yatak yoldaşları kazandırıyor insana."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Idle_01",
+      "value": "Ne demişti sizin Shakespeare? Hayat, iki kez anlatılan bir masal kadar sıkıcıdır."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Inspired_01",
+      "value": "Gerçekten ilham verici bir konuşmaydı. Bard'a layık!"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Insult_01",
+      "value": "Püf. Sizi pataklardım ama ellerim kirlenir."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reaction_Respond_01",
+      "value": "Bu mutlu kardeşler grubu değil mi?"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reaction_Retort_01",
+      "value": "Korkaklar bin kere, yiğitler bir kere ölür!"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Reinforce_01",
+      "value": "Şimdi... Elimizde ne var?"
+    },
+    {
+      "key": "Data_Quip_text_Chang_Special_TeamAssist_01",
+      "value": "Ah, sen çağırdın, ben de geldim."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Thank_01",
+      "value": "Zahmetin ve nezaketin için teşekkür ederim."
+    },
+    {
+      "key": "Data_Quip_text_Chang_Wounded_01",
+      "value": "Beni yaralarsanız... Kanamaz mıyım?"
     },
     {
       "key": "Data_Quip_text_Chekov_BattleCry_01",
@@ -17825,6 +18085,54 @@
     {
       "key": "Data_Quip_text_Elnor_Wounded_01",
       "value": "Ama bu... Gerçekten acıtıyor!"
+    },
+    {
+      "key": "Data_Quip_text_Garak_BattleCry_01",
+      "value": "İşte şimdi geri dönüşü olmayan bir şey yaptın."
+    },
+    {
+      "key": "Data_Quip_text_Garak_BattleCry_02",
+      "value": "Ben her zaman mütevazı bir terzi değildim."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Demoralized_01",
+      "value": "Başımız şimdi gerçekten belada!"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Idle_01",
+      "value": "Şimdi bazıları bunun vakit kaybı olduğunu düşünebilir, peki ya ben? Ben sessiz sakin hayatı seviyorum."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Inspired_01",
+      "value": "Keşke Kardasya Prime'da sizin gibi liderlerimiz olsaydı."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Insult_01",
+      "value": "Daha önce senin gibi bir sürü insan öldürdüm. Can çekişerek öldüler."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reaction_Respond_01",
+      "value": "Şaşırtıcı derecede etkili!"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reaction_Retort_01",
+      "value": "Amma konuşuyorsun be."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Reinforce_01",
+      "value": "Nasıl yardım edebilirim?"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Special_TeamAssist_01",
+      "value": "Sen mi çağırdın?"
+    },
+    {
+      "key": "Data_Quip_text_Garak_Thank_01",
+      "value": "Sana bir iyilik borcum oldu."
+    },
+    {
+      "key": "Data_Quip_text_Garak_Wounded_01",
+      "value": "Ah, tamam. Bu kötü acıttı."
     },
     {
       "key": "Data_Quip_text_GenBorgEng01M_BattleCry_01",
@@ -19843,6 +20151,54 @@
       "value": "Bu bizi durdurmayacak!"
     },
     {
+      "key": "Data_Quip_text_PicardDixon_BattleCry_01",
+      "value": "Çok akıllısınız ha?"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_BattleCry_02",
+      "value": "Her zaman işleri zor yoldan veya kolay yoldan halledebileceğimizi söylerim. Siz soytarılar zor kullanılmasını istiyorsunuz gibi duruyor."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Demoralized_01",
+      "value": "Bir... Bir şeyler ters gidiyor. Bu holodeck simülasyonu böyle tepki vermemeliydi!"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Idle_01",
+      "value": "Böyle zamanlarda bu adamın bir şeyler içmesi lazım. Earl grey ça... Ah, viski. Sek."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Inspired_01",
+      "value": "Kelimelerle aran gerçekten iyi, öyle değil mi?"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Insult_01",
+      "value": "O çeneni kapat yoksa ben kapatmasını bilirim!"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reaction_Respond_01",
+      "value": "İtiraf edeyim, cidden dayanıklı çıktın!"
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reaction_Retort_01",
+      "value": "Bilgisayar... Şiddet seviyesini ayarlayabilir miyiz? Ben buraya dinlenmeye geldim, savaşmaya değil."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Reinforce_01",
+      "value": "Birisi mi çağırdı? Dixon Hill P.I hizmetinizde."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Special_TeamAssist_01",
+      "value": "Zorbalar ha? Zorbalardan nefret ederim."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Thank_01",
+      "value": "Biliyor musun... Doğru söylüyorsun evlat."
+    },
+    {
+      "key": "Data_Quip_text_PicardDixon_Wounded_01",
+      "value": "Büyükannem daha sert vuruyor!"
+    },
+    {
       "key": "Data_Quip_text_PicardOld_BattleCry_01",
       "value": "Şimdiye kadar bu saçmalığı çok geride bıraktığımızı sanırsınız!"
     },
@@ -20751,6 +21107,102 @@
       "value": "Ahhh... Acı, beynin oynadığı bir oyundan ibarettir... Acı, beynin oynadığı bir oyundan ibarettir..."
     },
     {
+      "key": "Data_Quip_text_Troi_BattleCry_01",
+      "value": "Dikkatli olun!"
+    },
+    {
+      "key": "Data_Quip_text_Troi_BattleCry_02",
+      "value": "İyi nişan alın!"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Demoralized_01",
+      "value": "Eğitimim beni böyle bir duruma hazırlamadı!"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Idle_01",
+      "value": "Dinlenecek zamanımız varsa biraz meditasyon yapabilirim."
+    },
+    {
+      "key": "Data_Quip_text_Troi_Inspired_01",
+      "value": "Çok iyi söyledin!"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Insult_01",
+      "value": "Bana annemi hatırlatıyorsun."
+    },
+    {
+      "key": "Data_Quip_text_Troi_Reaction_Respond_01",
+      "value": "İbret vericiydi!"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Reaction_Retort_01",
+      "value": "Bunu söyleyeceğini tahmin etmiştim."
+    },
+    {
+      "key": "Data_Quip_text_Troi_Reinforce_01",
+      "value": "Danışman mı çağırdın?"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Special_TeamAssist_01",
+      "value": "Ne gerekiyor?"
+    },
+    {
+      "key": "Data_Quip_text_Troi_Thank_01",
+      "value": "Teşekkür ederim."
+    },
+    {
+      "key": "Data_Quip_text_Troi_Wounded_01",
+      "value": "Maalesef yara, düşündüğümden daha derinmiş."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_BattleCry_01",
+      "value": "Mantık teslim olmanızı söylüyor. Hemen."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_BattleCry_02",
+      "value": "Bu iş çabucak bitecek."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Demoralized_01",
+      "value": "Ben... Ne yapacağımı bilmiyorum."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Idle_01",
+      "value": "Dikkati elden bırakmayın. Bu sessizlik uzun sürmez."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Inspired_01",
+      "value": "Çok aydınlatıcıydı."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Insult_01",
+      "value": "Daha önce sizin gibilerle çok savaştım. Ağzınız iyi laf yapar ama becerileriniz yetersizdir."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Reaction_Respond_01",
+      "value": "Kabul edilebilir."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Reaction_Retort_01",
+      "value": "Böyle kabadayılık taslamaya ne gerek var anlamıyorum."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Reinforce_01",
+      "value": "Mantık burada çok uzun süre oyalanmamamız gerektiğini söylüyor."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Special_TeamAssist_01",
+      "value": "Hizmetlerime ihtiyacın var mı?"
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Thank_01",
+      "value": "Yardımından ötürü kendimi çok... Şanslı görüyorum."
+    },
+    {
+      "key": "Data_Quip_text_Tuvok_Wounded_01",
+      "value": "Benim... Tıbbi yardıma ihtiyacım var."
+    },
+    {
       "key": "Data_Quip_text_Uhura_BattleCry_01",
       "value": "Dikkat edin!"
     },
@@ -21007,8 +21459,60 @@
       "value": "Geri Çekil"
     },
     {
+      "key": "Data_Skill_Chang_Attack_description_level1",
+      "value": "<color=#01e2ff>%100 Hasar</color> ver (1 tur <color=#01e2ff>%10 İhtimalle</color> <color=#01e2ff>Savunma Düşüşü</color> uygula)"
+    },
+    {
+      "key": "Data_Skill_Chang_Attack_description_level2",
+      "value": "<color=#01e2ff>%125 Hasar</color> ver (1 tur <color=#01e2ff>%25 İhtimalle</color> <color=#01e2ff>Savunma Düşüşü</color> uygula.)"
+    },
+    {
+      "key": "Data_Skill_Chang_Attack_displayName",
+      "value": "Klingon Bozucu"
+    },
+    {
       "key": "Data_Skill_Chang_Bridge_description",
       "value": "Klingonlar, <color=#01e2ff>+5%</color> Saldırı kazandı."
+    },
+    {
+      "key": "Data_Skill_Chang_Bridge_displayName",
+      "value": "Sürpriz Saldırı"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill1_description_level1",
+      "value": "3 tur boyunca tüm müttefiklere <color=#01e2ff>+1 Moral</color> ve <color=#01e2ff>Küçük Saldırı Artışı</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill1_description_level2",
+      "value": "3 tur boyunca tüm müttefiklere <color=#01e2ff>+1 Moral</color> ve <color=#01e2ff>Saldırı Artışı</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill1_displayName",
+      "value": "Tehlike Sinyali"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill2_description_level1",
+      "value": "3 tur boyunca 1 müttefike <color=#01e2ff>Gizlenme</color> ve <color=#01e2ff>Küçük Krit Şansı Artışı</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill2_description_level2",
+      "value": "3 tur boyunca 1 müttefike <color=#01e2ff>Gizlenme</color> ve <color=#01e2ff>Büyük Krit Şansı Artışı</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill2_displayName",
+      "value": "Klingon Gizlenmesi"
+    },
+    {
+      "key": "Data_Skill_Chang_Skill3_description_level1",
+      "value": "<color=#01e2ff>Takım Saldırısı</color>. Tüm müttefiklere 1 tur <color=#01e2ff>Gizlenme</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill3_description_level2",
+      "value": "<color=#01e2ff>Takım Saldırısı</color>. Tüm müttefiklere 3 tur <color=#01e2ff>Gizlenme</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Chang_Skill3_displayName",
+      "value": "Savaş Köpeklerini Serbest Bırakın"
     },
     {
       "key": "Data_Skill_Chekov_Attack_description_level1",
@@ -21025,6 +21529,46 @@
     {
       "key": "Data_Skill_Chekov_Bridge_description",
       "value": "Yıldız Filosu, <color=#01e2ff>+5%</color> Saldırı kazandı."
+    },
+    {
+      "key": "Data_Skill_Chekov_Bridge_displayName",
+      "value": "Nükleer Gemi"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill1_description_level1",
+      "value": "Rastgele düşmanlara <color=#01e2ff>4 x %50 Hasar</color> ver."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill1_description_level2",
+      "value": "Rastgele düşmanlara <color=#01e2ff>4 x %65 Hasar</color> ver."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill1_displayName",
+      "value": "Rus Gambiti"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill2_description_level1",
+      "value": "Tüm müttefiklere 3 tur boyunca <color=#01e2ff>Küçük Kalkan</color> ve <color=#01e2ff>Küçük Savunma Artışı</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill2_description_level2",
+      "value": "Tüm müttefiklere 3 tur boyunca <color=#01e2ff>Kalkan</color> ve <color=#01e2ff>Savunma Artışı</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill2_displayName",
+      "value": "Kalkanları kaldıralım mı Kaptan?"
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill3_description_level1",
+      "value": "Tüm düşmanlara <color=#01e2ff>%200 Hasar</color> ver (<color=#01e2ff>Örtünmeye</color> karşı <color=#01e2ff>%300 Hasar</color> ver) ve tüm düşmanlara <color=#01e2ff>%50 İhtimalle -1 Moral</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill3_description_level2",
+      "value": "Tüm düşmanlara <color=#01e2ff>%250 Hasar</color> ver (<color=#01e2ff>Örtünmeye</color> karşı <color=#01e2ff>%375 Hasar</color> ver) ve tüm düşmanlara <color=#01e2ff>-1 Moral</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Chekov_Skill3_displayName",
+      "value": "Yörüngesel Fazer Saldırısı"
     },
     {
       "key": "Data_Skill_Crusher_Attack_description_level1",
@@ -21416,15 +21960,59 @@
     },
     {
       "key": "Data_Skill_Garak_Attack_description_level1",
-      "value": "<color=#01e2ff>%100 Hasar</color> ver"
+      "value": "<color=#01e2ff>%100 Hasar</color> ver."
     },
     {
       "key": "Data_Skill_Garak_Attack_description_level2",
-      "value": "<color=#01e2ff>%150 Hasar</color> ver"
+      "value": "<color=#01e2ff>%150 Hasar</color> ver."
+    },
+    {
+      "key": "Data_Skill_Garak_Attack_displayName",
+      "value": "Bozucu Tabanca"
     },
     {
       "key": "Data_Skill_Garak_Bridge_description",
       "value": "<color=#01e2ff>+5%</color> Krit Şansı kazan."
+    },
+    {
+      "key": "Data_Skill_Garak_Bridge_displayName",
+      "value": "Basit Terzi"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill1_description_level1",
+      "value": "3 tur boyunca 1 düşmana <color=#01e2ff>2 x %50 Hasar</color> ver, <color=#01e2ff>-1 Moral</color> uygula ve onu <color=#01e2ff>%50 İhtimalle</color> <color=#01e2ff>Sersemlet</color>."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill1_description_level2",
+      "value": "3 tur boyunca 1 düşmana <color=#01e2ff>2 x %75 Hasar</color> ver, <color=#01e2ff>-1 Moral</color> uygula ve onu <color=#01e2ff>Sersemlet</color>."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill1_displayName",
+      "value": "Aşırı Önlemler"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill2_description_level1",
+      "value": "3 tur boyunca tüm düşmanlara <color=#01e2ff>Tasfiye</color>, <color=#01e2ff>Küçük Savunma Düşüşü</color> ve <color=#01e2ff>Küçük Teknoloji Düşüşü</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill2_description_level2",
+      "value": "3 tur boyunca tüm düşmanlara <color=#01e2ff>Tasfiye</color>, <color=#01e2ff>Savunma Düşüşü</color> ve <color=#01e2ff>Teknoloji Düşüşü</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill2_displayName",
+      "value": "Sabotaj"
+    },
+    {
+      "key": "Data_Skill_Garak_Skill3_description_level1",
+      "value": "Kendine <color=#01e2ff>%50 İyileştirme</color>, <color=#01e2ff>Temizleme</color> ve <color=#01e2ff>+1 Moral</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill3_description_level2",
+      "value": "Kendine <color=#01e2ff>%100 İyileştirme</color>, <color=#01e2ff>Temizleme</color> ve <color=#01e2ff>+2 Moral</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Garak_Skill3_displayName",
+      "value": "Simsarlık"
     },
     {
       "key": "Data_Skill_GenBorgEng01M_Attack_description_level1",
@@ -23095,8 +23683,52 @@
       "value": "<color=#01e2ff>%150 Hasar</color> ver"
     },
     {
+      "key": "Data_Skill_PicardDixon_Attack_displayName",
+      "value": "Yumrukla"
+    },
+    {
       "key": "Data_Skill_PicardDixon_Bridge_description",
-      "value": "Yıldız Filosu, <color=#01e2ff>+5%</color> Saldırı kazandı."
+      "value": "Yıldız Filosu, <color=#01e2ff>+%5</color> Saldırı kazanır."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Bridge_displayName",
+      "value": "Büyük Veda"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_description_level1",
+      "value": "1 müttefike <color=#01e2ff>+1 Moral</color> ve <color=#01e2ff>Temizleme</color> uygula."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_description_level2",
+      "value": "1 müttefike <color=#01e2ff>+2 Moral</color> ve <color=#01e2ff>Temizleme</color> uygula."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill1_displayName",
+      "value": "Tatlı Dilli"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_description_level1",
+      "value": "3 tur boyunca 1 düşmana <color=#01e2ff>Sersemletme</color> ve <color=#01e2ff>Savunma Düşüşü</color> uygula."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_description_level2",
+      "value": "3 tur boyunca 1 düşmana <color=#01e2ff>Sersemletme</color>, <color=#01e2ff>Büyük Savunma Düşüşü</color> ve <color=#01e2ff>Beceri Kilidi</color> uygula."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill2_displayName",
+      "value": "Dondurma Programı"
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_description_level1",
+      "value": "1 düşmana <color=#01e2ff>3 x %100 Hasar</color> ver (<color=#01e2ff>%50</color> İhtimalle <color=#01e2ff>Yarala</color>). Tüm müttefiklere <color=#01e2ff>%50 İhtimalle +1 Moral</color> uygula."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_description_level2",
+      "value": "1 düşmana <color=#01e2ff>3 x %150 Hasar</color> ver ve onu <color=#01e2ff>Yarala</color>. Tüm müttefiklere <color=#01e2ff>+1 Moral</color> uygula."
+    },
+    {
+      "key": "Data_Skill_PicardDixon_Skill3_displayName",
+      "value": "Kurnaz"
     },
     {
       "key": "Data_Skill_PicardOld_Attack_description_level1",
@@ -23200,11 +23832,11 @@
     },
     {
       "key": "Data_Skill_Pike_Skill3_description_level1",
-      "value": "<color=#01e2ff>Saldırı Artışı</color>, <color=#01e2ff>Krit Şansı Artışı</color> ve <color=#01e2ff>+1 Moral</color>."
+      "value": "Tüm müttefiklere <color=#01e2ff>Saldırı Artışı</color>, <color=#01e2ff>Krit Şansı Artışı</color> ve <color=#01e2ff>+1 Moral</color> uygula."
     },
     {
       "key": "Data_Skill_Pike_Skill3_description_level2",
-      "value": "<color=#01e2ff>Büyük Saldırı Artışı</color>, <color=#01e2ff>Büyük Krit Şansı Artışı</color> ve <color=#01e2ff>+2 Moral</color> uygula."
+      "value": "Tüm müttefiklere <color=#01e2ff>Büyük Saldırı Artışı</color>, <color=#01e2ff>Büyük Krit Şansı Artışı</color> ve <color=#01e2ff>+2 Moral</color> uygula."
     },
     {
       "key": "Data_Skill_Pike_Skill3_displayName",
@@ -24051,8 +24683,72 @@
       "value": "Yıldız Filosu, <color=#01e2ff>+5%</color> Azim kazandı."
     },
     {
+      "key": "Data_Skill_Troi_Bridge_displayName",
+      "value": "Geminin Danışmanı"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill1_description_level1",
+      "value": "1 müttefike <color=#01e2ff>Temizleme</color> ve <color=#01e2ff>+1 Moral</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill1_description_level2",
+      "value": "1 müttefike <color=#01e2ff>Temizleme</color>, <color=#01e2ff>+1 Moral</color> ve <color=#01e2ff>Küçük İyileştirme</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill1_displayName",
+      "value": "Empatik Temizlik"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill2_description_level1",
+      "value": "1 düşmana <color=#01e2ff>%50 Teknoloji Hasarı</color> ver ve <color=#01e2ff>Tasfiye</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill2_description_level2",
+      "value": "1 düşmana <color=#01e2ff>%75 Teknoloji Hasarı</color>, <color=#01e2ff>Tasfiye</color> ve <color=#01e2ff>-1 Moral</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill2_displayName",
+      "value": "Teşhir"
+    },
+    {
+      "key": "Data_Skill_Troi_Skill3_description_level1",
+      "value": "3 tur boyunca tüm müttefiklere <color=#01e2ff>+1 Moral</color> ve <color=#01e2ff>Savunma Artışı</color>."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill3_description_level2",
+      "value": "3 tur boyunca tüm müttefiklere <color=#01e2ff>+2 Moral</color> ve <color=#01e2ff>Büyük Savunma Artışı</color>."
+    },
+    {
+      "key": "Data_Skill_Troi_Skill3_displayName",
+      "value": "Teşvik"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Attack_description_level1",
+      "value": "<color=#01e2ff>%100 Hasar</color> ver (1 tur boyunca <color=#01e2ff>%10 İhtimalle</color> <color=#01e2ff>Saldırı Düşüşü</color> uygula.)"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Attack_description_level2",
+      "value": "<color=#01e2ff>%125 Hasar</color> ver (1 tur boyunca <color=#01e2ff>%25 İhtimalle</color> <color=#01e2ff>Saldırı Düşüşü</color> uygula.)"
+    },
+    {
       "key": "Data_Skill_Tuvok_Attack_displayName",
       "value": "Sıkıştırma Tüfeği"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Bridge_displayName",
+      "value": "Güvenlik Şefi"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill1_description_level1",
+      "value": "1 müttefike <color=#01e2ff>Temizleme</color> ve <color=#01e2ff>+1 Moral</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill1_description_level2",
+      "value": "1 müttefike <color=#01e2ff>Temizleme</color> ve <color=#01e2ff>+1 Moral</color> uygula. Kendine <color=#01e2ff>+1 Moral</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill1_displayName",
+      "value": "Zihin Birleşmesi Temizleme"
     },
     {
       "key": "Data_Skill_Tuvok_Skill2_description_level1",
@@ -24065,6 +24761,18 @@
     {
       "key": "Data_Skill_Tuvok_Skill2_displayName",
       "value": "Vulcan Sinir Çimdiği"
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill3_description_level1",
+      "value": "Tüm müttefiklere 3 tur boyunca <color=#01e2ff>Saldırı Artışı</color>, <color=#01e2ff>Krit Şansı Artışı</color> ve <color=#01e2ff>Kırmızı Alarm</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill3_description_level2",
+      "value": "Tüm müttefiklere 3 tur boyunca <color=#01e2ff>Büyük Saldırı Artışı</color>, <color=#01e2ff>Büyük Krit Şansı Artışı</color> ve <color=#01e2ff>Kırmızı Alarm</color> uygula."
+    },
+    {
+      "key": "Data_Skill_Tuvok_Skill3_displayName",
+      "value": "Taktik Eğitimi"
     },
     {
       "key": "Data_Skill_Uhura_Attack_description_level1",
@@ -26815,6 +27523,10 @@
       "value": "Michael Burnham Jetonu"
     },
     {
+      "key": "item_Chang_Token",
+      "value": "General Chang Jetonu"
+    },
+    {
       "key": "item_Chekov_Token",
       "value": "Chekov Jetonu"
     },
@@ -26837,6 +27549,14 @@
     {
       "key": "item_Dukat_Token",
       "value": "Gul Dukat Jetonu"
+    },
+    {
+      "key": "item_Elnor_Token",
+      "value": "Elnor Jetonu"
+    },
+    {
+      "key": "item_Garak_Token",
+      "value": "Elim Garak Jetonu"
     },
     {
       "key": "item_GenBorgEng01M_Token",
@@ -27007,6 +27727,10 @@
       "value": "Kaptan Picard Jetonu"
     },
     {
+      "key": "item_PicardDixon_Token",
+      "value": "Dixon Hill Jetonu"
+    },
+    {
       "key": "item_PicardOld_Token",
       "value": "Picard Jetonu"
     },
@@ -27063,6 +27787,10 @@
       "value": "Sutra Jetonu"
     },
     {
+      "key": "item_Tilly_Token",
+      "value": "Sylvia Tilly Jetonu"
+    },
+    {
       "key": "item_Token_Desc",
       "value": "Rütbe yükseltmek için jeton topla"
     },
@@ -27081,6 +27809,14 @@
     {
       "key": "item_TPol_Token",
       "value": "T'Pol Jetonu"
+    },
+    {
+      "key": "item_Troi_Token",
+      "value": "Deanna Troi Jetonu"
+    },
+    {
+      "key": "item_Tuvok_Token",
+      "value": "Tuvok Jetonu"
     },
     {
       "key": "item_Uhura_Token",
@@ -27407,6 +28143,46 @@
       "value": "Ödül kazanmak için bir dizi düşman yen"
     },
     {
+      "key": "Operations_FactionEvent_Desc_Borg",
+      "value": "Savaşarak Borglar için puan kazan. Etkinliğin sonunda en fazla puanı kazanan fraksiyon, topluluk ödülü kazanır."
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Card",
+      "value": "Savaşarak Kardasyalılar için puan kazan. Etkinliğin sonunda en fazla puanı kazanan fraksiyon, topluluk ödülü kazanır."
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Fed",
+      "value": "Savaşarak Federasyon için puan kazan. Etkinliğin sonunda en fazla puanı kazanan fraksiyon, topluluk ödülü kazanır."
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Kling",
+      "value": "Savaşarak Klingonlar için puan kazan. Etkinliğin sonunda en fazla puanı kazanan fraksiyon, topluluk ödülü kazanır."
+    },
+    {
+      "key": "Operations_FactionEvent_Desc_Romu",
+      "value": "Savaşarak Romulanlar için puan kazan. Etkinliğin sonunda en fazla puanı kazanan fraksiyon, topluluk ödülü kazanır."
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Borg",
+      "value": "Fraksiyon Savaşları: Borglara katıl"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Card",
+      "value": "Fraksiyon Savaşları: Kardasyalılara katıl"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Fed",
+      "value": "Fraksiyon Savaşları: Federasyon'a katıl"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Kling",
+      "value": "Fraksiyon Savaşları: Klingonlara katıl"
+    },
+    {
+      "key": "Operations_FactionEvent_TitleFull_Romu",
+      "value": "Fraksiyon Savaşları: Romulanlara katıl"
+    },
+    {
       "key": "Operations_Material_Antimatter",
       "value": "Antimadde Yükleme"
     },
@@ -27631,8 +28407,12 @@
       "value": "PvP"
     },
     {
+      "key": "pvp_data_agree_body",
+      "value": "Teşekkürler! Çevrimiçi özelliklerin keyfini çıkar!"
+    },
+    {
       "key": "pvp_data_body",
-      "value": "Merhaba! Emerald City Games olarak, Arenada oynamana imkan sağlamak için Game Center oyuncu kimliğin, sefer ekibi listen, madalyaların ve savaş kayıtların gibi oyun bilgilerini kullanmamız gerekiyor. (Bu veriler olmadan Arena çalışmaz.) Senin için uygun mu?"
+      "value": "Merhaba! Emerald City Games olarak çevrimiçi özellikleri oynamana imkan sağlamak için Game Center oyuncu kimliğin, dosya kaydetme kimliğin, takım listelerin, madalyaların, savaş kayıtların, öğe envanterin, İttifak faaliyetlerin, Etkinlik kaynakların ve operasyonların da dâhil olmak üzere oyun bilgilerini kullanmamız gerekiyor. (Çok oyunculu özellikler bu veriler olmadan çalışmaz). Onaylıyor musun?"
     },
     {
       "key": "pvp_data_btn_agree",
@@ -27644,7 +28424,7 @@
     },
     {
       "key": "pvp_data_disagree_body",
-      "value": "Sorun değil. Oyun bilgilerini kullanmayacağız, Arena devre dışı bırakılacak. Tek oyunculu bölümleri ve operasyonları oynamaya devam edebilirsin."
+      "value": "Sorun değil. Oyun bilgilerini kullanmayacağız, bu nedenle çevrimiçi özellikler devre dışı bırakılacak. Tek oyunculu görevleri ve operasyonları oynamaya devam edebilirsin."
     },
     {
       "key": "pvp_data_disagree_btn_ok",
@@ -29567,6 +30347,10 @@
       "value": "Özel"
     },
     {
+      "key": "UI_Common_Splash_Start",
+      "value": "BAŞLA"
+    },
+    {
       "key": "UI_Common_Start",
       "value": "Başlamak İçin Dokun"
     },
@@ -29871,6 +30655,22 @@
       "value": "Header text for data sharing pop up"
     },
     {
+      "key": "UI_DemoComplete_Body",
+      "value": "Star Trek: Legends demo sürümünü oynadığın için teşekkürler."
+    },
+    {
+      "key": "UI_DemoComplete_Header",
+      "value": "Demo Tamamlandı"
+    },
+    {
+      "key": "UI_DemoVersion_Body",
+      "value": "Star Trek: Legends'ın bu sürümü özellikle tanıtım amaçlı oluşturulmuştur."
+    },
+    {
+      "key": "UI_DemoVersion_Header",
+      "value": "Demo Sürümü"
+    },
+    {
       "key": "UI_DownloadConfirmation_Body",
       "value": "Kaptan! Taramalarımıza göre devam edebilmemiz için <color=##0DDADF><b>{0} MB</b></color> boyutunda ilave dosyalara ihtiyacımız var."
     },
@@ -30021,6 +30821,26 @@
     {
       "key": "UI_Events_NPE_Title",
       "value": "Etkinlik: Hoş Geldin Etkinliği"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc",
+      "value": "Kaptan Jean-Luc Picard için ayrılan bir hafta ile kutlama yapıyoruz. {0} açma şansı yakalamak için bu özel etkinliğe katıl!"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Main",
+      "value": "{0} açma şansı için bu Kaptan Picard Haftası etkinliğine katıl!"
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Post",
+      "value": "Etkinlik bitti."
+    },
+    {
+      "key": "UI_Events_PicardWeek_Desc_Pre",
+      "value": "Bu etkinliği oynamak için daha sonra tekrar kontrol et."
+    },
+    {
+      "key": "UI_Events_PicardWeek_Title",
+      "value": "Kaptan Picard Haftası"
     },
     {
       "key": "UI_Events_SoloEvent_Desc",
@@ -31481,6 +32301,14 @@
     {
       "key": "UI_Popup_DeleteAllData_Title",
       "value": "TÜM VERİLERİ SİL"
+    },
+    {
+      "key": "UI_Popup_DemoDisabled_Body",
+      "value": "Özellik bu demo için etkinleştirilmedi"
+    },
+    {
+      "key": "UI_Popup_DemoDisabled_Header",
+      "value": "Özellik Devre Dışı Bırakıldı"
     },
     {
       "key": "UI_Popup_DownloadPermission_Body",

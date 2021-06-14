@@ -21985,7 +21985,7 @@
         "fraction": 2.0
       },
       {
-        "effect": "Morale Down (50% Chance)",
+        "effect": "Morale Down (50% Chance) (No Hit)",
         "fraction": 1.0
       }
     ],
@@ -22021,7 +22021,7 @@
         "fraction": 2.5
       },
       {
-        "effect": "Morale Down",
+        "effect": "Morale Down (No Hit)",
         "fraction": 1.0
       }
     ],
@@ -23279,8 +23279,8 @@
     "level": 1,
     "name": "Data_Skill_PicardDixon_Skill3_displayName",
     "hidden": false,
-    "cooldown": 4,
-    "startingCooldown": 2,
+    "cooldown": 0,
+    "startingCooldown": 0,
     "numTargets": 1,
     "targetType": "Enemies",
     "targetState": "Alive",
@@ -23288,16 +23288,19 @@
     "effects": [
       {
         "effect": "100% Damage (3 hits)",
-        "fraction": 0.8
+        "fraction": 1.0
       },
       {
         "effect": "Wound (50% Chance)",
         "fraction": 1.0
+      },
+      {
+        "effect": "AlliesN Distribute Morale Up (50% Chance)",
+        "fraction": 1.0
       }
     ],
     "casterEffect": {
-      "effect": "Morale Up (50% Chance)",
-      "fraction": 1.0
+      "fraction": 0.0
     },
     "sequenceID": "",
     "img": "Skill_ThickSkin",
@@ -23316,8 +23319,8 @@
     "level": 2,
     "name": "Data_Skill_PicardDixon_Skill3_displayName",
     "hidden": false,
-    "cooldown": 4,
-    "startingCooldown": 2,
+    "cooldown": 0,
+    "startingCooldown": 0,
     "numTargets": 1,
     "targetType": "Enemies",
     "targetState": "Alive",
@@ -23325,16 +23328,19 @@
     "effects": [
       {
         "effect": "100% Damage (3 hits)",
-        "fraction": 1.2
+        "fraction": 1.5
       },
       {
         "effect": "Wound",
         "fraction": 1.0
+      },
+      {
+        "effect": "AlliesN Distribute Morale Up",
+        "fraction": 1.0
       }
     ],
     "casterEffect": {
-      "effect": "Morale Up",
-      "fraction": 1.0
+      "fraction": 0.0
     },
     "sequenceID": "",
     "img": "Skill_ThickSkin",
