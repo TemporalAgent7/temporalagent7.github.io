@@ -19,7 +19,7 @@
     "big-integer": "^1.6.48",
     "buffer": "^6.0.3",
     "crypto-js": "^4.0.0",
-    "konva": "^8.0.4",
+    "konva": "^7.2.5",
     "localforage": "^1.9.0",
     "next": "^10.2.3",
     "react": "17.0.2",
