@@ -301,11 +301,7 @@ const MissionDisplay = ({ mission }) => {
 				{mission.reqSummary !== undefined ? (
 					Object.keys(mission.reqSummary).map((dif) => (
 						<li key={dif}>
-							<b>{dif}</b>
-							<ul>
-								<li key={`${dif}.skills`}><b>Skills</b>: {mission.reqSummary[dif].skills.join(", ")}</li>
-								<li key={`${dif}.min`}><b>Power</b>: {mission.reqSummary[dif].value}</li>
-							</ul>
+							<b>{dif}</b>: {mission.reqSummary[dif].skills.join(", ")} @ {mission.reqSummary[dif].value}
 						</li>
 					))
 				) : (
