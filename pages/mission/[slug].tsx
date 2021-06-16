@@ -296,6 +296,23 @@ const MissionDisplay = ({ mission }) => {
 				))}
 			</ul>
 
+			<Header as="h4">Skill checks</Header>	
+			<ul>
+				{mission.reqSummary !== undefined ? (
+					Object.keys(mission.reqSummary).map((dif) => (
+						<li key={dif}>
+							<b>{dif}</b>
+							<ul>
+								<li key={`${dif}.skills`}><b>Skills</b>: {mission.reqSummary[dif].skills.join(", ")}</li>
+								<li key={`${dif}.min`}><b>Power</b>: {mission.reqSummary[dif].value}</li>
+							</ul>
+						</li>
+					))
+				) : (
+					<li key="none">none</li>
+				)}
+			</ul>
+
 			<Header as='h3'>Rewards</Header>
 
 			{mission.rewards.map((reward) => (
