@@ -10,7 +10,8 @@ author: TemporalAgent7
 2. This will open your mail client
 3. (Important❗) In the `To` field, delete `startreklegends@tiltingpoint.com` and replace it with `legends@datacore.app`
 4. Replace the `Subject` with your captain name (or whatever name you want to use for sharing)
-5. After sending the email you will get a reply in a few minutes (assuming everything works) with a link to your profile that you can share here or with your alliance / friends.
+5. (Optional) Type the word `full` somewhere in the mail body if you want to include your stats / items as well
+6. After sending the email you will get a reply in a few minutes (assuming everything works) with a link to your profile that you can share here or with your alliance / friends.
 
 There is no private information included in the profile; see the source code for the mail processor [here](https://github.com/TemporalAgent7/legends-mailbot) - the information included in the saved profile is your level, gears, particles, characters and mission status.
 
