@@ -8,6 +8,9 @@ const FixedMenuLayout = ({ children, allPosts }) => {
 		<div>
 			<Menu fixed='top' inverted>
 				<Container>
+					<Menu.Item color='red' active={true} onClick={() => router.push('/wiki/retiring')}>
+						Retiring
+					</Menu.Item>
 					<Menu.Item as='a' header onClick={() => router.push('/')}>
 						<Image size='mini' src='/assets/MainHUD_Heroes.png' style={{ marginRight: '1.5em' }} /> Characters
 					</Menu.Item>
