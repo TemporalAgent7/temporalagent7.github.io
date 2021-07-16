@@ -31,9 +31,6 @@
         "Player XP": 80
       },
       "FirstAmount": 80,
-      "Dilithium": 0,
-      "Latinum": 80,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": 0
@@ -70,9 +67,6 @@
         "Player XP": 140
       },
       "FirstAmount": 140,
-      "Dilithium": 0,
-      "Latinum": 140,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": 1
@@ -109,9 +103,6 @@
         "Player XP": 200
       },
       "FirstAmount": 200,
-      "Dilithium": 0,
-      "Latinum": 200,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": 2
@@ -148,9 +139,6 @@
         "Player XP": 250
       },
       "FirstAmount": 250,
-      "Dilithium": 0,
-      "Latinum": 250,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": 3
@@ -187,9 +175,6 @@
         "Player XP": 310
       },
       "FirstAmount": 310,
-      "Dilithium": 0,
-      "Latinum": 310,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": 4
@@ -226,9 +211,6 @@
         "Player XP": 370
       },
       "FirstAmount": 370,
-      "Dilithium": 0,
-      "Latinum": 370,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": 5
@@ -265,9 +247,6 @@
         "Player XP": 430
       },
       "FirstAmount": 430,
-      "Dilithium": 0,
-      "Latinum": 430,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": 6
@@ -304,9 +283,6 @@
         "Player XP": 490
       },
       "FirstAmount": 490,
-      "Dilithium": 0,
-      "Latinum": 490,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": 7
@@ -343,9 +319,6 @@
         "Player XP": 540
       },
       "FirstAmount": 540,
-      "Dilithium": 0,
-      "Latinum": 540,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": 8
@@ -382,9 +355,6 @@
         "Player XP": 600
       },
       "FirstAmount": 600,
-      "Dilithium": 0,
-      "Latinum": 600,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": 9
@@ -421,9 +391,6 @@
         "Player XP": 700
       },
       "FirstAmount": 700,
-      "Dilithium": 0,
-      "Latinum": 700,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": 10
@@ -460,9 +427,6 @@
         "Player XP": 900
       },
       "FirstAmount": 900,
-      "Dilithium": 0,
-      "Latinum": 900,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": 11
@@ -499,9 +463,6 @@
         "Player XP": 1060
       },
       "FirstAmount": 1060,
-      "Dilithium": 0,
-      "Latinum": 1060,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": 12
@@ -538,9 +499,6 @@
         "Player XP": 1750
       },
       "FirstAmount": 1750,
-      "Dilithium": 0,
-      "Latinum": 1750,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": 13
@@ -577,9 +535,6 @@
         "Player XP": 2700
       },
       "FirstAmount": 2700,
-      "Dilithium": 0,
-      "Latinum": 2700,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": 14
@@ -616,9 +571,6 @@
         "Player XP": 3500
       },
       "FirstAmount": 3500,
-      "Dilithium": 0,
-      "Latinum": 3500,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": 15

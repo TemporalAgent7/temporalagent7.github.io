@@ -19,9 +19,6 @@
         "Player XP": 100
       },
       "FirstAmount": 100,
-      "Dilithium": 0,
-      "Latinum": 100,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -32,9 +29,6 @@
         "Biomimetic Gel": 1
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 1 m 1 easy"
@@ -59,9 +53,6 @@
         "Player XP": 200
       },
       "FirstAmount": 200,
-      "Dilithium": 0,
-      "Latinum": 200,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -72,9 +63,6 @@
         "Biomimetic Gel": 1
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 1 m 2 easy"
@@ -99,9 +87,6 @@
         "Player XP": 350
       },
       "FirstAmount": 350,
-      "Dilithium": 0,
-      "Latinum": 350,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -112,9 +97,6 @@
         "Biomimetic Gel": 1
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 1 m 3 easy"
@@ -140,9 +122,6 @@
         "Trellium-D": 1
       },
       "FirstAmount": 500,
-      "Dilithium": 0,
-      "Latinum": 500,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -153,9 +132,6 @@
         "Biomimetic Gel": 1
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 2 m 1 easy"
@@ -181,9 +157,6 @@
         "Xenylon": 1
       },
       "FirstAmount": 800,
-      "Dilithium": 0,
-      "Latinum": 800,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -194,9 +167,6 @@
         "Biomimetic Gel": 1
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 2 m 2 easy"
@@ -222,9 +192,6 @@
         "Antiproton": 1
       },
       "FirstAmount": 1000,
-      "Dilithium": 0,
-      "Latinum": 1000,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -235,9 +202,6 @@
         "Biomimetic Gel": 1
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 2 m 3 easy"
@@ -263,9 +227,6 @@
         "Trellium-D": 2
       },
       "FirstAmount": 1200,
-      "Dilithium": 0,
-      "Latinum": 1200,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -277,9 +238,6 @@
         "Proto Command 01": 1
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 3 m 1 easy"
@@ -305,9 +263,6 @@
         "Xenylon": 2
       },
       "FirstAmount": 1400,
-      "Dilithium": 0,
-      "Latinum": 1400,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -319,9 +274,6 @@
         "Proto Science 01": 1
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 3 m 2 easy"
@@ -347,9 +299,6 @@
         "Antiproton": 2
       },
       "FirstAmount": 1600,
-      "Dilithium": 0,
-      "Latinum": 1600,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -361,9 +310,6 @@
         "Proto Engineer 01": 1
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 3 m 3 easy"
@@ -389,9 +335,6 @@
         "Trellium-D": 3
       },
       "FirstAmount": 1800,
-      "Dilithium": 0,
-      "Latinum": 1800,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -403,9 +346,6 @@
         "Proto Security 01": 1
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 4 m 1 easy"
@@ -431,9 +371,6 @@
         "Xenylon": 3
       },
       "FirstAmount": 2000,
-      "Dilithium": 0,
-      "Latinum": 2000,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -445,9 +382,6 @@
         "Proto Medical 01": 1
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 4 m 2 easy"
@@ -473,9 +407,6 @@
         "Antiproton": 3
       },
       "FirstAmount": 2250,
-      "Dilithium": 0,
-      "Latinum": 2250,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -487,9 +418,6 @@
         "Shards Basic": 10
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 4 m 3 easy"
@@ -515,9 +443,6 @@
         "Trellium-D": 4
       },
       "FirstAmount": 2500,
-      "Dilithium": 0,
-      "Latinum": 2500,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -529,9 +454,6 @@
         "Proto Command 01": 1
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 5 m 1 easy"
@@ -557,9 +479,6 @@
         "Xenylon": 4
       },
       "FirstAmount": 2750,
-      "Dilithium": 0,
-      "Latinum": 2750,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -571,9 +490,6 @@
         "Proto Science 01": 1
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 5 m 2 easy"
@@ -599,9 +515,6 @@
         "Antiproton": 4
       },
       "FirstAmount": 3000,
-      "Dilithium": 0,
-      "Latinum": 3000,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -613,9 +526,6 @@
         "Proto Engineer 01": 1
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 5 m 3 easy"
@@ -641,9 +551,6 @@
         "Trellium-D": 5
       },
       "FirstAmount": 3250,
-      "Dilithium": 0,
-      "Latinum": 3250,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -655,9 +562,6 @@
         "Proto Security 01": 1
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 6 m 1 easy"
@@ -683,9 +587,6 @@
         "Xenylon": 5
       },
       "FirstAmount": 3500,
-      "Dilithium": 0,
-      "Latinum": 3500,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -697,9 +598,6 @@
         "Proto Medical 01": 1
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 6 m 2 easy"
@@ -725,9 +623,6 @@
         "Antiproton": 5
       },
       "FirstAmount": 3750,
-      "Dilithium": 0,
-      "Latinum": 3750,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -739,9 +634,6 @@
         "Shards Basic": 15
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 6 m 3 easy"
@@ -767,9 +659,6 @@
         "Trellium-D": 6
       },
       "FirstAmount": 4250,
-      "Dilithium": 0,
-      "Latinum": 4250,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -781,9 +670,6 @@
         "Proto Command 01": 2
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 1 m 1 hard"
@@ -809,9 +695,6 @@
         "Xenylon": 6
       },
       "FirstAmount": 4500,
-      "Dilithium": 0,
-      "Latinum": 4500,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -823,9 +706,6 @@
         "Proto Science 01": 2
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 1 m 2 hard"
@@ -851,9 +731,6 @@
         "Antiproton": 6
       },
       "FirstAmount": 4750,
-      "Dilithium": 0,
-      "Latinum": 4750,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -865,9 +742,6 @@
         "Proto Engineer 01": 2
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 1 m 3 hard"
@@ -893,9 +767,6 @@
         "Trellium-D": 7
       },
       "FirstAmount": 5000,
-      "Dilithium": 0,
-      "Latinum": 5000,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -907,9 +778,6 @@
         "Proto Security 01": 2
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 2 m 1 hard"
@@ -935,9 +803,6 @@
         "Xenylon": 7
       },
       "FirstAmount": 5250,
-      "Dilithium": 0,
-      "Latinum": 5250,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -949,9 +814,6 @@
         "Proto Medical 01": 2
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 2 m 2 hard"
@@ -977,9 +839,6 @@
         "Antiproton": 7
       },
       "FirstAmount": 5750,
-      "Dilithium": 0,
-      "Latinum": 5750,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -991,9 +850,6 @@
         "Shards Basic": 20
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 2 m 3 hard"
@@ -1019,9 +875,6 @@
         "Trellium-D": 9
       },
       "FirstAmount": 6000,
-      "Dilithium": 0,
-      "Latinum": 6000,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1033,9 +886,6 @@
         "Proto Command 01": 2
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 3 m 1 hard"
@@ -1061,9 +911,6 @@
         "Xenylon": 9
       },
       "FirstAmount": 6250,
-      "Dilithium": 0,
-      "Latinum": 6250,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1075,9 +922,6 @@
         "Proto Science 01": 2
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 3 m 2 hard"
@@ -1103,9 +947,6 @@
         "Antiproton": 9
       },
       "FirstAmount": 6500,
-      "Dilithium": 0,
-      "Latinum": 6500,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1117,9 +958,6 @@
         "Proto Engineer 01": 2
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 3 m 3 hard"
@@ -1145,9 +983,6 @@
         "Trellium-D": 10
       },
       "FirstAmount": 6750,
-      "Dilithium": 0,
-      "Latinum": 6750,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1159,9 +994,6 @@
         "Proto Security 01": 2
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 4 m 1 hard"
@@ -1187,9 +1019,6 @@
         "Xenylon": 10
       },
       "FirstAmount": 7000,
-      "Dilithium": 0,
-      "Latinum": 7000,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1201,9 +1030,6 @@
         "Proto Medical 01": 2
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 4 m 2 hard"
@@ -1229,9 +1055,6 @@
         "Antiproton": 10
       },
       "FirstAmount": 7500,
-      "Dilithium": 0,
-      "Latinum": 7500,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1243,9 +1066,6 @@
         "Shards Basic": 25
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 4 m 3 hard"
@@ -1271,9 +1091,6 @@
         "Trellium-D": 12
       },
       "FirstAmount": 8000,
-      "Dilithium": 0,
-      "Latinum": 8000,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1285,9 +1102,6 @@
         "Proto Command 01": 2
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 5 m 1 hard"
@@ -1313,9 +1127,6 @@
         "Xenylon": 12
       },
       "FirstAmount": 8500,
-      "Dilithium": 0,
-      "Latinum": 8500,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1327,9 +1138,6 @@
         "Proto Science 01": 2
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 5 m 2 hard"
@@ -1355,9 +1163,6 @@
         "Antiproton": 12
       },
       "FirstAmount": 9000,
-      "Dilithium": 0,
-      "Latinum": 9000,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1369,9 +1174,6 @@
         "Proto Engineer 01": 2
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 5 m 3 hard"
@@ -1397,9 +1199,6 @@
         "Trellium-D": 14
       },
       "FirstAmount": 9400,
-      "Dilithium": 0,
-      "Latinum": 9400,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1411,9 +1210,6 @@
         "Proto Security 01": 2
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 6 m 1 hard"
@@ -1439,9 +1235,6 @@
         "Xenylon": 14
       },
       "FirstAmount": 9800,
-      "Dilithium": 0,
-      "Latinum": 9800,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1453,9 +1246,6 @@
         "Proto Medical 01": 2
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 6 m 2 hard"
@@ -1481,9 +1271,6 @@
         "Antiproton": 14
       },
       "FirstAmount": 10200,
-      "Dilithium": 0,
-      "Latinum": 10200,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1495,9 +1282,6 @@
         "Shards Basic": 30
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 6 m 3 hard"
@@ -1523,9 +1307,6 @@
         "Trellium-D": 16
       },
       "FirstAmount": 10500,
-      "Dilithium": 0,
-      "Latinum": 10500,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1537,9 +1318,6 @@
         "Proto Command 01": 3
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 1 m 1 doom"
@@ -1565,9 +1343,6 @@
         "Xenylon": 16
       },
       "FirstAmount": 10900,
-      "Dilithium": 0,
-      "Latinum": 10900,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1579,9 +1354,6 @@
         "Proto Science 01": 3
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 1 m 2 doom"
@@ -1607,9 +1379,6 @@
         "Antiproton": 16
       },
       "FirstAmount": 11300,
-      "Dilithium": 0,
-      "Latinum": 11300,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1621,9 +1390,6 @@
         "Proto Engineer 01": 3
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 1 m 3 doom"
@@ -1649,9 +1415,6 @@
         "Trellium-D": 18
       },
       "FirstAmount": 11700,
-      "Dilithium": 0,
-      "Latinum": 11700,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1663,9 +1426,6 @@
         "Proto Security 01": 3
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 2 m 1 doom"
@@ -1691,9 +1451,6 @@
         "Xenylon": 18
       },
       "FirstAmount": 12100,
-      "Dilithium": 0,
-      "Latinum": 12100,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1705,9 +1462,6 @@
         "Proto Medical 01": 3
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 2 m 2 doom"
@@ -1733,9 +1487,6 @@
         "Antiproton": 18
       },
       "FirstAmount": 12500,
-      "Dilithium": 0,
-      "Latinum": 12500,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1747,9 +1498,6 @@
         "Shards Basic": 35
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 2 m 3 doom"
@@ -1775,9 +1523,6 @@
         "Trellium-D": 20
       },
       "FirstAmount": 13000,
-      "Dilithium": 0,
-      "Latinum": 13000,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1789,9 +1534,6 @@
         "Proto Command 01": 3
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 3 m 1 doom"
@@ -1817,9 +1559,6 @@
         "Xenylon": 20
       },
       "FirstAmount": 13500,
-      "Dilithium": 0,
-      "Latinum": 13500,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1831,9 +1570,6 @@
         "Proto Science 01": 3
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 3 m 2 doom"
@@ -1859,9 +1595,6 @@
         "Antiproton": 20
       },
       "FirstAmount": 14000,
-      "Dilithium": 0,
-      "Latinum": 14000,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1873,9 +1606,6 @@
         "Proto Engineer 01": 3
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 3 m 3 doom"
@@ -1901,9 +1631,6 @@
         "Trellium-D": 21
       },
       "FirstAmount": 14500,
-      "Dilithium": 0,
-      "Latinum": 14500,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1915,9 +1642,6 @@
         "Proto Security 01": 3
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 4 m 1 doom"
@@ -1943,9 +1667,6 @@
         "Xenylon": 21
       },
       "FirstAmount": 15000,
-      "Dilithium": 0,
-      "Latinum": 15000,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1957,9 +1678,6 @@
         "Proto Medical 01": 3
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 4 m 2 doom"
@@ -1985,9 +1703,6 @@
         "Antiproton": 21
       },
       "FirstAmount": 15500,
-      "Dilithium": 0,
-      "Latinum": 15500,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -1999,9 +1714,6 @@
         "Shards Basic": 40
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 4 m 3 doom"
@@ -2027,9 +1739,6 @@
         "Trellium-D": 23
       },
       "FirstAmount": 16000,
-      "Dilithium": 0,
-      "Latinum": 16000,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -2041,9 +1750,6 @@
         "Proto Command 01": 3
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 5 m 1 doom"
@@ -2069,9 +1775,6 @@
         "Xenylon": 23
       },
       "FirstAmount": 16500,
-      "Dilithium": 0,
-      "Latinum": 16500,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -2083,9 +1786,6 @@
         "Proto Science 01": 3
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 5 m 2 doom"
@@ -2111,9 +1811,6 @@
         "Antiproton": 23
       },
       "FirstAmount": 17000,
-      "Dilithium": 0,
-      "Latinum": 17000,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -2125,9 +1822,6 @@
         "Proto Engineer 01": 3
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 5 m 3 doom"
@@ -2153,9 +1847,6 @@
         "Trellium-D": 25
       },
       "FirstAmount": 18000,
-      "Dilithium": 0,
-      "Latinum": 18000,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -2167,9 +1858,6 @@
         "Proto Security 01": 3
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 6 m 1 doom"
@@ -2195,9 +1883,6 @@
         "Xenylon": 25
       },
       "FirstAmount": 19000,
-      "Dilithium": 0,
-      "Latinum": 19000,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -2209,9 +1894,6 @@
         "Proto Medical 01": 3
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 6 m 2 doom"
@@ -2237,9 +1919,6 @@
         "Antiproton": 25
       },
       "FirstAmount": 20000,
-      "Dilithium": 0,
-      "Latinum": 20000,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "m_JackpotReward": {
@@ -2251,9 +1930,6 @@
         "Shards Basic": 50
       },
       "FirstAmount": 1,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": "test ep 6 m 3 doom"

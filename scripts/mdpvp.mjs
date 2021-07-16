@@ -21,7 +21,7 @@ ${formatAsHtml(L(entry.desc))}
 
 Medal: ${entry.medalValue}
 
-Latinum / XP reward: ${entry.reward.Latinum}
+Latinum / XP reward: ${entry.reward.AllItems.Latinum}
 
 Power cells reward: ${entry.rewardPowerCells.join(', ')}
 `;

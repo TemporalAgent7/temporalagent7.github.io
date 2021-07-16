@@ -3275,7 +3275,7 @@
     "Description": "Data_Character_Stamets_description",
     "Rarity": "VeryRare",
     "Role": "Engineering",
-    "Type": "Disabled",
+    "Type": "Normal",
     "Tags": [
       "Human",
       "Starfleet"
@@ -3362,7 +3362,7 @@
     "Description": "Data_Character_Tilly_description",
     "Rarity": "Rare",
     "Role": "Engineering",
-    "Type": "Disabled",
+    "Type": "Normal",
     "Tags": [
       "Human",
       "Starfleet"

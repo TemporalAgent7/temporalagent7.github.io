@@ -9,9 +9,6 @@
         "Power Cell": 5
       },
       "FirstAmount": 50,
-      "Dilithium": 0,
-      "Latinum": 50,
-      "PowerCell": 5,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -22,9 +19,6 @@
         "Power Cell": 3
       },
       "FirstAmount": 3,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 3,
       "IsEmpty": false
     },
     "id": {
@@ -42,9 +36,6 @@
         "Power Cell": 10
       },
       "FirstAmount": 100,
-      "Dilithium": 0,
-      "Latinum": 100,
-      "PowerCell": 10,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -55,9 +46,6 @@
         "Power Cell": 5
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 5,
       "IsEmpty": false
     },
     "id": {
@@ -75,9 +63,6 @@
         "Power Cell": 15
       },
       "FirstAmount": 125,
-      "Dilithium": 0,
-      "Latinum": 125,
-      "PowerCell": 15,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -88,9 +73,6 @@
         "Power Cell": 8
       },
       "FirstAmount": 8,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 8,
       "IsEmpty": false
     },
     "id": {
@@ -108,9 +90,6 @@
         "Power Cell": 20
       },
       "FirstAmount": 150,
-      "Dilithium": 0,
-      "Latinum": 150,
-      "PowerCell": 20,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -121,9 +100,6 @@
         "Power Cell": 10
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 10,
       "IsEmpty": false
     },
     "id": {
@@ -141,9 +117,6 @@
         "Power Cell": 25
       },
       "FirstAmount": 175,
-      "Dilithium": 0,
-      "Latinum": 175,
-      "PowerCell": 25,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -154,9 +127,6 @@
         "Power Cell": 13
       },
       "FirstAmount": 13,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 13,
       "IsEmpty": false
     },
     "id": {
@@ -174,9 +144,6 @@
         "Power Cell": 30
       },
       "FirstAmount": 200,
-      "Dilithium": 0,
-      "Latinum": 200,
-      "PowerCell": 30,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -187,9 +154,6 @@
         "Power Cell": 15
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 15,
       "IsEmpty": false
     },
     "id": {
@@ -207,9 +171,6 @@
         "Power Cell": 35
       },
       "FirstAmount": 250,
-      "Dilithium": 0,
-      "Latinum": 250,
-      "PowerCell": 35,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -220,9 +181,6 @@
         "Power Cell": 18
       },
       "FirstAmount": 18,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 18,
       "IsEmpty": false
     },
     "id": {
@@ -240,9 +198,6 @@
         "Power Cell": 40
       },
       "FirstAmount": 300,
-      "Dilithium": 0,
-      "Latinum": 300,
-      "PowerCell": 40,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -253,9 +208,6 @@
         "Power Cell": 20
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 20,
       "IsEmpty": false
     },
     "id": {
@@ -273,9 +225,6 @@
         "Power Cell": 45
       },
       "FirstAmount": 350,
-      "Dilithium": 0,
-      "Latinum": 350,
-      "PowerCell": 45,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -286,9 +235,6 @@
         "Power Cell": 23
       },
       "FirstAmount": 23,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 23,
       "IsEmpty": false
     },
     "id": {
@@ -306,9 +252,6 @@
         "Power Cell": 50
       },
       "FirstAmount": 400,
-      "Dilithium": 0,
-      "Latinum": 400,
-      "PowerCell": 50,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -319,9 +262,6 @@
         "Power Cell": 25
       },
       "FirstAmount": 25,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 25,
       "IsEmpty": false
     },
     "id": {
@@ -339,9 +279,6 @@
         "Power Cell": 55
       },
       "FirstAmount": 450,
-      "Dilithium": 0,
-      "Latinum": 450,
-      "PowerCell": 55,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -352,9 +289,6 @@
         "Power Cell": 28
       },
       "FirstAmount": 28,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 28,
       "IsEmpty": false
     },
     "id": {
@@ -372,9 +306,6 @@
         "Power Cell": 60
       },
       "FirstAmount": 500,
-      "Dilithium": 0,
-      "Latinum": 500,
-      "PowerCell": 60,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -385,9 +316,6 @@
         "Power Cell": 30
       },
       "FirstAmount": 30,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 30,
       "IsEmpty": false
     },
     "id": {
@@ -405,9 +333,6 @@
         "Power Cell": 65
       },
       "FirstAmount": 625,
-      "Dilithium": 0,
-      "Latinum": 625,
-      "PowerCell": 65,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -418,9 +343,6 @@
         "Power Cell": 33
       },
       "FirstAmount": 33,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 33,
       "IsEmpty": false
     },
     "id": {
@@ -438,9 +360,6 @@
         "Power Cell": 70
       },
       "FirstAmount": 750,
-      "Dilithium": 0,
-      "Latinum": 750,
-      "PowerCell": 70,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -451,9 +370,6 @@
         "Power Cell": 35
       },
       "FirstAmount": 35,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 35,
       "IsEmpty": false
     },
     "id": {
@@ -471,9 +387,6 @@
         "Power Cell": 75
       },
       "FirstAmount": 875,
-      "Dilithium": 0,
-      "Latinum": 875,
-      "PowerCell": 75,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -484,9 +397,6 @@
         "Power Cell": 38
       },
       "FirstAmount": 38,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 38,
       "IsEmpty": false
     },
     "id": {
@@ -504,9 +414,6 @@
         "Power Cell": 80
       },
       "FirstAmount": 925,
-      "Dilithium": 0,
-      "Latinum": 925,
-      "PowerCell": 80,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -517,9 +424,6 @@
         "Power Cell": 40
       },
       "FirstAmount": 40,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 40,
       "IsEmpty": false
     },
     "id": {
@@ -537,9 +441,6 @@
         "Power Cell": 85
       },
       "FirstAmount": 1000,
-      "Dilithium": 0,
-      "Latinum": 1000,
-      "PowerCell": 85,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -550,9 +451,6 @@
         "Power Cell": 43
       },
       "FirstAmount": 43,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 43,
       "IsEmpty": false
     },
     "id": {
@@ -570,9 +468,6 @@
         "Power Cell": 90
       },
       "FirstAmount": 1250,
-      "Dilithium": 0,
-      "Latinum": 1250,
-      "PowerCell": 90,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -583,9 +478,6 @@
         "Power Cell": 45
       },
       "FirstAmount": 45,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 45,
       "IsEmpty": false
     },
     "id": {
@@ -603,9 +495,6 @@
         "Power Cell": 95
       },
       "FirstAmount": 1500,
-      "Dilithium": 0,
-      "Latinum": 1500,
-      "PowerCell": 95,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -616,9 +505,6 @@
         "Power Cell": 48
       },
       "FirstAmount": 48,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 48,
       "IsEmpty": false
     },
     "id": {
@@ -636,9 +522,6 @@
         "Power Cell": 100
       },
       "FirstAmount": 1750,
-      "Dilithium": 0,
-      "Latinum": 1750,
-      "PowerCell": 100,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -649,9 +532,6 @@
         "Power Cell": 50
       },
       "FirstAmount": 50,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 50,
       "IsEmpty": false
     },
     "id": {
@@ -669,9 +549,6 @@
         "Power Cell": 105
       },
       "FirstAmount": 2000,
-      "Dilithium": 0,
-      "Latinum": 2000,
-      "PowerCell": 105,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -682,9 +559,6 @@
         "Power Cell": 53
       },
       "FirstAmount": 53,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 53,
       "IsEmpty": false
     },
     "id": {
@@ -702,9 +576,6 @@
         "Power Cell": 110
       },
       "FirstAmount": 2500,
-      "Dilithium": 0,
-      "Latinum": 2500,
-      "PowerCell": 110,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -715,9 +586,6 @@
         "Power Cell": 55
       },
       "FirstAmount": 55,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 55,
       "IsEmpty": false
     },
     "id": {
@@ -735,9 +603,6 @@
         "Power Cell": 115
       },
       "FirstAmount": 3000,
-      "Dilithium": 0,
-      "Latinum": 3000,
-      "PowerCell": 115,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -748,9 +613,6 @@
         "Power Cell": 58
       },
       "FirstAmount": 58,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 58,
       "IsEmpty": false
     },
     "id": {
@@ -768,9 +630,6 @@
         "Power Cell": 120
       },
       "FirstAmount": 3500,
-      "Dilithium": 0,
-      "Latinum": 3500,
-      "PowerCell": 120,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -781,9 +640,6 @@
         "Power Cell": 60
       },
       "FirstAmount": 60,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 60,
       "IsEmpty": false
     },
     "id": {
@@ -801,9 +657,6 @@
         "Power Cell": 125
       },
       "FirstAmount": 4000,
-      "Dilithium": 0,
-      "Latinum": 4000,
-      "PowerCell": 125,
       "IsEmpty": false
     },
     "RewardSell": {
@@ -814,9 +667,6 @@
         "Power Cell": 63
       },
       "FirstAmount": 63,
-      "Dilithium": 0,
-      "Latinum": 0,
-      "PowerCell": 63,
       "IsEmpty": false
     },
     "id": {

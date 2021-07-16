@@ -19,9 +19,6 @@
         "Latinum": 25
       },
       "FirstAmount": 25,
-      "Dilithium": 0,
-      "Latinum": 25,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -49,9 +46,6 @@
         "Latinum": 15
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 15,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -79,9 +73,6 @@
         "Latinum": 40
       },
       "FirstAmount": 40,
-      "Dilithium": 0,
-      "Latinum": 40,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -109,9 +100,6 @@
         "Latinum": 20
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 20,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -139,9 +127,6 @@
         "Latinum": 45
       },
       "FirstAmount": 45,
-      "Dilithium": 0,
-      "Latinum": 45,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -169,9 +154,6 @@
         "Latinum": 25
       },
       "FirstAmount": 25,
-      "Dilithium": 0,
-      "Latinum": 25,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -201,9 +183,6 @@
         "Latinum": 50
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 50,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -231,9 +210,6 @@
         "Latinum": 25
       },
       "FirstAmount": 25,
-      "Dilithium": 0,
-      "Latinum": 25,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -263,9 +239,6 @@
         "Latinum": 60
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 60,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -297,9 +270,6 @@
         "Latinum": 60
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 60,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -327,9 +297,6 @@
         "Latinum": 30
       },
       "FirstAmount": 30,
-      "Dilithium": 0,
-      "Latinum": 30,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -362,9 +329,6 @@
         "Latinum": 65
       },
       "FirstAmount": 25,
-      "Dilithium": 0,
-      "Latinum": 65,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -396,9 +360,6 @@
         "Latinum": 65
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 65,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -426,9 +387,6 @@
         "Latinum": 35
       },
       "FirstAmount": 35,
-      "Dilithium": 0,
-      "Latinum": 35,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -458,9 +416,6 @@
         "Latinum": 75
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 75,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -488,9 +443,6 @@
         "Latinum": 40
       },
       "FirstAmount": 40,
-      "Dilithium": 0,
-      "Latinum": 40,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -520,9 +472,6 @@
         "Latinum": 80
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 80,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -552,9 +501,6 @@
         "Latinum": 80
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 80,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -582,9 +528,6 @@
         "Latinum": 40
       },
       "FirstAmount": 40,
-      "Dilithium": 0,
-      "Latinum": 40,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -614,9 +557,6 @@
         "Latinum": 90
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 90,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -646,9 +586,6 @@
         "Latinum": 90
       },
       "FirstAmount": 12,
-      "Dilithium": 0,
-      "Latinum": 90,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -676,9 +613,6 @@
         "Latinum": 45
       },
       "FirstAmount": 45,
-      "Dilithium": 0,
-      "Latinum": 45,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -708,9 +642,6 @@
         "Latinum": 100
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 100,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -740,9 +671,6 @@
         "Latinum": 100
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 100,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -770,9 +698,6 @@
         "Latinum": 50
       },
       "FirstAmount": 50,
-      "Dilithium": 0,
-      "Latinum": 50,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -802,9 +727,6 @@
         "Latinum": 115
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 115,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -834,9 +756,6 @@
         "Latinum": 115
       },
       "FirstAmount": 12,
-      "Dilithium": 0,
-      "Latinum": 115,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -864,9 +783,6 @@
         "Latinum": 60
       },
       "FirstAmount": 60,
-      "Dilithium": 0,
-      "Latinum": 60,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -899,9 +815,6 @@
         "Latinum": 125
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 125,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -931,9 +844,6 @@
         "Latinum": 125
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 125,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -961,9 +871,6 @@
         "Latinum": 65
       },
       "FirstAmount": 65,
-      "Dilithium": 0,
-      "Latinum": 65,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -993,9 +900,6 @@
         "Latinum": 140
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 140,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1025,9 +929,6 @@
         "Latinum": 140
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 140,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1055,9 +956,6 @@
         "Latinum": 70
       },
       "FirstAmount": 70,
-      "Dilithium": 0,
-      "Latinum": 70,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1087,9 +985,6 @@
         "Latinum": 150
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 150,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1119,9 +1014,6 @@
         "Latinum": 150
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 150,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1149,9 +1041,6 @@
         "Latinum": 75
       },
       "FirstAmount": 75,
-      "Dilithium": 0,
-      "Latinum": 75,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1181,9 +1070,6 @@
         "Latinum": 165
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 165,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1213,9 +1099,6 @@
         "Latinum": 165
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 165,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1243,9 +1126,6 @@
         "Latinum": 85
       },
       "FirstAmount": 85,
-      "Dilithium": 0,
-      "Latinum": 85,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1275,9 +1155,6 @@
         "Latinum": 175
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 175,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1307,9 +1184,6 @@
         "Latinum": 175
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 175,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1337,9 +1211,6 @@
         "Latinum": 90
       },
       "FirstAmount": 90,
-      "Dilithium": 0,
-      "Latinum": 90,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1369,9 +1240,6 @@
         "Latinum": 190
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 190,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1401,9 +1269,6 @@
         "Latinum": 190
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 190,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1431,9 +1296,6 @@
         "Latinum": 95
       },
       "FirstAmount": 95,
-      "Dilithium": 0,
-      "Latinum": 95,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1466,9 +1328,6 @@
         "Latinum": 200
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 200,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1498,9 +1357,6 @@
         "Latinum": 200
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 200,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1528,9 +1384,6 @@
         "Latinum": 100
       },
       "FirstAmount": 100,
-      "Dilithium": 0,
-      "Latinum": 100,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1560,9 +1413,6 @@
         "Latinum": 215
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 215,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1592,9 +1442,6 @@
         "Latinum": 215
       },
       "FirstAmount": 18,
-      "Dilithium": 0,
-      "Latinum": 215,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1622,9 +1469,6 @@
         "Latinum": 110
       },
       "FirstAmount": 110,
-      "Dilithium": 0,
-      "Latinum": 110,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1654,9 +1498,6 @@
         "Latinum": 225
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 225,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1686,9 +1527,6 @@
         "Latinum": 225
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 225,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1716,9 +1554,6 @@
         "Latinum": 115
       },
       "FirstAmount": 115,
-      "Dilithium": 0,
-      "Latinum": 115,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1748,9 +1583,6 @@
         "Latinum": 240
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 240,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1780,9 +1612,6 @@
         "Latinum": 240
       },
       "FirstAmount": 18,
-      "Dilithium": 0,
-      "Latinum": 240,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1810,9 +1639,6 @@
         "Latinum": 120
       },
       "FirstAmount": 120,
-      "Dilithium": 0,
-      "Latinum": 120,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1842,9 +1668,6 @@
         "Latinum": 250
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 250,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1874,9 +1697,6 @@
         "Latinum": 250
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 250,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1904,9 +1724,6 @@
         "Latinum": 125
       },
       "FirstAmount": 125,
-      "Dilithium": 0,
-      "Latinum": 125,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1936,9 +1753,6 @@
         "Latinum": 265
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 265,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1968,9 +1782,6 @@
         "Latinum": 265
       },
       "FirstAmount": 18,
-      "Dilithium": 0,
-      "Latinum": 265,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -1998,9 +1809,6 @@
         "Latinum": 135
       },
       "FirstAmount": 135,
-      "Dilithium": 0,
-      "Latinum": 135,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2033,9 +1841,6 @@
         "Latinum": 275
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 275,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2065,9 +1870,6 @@
         "Latinum": 275
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 275,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2095,9 +1897,6 @@
         "Latinum": 140
       },
       "FirstAmount": 140,
-      "Dilithium": 0,
-      "Latinum": 140,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2127,9 +1926,6 @@
         "Latinum": 290
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 290,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2159,9 +1955,6 @@
         "Latinum": 290
       },
       "FirstAmount": 21,
-      "Dilithium": 0,
-      "Latinum": 290,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2189,9 +1982,6 @@
         "Latinum": 145
       },
       "FirstAmount": 145,
-      "Dilithium": 0,
-      "Latinum": 145,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2221,9 +2011,6 @@
         "Latinum": 300
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 300,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2253,9 +2040,6 @@
         "Latinum": 300
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 300,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2283,9 +2067,6 @@
         "Latinum": 150
       },
       "FirstAmount": 150,
-      "Dilithium": 0,
-      "Latinum": 150,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2315,9 +2096,6 @@
         "Latinum": 315
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 315,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2347,9 +2125,6 @@
         "Latinum": 315
       },
       "FirstAmount": 21,
-      "Dilithium": 0,
-      "Latinum": 315,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2377,9 +2152,6 @@
         "Latinum": 160
       },
       "FirstAmount": 160,
-      "Dilithium": 0,
-      "Latinum": 160,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2409,9 +2181,6 @@
         "Latinum": 325
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 325,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2441,9 +2210,6 @@
         "Latinum": 325
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 325,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2471,9 +2237,6 @@
         "Latinum": 165
       },
       "FirstAmount": 165,
-      "Dilithium": 0,
-      "Latinum": 165,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2503,9 +2266,6 @@
         "Latinum": 340
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 340,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2535,9 +2295,6 @@
         "Latinum": 340
       },
       "FirstAmount": 21,
-      "Dilithium": 0,
-      "Latinum": 340,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2565,9 +2322,6 @@
         "Latinum": 170
       },
       "FirstAmount": 170,
-      "Dilithium": 0,
-      "Latinum": 170,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2600,9 +2354,6 @@
         "Latinum": 350
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 350,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2632,9 +2383,6 @@
         "Latinum": 350
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 350,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2662,9 +2410,6 @@
         "Latinum": 175
       },
       "FirstAmount": 175,
-      "Dilithium": 0,
-      "Latinum": 175,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2694,9 +2439,6 @@
         "Latinum": 365
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 365,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2726,9 +2468,6 @@
         "Latinum": 365
       },
       "FirstAmount": 24,
-      "Dilithium": 0,
-      "Latinum": 365,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2756,9 +2495,6 @@
         "Latinum": 185
       },
       "FirstAmount": 185,
-      "Dilithium": 0,
-      "Latinum": 185,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2788,9 +2524,6 @@
         "Latinum": 375
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 375,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2820,9 +2553,6 @@
         "Latinum": 375
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 375,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2850,9 +2580,6 @@
         "Latinum": 190
       },
       "FirstAmount": 190,
-      "Dilithium": 0,
-      "Latinum": 190,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2882,9 +2609,6 @@
         "Latinum": 390
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 390,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2914,9 +2638,6 @@
         "Latinum": 390
       },
       "FirstAmount": 24,
-      "Dilithium": 0,
-      "Latinum": 390,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2944,9 +2665,6 @@
         "Latinum": 195
       },
       "FirstAmount": 195,
-      "Dilithium": 0,
-      "Latinum": 195,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -2976,9 +2694,6 @@
         "Latinum": 400
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 400,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3008,9 +2723,6 @@
         "Latinum": 400
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 400,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3038,9 +2750,6 @@
         "Latinum": 200
       },
       "FirstAmount": 200,
-      "Dilithium": 0,
-      "Latinum": 200,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3070,9 +2779,6 @@
         "Latinum": 415
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 415,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3104,9 +2810,6 @@
         "Latinum": 415
       },
       "FirstAmount": 24,
-      "Dilithium": 0,
-      "Latinum": 415,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3134,9 +2837,6 @@
         "Latinum": 210
       },
       "FirstAmount": 210,
-      "Dilithium": 0,
-      "Latinum": 210,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3169,9 +2869,6 @@
         "Latinum": 425
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 425,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3201,9 +2898,6 @@
         "Latinum": 425
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 425,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3231,9 +2925,6 @@
         "Latinum": 215
       },
       "FirstAmount": 215,
-      "Dilithium": 0,
-      "Latinum": 215,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3263,9 +2954,6 @@
         "Latinum": 440
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 440,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3295,9 +2983,6 @@
         "Latinum": 440
       },
       "FirstAmount": 24,
-      "Dilithium": 0,
-      "Latinum": 440,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3325,9 +3010,6 @@
         "Latinum": 220
       },
       "FirstAmount": 220,
-      "Dilithium": 0,
-      "Latinum": 220,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3357,9 +3039,6 @@
         "Latinum": 450
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 450,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3389,9 +3068,6 @@
         "Latinum": 450
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 450,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3419,9 +3095,6 @@
         "Latinum": 225
       },
       "FirstAmount": 225,
-      "Dilithium": 0,
-      "Latinum": 225,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3451,9 +3124,6 @@
         "Latinum": 460
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 460,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3483,9 +3153,6 @@
         "Latinum": 460
       },
       "FirstAmount": 24,
-      "Dilithium": 0,
-      "Latinum": 460,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3513,9 +3180,6 @@
         "Latinum": 230
       },
       "FirstAmount": 230,
-      "Dilithium": 0,
-      "Latinum": 230,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3545,9 +3209,6 @@
         "Latinum": 480
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 480,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3577,9 +3238,6 @@
         "Latinum": 480
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 480,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3607,9 +3265,6 @@
         "Latinum": 240
       },
       "FirstAmount": 240,
-      "Dilithium": 0,
-      "Latinum": 240,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3639,9 +3294,6 @@
         "Latinum": 490
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 490,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3671,9 +3323,6 @@
         "Latinum": 490
       },
       "FirstAmount": 24,
-      "Dilithium": 0,
-      "Latinum": 490,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3701,9 +3350,6 @@
         "Latinum": 245
       },
       "FirstAmount": 245,
-      "Dilithium": 0,
-      "Latinum": 245,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3736,9 +3382,6 @@
         "Latinum": 500
       },
       "FirstAmount": 10,
-      "Dilithium": 0,
-      "Latinum": 500,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3768,9 +3411,6 @@
         "Latinum": 500
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 500,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3798,9 +3438,6 @@
         "Latinum": 250
       },
       "FirstAmount": 250,
-      "Dilithium": 0,
-      "Latinum": 250,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3830,9 +3467,6 @@
         "Latinum": 440
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 440,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3860,9 +3494,6 @@
         "Latinum": 220
       },
       "FirstAmount": 220,
-      "Dilithium": 0,
-      "Latinum": 220,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3892,9 +3523,6 @@
         "Latinum": 450
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 450,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3922,9 +3550,6 @@
         "Latinum": 225
       },
       "FirstAmount": 225,
-      "Dilithium": 0,
-      "Latinum": 225,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3954,9 +3579,6 @@
         "Latinum": 460
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 460,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -3984,9 +3606,6 @@
         "Latinum": 230
       },
       "FirstAmount": 230,
-      "Dilithium": 0,
-      "Latinum": 230,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4016,9 +3635,6 @@
         "Latinum": 480
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 480,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4046,9 +3662,6 @@
         "Latinum": 240
       },
       "FirstAmount": 240,
-      "Dilithium": 0,
-      "Latinum": 240,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4078,9 +3691,6 @@
         "Latinum": 490
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 490,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4110,9 +3720,6 @@
         "Latinum": 490
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 490,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4140,9 +3747,6 @@
         "Latinum": 245
       },
       "FirstAmount": 245,
-      "Dilithium": 0,
-      "Latinum": 245,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4172,9 +3776,6 @@
         "Latinum": 500
       },
       "FirstAmount": 100,
-      "Dilithium": 0,
-      "Latinum": 500,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4204,9 +3805,6 @@
         "Latinum": 500
       },
       "FirstAmount": 100,
-      "Dilithium": 0,
-      "Latinum": 500,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4234,9 +3832,6 @@
         "Latinum": 250
       },
       "FirstAmount": 250,
-      "Dilithium": 0,
-      "Latinum": 250,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4266,9 +3861,6 @@
         "Latinum": 510
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 510,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4296,9 +3888,6 @@
         "Latinum": 255
       },
       "FirstAmount": 255,
-      "Dilithium": 0,
-      "Latinum": 255,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4328,9 +3917,6 @@
         "Latinum": 530
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 530,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4360,9 +3946,6 @@
         "Latinum": 530
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 530,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4390,9 +3973,6 @@
         "Latinum": 265
       },
       "FirstAmount": 265,
-      "Dilithium": 0,
-      "Latinum": 265,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4422,9 +4002,6 @@
         "Latinum": 540
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 540,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4454,9 +4031,6 @@
         "Latinum": 540
       },
       "FirstAmount": 30,
-      "Dilithium": 0,
-      "Latinum": 540,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4484,9 +4058,6 @@
         "Latinum": 270
       },
       "FirstAmount": 270,
-      "Dilithium": 0,
-      "Latinum": 270,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4516,9 +4087,6 @@
         "Latinum": 550
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 550,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4548,9 +4116,6 @@
         "Latinum": 550
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 550,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4578,9 +4143,6 @@
         "Latinum": 275
       },
       "FirstAmount": 275,
-      "Dilithium": 0,
-      "Latinum": 275,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4610,9 +4172,6 @@
         "Latinum": 560
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 560,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4642,9 +4201,6 @@
         "Latinum": 560
       },
       "FirstAmount": 30,
-      "Dilithium": 0,
-      "Latinum": 560,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4672,9 +4228,6 @@
         "Latinum": 280
       },
       "FirstAmount": 280,
-      "Dilithium": 0,
-      "Latinum": 280,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4707,9 +4260,6 @@
         "Latinum": 580
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 580,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4739,9 +4289,6 @@
         "Latinum": 580
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 580,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4769,9 +4316,6 @@
         "Latinum": 290
       },
       "FirstAmount": 290,
-      "Dilithium": 0,
-      "Latinum": 290,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4801,9 +4345,6 @@
         "Latinum": 590
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 590,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4833,9 +4374,6 @@
         "Latinum": 590
       },
       "FirstAmount": 33,
-      "Dilithium": 0,
-      "Latinum": 590,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4863,9 +4401,6 @@
         "Latinum": 295
       },
       "FirstAmount": 295,
-      "Dilithium": 0,
-      "Latinum": 295,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4895,9 +4430,6 @@
         "Latinum": 600
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 600,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4927,9 +4459,6 @@
         "Latinum": 600
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 600,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4957,9 +4486,6 @@
         "Latinum": 300
       },
       "FirstAmount": 300,
-      "Dilithium": 0,
-      "Latinum": 300,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -4989,9 +4515,6 @@
         "Latinum": 610
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 610,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5021,9 +4544,6 @@
         "Latinum": 610
       },
       "FirstAmount": 33,
-      "Dilithium": 0,
-      "Latinum": 610,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5051,9 +4571,6 @@
         "Latinum": 305
       },
       "FirstAmount": 305,
-      "Dilithium": 0,
-      "Latinum": 305,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5083,9 +4600,6 @@
         "Latinum": 630
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 630,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5115,9 +4629,6 @@
         "Latinum": 630
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 630,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5145,9 +4656,6 @@
         "Latinum": 315
       },
       "FirstAmount": 315,
-      "Dilithium": 0,
-      "Latinum": 315,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5177,9 +4685,6 @@
         "Latinum": 640
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 640,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5209,9 +4714,6 @@
         "Latinum": 640
       },
       "FirstAmount": 33,
-      "Dilithium": 0,
-      "Latinum": 640,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5239,9 +4741,6 @@
         "Latinum": 320
       },
       "FirstAmount": 320,
-      "Dilithium": 0,
-      "Latinum": 320,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5274,9 +4773,6 @@
         "Latinum": 650
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 650,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5306,9 +4802,6 @@
         "Latinum": 650
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 650,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5336,9 +4829,6 @@
         "Latinum": 325
       },
       "FirstAmount": 325,
-      "Dilithium": 0,
-      "Latinum": 325,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5368,9 +4858,6 @@
         "Latinum": 660
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 660,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5400,9 +4887,6 @@
         "Latinum": 660
       },
       "FirstAmount": 37,
-      "Dilithium": 0,
-      "Latinum": 660,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5430,9 +4914,6 @@
         "Latinum": 330
       },
       "FirstAmount": 330,
-      "Dilithium": 0,
-      "Latinum": 330,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5462,9 +4943,6 @@
         "Latinum": 680
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 680,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5494,9 +4972,6 @@
         "Latinum": 680
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 680,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5524,9 +4999,6 @@
         "Latinum": 340
       },
       "FirstAmount": 340,
-      "Dilithium": 0,
-      "Latinum": 340,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5556,9 +5028,6 @@
         "Latinum": 690
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 690,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5588,9 +5057,6 @@
         "Latinum": 690
       },
       "FirstAmount": 37,
-      "Dilithium": 0,
-      "Latinum": 690,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5618,9 +5084,6 @@
         "Latinum": 345
       },
       "FirstAmount": 345,
-      "Dilithium": 0,
-      "Latinum": 345,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5650,9 +5113,6 @@
         "Latinum": 700
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 700,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5682,9 +5142,6 @@
         "Latinum": 700
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 700,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5712,9 +5169,6 @@
         "Latinum": 350
       },
       "FirstAmount": 350,
-      "Dilithium": 0,
-      "Latinum": 350,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5744,9 +5198,6 @@
         "Latinum": 710
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 710,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5776,9 +5227,6 @@
         "Latinum": 710
       },
       "FirstAmount": 37,
-      "Dilithium": 0,
-      "Latinum": 710,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5806,9 +5254,6 @@
         "Latinum": 355
       },
       "FirstAmount": 355,
-      "Dilithium": 0,
-      "Latinum": 355,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5841,9 +5286,6 @@
         "Latinum": 730
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 730,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5873,9 +5315,6 @@
         "Latinum": 730
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 730,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5903,9 +5342,6 @@
         "Latinum": 365
       },
       "FirstAmount": 365,
-      "Dilithium": 0,
-      "Latinum": 365,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5935,9 +5371,6 @@
         "Latinum": 740
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 740,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5967,9 +5400,6 @@
         "Latinum": 740
       },
       "FirstAmount": 41,
-      "Dilithium": 0,
-      "Latinum": 740,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -5997,9 +5427,6 @@
         "Latinum": 370
       },
       "FirstAmount": 370,
-      "Dilithium": 0,
-      "Latinum": 370,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6029,9 +5456,6 @@
         "Latinum": 750
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 750,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6061,9 +5485,6 @@
         "Latinum": 750
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 750,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6091,9 +5512,6 @@
         "Latinum": 375
       },
       "FirstAmount": 375,
-      "Dilithium": 0,
-      "Latinum": 375,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6123,9 +5541,6 @@
         "Latinum": 760
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 760,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6155,9 +5570,6 @@
         "Latinum": 760
       },
       "FirstAmount": 41,
-      "Dilithium": 0,
-      "Latinum": 760,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6185,9 +5597,6 @@
         "Latinum": 380
       },
       "FirstAmount": 380,
-      "Dilithium": 0,
-      "Latinum": 380,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6217,9 +5626,6 @@
         "Latinum": 780
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 780,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6249,9 +5655,6 @@
         "Latinum": 780
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 780,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6279,9 +5682,6 @@
         "Latinum": 390
       },
       "FirstAmount": 390,
-      "Dilithium": 0,
-      "Latinum": 390,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6311,9 +5711,6 @@
         "Latinum": 790
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 790,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6343,9 +5740,6 @@
         "Latinum": 790
       },
       "FirstAmount": 41,
-      "Dilithium": 0,
-      "Latinum": 790,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6373,9 +5767,6 @@
         "Latinum": 395
       },
       "FirstAmount": 395,
-      "Dilithium": 0,
-      "Latinum": 395,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6408,9 +5799,6 @@
         "Latinum": 800
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 800,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6440,9 +5828,6 @@
         "Latinum": 800
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 800,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6470,9 +5855,6 @@
         "Latinum": 400
       },
       "FirstAmount": 400,
-      "Dilithium": 0,
-      "Latinum": 400,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6502,9 +5884,6 @@
         "Latinum": 810
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 810,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6534,9 +5913,6 @@
         "Latinum": 810
       },
       "FirstAmount": 45,
-      "Dilithium": 0,
-      "Latinum": 810,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6564,9 +5940,6 @@
         "Latinum": 405
       },
       "FirstAmount": 405,
-      "Dilithium": 0,
-      "Latinum": 405,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6596,9 +5969,6 @@
         "Latinum": 830
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 830,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6628,9 +5998,6 @@
         "Latinum": 830
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 830,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6658,9 +6025,6 @@
         "Latinum": 415
       },
       "FirstAmount": 415,
-      "Dilithium": 0,
-      "Latinum": 415,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6690,9 +6054,6 @@
         "Latinum": 840
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 840,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6722,9 +6083,6 @@
         "Latinum": 840
       },
       "FirstAmount": 45,
-      "Dilithium": 0,
-      "Latinum": 840,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6752,9 +6110,6 @@
         "Latinum": 420
       },
       "FirstAmount": 420,
-      "Dilithium": 0,
-      "Latinum": 420,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6784,9 +6139,6 @@
         "Latinum": 850
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 850,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6816,9 +6168,6 @@
         "Latinum": 850
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 850,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6846,9 +6195,6 @@
         "Latinum": 425
       },
       "FirstAmount": 425,
-      "Dilithium": 0,
-      "Latinum": 425,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6878,9 +6224,6 @@
         "Latinum": 860
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 860,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6910,9 +6253,6 @@
         "Latinum": 860
       },
       "FirstAmount": 45,
-      "Dilithium": 0,
-      "Latinum": 860,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6940,9 +6280,6 @@
         "Latinum": 430
       },
       "FirstAmount": 430,
-      "Dilithium": 0,
-      "Latinum": 430,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -6975,9 +6312,6 @@
         "Latinum": 880
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 880,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7007,9 +6341,6 @@
         "Latinum": 880
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 880,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7037,9 +6368,6 @@
         "Latinum": 440
       },
       "FirstAmount": 440,
-      "Dilithium": 0,
-      "Latinum": 440,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7069,9 +6397,6 @@
         "Latinum": 890
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 890,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7101,9 +6426,6 @@
         "Latinum": 890
       },
       "FirstAmount": 45,
-      "Dilithium": 0,
-      "Latinum": 890,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7131,9 +6453,6 @@
         "Latinum": 445
       },
       "FirstAmount": 445,
-      "Dilithium": 0,
-      "Latinum": 445,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7163,9 +6482,6 @@
         "Latinum": 900
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 900,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7195,9 +6511,6 @@
         "Latinum": 900
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 900,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7225,9 +6538,6 @@
         "Latinum": 450
       },
       "FirstAmount": 450,
-      "Dilithium": 0,
-      "Latinum": 450,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7257,9 +6567,6 @@
         "Latinum": 910
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 910,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7289,9 +6596,6 @@
         "Latinum": 910
       },
       "FirstAmount": 45,
-      "Dilithium": 0,
-      "Latinum": 910,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7319,9 +6623,6 @@
         "Latinum": 455
       },
       "FirstAmount": 455,
-      "Dilithium": 0,
-      "Latinum": 455,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7351,9 +6652,6 @@
         "Latinum": 930
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 930,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7383,9 +6681,6 @@
         "Latinum": 930
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 930,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7413,9 +6708,6 @@
         "Latinum": 465
       },
       "FirstAmount": 465,
-      "Dilithium": 0,
-      "Latinum": 465,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7445,9 +6737,6 @@
         "Latinum": 940
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 940,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7477,9 +6766,6 @@
         "Latinum": 940
       },
       "FirstAmount": 45,
-      "Dilithium": 0,
-      "Latinum": 940,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7507,9 +6793,6 @@
         "Latinum": 470
       },
       "FirstAmount": 470,
-      "Dilithium": 0,
-      "Latinum": 470,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7542,9 +6825,6 @@
         "Latinum": 950
       },
       "FirstAmount": 15,
-      "Dilithium": 0,
-      "Latinum": 950,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7574,9 +6854,6 @@
         "Latinum": 950
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 950,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7604,9 +6881,6 @@
         "Latinum": 475
       },
       "FirstAmount": 475,
-      "Dilithium": 0,
-      "Latinum": 475,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7636,9 +6910,6 @@
         "Latinum": 890
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 890,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7666,9 +6937,6 @@
         "Latinum": 445
       },
       "FirstAmount": 445,
-      "Dilithium": 0,
-      "Latinum": 445,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7698,9 +6966,6 @@
         "Latinum": 900
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 900,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7728,9 +6993,6 @@
         "Latinum": 450
       },
       "FirstAmount": 450,
-      "Dilithium": 0,
-      "Latinum": 450,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7760,9 +7022,6 @@
         "Latinum": 910
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 910,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7790,9 +7049,6 @@
         "Latinum": 455
       },
       "FirstAmount": 455,
-      "Dilithium": 0,
-      "Latinum": 455,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7822,9 +7078,6 @@
         "Latinum": 930
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 930,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7852,9 +7105,6 @@
         "Latinum": 465
       },
       "FirstAmount": 465,
-      "Dilithium": 0,
-      "Latinum": 465,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7884,9 +7134,6 @@
         "Latinum": 940
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 940,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7916,9 +7163,6 @@
         "Latinum": 940
       },
       "FirstAmount": 49,
-      "Dilithium": 0,
-      "Latinum": 940,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7946,9 +7190,6 @@
         "Latinum": 470
       },
       "FirstAmount": 470,
-      "Dilithium": 0,
-      "Latinum": 470,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -7978,9 +7219,6 @@
         "Latinum": 950
       },
       "FirstAmount": 150,
-      "Dilithium": 0,
-      "Latinum": 950,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8010,9 +7248,6 @@
         "Latinum": 950
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 950,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8040,9 +7275,6 @@
         "Latinum": 475
       },
       "FirstAmount": 475,
-      "Dilithium": 0,
-      "Latinum": 475,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8072,9 +7304,6 @@
         "Latinum": 960
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 960,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8102,9 +7331,6 @@
         "Latinum": 480
       },
       "FirstAmount": 480,
-      "Dilithium": 0,
-      "Latinum": 480,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8134,9 +7360,6 @@
         "Latinum": 980
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 980,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8166,9 +7389,6 @@
         "Latinum": 980
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 980,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8196,9 +7416,6 @@
         "Latinum": 490
       },
       "FirstAmount": 490,
-      "Dilithium": 0,
-      "Latinum": 490,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8228,9 +7445,6 @@
         "Latinum": 990
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 990,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8260,9 +7474,6 @@
         "Latinum": 990
       },
       "FirstAmount": 53,
-      "Dilithium": 0,
-      "Latinum": 990,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8290,9 +7501,6 @@
         "Latinum": 495
       },
       "FirstAmount": 495,
-      "Dilithium": 0,
-      "Latinum": 495,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8322,9 +7530,6 @@
         "Latinum": 1000
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1000,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8354,9 +7559,6 @@
         "Latinum": 1000
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 1000,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8384,9 +7586,6 @@
         "Latinum": 500
       },
       "FirstAmount": 500,
-      "Dilithium": 0,
-      "Latinum": 500,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8416,9 +7615,6 @@
         "Latinum": 1010
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1010,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8448,9 +7644,6 @@
         "Latinum": 1010
       },
       "FirstAmount": 53,
-      "Dilithium": 0,
-      "Latinum": 1010,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8478,9 +7671,6 @@
         "Latinum": 505
       },
       "FirstAmount": 505,
-      "Dilithium": 0,
-      "Latinum": 505,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8513,9 +7703,6 @@
         "Latinum": 1030
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1030,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8545,9 +7732,6 @@
         "Latinum": 1030
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 1030,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8575,9 +7759,6 @@
         "Latinum": 515
       },
       "FirstAmount": 515,
-      "Dilithium": 0,
-      "Latinum": 515,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8607,9 +7788,6 @@
         "Latinum": 1040
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1040,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8639,9 +7817,6 @@
         "Latinum": 1040
       },
       "FirstAmount": 57,
-      "Dilithium": 0,
-      "Latinum": 1040,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8669,9 +7844,6 @@
         "Latinum": 520
       },
       "FirstAmount": 520,
-      "Dilithium": 0,
-      "Latinum": 520,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8701,9 +7873,6 @@
         "Latinum": 1050
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1050,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8733,9 +7902,6 @@
         "Latinum": 1050
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 1050,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8763,9 +7929,6 @@
         "Latinum": 525
       },
       "FirstAmount": 525,
-      "Dilithium": 0,
-      "Latinum": 525,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8795,9 +7958,6 @@
         "Latinum": 1060
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1060,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8827,9 +7987,6 @@
         "Latinum": 1060
       },
       "FirstAmount": 57,
-      "Dilithium": 0,
-      "Latinum": 1060,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8857,9 +8014,6 @@
         "Latinum": 530
       },
       "FirstAmount": 530,
-      "Dilithium": 0,
-      "Latinum": 530,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8889,9 +8043,6 @@
         "Latinum": 1080
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1080,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8921,9 +8072,6 @@
         "Latinum": 1080
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 1080,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8951,9 +8099,6 @@
         "Latinum": 540
       },
       "FirstAmount": 540,
-      "Dilithium": 0,
-      "Latinum": 540,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -8983,9 +8128,6 @@
         "Latinum": 1090
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1090,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9015,9 +8157,6 @@
         "Latinum": 1090
       },
       "FirstAmount": 57,
-      "Dilithium": 0,
-      "Latinum": 1090,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9045,9 +8184,6 @@
         "Latinum": 545
       },
       "FirstAmount": 545,
-      "Dilithium": 0,
-      "Latinum": 545,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9080,9 +8216,6 @@
         "Latinum": 1100
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1100,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9112,9 +8245,6 @@
         "Latinum": 1100
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 1100,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9142,9 +8272,6 @@
         "Latinum": 550
       },
       "FirstAmount": 550,
-      "Dilithium": 0,
-      "Latinum": 550,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9174,9 +8301,6 @@
         "Latinum": 1110
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1110,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9206,9 +8330,6 @@
         "Latinum": 1110
       },
       "FirstAmount": 63,
-      "Dilithium": 0,
-      "Latinum": 1110,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9236,9 +8357,6 @@
         "Latinum": 555
       },
       "FirstAmount": 555,
-      "Dilithium": 0,
-      "Latinum": 555,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9268,9 +8386,6 @@
         "Latinum": 1130
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1130,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9300,9 +8415,6 @@
         "Latinum": 1130
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 1130,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9330,9 +8442,6 @@
         "Latinum": 565
       },
       "FirstAmount": 565,
-      "Dilithium": 0,
-      "Latinum": 565,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9362,9 +8471,6 @@
         "Latinum": 1140
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1140,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9394,9 +8500,6 @@
         "Latinum": 1140
       },
       "FirstAmount": 63,
-      "Dilithium": 0,
-      "Latinum": 1140,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9424,9 +8527,6 @@
         "Latinum": 570
       },
       "FirstAmount": 570,
-      "Dilithium": 0,
-      "Latinum": 570,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9456,9 +8556,6 @@
         "Latinum": 1150
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1150,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9488,9 +8585,6 @@
         "Latinum": 1150
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 1150,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9518,9 +8612,6 @@
         "Latinum": 575
       },
       "FirstAmount": 575,
-      "Dilithium": 0,
-      "Latinum": 575,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9550,9 +8641,6 @@
         "Latinum": 1160
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1160,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9582,9 +8670,6 @@
         "Latinum": 1160
       },
       "FirstAmount": 63,
-      "Dilithium": 0,
-      "Latinum": 1160,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9612,9 +8697,6 @@
         "Latinum": 580
       },
       "FirstAmount": 580,
-      "Dilithium": 0,
-      "Latinum": 580,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9647,9 +8729,6 @@
         "Latinum": 1180
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1180,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9679,9 +8758,6 @@
         "Latinum": 1180
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 1180,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9709,9 +8785,6 @@
         "Latinum": 590
       },
       "FirstAmount": 590,
-      "Dilithium": 0,
-      "Latinum": 590,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9741,9 +8814,6 @@
         "Latinum": 1190
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1190,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9773,9 +8843,6 @@
         "Latinum": 1190
       },
       "FirstAmount": 69,
-      "Dilithium": 0,
-      "Latinum": 1190,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9803,9 +8870,6 @@
         "Latinum": 595
       },
       "FirstAmount": 595,
-      "Dilithium": 0,
-      "Latinum": 595,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9835,9 +8899,6 @@
         "Latinum": 1200
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1200,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9867,9 +8928,6 @@
         "Latinum": 1200
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 1200,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9897,9 +8955,6 @@
         "Latinum": 600
       },
       "FirstAmount": 600,
-      "Dilithium": 0,
-      "Latinum": 600,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9929,9 +8984,6 @@
         "Latinum": 1210
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1210,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9961,9 +9013,6 @@
         "Latinum": 1210
       },
       "FirstAmount": 69,
-      "Dilithium": 0,
-      "Latinum": 1210,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -9991,9 +9040,6 @@
         "Latinum": 605
       },
       "FirstAmount": 605,
-      "Dilithium": 0,
-      "Latinum": 605,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10023,9 +9069,6 @@
         "Latinum": 1230
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1230,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10055,9 +9098,6 @@
         "Latinum": 1230
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 1230,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10085,9 +9125,6 @@
         "Latinum": 615
       },
       "FirstAmount": 615,
-      "Dilithium": 0,
-      "Latinum": 615,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10117,9 +9154,6 @@
         "Latinum": 1240
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1240,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10149,9 +9183,6 @@
         "Latinum": 1240
       },
       "FirstAmount": 69,
-      "Dilithium": 0,
-      "Latinum": 1240,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10179,9 +9210,6 @@
         "Latinum": 620
       },
       "FirstAmount": 620,
-      "Dilithium": 0,
-      "Latinum": 620,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10214,9 +9242,6 @@
         "Latinum": 1250
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1250,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10246,9 +9271,6 @@
         "Latinum": 1250
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 1250,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10276,9 +9298,6 @@
         "Latinum": 625
       },
       "FirstAmount": 625,
-      "Dilithium": 0,
-      "Latinum": 625,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10308,9 +9327,6 @@
         "Latinum": 1260
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1260,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10340,9 +9356,6 @@
         "Latinum": 1260
       },
       "FirstAmount": 75,
-      "Dilithium": 0,
-      "Latinum": 1260,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10370,9 +9383,6 @@
         "Latinum": 630
       },
       "FirstAmount": 630,
-      "Dilithium": 0,
-      "Latinum": 630,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10402,9 +9412,6 @@
         "Latinum": 1280
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1280,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10434,9 +9441,6 @@
         "Latinum": 1280
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 1280,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10464,9 +9468,6 @@
         "Latinum": 640
       },
       "FirstAmount": 640,
-      "Dilithium": 0,
-      "Latinum": 640,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10496,9 +9497,6 @@
         "Latinum": 1290
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1290,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10528,9 +9526,6 @@
         "Latinum": 1290
       },
       "FirstAmount": 75,
-      "Dilithium": 0,
-      "Latinum": 1290,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10558,9 +9553,6 @@
         "Latinum": 645
       },
       "FirstAmount": 645,
-      "Dilithium": 0,
-      "Latinum": 645,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10590,9 +9582,6 @@
         "Latinum": 1300
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1300,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10622,9 +9611,6 @@
         "Latinum": 1300
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 1300,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10652,9 +9638,6 @@
         "Latinum": 650
       },
       "FirstAmount": 650,
-      "Dilithium": 0,
-      "Latinum": 650,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10684,9 +9667,6 @@
         "Latinum": 1310
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1310,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10716,9 +9696,6 @@
         "Latinum": 1310
       },
       "FirstAmount": 75,
-      "Dilithium": 0,
-      "Latinum": 1310,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10746,9 +9723,6 @@
         "Latinum": 655
       },
       "FirstAmount": 655,
-      "Dilithium": 0,
-      "Latinum": 655,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10781,9 +9755,6 @@
         "Latinum": 1330
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1330,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10813,9 +9784,6 @@
         "Latinum": 1330
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 1330,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10843,9 +9811,6 @@
         "Latinum": 665
       },
       "FirstAmount": 665,
-      "Dilithium": 0,
-      "Latinum": 665,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10875,9 +9840,6 @@
         "Latinum": 1340
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1340,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10907,9 +9869,6 @@
         "Latinum": 1340
       },
       "FirstAmount": 81,
-      "Dilithium": 0,
-      "Latinum": 1340,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10937,9 +9896,6 @@
         "Latinum": 670
       },
       "FirstAmount": 670,
-      "Dilithium": 0,
-      "Latinum": 670,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -10969,9 +9925,6 @@
         "Latinum": 1350
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1350,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -11001,9 +9954,6 @@
         "Latinum": 1350
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 1350,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -11031,9 +9981,6 @@
         "Latinum": 675
       },
       "FirstAmount": 675,
-      "Dilithium": 0,
-      "Latinum": 675,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -11063,9 +10010,6 @@
         "Latinum": 1360
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1360,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -11095,9 +10039,6 @@
         "Latinum": 1360
       },
       "FirstAmount": 81,
-      "Dilithium": 0,
-      "Latinum": 1360,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -11125,9 +10066,6 @@
         "Latinum": 680
       },
       "FirstAmount": 680,
-      "Dilithium": 0,
-      "Latinum": 680,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -11157,9 +10095,6 @@
         "Latinum": 1380
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1380,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -11189,9 +10124,6 @@
         "Latinum": 1380
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 1380,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -11219,9 +10151,6 @@
         "Latinum": 690
       },
       "FirstAmount": 690,
-      "Dilithium": 0,
-      "Latinum": 690,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -11251,9 +10180,6 @@
         "Latinum": 1390
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1390,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -11283,9 +10209,6 @@
         "Latinum": 1390
       },
       "FirstAmount": 81,
-      "Dilithium": 0,
-      "Latinum": 1390,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -11313,9 +10236,6 @@
         "Latinum": 695
       },
       "FirstAmount": 695,
-      "Dilithium": 0,
-      "Latinum": 695,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -11348,9 +10268,6 @@
         "Latinum": 1400
       },
       "FirstAmount": 20,
-      "Dilithium": 0,
-      "Latinum": 1400,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -11380,9 +10297,6 @@
         "Latinum": 1400
       },
       "FirstAmount": 5,
-      "Dilithium": 0,
-      "Latinum": 1400,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
@@ -11410,9 +10324,6 @@
         "Latinum": 700
       },
       "FirstAmount": 700,
-      "Dilithium": 0,
-      "Latinum": 700,
-      "PowerCell": 0,
       "IsEmpty": false
     },
     "id": {
